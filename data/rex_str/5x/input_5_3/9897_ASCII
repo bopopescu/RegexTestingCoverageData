@@ -1,0 +1,10 @@
+"/foo//bar.txt"
+"/foo///bar.txt"
+"/foo/]/bar.txt"
+"/foo/Y>=/bar.txt"
+"/foo/\vUC/bar.txt"
+"/foo/\ehv&/bar.txt"
+"/foo/[/bar.txt"
+"/foo/+e./bar.txt"
+"/foo/ /bar.txt"
+"/foo/?db=/bar.txt"

@@ -1,0 +1,5 @@
+"Invalid PEM: no parsers for marker -----BEGIN FOO PUBLIC KEY----- a"
+"Invalid PEM: no parsers for marker -----BEGIN FOO PUBLIC KEY----- "
+"Invalid PEM: no parsers for marker -----BEGIN FOO PUBLIC KEY----- \v"
+"Invalid PEM: no parsers for marker -----BEGIN FOO PUBLIC KEY----- _5"
+"Invalid PEM: no parsers for marker -----BEGIN FOO PUBLIC KEY----- g"

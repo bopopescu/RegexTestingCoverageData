@@ -1,0 +1,5 @@
+"<frame :HL src=\"invalidhtml\"/>"
+"<frame  src=\"invalid<html\"/>:"
+"<frame &I  src=\"invalid.html\"/>\"
+"U<frame q src=\"invalid'html\"/>y"
+"@<frame \" src=\"invalidRhtml\"/>~~"

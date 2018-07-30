@@ -1,0 +1,10 @@
+"/foo/*/bar.txt"
+"/foo//bar.txt"
+"/foo/m\f\b./bar.txt"
+"/foo/\v/bar.txt"
+"/foo/^\e/bar.txt"
+"/foo//bar.txt"
+"/foo/qGG;$/bar.txt"
+"/foo/i/bar.txt"
+"/foo//bar.txt"
+"/foo///bar.txt"

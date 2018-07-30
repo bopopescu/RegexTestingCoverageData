@@ -1,0 +1,5 @@
+"<resource><name>a funky name</name>y</resource> \v"
+"<resource>\n<name>a funky name</name></resource> \n\f "
+"<resource>.<name>a funky name</name>e\n</resource>"
+"<resource>\f .\f\r.\v<name>a funky name</name>_</resource>"
+"<resource>\t<name>a funky name</name></resource> \r"

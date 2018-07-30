@@ -1,0 +1,5 @@
+"<resource><name>a funky name</name></resource> "
+"<resource>\t<name>a funky name</name></resource>  \v\t"
+"<resource><name>a funky name</name></resource>\t"
+"<resource><name>a funky name</name>t2</resource>"
+"<resource><name>a funky name</name>f</resource>"

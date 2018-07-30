@@ -1,0 +1,10 @@
+"/foo/3/bar.txt"
+"/foo/\f/bar.txt"
+"/foo/o/bar.txt"
+"/foo//bar.txt"
+"/foo/N\aRo#/bar.txt"
+"/foo/5/bar.txt"
+"/foo/%/bar.txt"
+"/foo/w\r?/bar.txt"
+"/foo/[/bar.txt"
+"/foo/M/bar.txt"

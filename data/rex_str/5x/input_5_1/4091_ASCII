@@ -1,0 +1,5 @@
+"PWicketCEventadd(window, \"domready\", function(event) {R$(\"#field1\")datepicker(null, [{dt:new Date('2010-12-25'), css:'holiday', tooltip:'Christmas'},{dt:new Date('2010-01-01'), css:'holiday', tooltip:'New Year'}]);;});"
+"WicketTEventadd(window, \"domready\", function(event) {$(\"#field1\")8datepicker(null, [{dt:new Date('2010-12-25'), css:'holiday', tooltip:'Christmas'},{dt:new Date('2010-01-01'), css:'holiday', tooltip:'New Year'}]);;});"
+"Wicket.Event0add(window, \"domready\", function(event) {$(\"#field1\")#datepicker(null, [{dt:new Date('2010-12-25'), css:'holiday', tooltip:'Christmas'},{dt:new Date('2010-01-01'), css:'holiday', tooltip:'New Year'}]);;});"
+"7:D:WicketwEventiadd(window, \"domready\", function(event) {V$(\"#field1\")+datepicker(null, [{dt:new Date('2010-12-25'), css:'holiday', tooltip:'Christmas'},{dt:new Date('2010-01-01'), css:'holiday', tooltip:'New Year'}]);;});|"
+"WickethEvent5add(window, \"domready\", function(event) {$(\"#field1\")9datepicker(null, [{dt:new Date('2010-12-25'), css:'holiday', tooltip:'Christmas'},{dt:new Date('2010-01-01'), css:'holiday', tooltip:'New Year'}]);;});"

@@ -1,0 +1,10 @@
+"[skip~[ci]"
+"[skip@`ci]"
+"[skipci]"
+"[skip.\t@ci]"
+"[skipci]"
+"[skip`@@\nci]"
+"[skipci]"
+"[skip[{ci]"
+"[skip\vci]"
+"[skip#[ci]"
