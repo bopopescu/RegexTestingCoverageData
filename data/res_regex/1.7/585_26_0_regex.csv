@@ -1,0 +1,9 @@
+"('MobileNumber.java', 'com.leanthoughts.messenger.MobileNumber', 'validate', '^(?:0091|\\+91|91|0)[7-9][0-9]{9}$', '08041667547')",[261]
+"('MobileNumber.java', 'com.leanthoughts.messenger.MobileNumber', 'validate', '^[7-9][0-9]{9}$', '9886114142')",[213]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.leanthoughts.messenger.test.MessagingTest')","[36, 189]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.leanthoughts.messenger.test.MobileNumberTest')","[76, 283]"
+"('MobileNumber.java', 'com.leanthoughts.messenger.MobileNumber', 'validate', '^(?:0091|\\+91|91|0)[7-9][0-9]{9}$', '+918971877369')",[163]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sendTextMessage(com.leanthoughts.messenger.test.MessagingTest)')","[57, 118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidMobileNumber(com.leanthoughts.messenger.test.MobileNumberTest)')","[97, 139]"
+"('MobileNumber.java', 'com.leanthoughts.messenger.MobileNumber', 'validate', '^(?:0091|\\+91|91|0)[7-9][0-9]{9}$', '+919686046179')",[237]

@@ -1,0 +1,110 @@
+"('JvmChecker.java', 'org.neo4j.kernel.info.JvmChecker', 'checkJvmCompatibilityAndIssueWarning', '(Java HotSpot\\(TM\\)|OpenJDK) (64-Bit Server|Server|Client) VM', 'Java HotSpot(TM) 64-Bit Server VM')","[4661, 4692, 4856, 4887, 5316, 5369]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/reconcile(/)?', '/reconcile')","[4326, 4427, 4528, 4629]"
+"('CypherUtil.java', 'io.scigraph.internal.CypherUtil$3$1', 'apply', '.*(\\s).*', 'http://x.org/#fizz')","[5609, 5650]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testKnownIdJson(io.scigraph.services.resources.VocabularyServiceTest)')","[324, 1855]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'exceptionIsThrown_whenJsonIsMalformed(io.scigraph.services.resources.RefineServiceTest)')","[427, 1943]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'write_doesntOutputNull(io.scigraph.services.jersey.writers.BbopJsGraphWriterTest)')","[877, 2295]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'length_isNegOne(io.scigraph.services.jersey.writers.CsvWriterTest)')","[980, 2383]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/neighbors/([^/]+)(/)?', '/properties')",[3540]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.resources.CypherUtilServiceTest')","[36, 2993]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.resources.VocabularyServiceTest')","[303, 4070]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'write_doesntOutputNull(io.scigraph.services.jersey.writers.TsvWriterTest)')","[713, 2163]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'inflectorAppliesCorrectly_withVariableRelationship(io.scigraph.services.jersey.dynamic.CypherInflectorTest)')","[1348, 2669]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'assignable_fromGraph(io.scigraph.services.jersey.writers.CsvWriterTest)')","[1001, 2405]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/search/([^/]+)(/)?', '/id/foo')",[3943]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.writers.CsvWriterTest')","[938, 5181]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.dynamic.CypherInflectorTest')","[1306, 5677]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.writers.TsvWriterTest')","[692, 5100]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/resolve(/)?', '/resolve')",[2966]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.writers.GmlWriterTest')","[1081, 5235]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'whenNodes_healty(io.scigraph.services.health.Neo4jHealthCheckTest)')","[509, 2009]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.dynamic.DynamicCypherResourceTest')","[1245, 5567]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'length_isNegOne(io.scigraph.services.jersey.writers.TsvWriterTest)')","[734, 2185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializationIsCorrect_withAllResultFields(io.scigraph.services.refine.TestRefineResult)')","[591, 2075]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resultsAreReturned_whenQueryIsPresent(io.scigraph.services.resources.RefineServiceTest)')","[406, 1921]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'mergesPathAndQueryParams(io.scigraph.services.jersey.MapUtilsTest)')","[1430, 2735]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/refine(/.*)?', '/refine/reconcile')","[4275, 4376, 4477, 4578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'assignable_fromGraph(io.scigraph.services.jersey.writers.GmlWriterTest)')","[1144, 2515]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'protectedProperties_stayPrimitive(io.scigraph.services.api.graph.ArrayPropertyTransformerTest)')","[1592, 2845]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'length_isNegOne(io.scigraph.services.jersey.writers.GraphMlWriterTest)')","[816, 2251]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'assignable_fromGraph(io.scigraph.services.jersey.writers.BbopJsGraphWriterTest)')","[919, 2339]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolveTest(io.scigraph.services.resources.CypherUtilServiceTest)')","[78, 1657]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/graph(/.*)?', '/graph/properties')",[3440]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'propertyKeys_areSorted(io.scigraph.services.resources.GraphServiceTest)')","[181, 1745]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/preview/([^/]+)(/)?', '/preview/foo')",[4225]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.refine.TestRefineResult')","[549, 5046]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'edgeProperties_areConvertedToIterables(io.scigraph.services.api.graph.ArrayPropertyTransformerTest)')","[1613, 2867]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/neighbors(/)?', '/edges/subClassOf')",[3242]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSynonymCompletion(io.scigraph.services.resources.VocabularyServiceCompletionTest)')","[221, 1767]"
+"('JvmChecker.java', 'org.neo4j.kernel.info.JvmChecker', 'checkJvmCompatibilityAndIssueWarning', '^1\\.[78].*', '1.7.0_80')","[4724, 4755, 4919, 4950, 5423, 5476]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'metadataIsReturned_whenNoQueriesArePresent(io.scigraph.services.resources.RefineServiceTest)')","[469, 1987]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'pathIsCorrectlySet(io.scigraph.services.jersey.dynamic.DynamicCypherResourceTest)')","[1266, 2603]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultiplMatches(io.scigraph.services.resources.VocabularyServiceCompletionTest)')","[284, 1833]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/categories(/)?', '/id/foo')",[3843]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/cypher(/.*)?', '/cypher/resolve')",[2916]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/reconcile(/)?', '/preview/foo')",[4173]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'relationshipTypes_areSorted(io.scigraph.services.resources.GraphServiceTest)')","[160, 1723]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.refine.TestRefineQuery')","[610, 5073]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'singleProperties_areConvertedToLists(io.scigraph.services.api.graph.ArrayPropertyTransformerTest)')","[1571, 2823]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/refine(/.*)?', '/refine/preview/foo')",[4121]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'write_doesntOutputNull(io.scigraph.services.jersey.writers.GmlWriterTest)')","[1102, 2471]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.api.graph.ArrayPropertyTransformerTest')","[1550, 5781]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializationIsCorrect_withMultipleRefineQueries(io.scigraph.services.refine.TestRefineQuery)')","[652, 2119]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'write_doesntOutputNull(io.scigraph.services.jersey.writers.GraphsonWriterTest)')","[1184, 2537]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/relationship_types(/)?', '/edges/subClassOf')",[3092]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'length_isNegOne(io.scigraph.services.jersey.writers.GraphsonWriterTest)')","[1205, 2559]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/relationship_types(/)?', '/properties')",[3490]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'splitsMultivaluedPathParams(io.scigraph.services.jersey.MapUtilsTest)')","[1451, 2757]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializationIsCorrect_withMultipleRefineQueries(io.scigraph.services.refine.TestRefineResult)')","[570, 2053]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/graph(/.*)?', '/graph/edges/subClassOf')",[3042]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'smokeConstructor(io.scigraph.services.resources.GraphServiceTest)')","[139, 1701]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'edges_areReturned(io.scigraph.services.resources.GraphServiceTest)')","[118, 1679]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'whenNoNodes_unhealty(io.scigraph.services.health.Neo4jHealthCheckTest)')","[530, 2031]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/prefixes(/)?', '/id/foo')",[3893]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializationIsCorrect_withOptionalFields(io.scigraph.services.refine.TestRefineQuery)')","[631, 2097]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.MediaTypeMappingsTest')","[1470, 5731]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.health.Neo4jHealthCheckTest')","[488, 5019]"
+"('Settings.java', 'org.neo4j.helpers.Settings$19', 'apply', '.+', '1 files')","[4797, 4992, 5540]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'assignable_fromGraph(io.scigraph.services.jersey.writers.TsvWriterTest)')","[755, 2207]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.resources.RefineServiceTest')","[343, 4824]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'length_isNegOne(io.scigraph.services.jersey.writers.BbopJsGraphWriterTest)')","[898, 2317]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/relationship_types(/)?', '/relationship_types')",[3391]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.resources.GraphServiceTest')","[97, 3617]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.resources.VocabularyServiceCompletionTest')","[200, 3644]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/suggestions/([^/]+)(/)?', '/id/foo')",[3793]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'smoke(io.scigraph.services.jersey.writers.ImageWriterTest)')","[1041, 2427]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'pathsAreReturnedCorrectly(io.scigraph.services.jersey.dynamic.CypherInflectorTest)')","[1369, 2691]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/id/([^/]+)(/)?', '/id/foo')",[4043]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'preview_returns404_whenNotFound(io.scigraph.services.resources.RefineServiceTest)')","[364, 1877]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializationIsCorrect_withAllRefineFields(io.scigraph.services.refine.TestRefineQuery)')","[673, 2141]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.MapUtilsTest')","[1409, 5704]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'length_isNegOne(io.scigraph.services.jersey.writers.ImageWriterTest)')","[1062, 2449]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.writers.GraphsonWriterTest')","[1163, 5262]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLabelCompletion(io.scigraph.services.resources.VocabularyServiceCompletionTest)')","[242, 1789]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.writers.ImageWriterTest')","[1020, 5208]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/term/([^/]+)(/)?', '/id/foo')",[3993]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.writers.BbopJsGraphWriterTest')","[856, 5154]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'assignable_fromGraph(io.scigraph.services.jersey.writers.GraphMlWriterTest)')","[837, 2273]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/vocabulary(/.*)?', '/vocabulary/id/foo')",[3693]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.api.graph.ConceptDTOTest')","[1510, 5758]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLabelCompletionIgnoresCase(io.scigraph.services.resources.VocabularyServiceCompletionTest)')","[263, 1811]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/graph(/.*)?', '/graph/relationship_types')",[3341]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resourceMethodsAreAdded(io.scigraph.services.jersey.dynamic.DynamicCypherResourceTest)')","[1287, 2625]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.scigraph.services.jersey.writers.GraphMlWriterTest')","[774, 5127]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/edges/([^/]+)(/)?', '/edges/subClassOf')",[3292]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resultsAreReturned_whenMultipleQueriesArePresent(io.scigraph.services.resources.RefineServiceTest)')","[385, 1899]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'inflectorAppliesCorrectly_withRelationshipEntailment(io.scigraph.services.jersey.dynamic.CypherInflectorTest)')","[1390, 2713]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'emptyListsAreReturned_whenPropertiesAreAbsent(io.scigraph.services.api.graph.ConceptDTOTest)')","[1531, 2801]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'length_isNegOne(io.scigraph.services.jersey.writers.GmlWriterTest)')","[1123, 2493]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/neighbors/([^/]+)(/)?', '/edges/subClassOf')",[3142]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'assignable_fromGraph(io.scigraph.services.jersey.writers.GraphsonWriterTest)')","[1226, 2581]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'write_doesntOutputNull(io.scigraph.services.jersey.writers.GraphMlWriterTest)')","[795, 2229]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/autocomplete/([^/]+)(/)?', '/id/foo')",[3743]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/properties(/)?', '/edges/subClassOf')",[3192]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'verifyMap(io.scigraph.services.jersey.MediaTypeMappingsTest)')","[1491, 2779]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/properties(/)?', '/properties')",[3590]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'write_doesntOutputNull(io.scigraph.services.jersey.writers.CsvWriterTest)')","[959, 2361]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'inflectorAppliesCorrectly(io.scigraph.services.jersey.dynamic.CypherInflectorTest)')","[1327, 2647]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'smokeConstructor(io.scigraph.services.resources.CypherUtilServiceTest)')","[57, 1635]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'smokeConstructor(io.scigraph.services.resources.RefineServiceTest)')","[448, 1965]"

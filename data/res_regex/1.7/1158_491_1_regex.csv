@@ -1,0 +1,48 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ccoe.build.service.track.QueueServiceTest')","[2407, 2431, 2456, 2480]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/errorfilters(/)?', '/queue/myApp')",[1672]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myapp/myresource')","[866, 906]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/myresource')",[1063]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/errorfilter/([^/]+?)(/)?', '/queue/myApp')",[1633]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ccoe.build.service.BuildServiceSchedulerTest')",[429]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIsSchedulerEnabled(com.ccoe.build.service.BuildServiceSchedulerTest)')","[471, 492, 513, 698]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUploadArchive(com.ccoe.build.service.track.QueueServiceTest)')","[284, 305, 326, 636]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/queue/([^/]+?)(/)?', '/queue/myApp')",[1789]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'build/job1')","[1992, 2032]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ccoe.build.service.BuildServiceSchedulerTest')","[2501, 2521, 2542, 2562]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUploadArchive(com.ccoe.build.service.track.QueueServiceTest)')","[263, 616]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/config/([^/]+?)(/)?', '/queue/myApp')",[1750]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'queue/myApp')","[1321, 1361]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/queue/([^/]+?)/([^/]+?)(/)?', '/queue/build/job1')",[2382]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'job1')","[2073, 2113]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/queue/build/job1')",[2151]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/queue/build/job1')",[2227]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'queue/build/job1')","[1911, 1951]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '(/.*)?', '/queue/build/job1')",[2265]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSchedulerEnabled(com.ccoe.build.service.BuildServiceSchedulerTest)')","[450, 678]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/queue/build/job1')",[2189]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/myresource')",[1101]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/myresource')",[1025]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/queue/myApp')",[1556]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myresource')","[947, 987]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetIt(com.ccoe.build.service.track.QueueServiceTest)')","[368, 389, 410]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/queue/myApp')",[1480]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myApp')","[1402, 1442]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myapp/queue/build/job1')","[1830, 1870]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ccoe.build.service.track.QueueServiceTest')",[242]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetIt(com.ccoe.build.service.track.QueueServiceTest)')","[347, 657]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ccoe.build.alerts.connector.ConnectorTest')","[723, 747, 772, 796]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetIt(com.ccoe.build.service.track.MyResourceTest)')","[160, 575]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/queue/([^/]+?)/([^/]+?)(/)?', '/queue/myApp')",[1711]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetIt(com.ccoe.build.service.track.MyResourceTest)')","[181, 202, 223, 595]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/queue/myApp')",[1518]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ccoe.build.service.track.MyResourceTest')","[1126, 1150, 1175, 1199]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '(/.*)?', '/queue/myApp')",[1594]
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '2.3-rc4')",[825]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ccoe.build.service.track.MyResourceTest')",[139]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ccoe.build.alerts.connector.ConnectorTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'TestGetLastRecord(com.ccoe.build.alerts.connector.ConnectorTest)')","[78, 99, 120, 554]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myapp/queue/myApp')","[1240, 1280]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'TestGetLastRecord(com.ccoe.build.alerts.connector.ConnectorTest)')","[57, 534]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/errorfilter/([^/]+?)(/)?', '/queue/build/job1')",[2304]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/errorfilters(/)?', '/queue/build/job1')",[2343]

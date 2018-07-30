@@ -1,0 +1,4 @@
+"('Platform.java', 'org.openqa.selenium.Platform', '<init>', '^(\\d+)\\.(\\d+).*', '4.4.0-66-generic')","[39, 78, 117, 156, 195, 234, 273, 312, 351, 390]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[452]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[514]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[576]

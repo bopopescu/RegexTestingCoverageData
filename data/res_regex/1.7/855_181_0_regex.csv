@@ -1,0 +1,15 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org/jenkinsci/plugins/twitter/TwitterTrigger/config.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[145]
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'jobs')","[317, 397]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org/jenkinsci/plugins/twitter/TwitterJobProperty/global.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[122]
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key')","[297, 377]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key.not-so-secret')","[257, 337]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'plugins')","[277, 357]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'TestSuite with 8 tests [example: org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyTestSuite@ddc5a99]')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org/jenkinsci/plugins/twitter/HelloWorldBuilder/global.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[168]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org/jenkinsci/plugins/twitter/TwitterBuildAction/index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[99]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest')","[76, 466]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'TestSuite with 7 tests [example: org/jenkinsci/plugins/twitter/TwitterBuildAction/index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)]')","[56, 420, 443]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[214]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org/jenkinsci/plugins/twitter/HelloWorldBuilder/config.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[191]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCliSanity(org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest)')",[237]

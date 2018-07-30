@@ -1,0 +1,19 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCrud(org.edu.gjj.dao.StudentDaoImplTest)')","[349, 370, 391]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.edu.gjj.dao.GroupDaoImplTest')","[854, 877, 901, 924]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDelete(org.edu.gjj.dao.StudentDaoImplTest)')","[580, 830]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.edu.gjj.dao.StudentDaoImplTest')",[223]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNotFound(org.edu.gjj.dao.StudentDaoImplTest)')","[412, 788]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreateFindWithLead(org.edu.gjj.dao.GroupDaoImplTest)')","[78, 99, 120, 684]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDelete(org.edu.gjj.dao.StudentDaoImplTest)')","[601, 622, 643]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateFindWithLead(org.edu.gjj.dao.GroupDaoImplTest)')","[57, 664]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindByLastName(org.edu.gjj.dao.StudentDaoImplTest)')","[517, 538, 559]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreateFind(org.edu.gjj.dao.GroupDaoImplTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCrud(org.edu.gjj.dao.StudentDaoImplTest)')","[328, 767]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.edu.gjj.dao.StudentDaoImplTest')","[945, 965, 986, 1006]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFriends(org.edu.gjj.dao.StudentDaoImplTest)')","[244, 726]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindByLastName(org.edu.gjj.dao.StudentDaoImplTest)')","[496, 809]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFriends(org.edu.gjj.dao.StudentDaoImplTest)')","[265, 286, 307, 746]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.edu.gjj.dao.GroupDaoImplTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateFind(org.edu.gjj.dao.GroupDaoImplTest)')","[141, 705]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNotFound(org.edu.gjj.dao.StudentDaoImplTest)')","[433, 454, 475]"

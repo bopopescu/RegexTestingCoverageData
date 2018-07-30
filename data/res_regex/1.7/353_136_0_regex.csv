@@ -1,0 +1,89 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testList(com.mytest.helloworld.RedisTest)')","[517, 538, 559]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[2172, 2732, 3292, 3801, 4371, 4941, 5511, 6081, 6646, 7206, 7766, 8326, 8886, 9502, 10174, 10795, 11479, 12163, 12847, 13526, 14198, 14819, 15503, 16182, 16854, 17526, 18198, 18814, 19379, 20001, 20617, 21233, 21849, 22414, 23041, 23663, 24792]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testORM(com.mytest.helloworld.OrmTest)')","[78, 99, 120, 1497]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GoodsServiceImpl.class')",[19721]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSlave(com.mytest.helloworld.RedisTest)')","[664, 1664]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSpringMongo(com.mytest.helloworld.SpringJunitTest)')","[767, 1685]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Id.class')",[4656]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qdao\\E', 'dao')","[14534, 15161, 15845, 16518, 17190, 17862, 20897, 21513, 22129, 22699, 23326, 23943]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseDao.class')",[17918]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.mytest.helloworld.MongodbTest')",[933]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpdate(com.mytest.helloworld.MongodbTest)')","[1206, 1830]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDelete(com.mytest.helloworld.MongodbTest)')","[1290, 1851]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SqlUtil.class')",[2452]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GoodsDao.class')",[21569]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Field.class')",[4086]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUpdate(com.mytest.helloworld.MongodbTest)')","[1227, 1248, 1269]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind(com.mytest.helloworld.MongodbTest)')","[1143, 1164, 1185]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[2284, 2844, 3404, 3915, 4485, 5055, 5625, 6195, 6758, 7318, 7878, 8438, 8998, 9614, 10286, 10909, 11593, 12277, 12961, 13638, 14310, 14933, 15617, 16294, 16966, 17638, 18310, 18926, 19493, 20113, 20729, 21345, 21961, 22528, 23155, 23775, 24954]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Hibernate4BaseDao.class')",[17246]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q353_136\\E', '353_136')","[2116, 2676, 3236, 3744, 4314, 4884, 5454, 6024, 6590, 7150, 7710, 8270, 8830, 9446, 10118, 10738, 11422, 12106, 12790, 13470, 14142, 14762, 15446, 16126, 16798, 17470, 18142, 18758, 19322, 19945, 20561, 21177, 21793, 22357, 22984, 23607, 24711]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMongodb(com.mytest.helloworld.MongodbTest)')","[975, 996, 1017, 1767]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcommon\\E', 'common')","[9726, 10398, 11023, 11707, 12391, 13075, 13750, 14422, 15047, 15731, 16406, 17078, 17750]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.mytest.helloworld.SimpleJunitTest')","[25381, 25401, 25422, 25442]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.mytest.helloworld.OrmTest')","[25627, 25647, 25668, 25688]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'NoUpdate.class')",[5226]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[2060, 2620, 3180, 3687, 4257, 4827, 5397, 5967, 6534, 7094, 7654, 8214, 8774, 9390, 10062, 10681, 11365, 12049, 12733, 13414, 14086, 14705, 15389, 16070, 16742, 17414, 18086, 18702, 19265, 19889, 20505, 21121, 21737, 22300, 22927, 23551, 24630]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.mytest.helloworld.RedisTest')",[139]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(com.mytest.helloworld.RedisTest)')","[244, 1559]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[2004, 2564, 3124, 3630, 4200, 4770, 5340, 5910, 6478, 7038, 7598, 8158, 8718, 9334, 10006, 10624, 11308, 11992, 12676, 13358, 14030, 14648, 15332, 16014, 16686, 17358, 18030, 18646, 19208, 19833, 20449, 21065, 21681, 22243, 22870, 23495, 24549]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhelloworld\\E', 'helloworld')","[9110, 18422, 19038, 19607, 20225, 20841, 21457, 22073, 22642, 23269, 23887, 25116]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseServiceImpl.class')",[12562]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseService.class')",[9894]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDelete(com.mytest.helloworld.MongodbTest)')","[1311, 1332, 1353]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Condition.class')",[8606]
+"('SimpleMongoDbFactory.java', 'org.springframework.data.mongodb.core.SimpleMongoDbFactory', '<init>', '[\\w-]+', 'student')","[24047, 24094, 24142, 24189, 24239, 24288, 24338, 24387]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GoodsDaoImpl.class')",[23383]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmytest\\E', 'mytest')","[2340, 2900, 3460, 3972, 4542, 5112, 5682, 6252, 6814, 7374, 7934, 8494, 9054, 9670, 10342, 10966, 11650, 12334, 13018, 13694, 14366, 14990, 15674, 16350, 17022, 17694, 18366, 18982, 19550, 20169, 20785, 21401, 22017, 22585, 23212, 23831, 25035]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testObject(com.mytest.helloworld.RedisTest)')","[580, 1643]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')","[13918, 16574, 20337, 23999]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBasicString(com.mytest.helloworld.RedisTest)')","[328, 1580]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMap(com.mytest.helloworld.RedisTest)')","[412, 1601]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSet(com.mytest.helloworld.RedisTest)')","[160, 1518]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSpringRedis(com.mytest.helloworld.SpringJunitTest)')","[872, 893, 914]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'FieldInfo.class')",[7486]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInsert(com.mytest.helloworld.MongodbTest)')","[1059, 1080, 1101]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbase\\E', 'base')","[9782, 10454, 11080, 11764, 12448, 13132, 13806, 14478, 15104, 15788, 16462, 17134, 17806]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GoodsService.class')",[18534]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.mytest.helloworld.SpringJunitTest')","[25545, 25565, 25586, 25606]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qservice\\E', 'service')","[9838, 10510, 11137, 11821, 12505, 13189, 13862, 18478, 19094, 19664, 20281]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AdminController.class')",[9222]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testORM(com.mytest.helloworld.OrmTest)')","[57, 1477]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DBUtil.class')",[3012]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testList(com.mytest.helloworld.RedisTest)')","[496, 1622]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ConditionDef.class')",[8046]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1948, 2508, 3068, 3573, 4143, 4713, 5283, 5853, 6422, 6982, 7542, 8102, 8662, 9278, 9950, 10567, 11251, 11935, 12619, 13302, 13974, 14591, 15275, 15958, 16630, 17302, 17974, 18590, 19151, 19777, 20393, 21009, 21625, 22186, 22813, 23439, 24468]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind(com.mytest.helloworld.MongodbTest)')","[1122, 1809]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Hibernate4BaseDaoImpl.class')",[15218]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDao.class')",[20953]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInsert(com.mytest.helloworld.MongodbTest)')","[1038, 1788]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBasicString(com.mytest.helloworld.RedisTest)')","[349, 370, 391]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDouble(com.mytest.helloworld.SimpleJunitTest)')","[1393, 1872]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.mytest.helloworld.SimpleJunitTest')",[1372]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseServiceImpl$2.class')",[13246]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseDaoImpl.class')",[15902]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMongodb(com.mytest.helloworld.MongodbTest)')","[954, 1747]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'NoInsert.class')",[6366]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.mytest.helloworld.OrmTest')",[36]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseServiceImpl$1.class')",[11878]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoImpl.class')",[22756]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qentity\\E', 'entity')",[25197]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.mytest.helloworld.RedisTest')","[25463, 25483, 25504, 25524]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(com.mytest.helloworld.RedisTest)')","[265, 286, 307]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSpringMongo(com.mytest.helloworld.SpringJunitTest)')","[788, 809, 830, 1705]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qweb\\E', 'web')",[9166]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.mytest.helloworld.MongodbTest')","[25299, 25319, 25340, 25360]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Goods.class')",[25278]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDouble(com.mytest.helloworld.SimpleJunitTest)')","[1414, 1435, 1456, 1892]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Table.class')",[5796]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qorm\\E', 'orm')","[2396, 2956, 3516, 4029, 4599, 5169, 5739, 6309, 6870, 7430, 7990, 8550]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[2228, 2788, 3348, 3858, 4428, 4998, 5568, 6138, 6702, 7262, 7822, 8382, 8942, 9558, 10230, 10852, 11536, 12220, 12904, 13582, 14254, 14876, 15560, 16238, 16910, 17582, 18254, 18870, 19436, 20057, 20673, 21289, 21905, 22471, 23098, 23719, 24873]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testObject(com.mytest.helloworld.RedisTest)')","[601, 622, 643]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'annotation')",[6926]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMap(com.mytest.helloworld.RedisTest)')","[433, 454, 475]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSet(com.mytest.helloworld.RedisTest)')","[181, 202, 223, 1538]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSpringRedis(com.mytest.helloworld.SpringJunitTest)')","[851, 1726]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSlave(com.mytest.helloworld.RedisTest)')","[685, 706, 727]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.mytest.helloworld.SpringJunitTest')",[746]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseServiceImpl$3.class')",[11194]

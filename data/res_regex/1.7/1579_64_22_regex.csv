@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.nephele.fs.s3.S3FileSystemTest')","[36, 274]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'createAndDeleteBucketTest(eu.stratosphere.nephele.fs.s3.S3FileSystemTest)')","[57, 163]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'createAndReadLargeFileTest(eu.stratosphere.nephele.fs.s3.S3FileSystemTest)')","[99, 207]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'createAndReadSmallFileTest(eu.stratosphere.nephele.fs.s3.S3FileSystemTest)')","[78, 185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'blockLocationTest(eu.stratosphere.nephele.fs.s3.S3FileSystemTest)')","[141, 251]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'multiLevelDirectoryTest(eu.stratosphere.nephele.fs.s3.S3FileSystemTest)')","[120, 229]"

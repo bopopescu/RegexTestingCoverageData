@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMarker(org.slf4j.InvocationTest)')","[156, 288]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test1(org.slf4j.InvocationTest)')","[116, 244]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.slf4j.InvocationTest')","[36, 311]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test2(org.slf4j.InvocationTest)')","[136, 266]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNull(org.slf4j.InvocationTest)')","[76, 200]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNullParameter_BUG78(org.slf4j.InvocationTest)')","[96, 222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMDC(org.slf4j.InvocationTest)')","[56, 178]"

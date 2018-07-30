@@ -1,0 +1,19 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSuccessfulParsingMessageV100(hr.mladenc.model.message.MessageValidatorTest)')","[244, 496]"
+"('MessageValidator.java', 'hr.mladenc.model.message.MessageValidator', 'validate', '\\d{2}\\.\\d\\.\\d', '01.0.1')",[729]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMessageIdShoulBePositive(hr.mladenc.model.message.MessageValidatorTest)')","[223, 475]"
+"('MessageValidator.java', 'hr.mladenc.model.message.MessageValidator', 'validate', '\\d{2}\\.\\d\\.\\d', '01.0.0')",[705]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVesrsion200(hr.mladenc.model.message.MessageFactoryTest)')","[99, 370]"
+"('MessageValidator.java', 'hr.mladenc.model.message.MessageValidator', 'validate', '\\d{2}\\.\\d\\.\\d', '02.0.0')",[753]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProtocolVersionIsMandatory(hr.mladenc.model.message.MessageValidatorTest)')","[202, 454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTimestampIsMandatory(hr.mladenc.model.message.MessageValidatorTest)')","[139, 391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVesrsion101(hr.mladenc.model.message.MessageFactoryTest)')","[78, 349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hr.mladenc.model.message.MessageFactoryTest')","[36, 585]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSuccessfulParsingMessageV200(hr.mladenc.model.message.MessageValidatorTest)')","[286, 538]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hr.mladenc.model.message.MessageValidatorTest')","[118, 799]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMessageIdIsMandatory(hr.mladenc.model.message.MessageValidatorTest)')","[307, 559]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSuccessfulParsingMessageV101(hr.mladenc.model.message.MessageValidatorTest)')","[265, 517]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVesrsion100(hr.mladenc.model.message.MessageFactoryTest)')","[57, 328]"
+"('MessageValidator.java', 'hr.mladenc.model.message.MessageValidator', 'validate', '\\d{2}\\.\\d\\.\\d', '1.0.0')","[609, 633, 657, 681, 777]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTimestampShoulBePositive(hr.mladenc.model.message.MessageValidatorTest)')","[181, 433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProtocolVersionFormat(hr.mladenc.model.message.MessageValidatorTest)')","[160, 412]"

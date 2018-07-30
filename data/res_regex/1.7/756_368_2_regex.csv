@@ -1,0 +1,4 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.creative.studio.component.dependency.plugins.DependencyMediatorMojoTest')","[36, 151]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('ArtifactUtils.java', 'org.apache.maven.artifact.ArtifactUtils', 'toSnapshotVersion', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '1.0.3-SNAPSHOT')",[128]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMojoExecution(com.creative.studio.component.dependency.plugins.DependencyMediatorMojoTest)')","[56, 78]"

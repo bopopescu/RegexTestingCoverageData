@@ -1,0 +1,25 @@
+"('ConfigID.java', 'org.yurconf.om.ConfigID', 'fromURLPath', '/([^/]+)/([^/]+)(/([^/]+))?/([^/]+)', '/com.baxter.pe/price-engine-broadcast/sydney,ha/log4j')",[903]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFromURLPath_valid_3parts(org.yurconf.om.TestConfigID)')","[162, 544]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCompare_1_5_and_1_6(org.yurconf.om.TestVersion)')","[349, 720]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testToURLPath_1Variant(org.yurconf.om.TestConfigID)')","[78, 456]"
+"('ConfigID.java', 'org.yurconf.om.ConfigID', 'fromURLPath', '/([^/]+)/([^/]+)(/([^/]+))?/([^/]+)', '/com.baxter.pe/price-engine-broadcast/a/b/c/d')",[834]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFromURLPath_valid_4parts_mulVariants(org.yurconf.om.TestConfigID)')","[204, 588]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValueOf_1_a(org.yurconf.om.TestVersion)')","[412, 786]"
+"('ConfigID.java', 'org.yurconf.om.ConfigID', 'fromURLPath', '/([^/]+)/([^/]+)(/([^/]+))?/([^/]+)', '/com.baxter.pe/price-engine-dbserber/log4j')",[857]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValueOf_1_0(org.yurconf.om.TestVersion)')","[391, 764]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCompare_1_5_and_1_0(org.yurconf.om.TestVersion)')","[307, 676]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.om.TestConfigID')","[36, 930]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFromURLPath_valid_4parts(org.yurconf.om.TestConfigID)')","[183, 566]"
+"('ConfigID.java', 'org.yurconf.om.ConfigID', 'fromURLPath', '/([^/]+)/([^/]+)(/([^/]+))?/([^/]+)', '/com.baxter.pe/price-engine-broadcast/sydney/log4j')",[880]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValueOf_1_5_3(org.yurconf.om.TestVersion)')","[244, 610]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCompare_1_5_and_1_5(org.yurconf.om.TestVersion)')","[328, 698]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFromURLPath_invalid_short(org.yurconf.om.TestConfigID)')","[99, 478]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testToURLPath_3Variants(org.yurconf.om.TestConfigID)')","[57, 434]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValueOf_null(org.yurconf.om.TestVersion)')","[265, 632]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValueOf_100(org.yurconf.om.TestVersion)')","[370, 742]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testToURLPath_noVariants(org.yurconf.om.TestConfigID)')","[120, 500]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.om.TestVersion')","[223, 953]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFromURLPath_invalid_long(org.yurconf.om.TestConfigID)')","[141, 522]"
+"('ConfigID.java', 'org.yurconf.om.ConfigID', 'fromURLPath', '/([^/]+)/([^/]+)(/([^/]+))?/([^/]+)', '/com.baxter.pe/price-engine-broadcast')",[810]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValueOfToString_1_1_0(org.yurconf.om.TestVersion)')","[286, 654]"

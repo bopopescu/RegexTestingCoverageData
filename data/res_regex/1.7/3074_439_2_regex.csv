@@ -1,0 +1,21 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qnested-controller-test.html\\E', 'another-annotation-test.html')",[707]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.\\E.*', 'annotation-test.html')","[379, 478]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'handlerTest(com.griddynamics.banshun.web.ScanningTest)')","[181, 313]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qanother-annotation-test.html\\E', 'another-annotation-test.html')","[1003, 1035, 1898, 1930]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*', 'annotation-test.html')","[412, 511, 872, 1133, 1252, 1371, 1490, 1571, 1767, 2001, 2120]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qannotation-test.html\\E', 'another-annotation-test.html')","[905, 938, 1800, 1833]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhandler-test.html\\E', 'annotation-test.html')",[445]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nestedControllerTest(com.griddynamics.banshun.web.ScanningTest)')","[139, 269]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.griddynamics.banshun.web.ScanningTest')","[118, 2191]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'annotatedControllerTest(com.griddynamics.banshun.web.ScanningTest)')","[160, 291]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qannotation-test.html\\E', 'annotation-test.html')","[642, 674, 1702, 1734]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'annotatedControllerTest(com.griddynamics.banshun.web.NestedControllerTest)')","[78, 225]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.\\E.*', 'another-annotation-test.html')","[740, 839]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nestedControllerTest(com.griddynamics.banshun.web.NestedControllerTest)')","[57, 203]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.griddynamics.banshun.web.NestedControllerTest')","[36, 1062]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qnested-controller-test.html\\E', 'annotation-test.html')",[346]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*', 'another-annotation-test.html')","[544, 773, 971, 1204, 1300, 1442, 1538, 1604, 1866, 2072, 2168]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhandler-test.html\\E', 'another-annotation-test.html')",[806]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qanother-annotation-test.html\\E', 'annotation-test.html')","[577, 610, 1637, 1670]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'handlerTest(com.griddynamics.banshun.web.NestedControllerTest)')","[99, 247]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

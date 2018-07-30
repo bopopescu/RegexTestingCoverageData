@@ -1,0 +1,6 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.onebusaway.siri.jetty.IntegrationTest)')","[57, 79]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.onebusaway.siri.jetty.IntegrationTest')","[36, 249]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[128]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[226]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[177]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

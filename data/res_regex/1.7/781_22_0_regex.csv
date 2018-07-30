@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testApp(com.vmware.AppTest)')",[43]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'initializationError(com.vmware.EmployeeTest)')",[195]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'initializationError(com.vmware.Employee)')","[81, 119]"
+"('Employee.java', 'com.vmware.Employee', 'setSocialSecurityNumber', '\\d{3}-\\d{2}-\\d{4}', '123-45-6789')",[227]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'initializationError(com.vmware.App)')",[157]
+"('Employee.java', 'com.vmware.Employee', 'setSocialSecurityNumber', '\\d{3}-\\d{2}-\\d{4}', '123-45-6710')",[259]
+"('Employee.java', 'com.vmware.Employee', 'setSocialSecurityNumber', '\\d{3}-\\d{2}-\\d{4}', '1')",[323]
+"('Employee.java', 'com.vmware.Employee', 'setSocialSecurityNumber', '\\d{3}-\\d{2}-\\d{4}', 'ddds')",[291]

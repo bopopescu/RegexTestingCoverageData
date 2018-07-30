@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.mxt.code.radiocontrol.test.unit.ProgramChannelTest')","[17, 56, 364]"
+"('RestRequest.java', 'se.mxt.code.radiocontrol.api.RestRequest', '<init>', '/(\\w+)', '/channel/stuff/1234567')",[505]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createFromJson(se.mxt.code.radiocontrol.test.unit.ProgramChannelTest)')","[80, 222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseRequestString(se.mxt.code.radiocontrol.test.unit.RestRequestTest)')","[150, 270]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseInvalidResource(se.mxt.code.radiocontrol.test.unit.RestRequestTest)')","[198, 318]"
+"('RestRequest.java', 'se.mxt.code.radiocontrol.api.RestRequest', '<init>', '/(\\w+)/([0-9]*?)', '/channel/1234567')",[411]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.mxt.code.radiocontrol.test.unit.RestRequestTest')","[34, 126, 578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseInvalidRequestString(se.mxt.code.radiocontrol.test.unit.RestRequestTest)')","[174, 294]"
+"('RestRequest.java', 'se.mxt.code.radiocontrol.api.RestRequest', '<init>', '/(\\w+)/([0-9]*?)', '/channels/1234567')",[552]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'generateJson(se.mxt.code.radiocontrol.test.unit.ProgramChannelTest)')","[104, 246]"
+"('RestRequest.java', 'se.mxt.code.radiocontrol.api.RestRequest', '<init>', '/(\\w+)/([0-9]*?)', '/channel/stuff/1234567')",[458]

@@ -1,0 +1,99 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[975, 2128]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T1152-07')",[2593]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T115213-07:00')",[2647]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52:13.123-0700')",[3243]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52-07')",[3270]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T1152Z')",[3486]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52-0700')",[3000]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T115213Z')",[3324]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T115213Z')",[3351]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_MMddyyyy(com.strategicgains.util.date.DateFormatProcessorTest)')","[265, 1456]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T1152Z')",[3513]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ssZx(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[786, 1939]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52-07:00')",[2973]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldOutput_Day_dd_MMM_yyyy_HH_mm_ss_GMT(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[305, 1477]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T115213-0700')",[2701]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13-07')",[3054]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyyMMdd(com.strategicgains.util.date.DateAdapterTest)')","[57, 1267]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52:13-07')",[3081]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_dd(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[452, 1624]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_SSS_0700(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[870, 2023]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_SSSZxx(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[954, 2107]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_Day_dd_MMM_HH_mm_ss_yyyy(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[431, 1603]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmssZZ_ZZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[576, 1729]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_1045(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[660, 1813]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_0700(com.strategicgains.util.date.TimestampAdapterTest)')","[1120, 2254]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52-07')",[3297]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldOutput_yyyy_MM_dd(com.strategicgains.util.date.DateAdapterTest)')","[120, 1330]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ssZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[933, 2086]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldOutput_yyyy_MM_ddTHH_mm_ss_SSSZ(com.strategicgains.util.date.TimestampAdapterTest)')","[1246, 2380]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mmZ(com.strategicgains.util.date.TimestampAdapterTest)')","[1036, 2170]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmm_0700(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[828, 1981]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_0700(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[765, 1918]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmssZ(com.strategicgains.util.date.TimestampAdapterTest)')","[1183, 2317]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyMMdd(com.strategicgains.util.date.DateAdapterTest)')","[78, 1288]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmm_0700(com.strategicgains.util.date.TimestampAdapterTest)')","[1141, 2275]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmssZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[912, 2065]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_0700(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[639, 1792]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2013-03-13T23:40:26 00:00')",[2891]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyyMMdd(com.strategicgains.util.date.DateFormatProcessorTest)')","[202, 1393]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_Day_d_MMM_HH_mm_ss_yyyy(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[347, 1519]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2013-03-13T23:40:26 00:00')",[2919]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_MaxTime(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[326, 1498]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmZx(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[555, 1708]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52:13.123Z')",[2863]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52Z')",[2566]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmZZ_ZZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[807, 1960]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldConvertOutputToUTC(com.strategicgains.util.date.DateFormatProcessorTest)')","[223, 1414]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.strategicgains.util.date.HttpHeaderTimestampAdapterTest')","[284, 2458]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13-07:00')",[2728]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13.123Z')",[2836]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52:13-0700')",[2782]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowParseException(com.strategicgains.util.date.DateFormatProcessorTest)')","[181, 1372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ssZZ_ZZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[618, 1771]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_dd(com.strategicgains.util.date.DateAdapterTest)')","[99, 1309]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.strategicgains.util.date.DateFormatProcessorTest')","[160, 2432]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_Day_dd_MMM_yy_HH_mm_ss_GMT(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[473, 1645]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mmZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[534, 1687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_Day_dd_MMM_yyyy_HH_mm_ss_GMT(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[368, 1540]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_ZeroTime(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[389, 1561]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_SSSZZ_ZZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[849, 2002]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2014-11-20T10:43:24+10:45')",[2809]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_SSSZ(com.strategicgains.util.date.HttpHeaderTimestampAdapterTest)')","[410, 1582]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_MMddyyyy(com.strategicgains.util.date.DateAdapterTest)')","[141, 1351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmssZx(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[513, 1666]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T115213-07')",[2512]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T1152-0700')",[3162]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.strategicgains.util.date.Iso8601TimepointAdapterTest')","[492, 3539]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2013-03-13T23:40:26+00:00')",[2946]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T115213-07')",[2485]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T1152-0700')",[3135]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13Z')",[3378]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_00_00(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[723, 1876]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_0700(com.strategicgains.util.date.TimestampAdapterTest)')","[1078, 2212]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52:13.123-07')",[3459]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyyMMddTHHmmssz(com.strategicgains.util.date.DateFormatProcessorTest)')","[244, 1435]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldNotParse_yyyy_MM_ddTHH_mm_ss_blank_00_00(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[702, 1855]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13.123-07:00')",[3189]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ssZ(com.strategicgains.util.date.TimestampAdapterTest)')","[1204, 2338]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13.123-07')",[3432]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmss_0700(com.strategicgains.util.date.TimestampAdapterTest)')","[1057, 2191]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_SSSZ(com.strategicgains.util.date.TimestampAdapterTest)')","[1099, 2233]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52-0700')",[3027]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T1152-07:00')",[3108]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mmZx(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[891, 2044]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.strategicgains.util.date.DateAdapterTest')","[36, 2406]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52Z')",[2539]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13-0700')",[2755]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmZ(com.strategicgains.util.date.TimestampAdapterTest)')","[1225, 2359]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T11:52:13Z')",[3405]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldOutput_yyyy_MM_ddTHH_mm_ss_SSSZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[996, 2149]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.strategicgains.util.date.TimestampAdapterTest')","[1015, 3561]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_SSS_0700(com.strategicgains.util.date.TimestampAdapterTest)')","[1162, 2296]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mm_ss_SSSZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[681, 1834]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T115213-0700')",[2674]
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*([-+]\\d\\d):(\\d\\d)$', '2010-04-07T11:52:13.123-0700')",[3216]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHHmmss_0700(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[597, 1750]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldParse_yyyy_MM_ddTHH_mmZZ_ZZ(com.strategicgains.util.date.Iso8601TimepointAdapterTest)')","[744, 1897]"
+"('Iso8601TimepointCallback.java', 'com.strategicgains.util.date.Iso8601TimepointCallback', 'process', '.*T.*[-+]\\d\\d$', '2010-04-07T1152-07')",[2620]

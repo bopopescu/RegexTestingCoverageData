@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testJsonSerDe(com.kixeye.chassis.scala.transport.serde.ScalaCaseClassTest)')","[78, 183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.kixeye.chassis.scala.transport.serde.ScalaCaseClassTest')","[36, 1390]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testYamlSerDe(com.kixeye.chassis.scala.transport.serde.ScalaCaseClassTest)')","[57, 162]"
+"('Regex.scala', 'scala.util.matching.Regex', 'runMatcher', '(.*)\\$\\$(.*)', 'otherObject')","[394, 575, 758, 939, 1122, 1303]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBsonSerDe(com.kixeye.chassis.scala.transport.serde.ScalaCaseClassTest)')","[120, 225]"
+"('Regex.scala', 'scala.util.matching.Regex', 'runMatcher', '(\\d+)\\.(\\d+)(?:\\.(\\d+)(?:\\-(.*))?)?', '${version}')",[276]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProtobufSerDe(com.kixeye.chassis.scala.transport.serde.ScalaCaseClassTest)')","[141, 246]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Regex.scala', 'scala.util.matching.Regex', 'runMatcher', '(.*)\\$\\$(.*)', 'value')","[335, 457, 516, 640, 699, 821, 880, 1004, 1063, 1185, 1244, 1368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testXmlSerDe(com.kixeye.chassis.scala.transport.serde.ScalaCaseClassTest)')","[99, 204]"

@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'find_all_speakers_sorted_by_lastName_and_name(com.github.mongo.labs.api.SpeakersServiceTest)')","[118, 303]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'crud_speaker(com.github.mongo.labs.api.SpeakersServiceTest)')","[97, 282]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'find_speaker_by_id(com.github.mongo.labs.api.SpeakersServiceTest)')","[139, 324]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'find_speaker_by_lastName_case_insensitive(com.github.mongo.labs.api.SpeakersServiceTest)')","[160, 345]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.github.mongo.labs.api.SearchServiceTest')","[179, 409]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.github.mongo.labs.api.TagsServiceTest')","[36, 431]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'can_search_full_text(com.github.mongo.labs.api.SearchServiceTest)')","[200, 366]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.github.mongo.labs.api.SpeakersServiceTest')","[76, 475]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.github.mongo.labs.api.GeoServiceTest')","[219, 453]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'can_count_most_used_tags(com.github.mongo.labs.api.TagsServiceTest)')","[57, 261]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'can_search_by_geo(com.github.mongo.labs.api.GeoServiceTest)')","[240, 387]"

@@ -1,0 +1,99 @@
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'Hp')",[8089]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[1: strip Sircon1 = Sircon](org.foxsly.util.ParameterizedStringUtilsTest)')","[665, 1378]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'vG')",[17949]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'X')","[14617, 16487]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'W')","[5301, 11319, 13087, 15841, 16249]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', '')","[1716, 1751, 1786, 1821, 1856, 1891, 1926, 1961, 1996, 2031, 2066, 2101, 2136, 2171, 2206, 2241, 2275, 2309, 2343, 2377, 2411, 2445, 2479, 2513, 2547, 2581, 2615, 2649, 2683, 2717, 2751, 2785, 2819, 2853, 2887, 2921, 2955, 2989, 3023, 3057, 3091, 3125, 3159, 3193, 3227, 3261, 3295, 3329, 3363, 3397, 3431, 3465, 3499, 3533, 3567, 3601, 3635, 3669, 3703, 3737, 3771, 3805, 3839, 3873, 3907, 3941, 3975, 4009, 4043, 4077, 4111, 4145, 4213, 4247, 4281, 4315, 4349, 4383, 4417, 4451, 4485, 4519, 4587, 4621, 4655, 4689, 4723, 4757, 4791, 4825, 4859, 4893, 4927, 4961, 4995, 5063, 5097, 5131, 5165, 5199, 5233, 5267, 5335, 5369, 5403, 5437, 5471, 5505, 5539, 5573, 5607, 5641, 5675, 5709, 5743, 5777, 5811, 5845, 5879, 5913, 5947, 5981, 6015, 6049, 6117, 6151, 6185, 6219, 6253, 6287, 6321, 6355, 6389, 6423, 6457, 6491, 6525, 6559, 6593, 6627, 6661, 6695, 6763, 6797, 6831, 6865, 6933, 7001, 7035, 7069, 7103, 7137, 7205, 7239, 7273, 7307, 7341, 7375, 7409, 7443, 7477, 7511, 7579, 7613, 7647, 7681, 7715, 7749, 7783, 7817, 7885, 7919, 7953, 7987, 8021, 8055, 8123, 8157, 8225, 8259, 8327, 8361, 8395, 8429, 8463, 8497, 8531, 8565, 8599, 8633, 8667, 8701, 8735, 8769, 8837, 8905, 8939, 9007, 9041, 9075, 9109, 9143, 9177, 9245, 9313, 9381, 9415, 9449, 9483, 9517, 9551, 9585, 9619, 9687, 9721, 9755, 9789, 9823, 9857, 9891, 9925, 9959, 10027, 10061, 10095, 10129, 10163, 10231, 10265, 10299, 10401, 10435, 10469, 10503, 10537, 10571, 10605, 10639, 10673, 10707, 10775, 10809, 10843, 10911, 10945, 10979, 11013, 11047, 11115, 11149, 11183, 11217, 11251, 11285, 11421, 11489, 11591, 11625, 11659, 11693, 11761, 11795, 11863, 11965, 12067, 12101, 12135, 12169, 12203, 12305, 12339, 12441, 12475, 12509, 12543, 12577, 12611, 12679, 12713, 12747, 12849, 12883, 12917, 12951, 12985, 13019, 13053, 13223, 13257, 13291, 13359, 13461, 13495, 13563, 13597, 13631, 13665, 13699, 13733, 13767, 13801, 13835, 13869, 13903, 13971, 14005, 14073, 14141, 14175, 14209, 14243, 14277, 14311, 14345, 14379, 14413, 14447, 14481, 14515, 14583, 14651, 14685, 14719, 14787, 14821, 14855, 14889, 14923, 14991, 15025, 15059, 15093, 15127, 15161, 15229, 15263, 15297, 15331, 15365, 15399, 15433, 15569, 15603, 15637, 15671, 15739, 15773, 15807, 15943, 15977, 16045, 16079, 16113, 16147, 16181, 16215, 16283, 16351, 16385, 16453, 16589, 16623, 16657, 16691, 16759, 16793, 16827, 16861, 16895, 16929, 16997, 17065, 17099, 17133, 17167, 17201, 17235, 17269, 17303, 17337, 17371, 17405, 17473, 17575, 17609, 17643, 17677, 17711, 17881, 17915, 17983, 18017, 18085, 18153, 18187, 18221, 18255, 18289, 18323, 18357, 18391, 18425, 18459, 18527, 18561, 18595, 18629, 18663, 18697]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'M')",[17031]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'R')","[9993, 18051]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'V')","[10877, 11931, 13937]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[5: strip !1Sircon = Sircon](org.foxsly.util.ParameterizedStringUtilsTest)')","[841, 1466]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[1: strip Sircon1 = Sircon]')","[341, 642]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.foxsly.util.TheoriesStringUtilsTest')","[1041, 19026]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[3: strip Sircon1! = Sircon]')","[437, 730]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'stripNonAlphabeticCharactersTheory(org.foxsly.util.QuickCheckTheoriesStringUtilsTest)')","[1022, 1592]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[0: strip sircon1 = Sircon1]')",[80]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'D')",[14107]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'ju')",[6083]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'capitalizeTheory(org.foxsly.util.QuickCheckTheoriesStringUtilsTest)')","[1001, 1571]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'LY')",[14039]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'i')","[4553, 12237, 14549]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.foxsly.util.QuickCheckTheoriesStringUtilsTest')","[980, 19048]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'z')",[9279]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[5: strip !1Sircon = Sircon]')","[533, 818, 18938, 18960, 18982, 19004]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'y')","[6967, 11387, 17745]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'v')","[11897, 15195, 15875]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[0: strip null = null]')","[293, 598]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'QW')",[14957]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[3: strip Sircon1! = Sircon](org.foxsly.util.EnclosedParameterizedStringUtilsTest$StripNonAlphabeticCharactersTest)')","[462, 1288]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'GA')",[12271]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'J')",[13325]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'iz')",[11353]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[3: strip Sircon1! = Sircon](org.foxsly.util.ParameterizedStringUtilsTest)')","[753, 1422]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'm')","[12645, 13393]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'a')",[18493]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[3: strip tim belcher = Tim Belcher]')","[224, 18894, 18916]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'c')",[10333]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'Q')",[13529]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters_withSpecialCharacters(org.foxsly.util.StringUtilsTest)')","[940, 1529]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[0: strip null = null](org.foxsly.util.ParameterizedStringUtilsTest)')","[621, 1356]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'aR')",[17779]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'p')",[11557]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[2: strip Sircon! = Sircon](org.foxsly.util.EnclosedParameterizedStringUtilsTest$StripNonAlphabeticCharactersTest)')","[414, 1265]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'B')",[6899]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[5: strip !1Sircon = Sircon](org.foxsly.util.EnclosedParameterizedStringUtilsTest$StripNonAlphabeticCharactersTest)')","[558, 1334]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'h')",[16317]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharactersCapitalize[0: strip sircon1 = Sircon1](org.foxsly.util.EnclosedParameterizedStringUtilsTest$CapitalizeTest)')","[105, 1127]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[2: strip Sircon! = Sircon]')","[389, 686]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'kP')",[11081]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'C')",[18119]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[1: strip junit = Junit]')",[128]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[1: strip Sircon1 = Sircon](org.foxsly.util.EnclosedParameterizedStringUtilsTest$StripNonAlphabeticCharactersTest)')","[366, 1242]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'o')",[16011]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'k')",[16419]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 858]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.foxsly.util.EnclosedParameterizedStringUtilsTest')",[36]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'l')","[7851, 13189, 17813]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharactersCapitalize[3: strip tim belcher = Tim Belcher](org.foxsly.util.EnclosedParameterizedStringUtilsTest$CapitalizeTest)')","[249, 1196]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.foxsly.util.StringUtilsTest')","[877, 1681]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'j')","[12033, 12373]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'f')","[4179, 17507]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'I')","[11455, 11727]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters_withNumbers(org.foxsly.util.StringUtilsTest)')","[919, 1508]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.foxsly.util.EnclosedParameterizedStringUtilsTest$CapitalizeTest')",[57]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharactersCapitalize[1: strip junit = Junit](org.foxsly.util.EnclosedParameterizedStringUtilsTest$CapitalizeTest)')","[153, 1150]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'Vq')",[13121]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[4: strip Sir1!con = Sircon](org.foxsly.util.EnclosedParameterizedStringUtilsTest$StripNonAlphabeticCharactersTest)')","[510, 1311]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'ds')",[10741]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharactersCapitalize[2: strip 1sircon = 1sircon](org.foxsly.util.EnclosedParameterizedStringUtilsTest$CapitalizeTest)')","[201, 1173]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'H')","[9653, 17439]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'K')",[8293]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.foxsly.util.EnclosedParameterizedStringUtilsTest$StripNonAlphabeticCharactersTest')",[270]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'F')",[12815]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[4: strip Sir1!con = Sircon](org.foxsly.util.ParameterizedStringUtilsTest)')","[797, 1444]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'capitalizeTheory(org.foxsly.util.TheoriesStringUtilsTest)')","[1083, 1634]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'sircon')","[18732, 18767, 18802, 18837, 18872]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'Uy')",[10367]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'e')","[16725, 17847]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'g')","[8803, 11523, 15909]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'S')","[14753, 16521, 16555]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'n')","[13427, 15467]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'Az')",[17541]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'u')","[10197, 12781]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[2: strip Sircon! = Sircon](org.foxsly.util.ParameterizedStringUtilsTest)')","[709, 1400]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'w')","[7545, 13155]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters[0: strip null = null](org.foxsly.util.EnclosedParameterizedStringUtilsTest$StripNonAlphabeticCharactersTest)')","[318, 1219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCapitalize_null(org.foxsly.util.TheoriesStringUtilsTest)')","[1062, 1613]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters_withNumbersAndSpecialCharacters(org.foxsly.util.StringUtilsTest)')","[898, 1487]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'q')","[5029, 11999]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'P')","[9211, 16963]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'stripNonAlphabeticCharactersTheory(org.foxsly.util.TheoriesStringUtilsTest)')","[1104, 1655]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[4: strip Sir1!con = Sircon]')","[485, 774]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripNonAlphabeticCharacters_null(org.foxsly.util.StringUtilsTest)')","[961, 1550]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'd')","[7171, 8191, 9347]"
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'T')",[6729]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[2: strip 1sircon = 1sircon]')",[176]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'FO')",[11829]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'E')","[15501, 15535]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.foxsly.util.ParameterizedStringUtilsTest')",[577]
+"('RegularExpressionMatcher.java', 'org.foxsly.matcher.RegularExpressionMatcher', 'matchesSafely', '[^a-zA-Z]', 'b')","[8871, 8973, 12407, 15705]"

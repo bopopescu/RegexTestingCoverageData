@@ -1,0 +1,23 @@
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.String')","[473, 2140, 2181, 2541, 2792]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'int')","[283, 321, 2222, 2263, 2457, 2708]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.io.Serializable')","[1119, 1315]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Exception')","[1041, 1236, 1762, 1915]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.awt.event.WindowFocusListener')",[1543]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Number')","[2876, 2917]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'long')","[2584, 2835]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'boolean')","[359, 397, 2499, 2750]"
+"('AbstractRegressionTestCase.java', 'net.sf.clirr.core.internal.checks.AbstractRegressionTestCase', 'getTrackerId', '^.*Regression(.*)Test$', 'net.sf.clirr.core.internal.checks.Regression1373831Test')",[680]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Integer')","[67, 101, 210, 245, 546, 581, 614, 647, 714, 748, 783, 818, 853, 888, 1578, 1613, 2064, 2099, 2298, 2333, 2994, 3029]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Throwable')","[1081, 1277, 1801, 1955]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Long')",[2959]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Object')","[138, 175, 435, 926, 964, 1650, 1687, 2373, 2624]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.RuntimeException')","[1002, 1196, 1724, 1876]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.awt.event.WindowListener')",[1467]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Boolean')",[511]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.awt.event.MouseMotionListener')",[1391]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.awt.event.WindowStateListener')",[1505]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.util.NoSuchElementException')","[1157, 1838]"
+"('AbstractRegressionTestCase.java', 'net.sf.clirr.core.internal.checks.AbstractRegressionTestCase', 'getTrackerId', '^.*Regression(.*)Test$', 'net.sf.clirr.core.internal.checks.Regression1022446Test')",[33]
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.awt.event.MouseMotionAdapter')","[1353, 1992]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.lang.Class')","[2415, 2666]"
+"('Repository.java', 'net.sf.clirr.core.internal.asm.Repository', 'findTypeByName', '(int|float|long|double|boolean|char|short|byte)', 'java.awt.event.WindowAdapter')","[1429, 2029]"

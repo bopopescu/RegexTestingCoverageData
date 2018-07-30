@@ -1,0 +1,50 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInvalidCredentialsLogin(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.schema.TestRequestMessages')","[2767, 2791, 2816, 2840]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInitialization(edu.ncsu.csc573.project.doogle.test.controllayer.TestController)')","[788, 809, 830, 1575]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.commlayer.TestCommunicationService')","[3057, 3077, 3098, 3118]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRegister(edu.ncsu.csc573.project.doogle.test.controllayer.TestController)')","[872, 893, 914]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[1952, 2056, 2276, 2388, 2494, 2594]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.commlayer.TestCommunicationService')",[1242]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testExecuteRequest(edu.ncsu.csc573.project.doogle.test.commlayer.TestCommunicationService)')","[1284, 1305, 1326, 1760]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')",[2220]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUserAdd(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[78, 99, 120, 1367]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInvalidCredentialsLogin(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[477, 1472]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testValidUserLogin(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[414, 435, 456]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[1802]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExecuteRequest(edu.ncsu.csc573.project.doogle.test.commlayer.TestCommunicationService)')","[1263, 1740]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUserManagerSingleTon(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[141, 1388]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValidUserLogin(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[393, 1451]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(edu.ncsu.csc573.project.doogle.test.commlayer.RemoteAddressTest)')","[1057, 1658]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testValidChangePassword(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.commlayer.RemoteAddressTest')","[2865, 2889, 2914, 2938]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValidChangePassword(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[225, 1409]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUserAdd(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[57, 1347]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[1900]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUserManagerSingleTon(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[162, 183, 204]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[1844]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInvalidUserLogin(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.hashmanagement.TestDigest')","[2669, 2693, 2718, 2742]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testForgotPasswd(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[309, 1430]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInitialization(edu.ncsu.csc573.project.doogle.test.controllayer.TestController)')","[767, 1555]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')",[2164]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.schema.TestRequestMessages')",[933]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.hashmanagement.TestDigest')",[643]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.controllayer.TestController')","[3221, 3241, 3262, 3282]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.commlayer.TestRouter')",[1139]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRoute(edu.ncsu.csc573.project.doogle.test.commlayer.TestRouter)')","[1181, 1202, 1223, 1719]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRegister(edu.ncsu.csc573.project.doogle.test.controllayer.TestController)')","[851, 1596]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.commlayer.TestRouter')","[2963, 2987, 3012, 3036]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.controllayer.TestController')",[746]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[2004, 2108, 2332, 2444, 2544, 2644]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCoordinates(edu.ncsu.csc573.project.doogle.test.hashmanagement.TestDigest)')","[664, 1514]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testForgotPasswd(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(edu.ncsu.csc573.project.doogle.test.commlayer.RemoteAddressTest)')","[1078, 1099, 1120, 1678]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInvalidUserLogin(edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager)')","[561, 1493]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRegisterRequestMessageToXML(edu.ncsu.csc573.project.doogle.test.schema.TestRequestMessages)')","[954, 1617]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRegisterRequestMessageToXML(edu.ncsu.csc573.project.doogle.test.schema.TestRequestMessages)')","[975, 996, 1017, 1637]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.project.doogle.test.commlayer.RemoteAddressTest')",[1036]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCoordinates(edu.ncsu.csc573.project.doogle.test.hashmanagement.TestDigest)')","[685, 706, 727, 1534]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.ncsu.csc573.projcet.doogle.test.usermanagement.TestUserManager')","[3139, 3159, 3180, 3200]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRoute(edu.ncsu.csc573.project.doogle.test.commlayer.TestRouter)')","[1160, 1699]"

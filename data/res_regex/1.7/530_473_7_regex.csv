@@ -1,0 +1,6 @@
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'to1=3002175604&text1=test&from1=3542&account=german&password=escobar')","[285, 297, 309, 321, 333]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'to=3002175604&text=test+%B7+script+%40%E1%C1&from=3542')","[213, 225, 237, 249, 261, 273]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'to=3002175604&from=3542')","[189, 201]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[59]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[177]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[118]

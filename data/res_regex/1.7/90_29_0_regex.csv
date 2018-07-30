@@ -1,0 +1,37 @@
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'q')","[1134, 1159, 1209, 1234, 1284, 1309]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAdd(server.StorageTest)')","[97, 244]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', '10QW4')","[1184, 1259, 1334]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'server.StorageTest')","[76, 1732]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'server.StorageBufferTest')","[36, 1109]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA15')",[1082]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', '456VS')",[1559]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAAAA')",[1709]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Alexander')",[1434]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBuffer(server.StorageBufferTest)')","[57, 222]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Sayapin')",[1534]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Anton')",[1584]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fuckoffClient(server.StorageTest)')","[160, 310]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA81')",[932]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA05')",[632]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', '789AP')",[1634]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA66')",[857]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParse(ext.systems.ExtSystemOneFileParserTest)')","[200, 332]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'w')","[1359, 1384]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA37')",[782]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'AAAAA')","[1659, 1684]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFind(server.StorageTest)')","[118, 266]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA26')",[557]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ext.systems.ExtSystemOneFileParserTest')","[179, 1755]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Bogdanov')",[1459]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStorageIterator(server.StorageTest)')","[139, 288]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Pushkarev')",[1609]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Alex')","[357, 432, 507, 582, 657, 732, 807, 882, 957, 1032]"
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', '123AB')",[1484]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Vsevolod')",[1509]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA64')",[1007]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA18')",[407]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', '111WQ')",[1409]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA16')",[707]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[A-Z0-9]{5}$', 'AAA44')",[482]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('StringUtils.java', 'utils.StringUtils', 'safeCheckString', '^[a-zA-Z]{1,20}$', 'Bogd')","[382, 457, 532, 607, 682, 757, 832, 907, 982, 1057]"

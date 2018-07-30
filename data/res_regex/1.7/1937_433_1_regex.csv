@@ -1,0 +1,46 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[net.sf.expectit.ant.matcher.RegexpElement@174ee2c5]')",[4624]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-socket]')",[334]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[859]
+"('SingleInputExpect.java', 'net.sf.expectit.SingleInputExpect', 'expect', '(?s).+', 'def\n')",[2419]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test[net.sf.expectit.ant.matcher.ContainsElement@53daed73](net.sf.expectit.ant.MatcherRequiredValueTest)')","[4559, 4801]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-exec-negative]')",[246]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[1340, 1447, 1982, 2089, 2196, 2303, 3196, 3288, 3380, 3472, 3564, 3656]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test[net.sf.expectit.ant.matcher.MatchesElement@3c09ff77](net.sf.expectit.ant.MatcherRequiredValueTest)')","[4691, 4867]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-socket-2-negative](net.sf.expectit.ant.AntHarnessTest)')","[401, 665]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[net.sf.expectit.ant.matcher.MatchesElement@3c09ff77]')",[4668]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CTR')","[912, 1019, 1126, 1233, 2644, 2736, 2828, 2920, 3012, 3104, 3931, 3998, 4067, 4091, 4184, 4228, 4319, 4389]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[795]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-socket-negative](net.sf.expectit.ant.AntHarnessTest)')","[489, 709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test[net.sf.expectit.ant.matcher.AnyOfElement@3462fc6c](net.sf.expectit.ant.MatcherRequiredValueTest)')","[4735, 4889]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.sf.expectit.ant.ExpectSupportTest')","[36, 101]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.sf.expectit.ant.AntHarnessTest')",[137]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-ssh]')","[510, 4457, 4479]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-exec-no-namespace](net.sf.expectit.ant.AntHarnessTest)')","[313, 621]"
+"('SingleInputExpect.java', 'net.sf.expectit.SingleInputExpect', 'expect', '(?s).+', 'def\nhi!\n')",[2482]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-ssh](net.sf.expectit.ant.AntHarnessTest)')","[533, 731]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-socket-3-negative](net.sf.expectit.ant.AntHarnessTest)')","[445, 687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-exec-no-namespace]')",[290]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[net.sf.expectit.ant.matcher.AnyOfElement@3462fc6c]')",[4712]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-exec-2-negative](net.sf.expectit.ant.AntHarnessTest)')","[181, 555]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[net.sf.expectit.ant.matcher.AllOfElement@3d35cda0]')",[4580]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-socket](net.sf.expectit.ant.AntHarnessTest)')","[357, 643]"
+"('SingleInputExpect.java', 'net.sf.expectit.SingleInputExpect', 'expect', '(?s).*hi.*', '')",[2540]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64', 'CTR')","[3748, 3840]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test[net.sf.expectit.ant.matcher.AllOfElement@3d35cda0](net.sf.expectit.ant.MatcherRequiredValueTest)')","[4603, 4823]"
+"('SingleInputExpect.java', 'net.sf.expectit.SingleInputExpect', 'expect', '(?s).*hi.*', 'hi!\n')",[2599]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[965, 1073, 1179, 1287, 1393, 1501, 1607, 1715, 1821, 1929, 2035, 2143, 2249, 2357, 2689, 2783, 2873, 2967, 3057, 3151, 3241, 3335, 3425, 3519, 3609, 3703, 3793, 3887, 3975, 4021, 4137, 4161, 4251, 4295, 4343, 4435]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[net.sf.expectit.ant.matcher.ContainsElement@53daed73]')",[4536]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-socket-negative]')",[466]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDelegation(net.sf.expectit.ant.ExpectSupportTest)')","[58, 79]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.sf.expectit.ant.MatcherRequiredValueTest')",[4515]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test[net.sf.expectit.ant.matcher.TimesElement@4eaa3152](net.sf.expectit.ant.MatcherRequiredValueTest)')","[4779, 4911]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-exec-namespace](net.sf.expectit.ant.AntHarnessTest)')","[225, 577]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-socket-2-negative]')",[378]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-exec-2-negative]')",[158]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test[net.sf.expectit.ant.matcher.RegexpElement@174ee2c5](net.sf.expectit.ant.MatcherRequiredValueTest)')","[4647, 4845]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-socket-3-negative]')",[422]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[test-exec-namespace]')",[202]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64', 'CBC')","[1554, 1661, 1768, 1875]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'runTarget[test-exec-negative](net.sf.expectit.ant.AntHarnessTest)')","[269, 599]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 118, 4496]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '[net.sf.expectit.ant.matcher.TimesElement@4eaa3152]')","[4756, 4933, 4955]"

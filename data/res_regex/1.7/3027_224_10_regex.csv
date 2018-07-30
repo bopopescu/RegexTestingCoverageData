@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddMethodListener(org.piraso.proxy.RegexProxyFactoryTest)')","[204, 380]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.piraso.proxy.RegexProxyFactoryTest')","[36, 875]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReplaceReturnedValue(org.piraso.proxy.RegexProxyFactoryTest)')","[120, 292]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNonInterfaceTest(org.piraso.proxy.RegexProxyFactoryTest)')","[99, 270]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIllegalListener(org.piraso.proxy.RegexProxyFactoryTest)')","[141, 314]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProxy(org.piraso.proxy.RegexProxyFactoryTest)')","[57, 226]"
+"('RegexMethodInterceptor.java', 'org.piraso.proxy.RegexMethodInterceptor', 'getListeners', 'getConnection', 'getConnection')","[587, 616, 646, 675, 705, 734, 764, 793, 823, 852]"
+"('RegexMethodInterceptor.java', 'org.piraso.proxy.RegexMethodInterceptor', 'getListeners', 'contains', 'contains')","[469, 498, 528, 557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testErrorMethodListener(org.piraso.proxy.RegexProxyFactoryTest)')","[183, 358]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDuplicateReturnedValueSet(org.piraso.proxy.RegexProxyFactoryTest)')","[78, 248]"
+"('RegexMethodInterceptor.java', 'org.piraso.proxy.RegexMethodInterceptor', 'getListeners', 'c[a-z]*', 'contains')","[410, 439]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProxyInterceptor(org.piraso.proxy.RegexProxyFactoryTest)')","[162, 336]"

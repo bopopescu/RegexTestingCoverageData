@@ -1,0 +1,7 @@
+"('SpecResults.java', 'com.karimson.jasmine.driver.SpecResults', '<init>', '(\\d+)\\s.*,\\s(\\d+)\\s.*\\s(.+)s', 'foobar barfoo')",[129]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'shouldRaiseExceptionWhenStatusStringCannotBeParsed(com.karimson.jasmine.driver.SpecResultsTest)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'shouldParseStatusString(com.karimson.jasmine.driver.SpecResultsTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'shouldParseStatusString(com.karimson.jasmine.driver.SpecResultsTest)')",[21]
+"('SpecResults.java', 'com.karimson.jasmine.driver.SpecResults', '<init>', '(\\d+)\\s.*,\\s(\\d+)\\s.*\\s(.+)s', '10 specs, 0 failures in 0.088s')",[106]
+"('SpecResults.java', 'com.karimson.jasmine.driver.SpecResults', '<init>', '(\\d+)\\s.*,\\s(\\d+)\\s.*\\s(.+)s', '10 specs, 1 failures in 0.088s')",[84]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.karimson.jasmine.driver.SpecResultsTest')","[150, 170, 191, 211]"

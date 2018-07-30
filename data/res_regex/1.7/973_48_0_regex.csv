@@ -1,0 +1,81 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithEscapedSlash(io.lumify.miniweb.RouteTest)')","[969, 1809]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', 'resourceName*')",[3020]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo$', '/fooextra')",[2608]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteMissingDueToPath(io.lumify.miniweb.RouterTest)')","[370, 1305]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo/(.*?)/raw$', '/foo/25/zzz')",[2554]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetRequestWithNoCsrfTokenPresent(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[700, 1578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleResourceFiles(io.lumify.miniweb.handlers.AppendableStaticResourceHandlerTest)')","[513, 1410]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRestStyleUrlWithSpecialCharacters(io.lumify.miniweb.RouteTest)')","[843, 1683]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', 'id')","[2078, 2130, 2182, 2370, 2422, 2474, 2634, 3495, 3570]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/(.*?)$', '/test/25')",[3620]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test$', '/foo')",[3470]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/([0-9]*)/end$', '/test/1283723/end')",[2920]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMissingExceptionHandler(io.lumify.miniweb.RouterTest)')","[286, 1221]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.lumify.miniweb.handlers.AppendableStaticResourceHandlerTest')","[471, 2793]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRestStyleUrlWithSpecialCharactersAndKnownTail(io.lumify.miniweb.RouteTest)')","[822, 1662]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/([0-9]*)/end$', '/test/128a3723/end')",[3445]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetRequestWithCsrfPresent(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[637, 1515]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPostRequestWithNoCsrfTokenInSession(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[574, 1452]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExceptionHandler(io.lumify.miniweb.RouterTest)')","[307, 1242]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo/(.*?)/text$', '/foo/25/raw')",[2235]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo/(.*?)/text$', '/foo/25/text')",[2687]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPostRequestWithMatchingCsrfTokensInHeader(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[658, 1536]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleRoutesWithSamePrefix(io.lumify.miniweb.RouterTest)')","[244, 1179]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnhandledExceptionInHandler(io.lumify.miniweb.AppTest)')","[183, 1137]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.lumify.miniweb.handlers.CSRFHandlerTest')","[553, 2819]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*?)<(.*)>$', 'resourceName<[0-9]*>')","[2895, 3420]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/(.*?)\\.ext$', '/test/less.ext')",[3370]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegexRoute(io.lumify.miniweb.RouteTest)')","[801, 1641]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.lumify.miniweb.HandlerChainTest')","[740, 2845]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCaughtExceptionInHandler(io.lumify.miniweb.AppTest)')","[78, 1032]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*?)<(.*)>$', 'ext')",[3120]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSingleResourceFile(io.lumify.miniweb.handlers.AppendableStaticResourceHandlerTest)')","[534, 1431]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegexRouteNoMatch(io.lumify.miniweb.RouteTest)')","[927, 1767]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/(.*?)/edit/(.*?)$', '/test/person/edit/25')",[3270]
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', '_id')",[3220]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo/(.*?)$', '/foo/25/zzz')",[2581]
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*?)<(.*)>$', 'model')",[3195]
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*?)<(.*)>$', 'resourceName')",[2970]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExactRouteMatch(io.lumify.miniweb.RouteTest)')","[885, 1725]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo/(.*?)/raw$', '/foo/25/raw')",[2262]
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*?)<(.*)>$', 'id')","[2104, 2156, 2208, 2396, 2448, 2500, 2660, 3520, 3595]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteMissingDueToMethod(io.lumify.miniweb.RouterTest)')","[265, 1200]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', 'model')",[3170]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/(.*?)/data\\.json$', '/test/test@test.com/other/data.json')",[2995]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo$', '/foo')","[1858, 1886, 1914, 1942, 1970, 1999, 2052, 2290, 2317, 2344, 2715]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', 'resourceName<[0-9]*>')","[2870, 3395]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPostRequestWithNoCsrfTokenInRequest(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[679, 1557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStaticFileHander(io.lumify.miniweb.handlers.StaticFileHandlerTest)')","[452, 1368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPostRequestWithNonMatchingCsrfTokens(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[595, 1473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleHandlersForRoute(io.lumify.miniweb.AppTest)')","[57, 1011]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', 'file')","[3045, 3320]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExceptionInExceptionHandler(io.lumify.miniweb.RouterTest)')","[412, 1347]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMulitpleHandlersForRouteSetupByClass(io.lumify.miniweb.AppTest)')","[120, 1074]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.lumify.miniweb.handlers.StaticFileHandlerTest')","[431, 2767]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteMatchWithComponents(io.lumify.miniweb.RouteTest)')","[990, 1830]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteMiss(io.lumify.miniweb.RouteTest)')","[948, 1788]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', 'ext')",[3095]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteMiss(io.lumify.miniweb.AppTest)')","[141, 1095]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleRoutesWithSamePrefixLastMatch(io.lumify.miniweb.RouterTest)')","[349, 1284]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test$', '/test')",[3295]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testComplexComponentAttributeSetting(io.lumify.miniweb.RouteTest)')","[864, 1704]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteSetupByClass(io.lumify.miniweb.AppTest)')","[162, 1116]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPostRequestWithNoCsrfTokenInSessionOrRequest(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[616, 1494]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/(.*?)/test$', '/test/12%2F34/test')",[3545]
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/test/(.*)/(.*?)\\.(.*?)$', '/test/test@test.com/other/less.ext')",[3145]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleRouteHandlers(io.lumify.miniweb.RouterTest)')","[328, 1263]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHandlerInvocation(io.lumify.miniweb.HandlerChainTest)')","[761, 1620]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*?)<(.*)>$', 'file')","[3070, 3345]"
+"('Route.java', 'io.lumify.miniweb.Route', 'isMatch', '^/foo/(.*?)/text$', '/foo/25/zzz')",[2527]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.lumify.miniweb.AppTest')","[36, 2025]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.lumify.miniweb.RouteTest')","[780, 3642]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPostRequestWithMatchingCsrfTokensInParameter(io.lumify.miniweb.handlers.CSRFHandlerTest)')","[721, 1599]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteWithComponent(io.lumify.miniweb.RouterTest)')","[391, 1326]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteMatch(io.lumify.miniweb.AppTest)')","[99, 1053]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithNoResourceFiles(io.lumify.miniweb.handlers.AppendableStaticResourceHandlerTest)')","[492, 1389]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSimpleRoute(io.lumify.miniweb.RouterTest)')","[223, 1158]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*)\\*$', 'resourceName')",[2945]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.lumify.miniweb.RouterTest')","[202, 2741]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testComponentAsBaseFilename(io.lumify.miniweb.RouteTest)')","[906, 1746]"
+"('Route.java', 'io.lumify.miniweb.Route', 'convertPathToRegex', '^(.*?)<(.*)>$', '_id')",[3245]

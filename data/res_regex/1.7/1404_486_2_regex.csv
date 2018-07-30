@@ -1,0 +1,44 @@
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', 'gn:folder=abc..fkf')","[1765, 1793]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'gn:tag=hchen1/java')","[267, 828, 956]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'tag:hchen1/java:foo')",[422]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'tag:java')","[702, 1428, 1586]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'tag:java')","[672, 1397, 1556]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'gn:tag=hchen1/java')","[297, 859, 986]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'foo:tag=jd/jfd')",[547]
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'subscribe:this|gn:subscribe=this', 'gn:subscribe=this')","[2164, 2192]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'subscribe:this|gn:subscribe=this', 'gn:for=jofjds')","[2620, 2648]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', 'for:hchen1')","[2392, 2420]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'for:.*|gn:for=.*', 'gn:for=jofjds')","[2677, 2705]"
+"('FormatUtil.java', 'com.gnizr.core.util.FormatUtil', 'highlightStarEnclosedText', '(.*)\\*(\\S+)\\*(.*)', 'hello *world* *abc*')",[2731]
+"('FormatUtil.java', 'com.gnizr.core.util.FormatUtil', 'highlightStarEnclosedText', '(.*)\\*(\\S+)\\*(.*)', 'hello <b>world</b> <b>abc</b>')",[2783]
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', 'folder:foo')","[1708, 1736]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'subscribe:this|gn:subscribe=this', '889889')","[1879, 1907]"
+"('FormatUtil.java', 'com.gnizr.core.util.FormatUtil', 'highlightStarEnclosedText', '(.*)\\*(\\S+)\\*(.*)', '*dk* abc')",[2809]
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '233')","[202, 235]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'for:.*|gn:for=.*', 'for:hchen1')","[2506, 2534]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'subscribe:this|gn:subscribe=this', 'for:hchen1')","[2449, 2477]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'hchen1/java:foo')","[484, 515]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', 'gn:subscribe=that')","[2221, 2249]"
+"('FormatUtil.java', 'com.gnizr.core.util.FormatUtil', 'highlightStarEnclosedText', '(.*)\\*(\\S+)\\*(.*)', '<b>dk</b> abc')",[2835]
+"('FormatUtil.java', 'com.gnizr.core.util.FormatUtil', 'highlightStarEnclosedText', '(.*)\\*(\\S+)\\*(.*)', 'hello *world* <b>abc</b>')",[2757]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'tag1 tag2 foo.bar machine:tag=233')","[34, 68, 102, 136]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'tag:hchen1/java:foo')",[452]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'tag:hchen1/java:program')","[1144, 1301]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'hchen1/java')","[329, 360, 892, 924, 1018, 1049]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'machine:tag=233')",[168]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'tag:hchen1/java:program')","[1113, 1271]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', 'subscribe:this')","[1993, 2021]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'jd/jfd')","[609, 640]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'subscribe:this|gn:subscribe=this', 'subscribe:this')","[2050, 2078]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'hchen1/java:program')","[1177, 1209, 1333, 1364]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'subscribe:this|gn:subscribe=this', 'gn:subscribe=that')","[2278, 2306]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', '889889')","[1822, 1850]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'for:.*|gn:for=.*', 'gn:subscribe=that')","[2335, 2363]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'tag:java')","[732, 1459, 1616]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'foo:tag=jd/jfd')",[577]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'tag:hchen1/java:foo')",[392]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'tag:hchen1/java:program')","[1082, 1241]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'java')","[764, 795, 1492, 1524, 1648, 1679]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', 'gn:subscribe=this')","[2107, 2135]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'for:.*|gn:for=.*', '889889')","[1936, 1964]"
+"('TagUtil.java', 'com.gnizr.core.util.TagUtil', 'isSystemTag', 'folder:.*|gn:folder=.*', 'gn:for=jofjds')","[2563, 2591]"

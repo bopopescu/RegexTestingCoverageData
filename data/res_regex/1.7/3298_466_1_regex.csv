@@ -1,0 +1,70 @@
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string table{)')",[2438]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '}}')","[297, 693, 4559]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '{}')",[1025]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string city(')",[4489]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', ')')","[858, 924, 1520, 1588, 2234, 2844, 2914, 2984, 3054, 3124, 3194, 3264]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'join   {  \t  }')",[1289]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'join{}')",[1190]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'table{')","[3299, 3649, 3789]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'j3{')","[198, 594]"
+"('ParserImplPhaseParameterTest.java', 'ru.romanchuk.sqlmaster.parser.ParserImplPhaseParameterTest', 'simple', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string name( text')",[2742]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'name{')",[4209]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', ')}}')",[4524]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '(}')",[1928]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'j2{')",[528]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '}}}')","[264, 660]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'city{')",[4454]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'test test table ()')",[2608]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'table {(}')",[1860]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', ')test table ()')",[2676]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '{')","[33, 99, 3439]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'table {})')",[2132]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'where{')","[3964, 4174]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'table{')","[3334, 3684, 3824]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '} test table {}')",[1826]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'test table {}')",[1690]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string p1(string p2())')",[958]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '(}')",[1962]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '}')","[396, 792, 1124, 1256, 1388, 2404, 3404, 3614, 3754, 3894, 4104, 4384, 4664]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string name()')","[891, 1554]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'table {})')",[2098]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'table {)}')",[1996]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string table(}')",[2336]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'j1{')",[429]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '}')","[363, 759, 1091, 1223, 1355, 2370, 3369, 3579, 3719, 3859, 4069, 4349, 4629]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'test table {')",[1758]
+"('ParserImplPhaseParameterTest.java', 'ru.romanchuk.sqlmaster.parser.ParserImplPhaseParameterTest', 'simpleWithSpaces', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string    name     ( text')",[2774]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '} test table {}')",[1792]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'string table{)')",[2472]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'j2{')",[495]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '}}}')","[231, 627]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'strange type()')",[2710]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string name(')","[825, 1421, 3019, 3509, 3999, 4279]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string table(')","[2809, 2879, 2949, 3089, 3159, 3229]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'test table (')",[2642]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '{')","[66, 132, 3474]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '{}')",[1058]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'j1{')",[462]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'test test table ()')",[2574]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'number order(')",[1487]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'test table {')",[1724]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'join   {  \t  }')",[1322]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'where{')","[3929, 4139]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'table')",[2540]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'int name()')",[1622]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '})')",[2200]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'name{')",[4244]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'string p2())')",[992]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'j3{')","[165, 561]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'test table {}')",[1656]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'table {)}')",[2030]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'city{')",[4419]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'table ()')",[2302]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', ')}')","[2064, 3544, 4034, 4314]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'join{}')",[1157]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', 'table {(}')",[1894]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', '})')",[2166]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-zA-Z0-9_-]*)[ ]*\\{(.*)', '}}')","[330, 726, 4594]"
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'table')",[2506]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', 'table ()')",[2268]
+"('ParserImpl.java', 'ru.romanchuk.sqlmaster.parser.ParserImpl', 'phase2', '^([a-z]+)[ ]+([a-zA-Z0-9_-]+)[ ]*\\((.*)', ') number order(')",[1454]

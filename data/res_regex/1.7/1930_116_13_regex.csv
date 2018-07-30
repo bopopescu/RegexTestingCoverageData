@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.jdesktop.test.EDTRunnerTest')","[635, 655, 676, 696]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testForSwingThread(org.jdesktop.test.EDTRunnerTest)')","[510, 594]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.jdesktop.test.matchers.EquivalentMatcherTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.jdesktop.test.matchers.EquivalentMatcherTest')","[392, 412, 433, 453]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ensureEqualIsEquivalent(org.jdesktop.test.matchers.EquivalentMatcherTest)')","[225, 371]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testForSwingThread(org.jdesktop.test.EDTRunnerTest)')","[531, 552, 573, 614]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.jdesktop.test.EDTRunnerTest')",[489]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUnequalBaseObjects(org.jdesktop.test.matchers.EquivalentMatcherTest)')","[78, 99, 120, 329]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSerializedObjects(org.jdesktop.test.matchers.EquivalentMatcherTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ensureEqualIsEquivalent(org.jdesktop.test.matchers.EquivalentMatcherTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 470]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSerializedObjects(org.jdesktop.test.matchers.EquivalentMatcherTest)')","[141, 350]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUnequalBaseObjects(org.jdesktop.test.matchers.EquivalentMatcherTest)')","[57, 309]"

@@ -1,0 +1,52 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendEmailWithAttachment2(EmailSenderTest)')","[582, 603, 624]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[1291, 1885, 2479, 3073, 3667, 4261, 4855, 5449]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendSimpleEmailWithAttachmentAsync(EmailSenderTest)')","[225, 995]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1507, 2101, 2695, 3289, 3883, 4477, 5071, 5665]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendSimpleEmailWithAttachmentAsync(EmailSenderTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendSimpleEmail(EmailSenderTest)')","[813, 1142]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendAlertEmailWithAttachment(EmailSenderTest)')","[729, 1121]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 893]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailSender$4.class')",[2965]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailSender$2.class')",[2371]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailSender.class')",[5341]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')","[6190, 6252, 9052, 9150]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'TestBase')","[12100, 12120, 12141, 12161]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailSender$1.class')",[5935]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'initializationError(TestBase)')",[1163]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendSimpleEmailAsync(EmailSenderTest)')","[78, 99, 120, 953]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1237, 1831, 2425, 3019, 3613, 4207, 4801, 5395]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[1615, 2209, 2803, 3397, 3991, 4585, 5179, 5773]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendEmail2(EmailSenderTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendSimpleEmailWithAttachment(EmailSenderTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendSimpleEmailWithAttachment(EmailSenderTest)')","[141, 974]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')","[6221, 6283, 9101, 9199]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'EmailSenderTest')","[12182, 12202, 12223, 12243]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendEmail2(EmailSenderTest)')","[393, 1037]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'EmailSenderTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendEmailWithAttachment(EmailSenderTest)')","[477, 1058]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendEmail(EmailSenderTest)')","[309, 1016]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[5967]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'initializationError(TestBase)')",[1183]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendEmail(EmailSenderTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'TestBase')",[912]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailSender$3.class')",[4747]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailSender$3$1.class')",[1777]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1345, 1939, 2533, 3127, 3721, 4315, 4909, 5503]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendAlertEmail(EmailSenderTest)')","[645, 1100]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendAlertEmailWithAttachment(EmailSenderTest)')","[750, 771, 792]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendSimpleEmail(EmailSenderTest)')","[834, 855, 876]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailSender$4$1.class')",[3559]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest\\E', 'test')","[1669, 2263, 2857, 3451, 4045, 4639, 5233, 5827]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendEmailWithAttachment(EmailSenderTest)')","[498, 519, 540]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q795_17\\E', '795_17')","[1399, 1993, 2587, 3181, 3775, 4369, 4963, 5557]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendSimpleEmailAsync(EmailSenderTest)')","[57, 933]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[6031]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSendEmailWithAttachment2(EmailSenderTest)')","[561, 1079]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[6095, 6159, 6357, 6431, 6493, 6555, 6655, 6755, 6853, 6951, 7061, 7171, 7235, 7299, 7361, 7423, 7497, 7571, 7671, 7771, 7869, 7967, 8077, 8187, 8287, 8387, 8485, 8583, 8693, 8803, 8903, 9003, 9309, 9419, 9517, 9615, 9715, 9815, 9913, 10011, 10121, 10231, 10331, 10431, 10529, 10627, 10737, 10847, 10947, 11047, 11145, 11243, 11353, 11463, 11563, 11663, 11761, 11859, 11969, 12079]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[1561, 2155, 2749, 3343, 3937, 4531, 5125, 5719]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Alert.class')",[4153]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[5999]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qemail\\E', 'email')","[1723, 2317, 2911, 3505, 4099, 4693, 5287, 5881]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[6063, 6127, 6320, 6394, 6462, 6524, 6605, 6705, 6804, 6902, 7006, 7116, 7203, 7267, 7330, 7392, 7460, 7534, 7621, 7721, 7820, 7918, 8022, 8132, 8237, 8337, 8436, 8534, 8638, 8748, 8853, 8953, 9254, 9364, 9468, 9566, 9665, 9765, 9864, 9962, 10066, 10176, 10281, 10381, 10480, 10578, 10682, 10792, 10897, 10997, 11096, 11194, 11298, 11408, 11513, 11613, 11712, 11810, 11914, 12024]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSendAlertEmail(EmailSenderTest)')","[666, 687, 708]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qspring-velocity-emailsender\\E', 'spring-velocity-emailsender')","[1453, 2047, 2641, 3235, 3829, 4423, 5017, 5611]"

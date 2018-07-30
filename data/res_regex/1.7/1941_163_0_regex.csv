@@ -1,0 +1,79 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_instantiate_shipping_charge(net.kerflyn.broceliand.util.LoadShippingChargeTest)')","[948, 969, 990, 2294]"
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', 'login', 'login')","[3582, 3608]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[2786]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_unit_price(net.kerflyn.broceliand.model.BasketElementTest)')","[244, 2027]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_get_price_for_a_seller(net.kerflyn.broceliand.model.BookTest)')","[368, 389, 410, 2088]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.model.SellerTest')",[513]
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', 'basket-add', 'login')","[2824, 2836]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BookServiceImplWhenDeleteTest')",[1757]
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', '[0-9]+', 'login')","[3635, 3661]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplIntegrationTest')",[1570]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.util.LoadShippingChargeTest')","[3376, 3400, 3425, 3449]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.util.LoadShippingChargeTest')",[906]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_get_a_book_set_with_an_unknown_city(net.kerflyn.broceliand.loader.SellerAccessorTest)')","[721, 2212]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplWhenAddingBookTest')","[4164, 4184, 4205, 4225]"
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', 'basket-delete', 'login')","[2799, 2811]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_get_minimum_price_by_default(net.kerflyn.broceliand.model.BookTest)')","[452, 473, 494]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTest')","[4246, 4266, 4287, 4307]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_get_minimum_price_by_default(net.kerflyn.broceliand.model.BookTest)')","[431, 2109]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[2732]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'shouldSayHello(net.kerflyn.broceliand.BroceliandTest)')","[78, 99, 120, 1985]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_call_the_method_index(net.kerflyn.broceliand.route.BindingTest)')","[1030, 2315]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_add_another_occurrence_of_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplIntegrationTest)')","[1591, 2501]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_get_a_book_set(net.kerflyn.broceliand.loader.SellerAccessorTest)')","[637, 2171]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_invoice_total_depend_on_basket_content(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTotalTest)')","[1488, 2460]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTotalTest')","[3890, 3914, 3939, 3963]"
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', '[0-9]+', '42')","[3741, 3767]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_delete_book(net.kerflyn.broceliand.service.impl.BookServiceImplWhenDeleteTest)')","[1799, 1820, 1841, 2583]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_get_price_for_a_seller(net.kerflyn.broceliand.model.BookTest)')","[347, 2068]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_call_the_method_login(net.kerflyn.broceliand.route.BindingTest)')","[1114, 2356]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTest')",[1860]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplWhenAddingBookTest')",[1280]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_instantiate_shipping_charge(net.kerflyn.broceliand.util.LoadShippingChargeTest)')","[927, 2274]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_invoice_total_depend_on_basket_content(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTotalTest)')","[1509, 1530, 1551, 2480]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_get_a_book_set(net.kerflyn.broceliand.loader.SellerAccessorTest)')","[658, 679, 700, 2191]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_find_strategy_by_quantity(net.kerflyn.broceliand.model.SellerTest)')","[555, 576, 597, 2150]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_call_the_method_login(net.kerflyn.broceliand.route.BindingTest)')","[1135, 1156, 1177]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTotalTest')",[1467]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_call_the_method_getUser(net.kerflyn.broceliand.route.BindingTest)')","[1198, 2377]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_add_new_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplIntegrationTest)')","[1675, 2542]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.loader.SellerLoaderTest')",[803]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_load_books(net.kerflyn.broceliand.loader.SellerLoaderTest)')","[824, 2233]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_get_a_book_set_with_an_unknown_city(net.kerflyn.broceliand.loader.SellerAccessorTest)')","[742, 763, 784]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_add_new_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenAddingBookTest)')","[1322, 1343, 1364, 2418]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_add_another_occurence_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenAddingBookTest)')","[1406, 1427, 1448]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.model.BookTest')","[2984, 3008, 3033, 3057]"
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', 'login', '42')","[3688, 3714]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.model.BasketElementTest')",[223]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_unit_price(net.kerflyn.broceliand.model.BasketElementTest)')","[265, 286, 307, 2047]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_delete_book(net.kerflyn.broceliand.service.impl.BookServiceImplWhenDeleteTest)')","[1778, 2563]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.route.BindingTest')",[1009]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'shouldSayHello(net.kerflyn.broceliand.BroceliandTest)')","[57, 1965]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'shouldDisplayLoginForm(net.kerflyn.broceliand.BroceliandTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.model.SellerTest')","[3082, 3106, 3131, 3155]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_add_new_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplIntegrationTest)')","[1696, 1717, 1738]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.BroceliandTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.route.BindingTest')","[3792, 3816, 3841, 3865]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_invoice_total_depend_on_basket_content(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTest)')","[1902, 1923, 1944, 2624]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_add_another_occurrence_of_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplIntegrationTest)')","[1612, 1633, 1654, 2521]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[2678]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.loader.SellerAccessorTest')","[3180, 3204, 3229, 3253]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.model.BasketElementTest')","[2886, 2910, 2935, 2959]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BasketServiceImplIntegrationTest')","[4328, 4348, 4369, 4389]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_find_strategy_by_quantity(net.kerflyn.broceliand.model.SellerTest)')","[534, 2130]"
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', 'login', 'index')","[3476, 3502]"
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', 'new', 'login')","[2849, 2861]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_load_books(net.kerflyn.broceliand.loader.SellerLoaderTest)')","[845, 866, 887, 2253]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_add_another_occurence_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenAddingBookTest)')","[1385, 2439]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.loader.SellerAccessorTest')",[616]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_add_new_book_to_user(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenAddingBookTest)')","[1301, 2398]"
+"('Routes.java', 'net.kerflyn.broceliand.route.Routes', 'findMethodIn', '[0-9]+', 'index')","[3529, 3555]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.service.impl.BookServiceImplWhenDeleteTest')","[3988, 4012, 4037, 4061]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.loader.SellerLoaderTest')","[3278, 3302, 3327, 3351]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.BroceliandTest')","[4082, 4102, 4123, 4143]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_invoice_total_depend_on_basket_content(net.kerflyn.broceliand.service.impl.BasketServiceImplWhenGettingInvoiceTest)')","[1881, 2604]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.kerflyn.broceliand.model.BookTest')",[326]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_call_the_method_getUser(net.kerflyn.broceliand.route.BindingTest)')","[1219, 1240, 1261]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'shouldDisplayLoginForm(net.kerflyn.broceliand.BroceliandTest)')","[141, 2006]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_call_the_method_index(net.kerflyn.broceliand.route.BindingTest)')","[1051, 1072, 1093, 2335]"

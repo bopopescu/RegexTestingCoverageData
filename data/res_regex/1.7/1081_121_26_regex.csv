@@ -1,0 +1,97 @@
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3_Lucene40_0.tip')",[33620]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1.fdx')","[9893, 24992]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2_Lucene40_0.frq')",[29485]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0.fnm')","[8207, 19880]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '.myOtherIndexedFile.txt')","[5521, 5555, 5878, 5912, 6240, 6275, 8378, 8389, 8494, 8509, 8661, 8676, 8818, 8831]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[884, 981, 1466, 1563, 1660, 1757]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0.fdt')","[8326, 20195]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0_nrm.cfs')","[8292, 20105]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3_Lucene40_0.tim')",[33752]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path/to/some/complex/file.txt')","[11289, 11319, 12538, 12571, 20631, 20668]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '.simple.doc')","[12804, 12837, 13153, 13186, 13507, 13541, 15302, 15339, 25775, 25816, 26204, 26245, 26623, 26662]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1_Lucene40_0.tip')","[10012, 25321]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', 'myIndexedFile.txt')","[3846, 3875, 3972, 4007, 4043, 4078, 4329, 4364, 4400, 4435, 4687, 4723, 4760, 4796, 6667, 6678, 6695, 6711, 6728, 6744, 6862, 6878, 6895, 6911, 7027, 7041, 7056, 7070, 7179, 7198, 7218, 7237, 7257, 7276, 7296, 7315, 7335, 7354, 7374, 7393, 7410, 7426, 7443, 7459, 7476, 7492, 7509, 7525, 7542, 7558, 7575, 7591, 7607, 7622, 7638, 7653, 7670, 7686, 7703, 7719, 7736, 7752, 7769, 7785, 7802, 7818, 7835, 7851, 7867, 7882, 7898, 7913, 7930, 7946, 7963, 7979, 7996, 8012, 8029, 8045, 8062, 8078, 8095, 8111, 8127, 8142, 8158, 8173]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path')","[15373, 15406]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path/to/.file.txt')","[10452, 10487, 10799, 10834, 11155, 11191, 15511, 15546, 16177, 16222, 16624, 16669, 17053, 17096]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3_Memory_0.ram')",[33928]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/someNewOtherPath')","[2515, 2546, 2914, 2950, 3271, 3307, 3635, 3672, 4184, 4220, 4541, 4577, 4905, 4942, 5592, 5628, 5949, 5985, 6313, 6350, 6793, 6810, 6960, 6977, 7113, 7128, 8527, 8544, 8694, 8711, 8847, 8862]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIndex(org.uberfire.metadata.io.BatchIndexTest)')","[97, 141]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '.myIndexedFile.txt')","[4113, 4147, 4470, 4504, 4832, 4867, 6644, 6655, 6760, 6775, 6927, 6942, 7084, 7097]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CTR')","[496, 593, 690, 787]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/someNewOtherPath/myIndexedFile.txt')","[3906, 3936, 5190, 5224]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3_nrm.cfs')",[33664]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path/to')","[10381, 10416, 10728, 10763, 11082, 11118, 15441, 15475, 16086, 16131, 16533, 16578, 16966, 17009]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '.simple.xls')","[14123, 14156, 14470, 14503, 14822, 14856, 30265, 30307, 30692, 30732]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0_Lucene40_0.tim')","[8190, 19835]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1_Memory_0.ram')","[9927, 25086]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path/to/some/complex/.file.txt')","[11631, 11666, 11978, 12013, 12334, 12370, 12471, 12504, 20473, 20510, 21171, 21218, 21638, 21685, 22087, 22132]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[544, 642, 738, 836, 932, 1030, 1126, 1224, 1320, 1418, 1514, 1612, 1708, 1806]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2_nrm.cfe')",[29442]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.uberfire.metadata.io.IOServiceIndexedGitImplTest')","[36, 10079]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/.simple.doc')","[12946, 12981, 13295, 13330, 13653, 13689, 13790, 13823, 15231, 15264, 25949, 25992, 26378, 26421, 26789, 26830]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path/to/some')","[20327, 20362]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', 'simple.xls')","[13986, 14020, 14055, 14089, 14333, 14367, 14402, 14436, 14681, 14716, 14752, 14787, 30010, 30048, 30092, 30135, 30179, 30222, 30527, 30568, 30610, 30651, 30945, 30987, 31030, 31072, 31115, 31157, 31200, 31242, 31285, 31327, 31370, 31412, 31456, 31499, 31543, 31586, 31630, 31673, 31717, 31760, 31804, 31847, 31891, 31934, 31977, 32019, 32062, 32104, 32148, 32191, 32235, 32278, 32322, 32365, 32409, 32452, 32496, 32539, 32583, 32626, 32669, 32711, 32754, 32796, 32840, 32883, 32927, 32970, 33014, 33057, 33101, 33144, 33188, 33231, 33275, 33318, 33361, 33403, 33446, 33488]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', 'dummy')","[2576, 2605, 2702, 2737, 2773, 2808, 3059, 3094, 3130, 3165, 3417, 3453, 3490, 3526]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0_Lucene40_0.tip')","[8343, 20240]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIndexedFile(org.uberfire.metadata.io.IOServiceIndexedGitImplTest)')","[57, 119]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0.si')","[8366, 20291]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0_nrm.cfe')","[8258, 20015]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3.fnm')",[33884]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/._someDir-1157793070')","[2324, 2359]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1.si')","[10052, 25421]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/someNewOtherPath/dummy')","[2636, 2666]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/xxx/simple.xls')","[13921, 13951, 15103, 15136, 29937, 29971]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', 'someNewOtherPath')","[2389, 2418]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/tmp')","[1905, 1940]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2_Lucene40_0.tim')",[29657]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/home/peipei/RepoReaper/1081_121/uberfire-metadata/uberfire-metadata-commons-io')","[189, 236]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '._someDir-1157793070')","[2182, 2215]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/xxx/.simple.xls')","[14263, 14298, 14610, 14645, 14966, 15002, 30441, 30485, 30860, 30902]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3_Lucene40_0.frq')",[33708]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/xxx')","[14192, 14227, 14539, 14574, 14893, 14929, 29869, 29902, 30352, 30396, 30775, 30817]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', 'simple.doc')","[12667, 12701, 12736, 12770, 13016, 13050, 13085, 13119, 13366, 13401, 13437, 13472, 25526, 25563, 25606, 25648, 25691, 25733, 26035, 26077, 26120, 26162, 26462, 26502, 26543, 26583, 26872, 26913, 26955, 26996, 27038, 27079, 27121, 27162, 27204, 27245, 27287, 27328, 27371, 27413, 27456, 27498, 27541, 27583, 27626, 27668, 27711, 27753, 27796, 27838, 27880, 27921, 27963, 28004, 28047, 28089, 28132, 28174, 28217, 28259, 28302, 28344, 28387, 28429, 28472, 28514, 28556, 28597, 28639, 28680, 28723, 28765, 28808, 28850, 28893, 28935, 28978, 29020, 29063, 29105, 29148, 29190, 29232, 29273, 29315, 29356]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/someNewOtherPath/.dummy')","[2987, 3023, 3344, 3380, 3710, 3747]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path/to/some/complex')","[11560, 11595, 11907, 11942, 12261, 12297, 20399, 20435, 21076, 21123, 21543, 21590, 21996, 22041]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '.dummy')","[2843, 2877, 3200, 3234, 3562, 3597]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0_Memory_0.ram')","[8241, 19970]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2_Lucene40_0.prx')",[29528]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/someNewOtherPath/.myOtherIndexedFile.txt')","[5665, 5701, 6022, 6058, 6388, 6425, 6529, 6563, 8562, 8579, 8729, 8746, 8878, 8893]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2_Lucene40_0.tip')",[29399]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3.fdt')",[33840]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2.fdx')",[29743]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/someNewOtherPath/.myIndexedFile.txt')","[4257, 4293, 4614, 4650, 4980, 5017, 5121, 5155, 6828, 6845, 6995, 7012, 7144, 7159]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/_someDir-1157793070')","[1838, 1869]"
+"('GeneralPathImpl.java', 'org.uberfire.java.nio.base.GeneralPathImpl', 'setupRoot', '^/?[A-Z|a-z]+(:).*', '/home/peipei/RepoReaper/1081_121/uberfire-metadata/uberfire-metadata-commons-io')","[283, 330]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1.fnm')","[9978, 25227]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/someNewOtherPath/myOtherIndexedFile.txt')","[5314, 5344, 6598, 6632]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', 'myOtherIndexedFile.txt')","[5254, 5283, 5380, 5415, 5451, 5486, 5737, 5772, 5808, 5843, 6095, 6131, 6168, 6204, 8401, 8412, 8429, 8445, 8462, 8478, 8596, 8612, 8629, 8645, 8761, 8775, 8790, 8804, 8909, 8924, 8940, 8955, 8971, 8986, 9002, 9017, 9033, 9048, 9064, 9079, 9096, 9112, 9129, 9145, 9162, 9178, 9195, 9211, 9228, 9244, 9261, 9277, 9293, 9308, 9324, 9339, 9356, 9372, 9389, 9405, 9422, 9438, 9455, 9471, 9488, 9504, 9521, 9537, 9553, 9568, 9584, 9599, 9616, 9632, 9649, 9665, 9682, 9698, 9715, 9731, 9748, 9764, 9781, 9797, 9813, 9828, 9844, 9859]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[389]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3_nrm.cfe')",[33576]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2_Memory_0.ram')",[29614]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '_someDir-1157793070')","[2045, 2079, 2114, 2148]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1_Lucene40_0.frq')","[9961, 25180]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3.fdx')",[33532]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1_nrm.cfs')","[9910, 25039]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2.si')",[29835]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[448]
+"('GeneralPathImpl.java', 'org.uberfire.java.nio.base.GeneralPathImpl', 'setupRoot', '^/?[A-Z|a-z]+(:).*', '/tmp')","[1975, 2010]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1_Lucene40_0.prx')","[9995, 25274]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1_Lucene40_0.tim')","[9876, 24945]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1.fdt')","[9944, 25133]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0_Lucene40_0.frq')","[8224, 19925]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/')","[2252, 2288, 2451, 2483, 3782, 3816, 5052, 5086, 6460, 6494, 11225, 11258, 12404, 12437, 12874, 12910, 13223, 13259, 13579, 13616, 13723, 13756, 15036, 15069, 15167, 15197, 25861, 25905, 26290, 26334, 26705, 26747, 34011, 34043]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2_nrm.cfs')",[29700]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0.fdx')","[8275, 20060]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_0_Lucene40_0.prx')","[8309, 20150]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3_Lucene40_0.prx')",[33796]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2.fnm')",[29786]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.uberfire.metadata.io.BatchIndexTest')","[76, 34066]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '.file.txt')","[10312, 10345, 10659, 10692, 11011, 11045, 11491, 11524, 11838, 11871, 12190, 12224, 15586, 15625, 15997, 16040, 16444, 16487, 16881, 16922, 20552, 20593, 20983, 21028, 21450, 21495, 21907, 21950]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/simple.doc')","[12602, 12632, 13857, 13890, 25455, 25488]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_3.si')",[33978]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_1_nrm.cfe')","[10029, 25368]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_2.fdt')",[29571]
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', 'file.txt')","[10175, 10209, 10244, 10278, 10522, 10556, 10591, 10625, 10870, 10905, 10941, 10976, 11354, 11388, 11423, 11457, 11701, 11735, 11770, 11804, 12049, 12084, 12120, 12155, 15736, 15775, 15820, 15864, 15909, 15953, 16267, 16311, 16356, 16400, 16712, 16754, 16797, 16839, 17144, 17191, 17239, 17286, 17334, 17381, 17429, 17476, 17524, 17571, 17619, 17666, 17711, 17755, 17800, 17844, 17889, 17933, 17978, 18022, 18067, 18111, 18156, 18200, 18244, 18287, 18331, 18374, 18419, 18463, 18508, 18552, 18597, 18641, 18686, 18730, 18775, 18819, 18864, 18908, 18952, 18995, 19039, 19082, 19127, 19171, 19216, 19260, 19305, 19349, 19394, 19438, 19483, 19527, 19572, 19616, 19660, 19703, 19747, 19790, 20710, 20751, 20798, 20844, 20891, 20937, 21265, 21311, 21358, 21404, 21730, 21774, 21819, 21863, 22178, 22223, 22269, 22314, 22360, 22405, 22451, 22496, 22542, 22587, 22633, 22678, 22725, 22771, 22818, 22864, 22911, 22957, 23004, 23050, 23097, 23143, 23190, 23236, 23282, 23327, 23373, 23418, 23465, 23511, 23558, 23604, 23651, 23697, 23744, 23790, 23837, 23883, 23930, 23976, 24022, 24067, 24113, 24158, 24205, 24251, 24298, 24344, 24391, 24437, 24484, 24530, 24577, 24623, 24670, 24716, 24762, 24807, 24853, 24898]"
+"('AbstractPath.java', 'org.uberfire.java.nio.base.AbstractPath', '<init>', '.*\\\\.*', '/path/to/file.txt')","[10110, 10140, 15661, 15696]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64', 'CBC')","[1078, 1175, 1272, 1369]"

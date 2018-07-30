@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canJoinElementsToId(org.opennms.newts.cassandra.search.SimpleResourceIdSplitterTest)')","[97, 305]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canSplitIdIntoElements(org.opennms.newts.cassandra.search.EscapableResourceIdSplitterTest)')","[221, 415]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.opennms.newts.cassandra.search.GuavaResourceMetadataTest')","[36, 464]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.opennms.newts.cassandra.search.EscapableResourceIdSplitterTest')","[158, 518]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'noEscapeSupport(org.opennms.newts.cassandra.search.SimpleResourceIdSplitterTest)')","[139, 349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'insertStatementsAreDeduplicatedWhenIndexingManySamples(org.opennms.newts.cassandra.search.CassandraIndexerTest)')","[261, 437]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.opennms.newts.cassandra.search.CassandraIndexerTest')","[240, 541]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canSplitIdIntoElements(org.opennms.newts.cassandra.search.SimpleResourceIdSplitterTest)')","[118, 327]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canJoinElementsToId(org.opennms.newts.cassandra.search.EscapableResourceIdSplitterTest)')","[200, 393]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.opennms.newts.cassandra.search.GuavaResourceMetadataTest)')","[57, 283]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canEscapeSeparator(org.opennms.newts.cassandra.search.EscapableResourceIdSplitterTest)')","[179, 371]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.opennms.newts.cassandra.search.SimpleResourceIdSplitterTest')","[76, 491]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

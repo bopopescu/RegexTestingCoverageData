@@ -1,0 +1,10 @@
+"('PropertiesReader.java', 'com.tmyagkova.testTask.propsReader.PropertiesReader', 'validateFileName', '([A-Za-z]:)?([(\\\\|/)A-Za-z0-9_\\s-])*\\.properties', 'd:/TestTask/externalProps.properties')",[341]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExistFileName(com.tmyagkova.testTask.propsReader.PropertiesReaderTest)')","[56, 137]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidateInvalidFileName(com.tmyagkova.testTask.propsReader.PropertiesReaderTest)')","[116, 200]"
+"('PropertiesReader.java', 'com.tmyagkova.testTask.propsReader.PropertiesReader', 'validateFileName', '([A-Za-z]:)?([(\\\\|/)A-Za-z0-9_\\s-])*\\.properties', 'Hello world')",[388]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidateFileNameWinBackSlash(com.tmyagkova.testTask.propsReader.PropertiesReaderTest)')","[76, 158]"
+"('PropertiesReader.java', 'com.tmyagkova.testTask.propsReader.PropertiesReader', 'validateFileName', '([A-Za-z]:)?([(\\\\|/)A-Za-z0-9_\\s-])*\\.properties', 'd:\\TestTask\\MockFile.properties')",[247]
+"('PropertiesReader.java', 'com.tmyagkova.testTask.propsReader.PropertiesReader', 'validateFileName', '([A-Za-z]:)?([(\\\\|/)A-Za-z0-9_\\s-])*\\.properties', 'd:\\TestTask\\externalProps.properties')",[294]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidateFileNameWinForwardSlash(com.tmyagkova.testTask.propsReader.PropertiesReaderTest)')","[96, 179]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tmyagkova.testTask.propsReader.PropertiesReaderTest')","[36, 410]"

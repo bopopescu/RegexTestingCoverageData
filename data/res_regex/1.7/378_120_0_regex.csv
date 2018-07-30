@@ -1,0 +1,117 @@
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/([^/]+?)(/)?', '/+14152222222/22')",[3378]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/keys(/.*)?', '/v1/keys/+14152222222/*')",[2990]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializeFromJSONV(org.whispersystems.textsecuregcm.tests.entities.PreKeyTest)')","[923, 1889]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v1/keys/+14152222222')",[2802]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/messages(/.*)?', '/v1/messages/')",[4128]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.entities.PreKeyTest')","[860, 5787]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/([^/]+?)(/)?', '/+14152222222/12345')",[4638]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'putKeysTestV1(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[141, 1229]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v2/keys/+14152222222/1')","[2465, 2580, 3182]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/messages/([^/]+?)/([^/]+?)/([^/]+?)(/)?', '/messages/+14152223333/1/+14151111111')",[4535]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/([^/]+?)(/)?', '/+14152222222/1')","[2545, 2658, 3262]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializeToJSONV2(org.whispersystems.textsecuregcm.tests.entities.PreKeyTest)')","[902, 1867]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v2/keys/+14152222222/22')",[3298]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultiDeviceCurrent(org.whispersystems.textsecuregcm.tests.controllers.ReceiptControllerTest)')","[597, 1647]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/signed(/)?', '/+14152222220')",[3758]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializeToJSON(org.whispersystems.textsecuregcm.tests.entities.ClientContactTest)')","[963, 1911]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'putSignedPreKeyV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[288, 1383]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/directory(/.*)?', '/v1/directory/tokens/')",[5666]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.WebsocketControllerTest')","[799, 5760]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/([^/]+?)(/)?', '/+14151111111/1234')",[4714]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/devices(/.*)?', '/v1/devices/provisioning_code')",[5447]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.entities.ClientContactTest')","[942, 5884]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/code/([^/]+?)(/)?', '/code/1234')",[4897]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/code/([^/]+?)(/)?', '/code/1234')",[4937]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/invitation/([^/]+?)(/)?', '/sms/code/+14152222222')",[5246]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/([^/]+?)(/)?', '/+14152222222/*')","[3030, 3146]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'anotherInvalidRequestTestV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[267, 1361]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/keys(/.*)?', '/v1/keys/+14152222220')","[2201, 2351, 3602]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validDeviceRegisterTest(org.whispersystems.textsecuregcm.tests.controllers.DeviceControllerTest)')","[740, 1757]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/messages(/.*)?', '/v1/messages/+14152222222')","[3900, 3976, 4052, 4240]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getSignedPreKeyV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[309, 1405]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNexmoVoxFallback(org.whispersystems.textsecuregcm.tests.sms.TwilioFallbackTest)')","[1099, 1999]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/code/([^/]+?)(/)?', '/code/1111')",[5133]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCredentials(org.whispersystems.textsecuregcm.tests.controllers.WebsocketControllerTest)')","[841, 1823]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/provisioning_code(/)?', '/5678901')",[5563]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.sms.DeliveryPreferenceTest')","[1020, 5838]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSingleDeviceCurrent(org.whispersystems.textsecuregcm.tests.controllers.FederatedControllerTest)')","[557, 1625]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validKeyStatusTestV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[78, 1163]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultiDeviceMissing(org.whispersystems.textsecuregcm.tests.controllers.MessageControllerTest)')","[433, 1515]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testVerifyCode(org.whispersystems.textsecuregcm.tests.controllers.AccountControllerTest)')","[658, 1691]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/tokens(/)?', '/tokens/')",[5706]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/code/([^/]+?)(/)?', '/sms/code/+14152222222')",[5285]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'unauthorizedRequestTestV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[120, 1207]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.DeviceControllerTest')","[719, 5630]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'invalidRequestTestV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[351, 1449]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'unauthorizedRequestTestV1(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[99, 1185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultiDeviceExtra(org.whispersystems.textsecuregcm.tests.controllers.MessageControllerTest)')","[496, 1581]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'putKeysTestV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[162, 1251]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializeToJSONV1(org.whispersystems.textsecuregcm.tests.entities.PreKeyTest)')","[881, 1845]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '.*', '/+14152222220')",[3837]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validSingleRequestTestV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[246, 1339]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/+14151111111')",[4204]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/receipt(/.*)?', '/v1/receipt/+14151111111/1234')",[4674]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/invitation/([^/]+?)(/)?', '/code/1111')",[5053]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSingleDeviceCurrent(org.whispersystems.textsecuregcm.tests.controllers.MessageControllerTest)')","[475, 1559]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validMultiRequestTestV2(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[225, 1317]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/signed(/)?', '/+14152222222/*')",[3106]
+"('Util.java', 'org.whispersystems.textsecuregcm.util.Util', 'isValidNumber', '^\\+[0-9]{10,}', '+14152222222')","[5335, 5384]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/+14152222222')","[2918, 3940, 4016, 4092, 4280]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContactIntersection(org.whispersystems.textsecuregcm.tests.controllers.DirectoryControllerTest)')","[780, 1779]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/accounts(/.*)?', '/v1/accounts/code/1111')",[4973]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest')","[36, 3864]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOpen(org.whispersystems.textsecuregcm.tests.controllers.WebsocketControllerTest)')","[820, 1801]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/invitation/([^/]+?)(/)?', '/code/1234')",[4857]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/([^/]+?)(/)?', '/+14152222222')",[2878]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'invalidRequestTestV1(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[330, 1427]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v2/keys')","[2129, 2766]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validLegacyRequestTest(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[183, 1273]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.FederatedControllerTest')","[515, 4562]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSingleDeviceCurrent(org.whispersystems.textsecuregcm.tests.controllers.ReceiptControllerTest)')","[618, 1669]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v1/keys/+14152222222/*')",[2954]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/keys(/.*)?', '/v1/keys/+14152222222')",[2838]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/receipt(/.*)?', '/v1/receipt/+14152222222/12345')",[4598]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSingleDeviceLegacy(org.whispersystems.textsecuregcm.tests.controllers.MessageControllerTest)')","[454, 1537]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/key/([^/]+?)/([^/]+?)(/)?', '/key/+14152223333/1')",[4383]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/+14152222220')","[2281, 2429, 3682]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRegistrationIdMismatch(org.whispersystems.textsecuregcm.tests.controllers.MessageControllerTest)')","[391, 1471]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializeFromJSON(org.whispersystems.textsecuregcm.tests.entities.ClientContactTest)')","[984, 1933]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/code/([^/]+?)(/)?', '/code/1111')",[5093]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSendCode(org.whispersystems.textsecuregcm.tests.controllers.AccountControllerTest)')","[700, 1735]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validMultiRequestTestV1(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[204, 1295]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultiDevice(org.whispersystems.textsecuregcm.tests.controllers.MessageControllerTest)')","[412, 1493]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)/([^/]+?)(/)?', '/+14152222220')","[2241, 2390, 3642, 3798]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.AccountControllerTest')","[637, 5411]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v2/keys/+14152222220')",[3718]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/signed(/)?', '/+14152222222/22')",[3338]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/keys(/.*)?', '/v1/keys')","[2093, 2730]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.sms.TwilioFallbackTest')","[1079, 5861]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInternationalPreferenceOn(org.whispersystems.textsecuregcm.tests.sms.DeliveryPreferenceTest)')","[1060, 1977]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/signed(/)?', '/signed')","[3454, 3530]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.DirectoryControllerTest')","[759, 5733]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 1001]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/voice/twiml/([^/]+?)(/)?', '/code/1234')",[4817]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v1/keys/+14152222220')","[2165, 2316, 3566]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/user_tokens/([^/]+?)(/)?', '/messages/+14152223333/1/+14151111111')",[4495]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInternationalPreferenceOff(org.whispersystems.textsecuregcm.tests.sms.DeliveryPreferenceTest)')","[1040, 1955]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSignedPreKeyV2(org.whispersystems.textsecuregcm.tests.controllers.FederatedControllerTest)')","[536, 1603]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/5678901')",[5603]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/provisioning_code(/)?', '/provisioning_code')",[5487]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/signed(/)?', '/+14152222222/1')","[2505, 2619, 3222]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/voice/twiml/([^/]+?)(/)?', '/code/1111')",[5013]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/federation(/.*)?', '/v1/federation/messages/+14152223333/1/+14151111111')",[4419]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.MessageControllerTest')","[370, 4307]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/devices(/.*)?', '/v1/devices/5678901')",[5523]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v1/keys')","[2057, 2694]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNexmoSmsFallback(org.whispersystems.textsecuregcm.tests.sms.TwilioFallbackTest)')","[1119, 2021]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v2/keys/signed')","[3414, 3490]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/federation(/.*)?', '/v2/federation/key/+14152223333/1')",[4343]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v2/keys(/.*)?', '/v2/keys/+14152222222/*')",[3066]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testVerifyBadCode(org.whispersystems.textsecuregcm.tests.controllers.AccountControllerTest)')","[679, 1713]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validKeyStatusTestV1(org.whispersystems.textsecuregcm.tests.controllers.KeyControllerTest)')","[57, 1141]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/accounts(/.*)?', '/v1/accounts/sms/code/+14152222222')",[5168]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/voice/twiml/([^/]+?)(/)?', '/sms/code/+14152222222')",[5207]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/accounts(/.*)?', '/v1/accounts/code/1234')",[4777]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/messages(/.*)?', '/v1/messages/+14151111111')",[4164]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/v1/federation(/.*)?', '/v1/federation/messages/+14152223333/1/+14151111111')",[4455]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.whispersystems.textsecuregcm.tests.controllers.ReceiptControllerTest')","[576, 4741]"

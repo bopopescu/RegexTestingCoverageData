@@ -1,0 +1,4 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'uk.ac.ebi.pride.utilities.peptide_repo_fetcher.PeptideDetailFetcherTest')","[36, 131]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetPeptideDetails(uk.ac.ebi.pride.utilities.peptide_repo_fetcher.PeptideDetailFetcherTest)')","[57, 78]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@\\[/?#]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*(?:\\{[^/]+?\\})?))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'http://wwwdev.ebi.ac.uk/pride/ws/cluster/cluster/search?peptide=gi|6323379|')",[109]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]

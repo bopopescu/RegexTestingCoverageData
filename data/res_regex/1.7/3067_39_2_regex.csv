@@ -1,0 +1,58 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.google.gerrit.server.config.SitePathsTest')","[214, 1063]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '231sec')",[1251]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '300 seconds')",[1345]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1week')",[2192]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResolve(com.google.gerrit.server.config.SitePathsTest)')","[314, 756]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1 minute')",[1486]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreate_NotExisting(com.google.gerrit.server.config.SitePathsTest)')","[274, 712]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParse(com.google.gerrit.server.util.SocketUtilTest)')","[115, 558]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteFixInt64(com.google.gerrit.server.ioutil.BasicSerializationTest)')","[472, 888]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2min')",[1439]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTimeUnit(com.google.gerrit.server.config.ConfigUtilTest)')","[353, 778]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2years')",[2615]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '14days')",[2098]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.google.gerrit.server.config.ConfigUtilTest')","[333, 2666]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreate_Empty(com.google.gerrit.server.config.SitePathsTest)')","[254, 690]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteString(com.google.gerrit.server.ioutil.BasicSerializationTest)')","[492, 910]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2months')",[2474]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadString(com.google.gerrit.server.ioutil.BasicSerializationTest)')","[432, 844]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreate_NonEmpty(com.google.gerrit.server.config.SitePathsTest)')","[234, 668]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '5 h')",[1768]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '48 hours')",[1909]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadVarInt32(com.google.gerrit.server.ioutil.BasicSerializationTest)')","[392, 800]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFormat(com.google.gerrit.server.util.SocketUtilTest)')","[175, 624]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2weeks')",[2286]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '200 milliseconds')",[1157]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test1234(com.google.gerrit.server.util.IdGeneratorTest)')","[56, 514]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1second')",[1298]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2mon')",[2427]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1hour')",[1674]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '48 \t \r hours')",[1957]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1month')",[2380]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1year')",[2568]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '10 minutes')",[1533]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '48hours')",[1721]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1mon')",[2333]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '5hr')",[1627]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHostname(com.google.gerrit.server.util.SocketUtilTest)')","[135, 580]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResolve(com.google.gerrit.server.util.SocketUtilTest)')","[155, 602]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '5 hr')",[1815]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.google.gerrit.server.ioutil.BasicSerializationTest')","[372, 2689]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreate_NotDirectory(com.google.gerrit.server.config.SitePathsTest)')","[294, 734]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1w')",[2145]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.google.gerrit.server.util.IdGeneratorTest')","[36, 961]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1 hour')",[1862]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1day')",[2051]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '4d')",[2004]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '5h')",[1580]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.google.gerrit.server.util.SocketUtilTest')","[95, 1012]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteVarInt32(com.google.gerrit.server.ioutil.BasicSerializationTest)')","[412, 822]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2w')",[2239]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2s')",[1204]
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2ms')",[1110]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIsIPv6(com.google.gerrit.server.util.SocketUtilTest)')","[195, 646]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '2m')",[1392]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadFixInt64(com.google.gerrit.server.ioutil.BasicSerializationTest)')","[452, 866]"
+"('ConfigUtil.java', 'com.google.gerrit.server.config.ConfigUtil', 'getTimeUnit', '^([1-9][0-9]*)\\s*(.*)$', '1y')",[2521]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFormat(com.google.gerrit.server.util.IdGeneratorTest)')","[76, 536]"

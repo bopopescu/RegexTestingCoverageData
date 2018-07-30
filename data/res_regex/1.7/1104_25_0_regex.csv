@@ -1,0 +1,17 @@
+"('Computer.java', 'hudson.model.Computer$2', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key.not-so-secret')","[456, 536]"
+"('Computer.java', 'hudson.model.Computer$2', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key')","[396, 476]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest')","[196, 628]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com/github/agubler/changelog/GithubChangeLogBuilder/config.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[307]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 137]"
+"('Computer.java', 'hudson.model.Computer$2', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'plugins')","[436, 516]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'TestSuite with 4 tests [example: com/github/agubler/changelog/GithubChangeLogBuilder/config.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)]')","[176, 559, 582]"
+"('Computer.java', 'hudson.model.Computer$2', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'jobs')","[416, 496]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com/github/agubler/changelog/GithubChangeLogBuilder/global.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[330]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTagComparatorEqualsWithDifferingText(com.github.agubler.changelog.TagComparatorTest)')","[99, 262]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTagComparatorEqualsWithText(com.github.agubler.changelog.TagComparatorTest)')","[78, 240]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'TestSuite with 5 tests [example: org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyTestSuite@412bc86d]')",[156]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[353]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTagComparatorEquals(com.github.agubler.changelog.TagComparatorTest)')","[120, 284]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTagComparator(com.github.agubler.changelog.TagComparatorTest)')","[57, 218]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.agubler.changelog.TagComparatorTest')","[36, 605]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCliSanity(org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest)')",[376]

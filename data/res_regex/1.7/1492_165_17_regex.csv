@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.wikibrain.wikidata.TestWikidataParser')","[200, 495]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testProps(org.wikibrain.wikidata.TestWikidataDao)')","[57, 264]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.wikibrain.wikidata.TestWikidataDao')","[36, 445]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSerializable(org.wikibrain.wikidata.TestWikidataValue)')","[181, 374]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.wikibrain.wikidata.TestWikidataValue')","[160, 472]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDump(org.wikibrain.wikidata.TestWikidataParser)')","[221, 396]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSearchForValue(org.wikibrain.wikidata.TestWikidataDao)')","[141, 352]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testItem(org.wikibrain.wikidata.TestWikidataDao)')","[78, 286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWikidataRawRecord(org.wikibrain.wikidata.TestWikidataParser)')","[242, 418]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGeoCoordinates(org.wikibrain.wikidata.TestWikidataDao)')","[99, 308]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocalStatements(org.wikibrain.wikidata.TestWikidataDao)')","[120, 330]"

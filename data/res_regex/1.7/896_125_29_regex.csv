@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.hadoop.tools.rumen.TestHistograms')","[561, 582, 602, 623, 643]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOneRun(org.apache.hadoop.tools.rumen.TestPiecewiseLinearInterpolation)')","[300, 384]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.hadoop.tools.rumen.TestRandomSeedGenerator')","[182, 202, 223, 243]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.hadoop.tools.rumen.TestPiecewiseLinearInterpolation')",[279]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSeedGeneration(org.apache.hadoop.tools.rumen.TestRandomSeedGenerator)')","[78, 99, 120, 161]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSeedGeneration(org.apache.hadoop.tools.rumen.TestRandomSeedGenerator)')","[57, 141]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.hadoop.tools.rumen.TestPiecewiseLinearInterpolation')","[425, 445, 466, 486]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.hadoop.tools.rumen.TestHistograms')","[522, 542]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOneRun(org.apache.hadoop.tools.rumen.TestPiecewiseLinearInterpolation)')","[321, 342, 363, 404]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.hadoop.tools.rumen.TestRandomSeedGenerator')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 260, 503]"

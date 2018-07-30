@@ -1,0 +1,10 @@
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'plugins')","[182, 262]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key.not-so-secret')","[202, 282]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key')","[142, 222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'TestSuite with 3 tests [example: org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyTestSuite@6d4f0202]')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[99]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'jobs')","[162, 242]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCliSanity(org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest)')",[122]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest')","[76, 351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'TestSuite with 2 tests [example: index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)]')","[56, 305, 328]"

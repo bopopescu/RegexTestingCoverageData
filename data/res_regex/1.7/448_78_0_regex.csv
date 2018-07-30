@@ -1,0 +1,62 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSalesTaxExemption(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[431, 743]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 imported bottle of perfume at 47.50')",[16389]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Receipt.class')",[13502]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSimpleClassifier(org.bongiorno.quiz.socrata.receipt.taxes.ClassifierTest)')","[181, 202, 223, 660]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qorg\\E', 'org')","[1142, 1581, 2028, 2483, 2996, 3459, 3981, 4496, 5002, 5499, 5987, 6473, 6912, 7359, 7814, 8327, 8790, 9312, 9827, 10340, 10853, 11316, 11838, 12360, 12875, 13388, 13901, 14414, 14920, 15417, 15905]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReceiptService(org.bongiorno.quiz.socrata.receipt.ReceiptServiceTest)')","[57, 599]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TaxTest.class')",[4097]
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 music CD at 14.99')",[16175]
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'moveForward', 'Input [0-9]+:', 'Input 2:')","[16255, 16282]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 imported bottle of perfume at 27.99')",[16551]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ImportDuty.class')",[12476]
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 book at 12.49')",[16149]
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 bottle of perfume at 18.99')",[16577]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.bongiorno.quiz.socrata.receipt.ReceiptServiceTest')","[16654, 16678, 16703, 16727]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Receipt$1.class')",[7928]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[818, 1251, 1692, 2141, 2654, 3111, 3633, 4154, 4666, 5169, 5663, 6149, 6582, 7023, 7472, 7985, 8442, 8964, 9485, 9998, 10511, 10968, 11490, 12012, 12533, 13046, 13559, 14072, 14584, 15087, 15581]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 chocolate bar at 0.85')",[16201]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testImportDuty(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[284, 305, 326, 701]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ClassifierTest.class')",[3575]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Classifier.class')",[8906]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.bongiorno.quiz.socrata.receipt.taxes.TaxTest')","[16846, 16866, 16887, 16907]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'socrata')","[5609, 15527]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'quiz')","[6095, 16013]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSalesTax(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[368, 389, 410]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'moveForward', 'Input [0-9]+:', '1 imported bottle of perfume at 27.99')","[16498, 16525]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'moveForward', 'Input [0-9]+:', 'Input 3:')","[16443, 16470]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.bongiorno.quiz.socrata.receipt.ReceiptServiceTest')",[36]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'receipt')","[5114, 15032]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ReceiptService.class')",[10454]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testImportDuty(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[263, 681]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'classifiers')",[9941]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSalesTaxExemption(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[452, 473, 494]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRounding(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[515, 764]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRounding(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[536, 557, 578]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SalesTax.class')",[11432]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1088, 1526, 1972, 2426, 2939, 3401, 3923, 4439, 4946, 5444, 5933]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 box of imported chocolates at 11.25')",[16629]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.bongiorno.quiz.socrata.receipt.taxes.TaxTest')",[242]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Receipt$Entry.class')",[14015]
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'moveForward', 'Input [0-9]+:', '1 imported box of chocolates at 10.00')","[16310, 16337]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[6419, 6857, 7303, 7757, 8270, 8732, 9254, 9770, 10283, 10796, 11258, 11780, 12302, 12818, 13331, 13844, 14357, 14864, 15362, 15851]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Tax.class')",[11954]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleClassifier(org.bongiorno.quiz.socrata.receipt.taxes.ClassifierTest)')","[160, 640]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[926, 1361, 1804, 2255, 2768, 3227, 3749, 4268, 4778, 5279, 5771, 6257, 6692, 7135, 7586, 8099, 8558, 9080, 9599, 10112, 10625, 11084, 11606, 12128, 12647, 13160, 13673, 14186, 14696, 15197, 15689]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ReceiptServiceTest.class')",[2597]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q448_78\\E', '448_78')","[980, 1416, 1860, 2312, 2825, 3285, 3807, 4325, 4834, 5334, 5825, 6311, 6747, 7191, 7643, 8156, 8616, 9138, 9656, 10169, 10682, 11142, 11664, 12186, 12704, 13217, 13730, 14243, 14752, 15252, 15743]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'taxes')","[4610, 12989]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'moveForward', 'Input [0-9]+:', 'Input 1:')","[16041, 16068]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1034, 1471, 1916, 2369, 2882, 3343, 3865, 4382, 4890, 5389, 5879, 6365, 6802, 7247, 7700, 8213, 8674, 9196, 9713, 10226, 10739, 11200, 11722, 12244, 12761, 13274, 13787, 14300, 14808, 15307, 15797]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Item.class')",[14528]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.bongiorno.quiz.socrata.receipt.taxes.ClassifierTest')",[139]
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 packet of headache pills at 9.75')",[16603]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SimpleClassifier.class')",[9428]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.bongiorno.quiz.socrata.receipt.taxes.ClassifierTest')","[16752, 16776, 16801, 16825]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qbongiorno\\E', 'bongiorno')","[1196, 1636, 2084, 2540, 3053, 3517, 4039, 4553, 5058, 5554, 6041, 6527, 6967, 7415, 7871, 8384, 8848, 9370, 9884, 10397, 10910, 11374, 11896, 12418, 12932, 13445, 13958, 14471, 14976, 15472, 15959]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSalesTax(org.bongiorno.quiz.socrata.receipt.taxes.TaxTest)')","[347, 722]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[872, 1306, 1748, 2198, 2711, 3169, 3691, 4211, 4722, 5224, 5717, 6203, 6637, 7079, 7529, 8042, 8500, 9022, 9542, 10055, 10568, 11026, 11548, 12070, 12590, 13103, 13616, 14129, 14640, 15142, 15635]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '1 imported box of chocolates at 10.00')",[16363]
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'readEntry', '([0-9]+) (.*) at ([0-9]+\\.[0-9]{2})', '')","[16227, 16415]"
+"('ReceiptService.java', 'org.bongiorno.quiz.socrata.receipt.ReceiptService', 'moveForward', 'Input [0-9]+:', '1 book at 12.49')","[16096, 16123]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReceiptService(org.bongiorno.quiz.socrata.receipt.ReceiptServiceTest)')","[78, 99, 120, 619]"

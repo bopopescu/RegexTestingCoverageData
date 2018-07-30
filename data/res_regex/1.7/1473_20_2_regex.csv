@@ -1,0 +1,34 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.jupic.mybatis.PagingProxyMapperTest')","[1320, 1344, 1369, 1393]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.jupic.mybatis.PagingProxyMapperTest')","[51, 549]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPagingContextAsserting(net.jupic.mybatis.PagingSpringModuleTest)')",[479]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPagingContextAsserting(net.jupic.mybatis.PagingSpringModuleTest)')","[455, 1029]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.jupic.mybatis.PagingSpringModuleTest')","[34, 383]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCountSqlSource(net.jupic.mybatis.PagingModuleTest)')",[361]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreatingPagingProxyMapper(net.jupic.mybatis.PagingProxyMapperTest)')","[717, 1173]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPagingSqlSource(net.jupic.mybatis.PagingModuleTest)')","[97, 813]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPaginatedResutMapLoader(net.jupic.mybatis.PagingModuleTest)')",[217]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMapperFactoryBeanAsDefaultMapper(net.jupic.mybatis.PagingProxyMapperTest)')","[621, 1125]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPagingMapperInjection(net.jupic.mybatis.PagingProxyMapperTest)')",[693]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSqlSourceType(net.jupic.mybatis.PagingSpringModuleTest)')","[407, 981]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPagingMapperInjection(net.jupic.mybatis.PagingProxyMapperTest)')","[669, 1149]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMapperFactoryBean(net.jupic.mybatis.PagingProxyMapperTest)')","[597, 1101]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPaginatedResutMapLoader(net.jupic.mybatis.PagingModuleTest)')","[193, 885]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSqlSourceType(net.jupic.mybatis.PagingSpringModuleTest)')","[431, 1005]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.jupic.mybatis.PagingSpringModuleTest')","[1418, 1442, 1467, 1491]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.jupic.mybatis.PagingModuleTest')","[17, 73]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRetrievingPaginatedList(net.jupic.mybatis.PagingModuleTest)')","[289, 933]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCountingResutMapLoader(net.jupic.mybatis.PagingModuleTest)')",[169]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCountingResutMapLoader(net.jupic.mybatis.PagingModuleTest)')","[145, 861]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMapperFactoryBeanAsDefaultMapper(net.jupic.mybatis.PagingProxyMapperTest)')",[645]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMapperFactoryBean(net.jupic.mybatis.PagingProxyMapperTest)')","[573, 1077]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStatementLoader(net.jupic.mybatis.PagingModuleTest)')",[265]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.jupic.mybatis.PagingModuleTest')","[1222, 1246, 1271, 1295]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStatementLoader(net.jupic.mybatis.PagingModuleTest)')","[241, 909]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreatingDefaultProxyMapper(net.jupic.mybatis.PagingProxyMapperTest)')","[765, 1197]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreatingDefaultProxyMapper(net.jupic.mybatis.PagingProxyMapperTest)')",[789]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRetrievingPaginatedList(net.jupic.mybatis.PagingModuleTest)')",[313]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreatingPagingProxyMapper(net.jupic.mybatis.PagingProxyMapperTest)')",[741]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPagingSqlSource(net.jupic.mybatis.PagingModuleTest)')","[121, 837]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPagingQueryExecutorSupportDao(net.jupic.mybatis.PagingSpringModuleTest)')",[527]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPagingQueryExecutorSupportDao(net.jupic.mybatis.PagingSpringModuleTest)')","[503, 1053]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCountSqlSource(net.jupic.mybatis.PagingModuleTest)')","[337, 957]"

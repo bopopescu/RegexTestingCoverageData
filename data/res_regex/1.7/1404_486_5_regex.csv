@@ -1,0 +1,18 @@
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'tag:mycoolfeed gn:tag=geonames:21024,md tag:')","[619, 789, 926]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'tag:')",[992]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'geonames:21024,md')",[1506]
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'geonames:21024,md')","[857, 891]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '21024,md')","[1539, 1571]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'folder1')","[1022, 1051, 1148, 1180]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'abc,123,0990')","[33, 66, 99, 518, 551, 584]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'tag:')",[959]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'gn:folder=_import_')",[222]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'gn:folder=_import_ abc 123 0990 catdogfood red blue')","[191, 320, 353, 386, 419, 452, 485]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'tag:mycoolfeed')",[685]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'gn:folder=folder1 abc 123 0990 catdogfood red blue mycoolfeed geonames:21024,md')","[1084, 1213, 1246, 1279, 1312, 1345, 1378, 1411, 1444]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'gn:folder=folder1')",[1115]
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '_import_')","[129, 158, 255, 287]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'geonames:21024,md')",[1475]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'gn:tag=geonames:21024,md')",[822]
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'mycoolfeed')","[720, 754]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'tag:mycoolfeed')",[652]

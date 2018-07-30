@@ -1,0 +1,80 @@
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'another\\s+(.*)', 'I do something')",[3188]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleStories(nl.eernie.jmoribus.ParserTest)')","[566, 1150]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOutputVariableError(nl.eernie.jmoribus.OutputVariableTest)')","[57, 793]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRequiredVariableSuccess(nl.eernie.jmoribus.RequiredVariablesTest)')","[402, 1024]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSingleObject(nl.eernie.jmoribus.parser.ReflectionParserTest)')","[219, 898]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'dddd\\s+(.*)\\s+more\\s+text', 'I do something')",[3098]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOutputVariableSuccess(nl.eernie.jmoribus.OutputVariableTest)')","[78, 814]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state\\s+named\\s+(.*)', 'a system state STATE1')",[1597]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMutlipleStoryOrderIndependent(nl.eernie.jmoribus.ReferringTest)')","[750, 1276]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 665]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'success\\s+step', 'success step')",[2174]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.ParserTest')","[503, 2390]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAllHooks(nl.eernie.jmoribus.reporter.DefaultTestReporterTest)')","[362, 1003]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.PossibleStepTest')","[137, 1515]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleScenarioParse(nl.eernie.jmoribus.ParserTest)')","[545, 1129]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'dddd\\s+(.*)\\s+more\\s+text', 'I do <action>')","[3339, 3525]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.parser.ReflectionParserTest')","[198, 1541]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'bla\\s+bla\\s+bla\\s+(.*)', 'I do <action>')","[3401, 3587]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+second\\s+table\\s+(.*)', 'system is in a different state')","[1789, 1997]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'a system state STATE1')",[1569]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'bla\\s+bla\\s+bla\\s+(.*)', 'I do something')",[3158]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'matcherTest(nl.eernie.jmoribus.matcher.MethodMatcherTest)')","[463, 1066]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreationDescriptions(nl.eernie.jmoribus.monitoring.JunitReportRunnerTest)')","[627, 1192]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultiplePossibleSteps(nl.eernie.jmoribus.PossibleStepTest)')","[158, 856]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'a system state named dasdf')","[1705, 1904]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Examples')",[2534]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Example: {newSystemStateName=currentState, Nameaction=nothing, systemState=currentState}')",[2558]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'the\\s+system\\s+should\\s+have\\s+the\\s+following\\s+state\\s+transitions:\\s+(.*)\\s+and\\s+the\\s+following\\s+states\\s+should\\s+be\\s+present:\\s+(.*)', 'system is in a different state')","[1761, 1966]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMutlipleStoryParser(nl.eernie.jmoribus.ReferringTest)')","[728, 1255]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse(nl.eernie.jmoribus.ParserTest)')","[524, 1108]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'an scenario with a table TABLE1')",[3648]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'a system state named <systemState>')","[3277, 3463]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'step\\s+a', 'step a')","[2284, 2312]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPossibleSteps(nl.eernie.jmoribus.PossibleStepTest)')","[179, 877]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRequiredVariableError(nl.eernie.jmoribus.RequiredVariablesTest)')","[423, 1045]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state\\s+named\\s+(.*)', 'a system state named <systemState>')","[3308, 3494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'scenario 2')",[2462]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+second\\s+table\\s+(.*)', 'success step')",[2146]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'error\\s+step', 'I do <action>')","[3370, 3556]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.OutputVariableTest')","[36, 1379]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'step\\s+b', 'step b')","[1325, 1353]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.SeleniumDriverTest')","[97, 1489]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state\\s+named\\s+(.*)', 'a system state named dasdf')","[1733, 1935]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'the\\s+method\\s+has\\s+a\\s+Webdriver\\s+in\\s+the\\s+signature', 'the method has a Webdriver in the signature')",[1435]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleTablesPerStepRun(nl.eernie.jmoribus.parser.MultipleTablesPerStoryTest)')","[322, 982]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'this step is played once in the begin of the story')","[1650, 3217]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'failing step')","[1873, 2090]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParametrizedStory(nl.eernie.jmoribus.parser.MultipleTablesPerStoryTest)')","[301, 961]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'another\\s+(.*)', 'I do <action>')","[3432, 3618]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'system\\s+is\\s+in\\s+a\\s+different\\s+state', 'system is in a different state')","[1845, 2059]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.parser.MultipleTablesPerStoryTest')","[259, 1623]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'PrologueTest')",[2438]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parametrized scenario')",[2582]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'noParameterConverterFoundExceptionTest(nl.eernie.jmoribus.matcher.MethodMatcherTest)')","[484, 1087]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'the\\s+system\\s+should\\s+have\\s+the\\s+following\\s+state\\s+transitions:\\s+(.*)\\s+and\\s+the\\s+following\\s+states\\s+should\\s+be\\s+present:\\s+(.*)', 'success step')",[2118]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.RequiredVariablesTest')","[381, 2338]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Prologue')",[2510]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state\\s+named\\s+(.*)', 'a system state')","[2642, 2702, 2762, 2822, 2882, 2942, 3002, 3068]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.ReferringTest')","[684, 3722]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'a system state')","[2612, 2672, 2732, 2792, 2852, 2912, 2972, 3035]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'success\\s+step', 'system is in a different state')","[1817, 2028]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListObject(nl.eernie.jmoribus.parser.ReflectionParserTest)')","[240, 919]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParser(nl.eernie.jmoribus.ReferringTest)')","[706, 1234]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMethodSignature(nl.eernie.jmoribus.SeleniumDriverTest)')","[118, 835]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'the\\s+method\\s+has\\s+a\\s+WebDriver\\s+and\\s+more\\s+vars\\s+in\\s+the\\s+(.*)', 'the method has a WebDriver and more vars in the signature')",[1463]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.matcher.MethodMatcherTest')","[442, 2364]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRunner(nl.eernie.jmoribus.ReferringTest)')","[772, 1297]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'error\\s+step', 'I do something')",[3128]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnparsableStory(nl.eernie.jmoribus.ParserTest)')","[587, 1171]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'the\\s+method\\s+has\\s+a\\s+WebDriver\\s+and\\s+more\\s+vars\\s+in\\s+the\\s+(.*)', 'the method has a Webdriver in the signature')",[1407]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.reporter.DefaultTestReporterTest')","[341, 2256]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.monitoring.JunitReportRunnerTest')","[606, 3700]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'scenario 1')",[2486]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testJunitMonitoringReporter(nl.eernie.jmoribus.monitoring.JunitReportRunnerTest)')","[648, 1213]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state\\s+named\\s+(.*)', 'this step is played once in the begin of the story')","[1677, 3246]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'dddd\\s+(.*)\\s+more\\s+text', 'error step')",[2202]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state\\s+named\\s+(.*)', 'an scenario with a table TABLE1')",[3678]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'error\\s+step', 'error step')",[2230]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleTablesPerStep(nl.eernie.jmoribus.parser.MultipleTablesPerStoryTest)')","[280, 940]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'MultiScenarioTitle')",[2414]

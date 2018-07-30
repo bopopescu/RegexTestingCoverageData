@@ -1,0 +1,8 @@
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/photo/.*', '/main/photo/foo')",[264]
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/main/index($|/?+((\\?|\\#|\\&).*$)?+)', '/main/index?foo=bar')",[99]
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/photo/.*', '/photo/foo/bar')",[231]
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/main/index($|/?+((\\?|\\#|\\&).*$)?+)', '/main/index')",[33]
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/main/index($|/?+((\\?|\\#|\\&).*$)?+)', '/main/index/?foo=bar')",[132]
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/main/index($|/?+((\\?|\\#|\\&).*$)?+)', '/main/index/admin?foo=bar')",[198]
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/main/index($|/?+((\\?|\\#|\\&).*$)?+)', '/main/index/admin')",[165]
+"('RegularExpressionTest.java', 'com.ning.metrics.meteo.esper.RegularExpressionTest', 'testPattern', '^/main/index($|/?+((\\?|\\#|\\&).*$)?+)', '/main/index/')",[66]

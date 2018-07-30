@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSkipWhenLocalJtlNotExists(org.sonar.plugins.jmeter.JMeterSensorTest)')","[99, 226]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.sonar.plugins.jmeter.JMeterSensorTest')","[36, 297]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSkipWhenRemoteJtlNotExists(org.sonar.plugins.jmeter.JMeterSensorTest)')","[57, 182]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocalJtlPathConfig(org.sonar.plugins.jmeter.JMeterSensorTest)')","[78, 204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNoJMeterMavenPluginJTL(org.sonar.plugins.jmeter.JMeterPostJobTest)')","[139, 248]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.sonar.plugins.jmeter.JMeterPostJobTest')","[118, 320]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.sonar.plugins.jmeter.JMeterPostJobTest)')","[160, 270]"

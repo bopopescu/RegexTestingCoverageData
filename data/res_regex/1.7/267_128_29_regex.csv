@@ -1,0 +1,37 @@
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/books.json')",[584]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.books[2].title')",[663]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhello.json\\E', 'main')","[1735, 1788, 2209, 2259]"
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', '[0]')","[1203, 1362]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBooksXml(net.madvirus.spring4.chap18.BookControllerTest)')","[139, 263]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'goMainHome(net.madvirus.spring4.chap18.RedirectTest)')","[179, 284]"
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', '[1]')",[1521]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbooks.xml\\E', 'main')","[2106, 2159, 2559, 2609]"
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', 'title')","[791, 1235]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbooks.xml\\E', 'books.xml')",[1629]
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', 'books')","[727, 886, 981, 1076, 1171, 1330, 1489]"
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', '[2]')",[759]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.books[0].price')",[1266]
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', 'price')","[1394, 1553]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhello.\\E.*', 'main')","[1841, 2309]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHello(net.madvirus.spring4.chap18.HelloControllerTest)')","[57, 200]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.books[0].title')",[1107]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbooks.json\\E', 'books.json')",[632]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/hello.json')",[388]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.books[1].price')",[1425]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHelloJson(net.madvirus.spring4.chap18.HelloControllerTest)')","[78, 221]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.books')","[822, 917, 1012]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.madvirus.spring4.chap18.RedirectTest')","[158, 2631]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.greeting')",[467]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/hello')",[312]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbooks.json\\E', 'main')","[2000, 2053, 2459, 2509]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhello\\E', 'main')","[1894, 1947, 2359, 2409]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhello\\E', 'hello')",[360]
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', '$')","[499, 695, 854, 949, 1044, 1139, 1298, 1457]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhello.json\\E', 'hello.json')",[436]
+"('PathToken.java', 'com.jayway.jsonpath.internal.PathToken', 'isArrayIndexToken', '\\[(\\d+)]', 'greeting')",[531]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.madvirus.spring4.chap18.BookControllerTest')","[97, 1654]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBooksJson(net.madvirus.spring4.chap18.BookControllerTest)')","[118, 242]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.madvirus.spring4.chap18.HelloControllerTest')","[36, 556]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/books.xml')",[1581]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/main')",[1682]

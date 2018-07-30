@@ -1,0 +1,76 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.VoyageRepositoryTest')",[3819]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.location.LocationTest)')","[2490, 2511, 2532]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSave(com.dliu.dddsample.infrastructure.persistence.openjpa.CarrierMovementRepositoryTest)')","[3440, 3524]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructor_whenNameIsNull(com.dliu.dddsample.domain.model.location.LocationTest)')","[2322, 2343, 2364]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CHSHA')","[235, 764, 1188, 3277, 3701, 4098, 4770]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.voyage.VoyageTest)')","[374, 626]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructor_whenUnLocodeIsNull(com.dliu.dddsample.domain.model.location.LocationTest)')","[2385, 2615]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.CarrierMovementRepositoryTest')","[3722, 3742, 3763, 3783]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind_notFound(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest)')","[4258, 4335, 4356, 4565]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind_notFound(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest2)')","[2891, 2968, 2989, 3114]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.location.UNLocodeTest)')","[1327, 1495]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'findAll(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest)')","[4377, 4586]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.cargo.LegTest)')","[78, 99, 120, 161]"
+"('SVNUtils.java', 'org.apache.openjpa.lib.util.svn.SVNUtils', 'svnInfoToInteger', '(([0-9]*:)?)[0-9]+(([MSms]+)?)', '1300381')","[2078, 3253, 3676, 4074, 4725]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'NOLOC')",[4794]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructor_AllGood(com.dliu.dddsample.domain.model.location.LocationTest)')","[2238, 2259, 2280, 2573]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.location.UNLocodeTest)')","[1348, 1369, 1390, 1515]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.location.UNLocodeTest')",[1306]
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'AB')",[1632]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.voyage.VoyageTest')","[785, 805, 826, 846]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.voyage.VoyageTest)')","[395, 416, 437, 646]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.cargo.LegTest')","[256, 276, 297, 317]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSameIdentityAs(com.dliu.dddsample.domain.model.voyage.VoyageTest)')","[458, 667]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 334, 863, 1287, 1825, 2177, 2830, 3400, 3800, 4197]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'XXXXX')","[211, 716, 1140, 2039, 2684, 2947, 3598, 3998, 4314]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNHKG')",[1726]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.VoyageRepositoryTest')","[4119, 4139, 4160, 4180]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind_notFound(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest2)')","[2870, 3094]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.voyage.CarrierMovementTest')","[1209, 1229, 1250, 1270]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPersistence(com.dliu.dddsample.domain.model.location.LocationPersistenceTest)')","[1865, 1949]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest2)')","[3031, 3052, 3073]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSave(com.dliu.dddsample.infrastructure.persistence.openjpa.VoyageRepositoryTest)')","[3840, 3924]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.voyage.VoyageTest')",[353]
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'ABHK1')",[1680]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructor_AllGood(com.dliu.dddsample.domain.model.location.LocationTest)')","[2217, 2553]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.voyage.VoyageTest)')","[542, 688]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.voyage.CarrierMovementTest')",[882]
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'cnhkg')",[1703]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.location.UNLocodeTest')","[1747, 1767, 1788, 1808]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'findAll(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest)')","[4398, 4419, 4440]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNBEJ')","[2659, 2707, 2731]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest2')",[2849]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind_notFound(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest)')","[4237, 4545]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructor_whenUnLocodeIsNull(com.dliu.dddsample.domain.model.location.LocationTest)')","[2406, 2427, 2448]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.voyage.CarrierMovementTest)')","[1008, 1029, 1050]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.location.LocationPersistenceTest')",[1844]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.voyage.CarrierMovementTest)')","[903, 1071]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.location.UNLocodeTest)')","[1411, 1536]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSave(com.dliu.dddsample.infrastructure.persistence.openjpa.CarrierMovementRepositoryTest)')","[3461, 3482, 3503, 3544]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.voyage.CarrierMovementTest)')","[924, 945, 966, 1091]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.location.LocationTest')","[2752, 2772, 2793, 2813]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.voyage.CarrierMovementTest)')","[987, 1112]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.voyage.VoyageTest)')","[563, 584, 605]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest')",[4216]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest2')","[3322, 3342, 3363, 3383]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.CarrierMovementRepositoryTest')",[3419]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.location.LocationTest')",[2196]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest)')","[4461, 4607]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructor_whenNameIsNull(com.dliu.dddsample.domain.model.location.LocationTest)')","[2301, 2594]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.location.UNLocodeTest)')","[1432, 1453, 1474]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CHHKG')","[3180, 3301, 3623, 4022, 4652, 4818]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.location.LocationPersistenceTest')","[2099, 2119, 2140, 2160]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructor(com.dliu.dddsample.domain.model.cargo.LegTest)')","[57, 141]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest')","[4839, 4859, 4880, 4900]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSameIdentityAs(com.dliu.dddsample.domain.model.voyage.VoyageTest)')","[479, 500, 521]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPersistence(com.dliu.dddsample.domain.model.location.LocationPersistenceTest)')","[1886, 1907, 1928, 1969]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'ABHK2')",[1608]
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CHBEJ')","[185, 740, 1164]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'AAAAA')",[1560]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest2)')","[3010, 3135]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind(com.dliu.dddsample.infrastructure.persistence.openjpa.LocationRepositoryTest)')","[4482, 4503, 4524]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(com.dliu.dddsample.domain.model.location.LocationTest)')","[2469, 2636]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dliu.dddsample.domain.model.cargo.LegTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSave(com.dliu.dddsample.infrastructure.persistence.openjpa.VoyageRepositoryTest)')","[3861, 3882, 3903, 3944]"
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'ABHKG')",[1584]
+"('UNLocode.java', 'com.dliu.dddsample.domain.model.location.UNLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'A')",[1656]

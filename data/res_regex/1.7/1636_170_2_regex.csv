@@ -1,0 +1,11 @@
+"('IoosEncoderUtil.java', 'org.n52.sos.encode.IoosEncoderUtil', 'isIoos10BboxString', '^BBOX:\\s*[-+]?\\d*\\.?\\d+(\\s*,\\s*[-+]?\\d*\\.?\\d+){3}\\s*$', 'BBOX:-20.0,d-50.0,-10.0,-30.0')",[346]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIoos10Bbox(org.n52.sos.encode.IoosEncoderUtilTest)')","[139, 227]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.n52.sos.encode.IoosSensorMLEncoderv101Test')","[36, 254]"
+"('IoosEncoderUtil.java', 'org.n52.sos.encode.IoosEncoderUtil', 'isIoos10BboxString', '^BBOX:\\s*[-+]?\\d*\\.?\\d+(\\s*,\\s*[-+]?\\d*\\.?\\d+){3}\\s*$', 'BBOX:  -20.0, -50.0,  -10.0,   -30.0  ')",[300]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'should_get_ioos_sml_encoder(org.n52.sos.encode.IoosSensorMLEncoderv101Test)')","[99, 205]"
+"('IoosEncoderUtil.java', 'org.n52.sos.encode.IoosEncoderUtil', 'isIoos10BboxString', '^BBOX:\\s*[-+]?\\d*\\.?\\d+(\\s*,\\s*[-+]?\\d*\\.?\\d+){3}\\s*$', 'bBOx:-20.0,-50.0,20.0,50.0')",[323]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'should_replace_existing_service_metadata(org.n52.sos.encode.IoosSensorMLEncoderv101Test)')","[78, 183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.n52.sos.encode.IoosEncoderUtilTest')","[118, 369]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'should_add_service_metadata(org.n52.sos.encode.IoosSensorMLEncoderv101Test)')","[57, 161]"
+"('IoosEncoderUtil.java', 'org.n52.sos.encode.IoosEncoderUtil', 'isIoos10BboxString', '^BBOX:\\s*[-+]?\\d*\\.?\\d+(\\s*,\\s*[-+]?\\d*\\.?\\d+){3}\\s*$', 'BBOX:-20.0,-50.0,20.0,50.0')",[277]

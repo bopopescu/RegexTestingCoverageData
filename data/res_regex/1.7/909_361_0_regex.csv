@@ -1,0 +1,30 @@
+"('TextGeneratorsTest.java', 'com.github.ai14.prosammgen.textgen.TextGeneratorsTest', 'testTwoArgMacroSpaces', '([A-Z]+)\\(([^)]*)\\).*', 'FOO(\tx , y  )')",[897]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRef(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[99, 412]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMacroArgs(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[183, 496]"
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parse', '([A-Z]+)\\(([^)]*)\\).*', 'FOO(a, b, c)')",[853]
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parseGrammar', '\\s*(//.*)?', '// Comment!')","[922, 946]"
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parseGrammar', '\\s*(//.*)?', '#FOO Bar #BAZ')","[690, 714, 971, 995]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNothing(com.github.ai14.prosammgen.AppTest)')","[349, 643]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNormalMacro(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[141, 454]"
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parseGrammar', '\\s*(//.*)?', '#FOO Bar')","[1167, 1191]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGrammarParse(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[288, 601]"
+"('TextGeneratorsTest.java', 'com.github.ai14.prosammgen.textgen.TextGeneratorsTest', 'testNormalMacro', '([A-Z]+)\\(([^)]*)\\).*', 'FOO()')",[808]
+"('TextGeneratorsTest.java', 'com.github.ai14.prosammgen.textgen.TextGeneratorsTest', 'testOneArgMacro', '([A-Z]+)\\(([^)]*)\\).*', 'FOO(x)')",[665]
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parseGrammar', '\\s*(//.*)?', '    // Comment again!')","[1020, 1044]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMacro(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[120, 433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOneArgMacro(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[57, 370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.github.ai14.prosammgen.AppTest')","[328, 1239]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGrammarParseTwo(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[78, 391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConstant(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[267, 580]"
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parseGrammar', '\\s*(//.*)?', '#BAZ xyz')","[739, 763, 1118, 1142]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.github.ai14.prosammgen.textgen.TextGeneratorsTest')","[36, 1217]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTwoArgMacroSpaces(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[225, 538]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOneArgMacroSpaces(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[204, 517]"
+"('TextGeneratorsTest.java', 'com.github.ai14.prosammgen.textgen.TextGeneratorsTest', 'testTwoArgMacro', '([A-Z]+)\\(([^)]*)\\).*', 'FOO(x,y)')",[830]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGrammarParseTwoComments(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[246, 559]"
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parseGrammar', '\\s*(//.*)?', '')","[1069, 1093]"
+"('TextGenerators.java', 'com.github.ai14.prosammgen.textgen.TextGenerators', 'parse', '([A-Z]+)\\(([^)]*)\\).*', 'FOO()')",[786]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRefEnd(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[309, 622]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTwoArgMacro(com.github.ai14.prosammgen.textgen.TextGeneratorsTest)')","[162, 475]"
+"('TextGeneratorsTest.java', 'com.github.ai14.prosammgen.textgen.TextGeneratorsTest', 'testOneArgMacroSpaces', '([A-Z]+)\\(([^)]*)\\).*', 'FOO(\tx  )')",[875]

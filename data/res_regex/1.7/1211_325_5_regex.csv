@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithPayloadSingleHeaderValue(com.kixeye.chassis.transport.websocket.WebSocketEnvelopeTest)')","[141, 349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithPayloadSameHeaderMultiValue(com.kixeye.chassis.transport.websocket.WebSocketEnvelopeTest)')","[99, 307]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegistryOverride(com.kixeye.chassis.transport.websocket.WebSocketMessageRegistryTest)')","[244, 433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.kixeye.chassis.transport.websocket.WebSocketMessageRegistryTest')","[181, 481]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSimpleRegistry(com.kixeye.chassis.transport.websocket.WebSocketMessageRegistryTest)')","[202, 391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBlankRegistry(com.kixeye.chassis.transport.websocket.WebSocketMessageRegistryTest)')","[223, 412]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.kixeye.chassis.transport.websocket.WebSocketEnvelopeTest')","[36, 459]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithPayloadAdditiveHeaderMultiValue(com.kixeye.chassis.transport.websocket.WebSocketEnvelopeTest)')","[78, 286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithPayloadNoHeaders(com.kixeye.chassis.transport.websocket.WebSocketEnvelopeTest)')","[162, 370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithNoPayload(com.kixeye.chassis.transport.websocket.WebSocketEnvelopeTest)')","[57, 265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWithPayloadMultiHeaderValue(com.kixeye.chassis.transport.websocket.WebSocketEnvelopeTest)')","[120, 328]"

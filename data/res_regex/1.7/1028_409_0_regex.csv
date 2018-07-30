@@ -1,0 +1,14 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'emailDomainNotAllow(demo.validate.ValidattionTest)')","[120, 246]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ageLessThan20(demo.validate.ValidattionTest)')","[141, 267]"
+"('NameFormatRule.java', 'demo.validate.refactor.NameFormatRule', 'validate', '[a-zA-Z]+', 'somkiat-Up1')","[443, 469]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'demo.validate.ValidattionTest')","[36, 700]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'emailIsEmpty(demo.validate.ValidattionTest)')","[162, 288]"
+"('EmailFormatRule.java', 'demo.validate.refactor.EmailFormatRule', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'up1@somkiat.cc')",[416]
+"('NameFormatRule.java', 'demo.validate.refactor.NameFormatRule', 'validate', '[a-zA-Z]+', 'somkiat')","[652, 678]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'validInput(demo.validate.ValidattionTest)')","[78, 204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nameIsWrongFormat(demo.validate.ValidattionTest)')","[99, 225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nameIsEmpty(demo.validate.ValidattionTest)')","[57, 183]"
+"('NameFormatRule.java', 'demo.validate.refactor.NameFormatRule', 'validate', '[a-zA-Z]+', 'Somkiat')","[367, 392, 496, 522, 574, 600]"
+"('EmailFormatRule.java', 'demo.validate.refactor.EmailFormatRule', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'up1@domain01.cc')","[547, 625]"
+"('NameFormatRule.java', 'demo.validate.refactor.NameFormatRule', 'validate', '[a-zA-Z]+', 'ddd')","[315, 341]"

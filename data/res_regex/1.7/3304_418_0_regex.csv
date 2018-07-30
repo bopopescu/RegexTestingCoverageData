@@ -1,0 +1,29 @@
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*java.util.logging.*', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest')","[784, 1786]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*java.util.logging.*', 'fr.figarocms.web.tag.Test$Titi')",[1321]
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', 'java.util.logging.*', 'fr.figarocms.web.tag.Test')",[1114]
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', 'java.util.logging.*', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest')",[850]
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*java.lang.Object.*', 'fr.figarocms.web.tag.Test')","[916, 1588]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'fr.figarocms.web.tag.DebugModelTagForSystemPropertySetToFalseOrNotSetTest')","[51, 278, 2073]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', 'fr.figarocms.web.tag.Test', 'fr.figarocms.web.tag.Test')",[1654]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_system_get_property_set_to_true_and_outputDebugModelInJSON_called_three_times(fr.figarocms.web.tag.DebugModelTagForSystemPropertySetToTrueTest)')","[114, 372]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', 'fr.figarocms.web.tag.*', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest')",[1852]
+"('DebugModelTagExcludedPackagesTest.java', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest', 'testRegexp', '.*sun.*', 'sun.nio.cs.StreamEncoder')",[1895]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_system_get_property_set_to_false_and_outputDebugModelInJSON_never_called(fr.figarocms.web.tag.DebugModelTagForSystemPropertySetToFalseOrNotSetTest)')","[302, 516]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest')","[34, 136, 2027]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExcludedPackagesWith_java_util_logging_exclusion(fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest)')","[160, 396]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'fr.figarocms.web.tag.DebugModelTagForSystemPropertySetToTrueTest')","[17, 90, 586]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExcludedPackagesWith_test_class_excluded(fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest)')","[184, 420]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*java.lang.Object.*', 'fr.figarocms.web.tag.Test$Titi')",[1183]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExcludedPackagesWith_java_util_logging_exclusion_and_one_key_and_one_value_as_string(fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest)')","[232, 468]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'fr.figarocms.web.tag.DebugModelTagWithSpecialJSONCharactersTest')","[68, 324, 2099]"
+"('DebugModelTagExcludedPackagesTest.java', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest', 'testRegexp', '.*sun.*', 'Lsun.misc.AppClassLoader[""parent""]')",[1981]
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', 'java.util.logging.*', 'fr.figarocms.web.tag.Test$Titi')",[1390]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSpecialCharactersAreEscaped(fr.figarocms.web.tag.DebugModelTagWithSpecialJSONCharactersTest)')","[348, 540]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*java.lang.Object.*', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest')",[652]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegexp(fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest)')","[256, 492]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*sun.*', 'fr.figarocms.web.tag.Test$Titi')",[1252]
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*sun.*', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest')","[718, 1720]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*sun.*', 'fr.figarocms.web.tag.Test')","[982, 1522]"
+"('FilteringBeanSerializerModifier.java', 'fr.figarocms.web.tag.FilteringBeanSerializerModifier', 'isExcluded', '.*java.util.logging.*', 'fr.figarocms.web.tag.Test')","[1048, 1456]"
+"('DebugModelTagExcludedPackagesTest.java', 'fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest', 'testRegexp', '.*sun.*', 'sun.misc.AppClassLoader[""parent""]')",[1938]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExcludedPackagesWith_exclusion_from_the_package_of_the_object_included(fr.figarocms.web.tag.DebugModelTagExcludedPackagesTest)')","[208, 444]"

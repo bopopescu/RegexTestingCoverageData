@@ -1,0 +1,19 @@
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/movies/recommended')",[496]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/movies/5/rate')",[267]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'rate')",[211]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'recommended')",[440]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/movies(/.*)?', '/movies/5/rate')",[295]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/movies/recommended')",[468]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', '5/rate')",[182]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/recommended(/)?', '/5/rate')",[324]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetRecommended(MovieResourceTest)')","[82, 124]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/recommended(/)?', '/recommended')",[553]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'movies/recommended')",[411]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/([^/]+?)/rate/([^/]+?)(/)?', '/5/rate')",[382]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'movies/5/rate')",[153]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/movies(/.*)?', '/movies/recommended')",[524]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/movies/5/rate')",[239]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRate(MovieResourceTest)')","[59, 103]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'MovieResourceTest')","[36, 575]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/forRating(/)?', '/5/rate')",[353]

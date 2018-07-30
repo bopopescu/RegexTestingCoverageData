@@ -1,0 +1,29 @@
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'systemErr should return an effect that outputs the input value to System.err with the given prefix')",[768]
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'toFunction should return serializable functions')",[108]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::systemOut should return a serializable effect(fi.gekkio.drumfish.lang.EffectsSpec)')","[1123, 1860]"
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'fromRunnable should return serializable effects')",[348]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::systemOut should return an effect that outputs the input value to System.out with the given prefix(fi.gekkio.drumfish.lang.EffectsSpec)')","[1101, 1799]"
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'fromFunction should return serializable effects')",[224]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::systemErr should return a serializable effect(fi.gekkio.drumfish.lang.EffectsSpec)')","[1189, 2043]"
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'systemErr should return an effect that outputs the input value to System.err')",[693]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::fromFunction should return serializable effects(fi.gekkio.drumfish.lang.EffectsSpec)')","[991, 1494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'EffectsSpec')",[881]
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'systemOut should return an effect that outputs the input value to System.out')",[480]
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'noop should return a serializable effect')",[413]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::systemOut should return an effect that outputs the input value to System.out(fi.gekkio.drumfish.lang.EffectsSpec)')","[1079, 1738]"
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'fromRunnable should return an effect that runs the given runnable')",[285]
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'fromFunction should return an effect that applies the given function')",[165]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::toFunction should return serializable functions(fi.gekkio.drumfish.lang.EffectsSpec)')","[947, 1372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::fromRunnable should return an effect that runs the given runnable(fi.gekkio.drumfish.lang.EffectsSpec)')","[1013, 1555]"
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'systemOut should return a serializable effect')",[620]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::fromRunnable should return serializable effects(fi.gekkio.drumfish.lang.EffectsSpec)')","[1035, 1616]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::fromFunction should return an effect that applies the given function(fi.gekkio.drumfish.lang.EffectsSpec)')","[969, 1433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::toFunction should return a function that applies the given effect(fi.gekkio.drumfish.lang.EffectsSpec)')","[903, 925, 1250, 1311, 2170, 2297]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification')","[2107, 2234]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[862]
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'systemErr should return a serializable effect')",[845]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::noop should return a serializable effect(fi.gekkio.drumfish.lang.EffectsSpec)')","[1057, 1677]"
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'systemOut should return an effect that outputs the input value to System.out with the given prefix')",[549]
+"('Regexes.scala', 'org.specs2.text.Regexes$Regexed', 'matchesSafely', '.*', 'toFunction should return a function that applies the given effect')",[53]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::systemErr should return an effect that outputs the input value to System.err with the given prefix(fi.gekkio.drumfish.lang.EffectsSpec)')","[1167, 1982]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Effects specification::systemErr should return an effect that outputs the input value to System.err(fi.gekkio.drumfish.lang.EffectsSpec)')","[1145, 1921]"

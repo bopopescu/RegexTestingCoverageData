@@ -1,0 +1,74 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessBodyInvalidToken(org.apache.amber.oauth2.integration.ResourceTest)')","[448, 1010]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSuccessfullAccesToken(org.apache.amber.oauth2.integration.AccessTokenPasswordCredentialsTest)')","[366, 944]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_query(/.*)?', '/resource_header')","[4584, 5332]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/token(/.*)?', '/token')","[1276, 1506, 1736, 1966, 2196, 2426, 2656, 3680, 3910, 4140]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect2(/.*)?', '/redirect2')",[3446]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '(/.*)?', '/redirect1')",[3538]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessQueryInvalidToken(org.apache.amber.oauth2.integration.ResourceTest)')","[511, 1076]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect2(/.*)?', '/redirect')",[3285]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSuccessfullAccesTokenGETMethod(org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest)')","[141, 768]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidRequest(org.apache.amber.oauth2.integration.AccessTokenPasswordCredentialsTest)')","[387, 966]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer realm=""Example OAuth Resource Server""')","[5239, 5379, 5611]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect2(/.*)?', '/redirect1')",[3607]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '(/.*)?', '/redirect2')",[3377]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNoneGrantType(org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest)')","[78, 702]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidRequest(org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest)')","[120, 746]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSuccessfullAccesToken(org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest)')","[99, 724]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidCode(org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest)')","[57, 680]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidGrantType(org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest)')","[183, 812]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect1(/.*)?', '/redirect1')",[3584]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/register(/.*)?', '/register')","[2890, 3005]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect(/.*)?', '/redirect1')",[3561]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer error=""insufficient_scope"",realm=""Example OAuth Resource Server""')",[5939]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessBodyExpiredToken(org.apache.amber.oauth2.integration.ResourceTest)')","[490, 1054]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'error_description=""Incorrect OAuth version. Found OAuth V1.0.""')",[5823]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect1(/.*)?', '/redirect')",[3262]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidClient(org.apache.amber.oauth2.integration.AccessTokenPasswordCredentialsTest)')","[408, 988]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_body(/.*)?', '/resource_header')","[4561, 5309]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect1(/.*)?', '/redirect2')",[3423]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '(/.*)?', '/')","[1299, 1322, 1345, 1368, 1391, 1414, 1437, 1460, 1529, 1552, 1575, 1598, 1621, 1644, 1667, 1690, 1759, 1782, 1805, 1828, 1851, 1874, 1897, 1920, 1989, 2012, 2035, 2058, 2081, 2104, 2127, 2150, 2219, 2242, 2265, 2288, 2311, 2334, 2357, 2380, 2449, 2472, 2495, 2518, 2541, 2564, 2587, 2610, 2679, 2702, 2725, 2748, 2771, 2794, 2817, 2840, 2913, 2936, 2959, 2982, 3028, 3051, 3074, 3097, 3193, 3354, 3515, 3703, 3726, 3749, 3772, 3795, 3818, 3841, 3864, 3933, 3956, 3979, 4002, 4025, 4048, 4071, 4094, 4163, 4186, 4209, 4232, 4255, 4278, 4301, 4324, 4443, 4607, 4887, 5051, 5215, 5355, 5495, 5587, 5727, 5915, 6079]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessQueryValidToken(org.apache.amber.oauth2.integration.ResourceTest)')","[574, 1142]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/token(/.*)?', '/authz')","[3170, 3331, 3492]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer error=""invalid_token"",realm=""Example OAuth Resource Server""')","[4467, 5075]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessHeaderNoToken(org.apache.amber.oauth2.integration.ResourceTest)')","[553, 1120]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCorrectParametersEndUserAuthorization(org.apache.amber.oauth2.integration.EndUserAuthorizationTest)')","[326, 922]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer access_token_valid')",[4645]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWrongParametersEndUserAuthorization(org.apache.amber.oauth2.integration.EndUserAuthorizationTest)')","[284, 878]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessBodyValidToken(org.apache.amber.oauth2.integration.ResourceTest)')","[658, 1230]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'access_token_valid')",[4759]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidType(org.apache.amber.oauth2.integration.ClientRegistrationTest)')","[223, 834]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'error=""invalid_request""')",[5775]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPushMetadataRegistration(org.apache.amber.oauth2.integration.ClientRegistrationTest)')","[244, 856]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'error=""insufficient_scope""')",[5963]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessBodyInsufficientToken(org.apache.amber.oauth2.integration.ResourceTest)')","[637, 1208]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidClient(org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest)')","[162, 790]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessBodyNoToken(org.apache.amber.oauth2.integration.ResourceTest)')","[595, 1164]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTokenResponse(org.apache.amber.oauth2.integration.EndUserAuthorizationTest)')","[305, 900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.integration.ClientRegistrationTest')","[202, 3124]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer error=""invalid_request"",realm=""Example OAuth Resource Server"",error_description=""Incorrect OAuth version. Found OAuth V1.0.""')",[5751]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer access_token_valid')","[4683, 4795]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_query(/.*)?', '/resource_body')","[4420, 4864, 5564, 5704, 5892, 6056]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '(/.*)?', '/redirect')",[3216]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.integration.AccessTokenTestAuthCodeTest')","[36, 2867]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_header(/.*)?', '/resource_header')","[4538, 5286]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer error=""expired_token"",realm=""Example OAuth Resource Server""')",[4911]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessQueryNoToken(org.apache.amber.oauth2.integration.ResourceTest)')","[532, 1098]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.integration.AccessTokenPasswordCredentialsTest')","[345, 4351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.integration.EndUserAuthorizationTest')","[263, 3634]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'error=""expired_token""')",[4935]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_body(/.*)?', '/resource_query')","[5005, 5169, 5449]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_header(/.*)?', '/resource_query')","[4982, 5146, 5426]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessBodyOAuthWrongVersionToken(org.apache.amber.oauth2.integration.ResourceTest)')","[616, 1186]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'error=""invalid_token""')","[4491, 5099]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/authz(/.*)?', '/authz')","[3147, 3308, 3469]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.integration.ResourceTest')","[427, 6102]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/authz(/.*)?', '/token')","[1253, 1483, 1713, 1943, 2173, 2403, 2633, 3657, 3887, 4117]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'realm=""Example OAuth Resource Server""')","[4515, 4959, 5123, 5263, 5403, 5635, 5799, 5987]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect(/.*)?', '/redirect2')",[3400]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_body(/.*)?', '/resource_body')","[4397, 4841, 5541, 5681, 5869, 6033]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResourceAccessHeaderValidToken(org.apache.amber.oauth2.integration.ResourceTest)')","[469, 1032]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/redirect(/.*)?', '/redirect')",[3239]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_query(/.*)?', '/resource_query')","[5028, 5192, 5472]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/resource_header(/.*)?', '/resource_body')","[4374, 4818, 5518, 5658, 5846, 6010]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer access_token_valid')",[4721]

@@ -1,0 +1,67 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExampleService.class')",[12848]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.xml\\E', 'ExampleMapper.class')",[28135]
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.1.*.xsd.*', '')","[23493, 23544, 23905, 23956, 24319, 24372, 24750, 24806]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseController.class')",[21470]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserService.class')",[12353]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'repositories')",[19130]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qmappers\\E', 'mappers')","[25532, 25962, 26392, 26822, 28008, 29278, 30548, 31818]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PageQuery.class')",[9950]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[428, 914, 1349, 1844, 2339, 2831, 3317, 3752, 4247, 4742, 5237, 5729, 6215, 6650, 7145, 7640, 8135, 8630, 9125, 9620, 10115, 10610, 11102, 11588, 12023, 12518, 13010, 13496, 13931, 14426, 14921, 15416, 15911, 16406, 16898, 17384, 17819, 18314, 18806, 19292, 19727, 20219, 20705, 21140, 21635, 22130, 22625, 23117, 25274, 25704, 26134, 26564, 27246, 28516, 29786, 31056]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')",[590]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyContentNegotiatingViewResolver$ActivationMediaTypeFactory.class')",[14756]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyVelocityViewResolver.class')",[15746]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Example.class')",[2669]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyContentNegotiatingViewResolver$1.class')",[14261]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DateUtils.class')",[7475]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'servlet')",[20543]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExampleMapper.xml')","[4577, 26005]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'VelocityToolbox20View.class')",[16736]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qjervyshi\\E', 'jervyshi')","[698, 1184, 1624, 2119, 2614, 3101, 3587, 4027, 4522, 5017, 5512, 5999, 6485, 6925, 7420, 7915, 8410, 8905, 9400, 9895, 10390, 10885, 11372, 11858, 12298, 12793, 13280, 13766, 14206, 14701, 15196, 15691, 16186, 16681, 17168, 17654, 18094, 18589, 19076, 19562, 20002, 20489, 20975, 21415, 21910, 22405, 22900, 23387, 25489, 25919, 26349, 26779, 27881, 29151, 30421, 31691]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'IpUtils.class')",[8465]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'StringUtils.class')",[8960]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'services')",[13334]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HelloServlet.class')",[20057]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindUser(me.jervyshi.UserServiceTest)')","[141, 266]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'IndexController.class')",[22460]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[1076, 1514, 2009, 2504, 2993, 3479, 3917, 4412, 4907, 5402, 5891, 6377, 6815, 7310, 7805, 8300, 8795, 9290, 9785, 10280, 10775, 11264, 11750, 12188, 12683, 13172, 13658, 14096, 14591, 15086, 15581, 16076, 16571, 17060, 17546, 17984, 18479, 18968, 19454, 19892, 20381, 20867, 21305, 21800, 22295, 22790, 23279, 25403, 25833, 26263, 26693, 27627, 28897, 30167, 31437]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'entities')",[3155]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserServiceTest.class')",[752]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserController.class')",[22955]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q688_7\\E', '688_7')","[482, 968, 1404, 1899, 2394, 2885, 3371, 3807, 4302, 4797, 5292, 5783, 6269, 6705, 7200, 7695, 8190, 8685, 9180, 9675, 10170, 10665, 11156, 11642, 12078, 12573, 13064, 13550, 13986, 14481, 14976, 15471, 15966, 16461, 16952, 17438, 17874, 18369, 18860, 19346, 19782, 20273, 20759, 21195, 21690, 22185, 22680, 23171, 25317, 25747, 26177, 26607, 27373, 28643, 29913, 31183]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ServletUtils.class')",[7970]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'me.jervyshi.UserServiceTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindAllusers(me.jervyshi.UserServiceTest)')","[57, 225]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserRepository.class')",[18644]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BBMappingExceptionResolver.class')",[15251]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExampleMapper.class')","[4082, 25575]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyContentNegotiatingViewResolver.class')",[16241]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[374, 860, 1294, 1789, 2284, 2777, 3263, 3697, 4192, 4687, 5182, 5675, 6161, 6595, 7090, 7585, 8080, 8575, 9070, 9565, 10060, 10555, 11048, 11534, 11968, 12463, 12956, 13442, 13876, 14371, 14866, 15361, 15856, 16351, 16844, 17330, 17764, 18259, 18752, 19238, 19672, 20165, 20651, 21085, 21580, 22075, 22570, 23063, 25231, 25661, 26091, 26521, 27119, 28389, 29659, 30929]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security.*', '')","[23699, 23750, 24111, 24162, 24533, 24586, 24976, 25032]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qindex\\E', 'login')",[31990]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CommonUtil.class')",[6980]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserMapper.class')","[5072, 26435]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'common')",[17222]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindAllusers(me.jervyshi.UserServiceTest)')","[78, 99, 120, 245]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'mappers')",[6053]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.xml\\E', 'UserMapper.class')",[30675]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[320, 806, 1239, 1734, 2229, 2723, 3209, 3642, 4137, 4632, 5127, 5621, 6107, 6540, 7035, 7530, 8025, 8520, 9015, 9510, 10005, 10500, 10994, 11480, 11913, 12408, 12902, 13388, 13821, 14316, 14811, 15306, 15801, 16296, 16790, 17276, 17709, 18204, 18698, 19184, 19617, 20111, 20597, 21030, 21525, 22020, 22515, 23009, 25188, 25618, 26048, 26478, 26992, 28262, 29532, 30802]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserMapper.xml')","[5567, 26865]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExampleRepository.class')",[18149]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DateTools.class')",[10940]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'me.jervyshi.UserServiceTest')","[32056, 32076, 32097, 32117]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Convert.class')",[9455]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'util')",[11426]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qme\\E', 'me')","[644, 1130, 1569, 2064, 2559, 3047, 3533, 3972, 4467, 4962, 5457, 5945, 6431, 6870, 7365, 7860, 8355, 8850, 9345, 9840, 10335, 10830, 11318, 11804, 12243, 12738, 13226, 13712, 14151, 14646, 15141, 15636, 16131, 16626, 17114, 17600, 18039, 18534, 19022, 19508, 19947, 20435, 20921, 21360, 21855, 22350, 22845, 23333, 25446, 25876, 26306, 26736, 27754, 29024, 30294, 31564]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Users.class')",[2174]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindUser(me.jervyshi.UserServiceTest)')","[162, 183, 204]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SpringSecurityTool.class')",[10445]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'User.class')",[1679]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qlogin\\E', 'login')",[32035]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'web')",[23441]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AdminController.class')",[21965]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[536, 1022, 1459, 1954, 2449, 2939, 3425, 3862, 4357, 4852, 5347, 5837, 6323, 6760, 7255, 7750, 8245, 8740, 9235, 9730, 10225, 10720, 11210, 11696, 12133, 12628, 13118, 13604, 14041, 14536, 15031, 15526, 16021, 16516, 17006, 17492, 17929, 18424, 18914, 19400, 19837, 20327, 20813, 21250, 21745, 22240, 22735, 23225, 25360, 25790, 26220, 26650, 27500, 28770, 30040, 31310]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.xml\\E', 'UserMapper.xml')",[31945]
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security.xsd.*', '')","[23596, 23647, 24008, 24059, 24426, 24479, 24863, 24919]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.1.*.xsd.*', 'http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.1.xsd')","[23802, 23853, 24214, 24265, 24640, 24693, 25089, 25145]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.xml\\E', 'ExampleMapper.xml')",[29405]

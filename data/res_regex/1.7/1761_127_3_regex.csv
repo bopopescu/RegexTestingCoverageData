@@ -1,0 +1,6 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInsert(com.hiperf.gwtjpa.test.server.persistence.PersistenceUnitTest)')","[78, 122]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.hiperf.gwtjpa.test.server.persistence.PersistenceUnitTest')","[36, 250]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.PatternValidator', 'isValid', '^[a-zA-Z][\\w\\.-]*[a-zA-Z0-9]@[a-zA-Z0-9][\\w\\.-]*[a-zA-Z0-9]\\.[a-zA-Z][a-zA-Z\\.]*[a-zA-Z]$', 'john@gg.com')",[179]
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.PatternValidator', 'isValid', '^[a-zA-Z][\\w\\.-]*[a-zA-Z0-9]@[a-zA-Z0-9][\\w\\.-]*[a-zA-Z0-9]\\.[a-zA-Z][a-zA-Z\\.]*[a-zA-Z]$', 'juju@blabla.fr')",[227]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBigTransaction(com.hiperf.gwtjpa.test.server.persistence.PersistenceUnitTest)')","[57, 100]"

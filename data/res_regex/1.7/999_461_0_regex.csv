@@ -1,0 +1,449 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.RejectBadKeyNamesTest')","[62882, 62902, 62923, 62943]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../..../')",[56273]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket/')","[11531, 12710, 14865, 17508]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//..')",[42599]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..//....')","[57708, 57952]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../')",[55512]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//')",[51120]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/10000.2.3.4/')",[36536]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../..asdfasdf')",[57220]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket//two/prefix-1.xml')","[16086, 18729]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..asdfasdfasdf')",[50876]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket/no-path-1')","[15110, 17753]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../....')",[39944]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testShouldAccept(uk.me.mjt.s3test.RejectBadKeyNamesTest)')","[1742, 1763, 1784]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../..asdfasdf')",[57234]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket//two/prefix-1.xml')","[16072, 18715]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '///..//')",[62617]
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseRegionNameByInternalConfig', '(.+\\.)?s3-fips-us-gov-west-1\\.amazonaws\\.com', 'localhost')","[2713, 2742, 2910, 2943, 3136, 3168, 3379, 3412, 3590, 3625, 3835, 3868, 4064, 4097, 4275, 4310, 4567, 4596, 4764, 4797, 4990, 5022, 5228, 5260, 5433, 5467, 5751, 5780, 5948, 5981, 6174, 6206, 6412, 6444, 6655, 6688, 6866, 6901, 7283, 7312, 7480, 7513, 7706, 7738, 7954, 7988, 8175, 8209, 8424, 8453, 8621, 8654, 8847, 8879, 9095, 9129, 9311, 9344, 9542, 9575, 9773, 9806, 10004, 10037, 10235, 10268, 10471, 10505, 10818, 10847, 11015, 11048, 11241, 11273, 11484, 11517, 11720, 11754, 11997, 12026, 12194, 12227, 12420, 12452, 12663, 12696, 12894, 12927, 13138, 13171, 13382, 13415, 13626, 13659, 13875, 13909, 14152, 14181, 14349, 14382, 14575, 14607, 14818, 14851, 15049, 15082, 15293, 15326, 15537, 15570, 15781, 15814, 16025, 16058, 16269, 16302, 16518, 16552, 16795, 16824, 16992, 17025, 17218, 17250, 17461, 17494, 17692, 17725, 17936, 17969, 18180, 18213, 18424, 18457, 18668, 18701, 18912, 18945, 19161, 19195, 22681, 22710, 22878, 22911, 23104, 23136, 23347, 23380, 23573, 23605, 23816, 23849, 24027, 24062, 24299, 24332, 24652, 24680, 24843, 24875, 25063, 25094, 25295, 25326, 25494, 25527, 25802, 25830, 25993, 26025, 27884, 27915, 28116, 28147, 28315, 28348, 28623, 28651, 28814, 28846, 30705, 30736, 30937, 30968, 31136, 31169, 31549, 31578, 31746, 31779, 31972, 32004, 32220, 32254, 32457, 32491, 32694, 32728, 32931, 32965, 33168, 33202, 33405, 33439, 33642, 33676, 33879, 33913, 34116, 34150, 34353, 34387, 34632, 34661, 34829, 34862, 35055, 35087, 35303, 35337, 35540, 35574, 35777, 35811, 36014, 36048, 36251, 36285, 36488, 36522, 36725, 36759, 36962, 36996, 37339, 37368, 37536, 37569, 37762, 37794, 38013, 38032, 38052, 38071, 38470, 38499, 38667, 38700, 38893, 38925, 39136, 39169, 39380, 39413, 39624, 39657, 39868, 39901, 40112, 40145, 40356, 40389, 40600, 40633, 40844, 40877, 41088, 41121, 41332, 41365, 41576, 41609, 41820, 41853, 42064, 42097, 42308, 42341, 42552, 42585, 42796, 42829, 43040, 43073, 43284, 43317, 43528, 43561, 43772, 43805, 44016, 44049, 44260, 44293, 44504, 44537, 44748, 44781, 44992, 45025, 45236, 45269, 45480, 45513, 45724, 45757, 45968, 46001, 46212, 46245, 46456, 46489, 46700, 46733, 46944, 46977, 47188, 47221, 47479, 47508, 47676, 47709, 47902, 47934, 48145, 48178, 48389, 48422, 48633, 48666, 48877, 48910, 49121, 49154, 49365, 49398, 49609, 49642, 49853, 49886, 50097, 50130, 50341, 50374, 50585, 50618, 50829, 50862, 51073, 51106, 51317, 51350, 51561, 51594, 51805, 51838, 52049, 52082, 52293, 52326, 52537, 52570, 52781, 52814, 53025, 53058, 53269, 53302, 53513, 53546, 53757, 53790, 54001, 54034, 54245, 54278, 54489, 54522, 54733, 54766, 54977, 55010, 55221, 55254, 55465, 55498, 55709, 55742, 55953, 55986, 56197, 56230, 56441, 56474, 56685, 56718, 56929, 56962, 57173, 57206, 57417, 57450, 57661, 57694, 57905, 57938, 58149, 58182, 58393, 58426, 58637, 58670, 58881, 58914, 59125, 59158, 59369, 59402, 59613, 59646, 59857, 59890, 60101, 60134, 60345, 60378, 60589, 60622, 60833, 60866, 61077, 61110, 61321, 61354, 61565, 61598, 61809, 61842, 62053, 62086, 62297, 62330, 62541, 62574, 62785, 62818]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket//one/two/prefix-1.xml')",[15828]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket/file-2')",[13199]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/392.168.0.1/')",[36062]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..///..')",[46273]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket//one/two/prefix-1.xml')",[15842]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..//....')","[57737, 57981]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..///')","[58440, 58928]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../../')",[44809]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../')",[39427]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..//..')",[45771]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '10000.2.3.4')",[36552]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../')",[39441]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.MultipleRequestTest')",[849]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../..asdf..')",[56990]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBasicPut_thenGet(uk.me.mjt.s3test.S3ServerTest)')","[246, 267, 288]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..////asdf')",[55038]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///..//')","[60894, 61382]"
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseRegionNameByInternalConfig', '(.+\\.)?s3\\.amazonaws\\.com', 's3.amazonaws.com')","[2532, 2565, 4386, 4419, 5570, 5603, 7102, 7135, 8243, 8276, 10637, 10670, 11816, 11849, 13971, 14004, 16614, 16647, 19281, 19338, 22500, 22533, 24477, 24509, 25627, 25659, 28448, 28480, 31368, 31401, 34451, 34484, 37158, 37191, 38289, 38322, 47298, 47331]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../..asdf')",[56732]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv4Address', '^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$', 'localhost')","[27416, 30237]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../../')",[40159]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///..//')","[60880, 61368]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucket-4/')",[10051]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket//file/with/slashes-1.xml')",[13429]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname////....asdf')",[62100]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../..')",[39671]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testShouldRefuse(uk.me.mjt.s3test.RejectBadKeyNamesTest)')","[1637, 2322]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///..///')",[61626]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/....asdfasdfasdfasdf')",[48924]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'transferDirectory(uk.me.mjt.s3test.UploadDirectoryTest)')","[1534, 2281]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../asdf')",[41652]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'qwer.txt')","[6943, 24104]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../....asdf/')",[49929]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..asdf..')",[50632]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..asdf')",[50417]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testListObjectsWithNoPathWithPrefix(uk.me.mjt.s3test.ListObjectsTest)')","[767, 2033]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..asdf..')",[50646]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '....asdfasdfasdfasdf')",[48953]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/application-bucket/')",[19994]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.RejectBadBucketNamesTest')","[37051, 37075, 37100, 37124]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'no-path-2')","[15369, 18012]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'asdf')","[5536, 25594, 28415, 31236]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/1-0.2.3.4/')",[33453]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//..')",[42628]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname////../')",[62358]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'localhost')","[27508, 27602, 27696, 30329, 30423, 30517]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'asdf')",[48221]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..///asdf')",[59430]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//..//')","[60909, 61397]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/(.+)', '/test-bucket/')","[11782, 13937, 16580, 19223]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//../....')","[60177, 60421]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..///')",[53086]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//..asdf..')",[52598]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//')",[51134]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket//one/prefix-1.xml')","[15598, 18241]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/192.168.0.1.mjt.me.uk/')",[32742]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../..')",[39685]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..//')",[40647]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/newlycreatedbucket/')",[23394]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/100000.2.3.4/')",[36773]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../....')",[39929]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/192.168.0.1/')",[35588]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../../asdf')",[45541]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//..asdf')",[52340]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..///....')","[53345, 53589]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..//..')",[45800]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../..asdf')",[40403]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//../..')",[43101]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../..')",[44551]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../../asdf')",[45527]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..asdf')",[50388]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..///..')",[46259]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//..asdf..')",[52613]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/targetDirectory/asdf.txt')",[38085]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/aaaa/')",[33927]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..asdf')",[50402]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..//')",[57478]
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseRegionNameByInternalConfig', '(.+\\.)?s3-fips-us-gov-west-1\\.amazonaws\\.com', '0.0.0.0')","[19601, 19653, 19926, 19980, 20261, 20291, 20487, 20517, 20713, 20743, 20939, 20969, 21165, 21195, 21391, 21421, 21617, 21647, 21843, 21873, 22069, 22099, 22295, 22325]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket/no-path-2')","[15340, 17983]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStartBothHttpsAndHttpServers(uk.me.mjt.s3test.MultipleServersTest)')","[1244, 2198]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleDelete', '/([^/]+)/', '/bucketname/')","[8002, 9143]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../..asdf..')",[56976]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/application-bucket/solutions-folder')","[20305, 20531, 20757, 20983, 21209, 21435, 21661, 21887, 22113, 22339]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..')",[48450]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../......')",[56014]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[2408]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//......')",[51622]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..///....')","[53316, 53560]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../....')",[55756]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//..//asdf')",[61885]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')",[34180]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket//one/prefix-1.xml')","[15584, 18227]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/file/with/slashes-1.xml')",[13458]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../......')",[49656]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../..')",[39700]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.RejectBadBucketNamesTest')",[1326]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/asdf.txt')","[3182, 5036, 6220, 7752, 8893, 11287, 12466, 14621, 17264, 23150, 25108, 27929, 30750, 32018, 35101, 37808, 38939, 47948]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.ListBucketsTest')","[10530, 10554, 10579, 10603]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//..')",[42613]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../asdf')",[41637]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/qwer.txt')",[6472]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname////..//')",[62602]
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseRegionNameByInternalConfig', '(.+\\.)?s3-external-1\\.amazonaws\\.com', 'localhost')","[2654, 2683, 2843, 2876, 3071, 3103, 3312, 3345, 3519, 3554, 3768, 3801, 3997, 4030, 4204, 4239, 4508, 4537, 4697, 4730, 4925, 4957, 5163, 5195, 5364, 5398, 5692, 5721, 5881, 5914, 6109, 6141, 6347, 6379, 6588, 6621, 6795, 6830, 7224, 7253, 7413, 7446, 7641, 7673, 7885, 7919, 8106, 8140, 8365, 8394, 8554, 8587, 8782, 8814, 9026, 9060, 9244, 9277, 9475, 9508, 9706, 9739, 9937, 9970, 10168, 10201, 10402, 10436, 10759, 10788, 10948, 10981, 11176, 11208, 11417, 11450, 11651, 11685, 11938, 11967, 12127, 12160, 12355, 12387, 12596, 12629, 12827, 12860, 13071, 13104, 13315, 13348, 13559, 13592, 13806, 13840, 14093, 14122, 14282, 14315, 14510, 14542, 14751, 14784, 14982, 15015, 15226, 15259, 15470, 15503, 15714, 15747, 15958, 15991, 16202, 16235, 16449, 16483, 16736, 16765, 16925, 16958, 17153, 17185, 17394, 17427, 17625, 17658, 17869, 17902, 18113, 18146, 18357, 18390, 18601, 18634, 18845, 18878, 19092, 19126, 22622, 22651, 22811, 22844, 23039, 23071, 23280, 23313, 23508, 23540, 23749, 23782, 23956, 23991, 24232, 24265, 24595, 24623, 24778, 24810, 25000, 25031, 25232, 25263, 25427, 25460, 25745, 25773, 25928, 25960, 27821, 27852, 28053, 28084, 28248, 28281, 28566, 28594, 28749, 28781, 30642, 30673, 30874, 30905, 31069, 31102, 31490, 31519, 31679, 31712, 31907, 31939, 32151, 32185, 32388, 32422, 32625, 32659, 32862, 32896, 33099, 33133, 33336, 33370, 33573, 33607, 33810, 33844, 34047, 34081, 34284, 34318, 34573, 34602, 34762, 34795, 34990, 35022, 35234, 35268, 35471, 35505, 35708, 35742, 35945, 35979, 36182, 36216, 36419, 36453, 36656, 36690, 36893, 36927, 37280, 37309, 37469, 37502, 37697, 37729, 37935, 37955, 37974, 37993, 38411, 38440, 38600, 38633, 38828, 38860, 39069, 39102, 39313, 39346, 39557, 39590, 39801, 39834, 40045, 40078, 40289, 40322, 40533, 40566, 40777, 40810, 41021, 41054, 41265, 41298, 41509, 41542, 41753, 41786, 41997, 42030, 42241, 42274, 42485, 42518, 42729, 42762, 42973, 43006, 43217, 43250, 43461, 43494, 43705, 43738, 43949, 43982, 44193, 44226, 44437, 44470, 44681, 44714, 44925, 44958, 45169, 45202, 45413, 45446, 45657, 45690, 45901, 45934, 46145, 46178, 46389, 46422, 46633, 46666, 46877, 46910, 47121, 47154, 47420, 47449, 47609, 47642, 47837, 47869, 48078, 48111, 48322, 48355, 48566, 48599, 48810, 48843, 49054, 49087, 49298, 49331, 49542, 49575, 49786, 49819, 50030, 50063, 50274, 50307, 50518, 50551, 50762, 50795, 51006, 51039, 51250, 51283, 51494, 51527, 51738, 51771, 51982, 52015, 52226, 52259, 52470, 52503, 52714, 52747, 52958, 52991, 53202, 53235, 53446, 53479, 53690, 53723, 53934, 53967, 54178, 54211, 54422, 54455, 54666, 54699, 54910, 54943, 55154, 55187, 55398, 55431, 55642, 55675, 55886, 55919, 56130, 56163, 56374, 56407, 56618, 56651, 56862, 56895, 57106, 57139, 57350, 57383, 57594, 57627, 57838, 57871, 58082, 58115, 58326, 58359, 58570, 58603, 58814, 58847, 59058, 59091, 59302, 59335, 59546, 59579, 59790, 59823, 60034, 60067, 60278, 60311, 60522, 60555, 60766, 60799, 61010, 61043, 61254, 61287, 61498, 61531, 61742, 61775, 61986, 62019, 62230, 62263, 62474, 62507, 62718, 62751]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../..')",[44580]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../....asdf')",[56502]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/')","[2957, 4811, 5995, 7527, 8668, 11062, 12241, 14396, 17039, 22925, 24889, 27710, 30531, 31793, 34876, 37583, 38714, 47723]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..//..')",[40905]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.UploadDirectoryTest')",[1513]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'aaaa')",[33943]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//..//')",[43331]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.RejectBadKeyNamesTest')",[1616]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBasicGet(uk.me.mjt.s3test.S3ServerTest)')","[141, 1846]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.UploadDirectoryTest')","[38182, 38206, 38231, 38255]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//..///')",[61641]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..//..asdf')","[58196, 58684]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.BucketManipulationTest')",[952]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///../')",[59918]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//..asdf..')",[52584]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'bucketname')","[2973, 4827, 6011, 7543, 8684, 11078, 12257, 14412, 17055, 22941, 24905, 27726, 30547, 31809, 34892, 37599, 38730, 47739]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//..asdfasdf')",[52842]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '192.168.0.1')",[35604]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..//')",[40661]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleDelete', '/([^/]+)/', '/bucketname/asdf.txt')",[3882]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//....')",[51364]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.ListObjectsTest')",[494]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//..asdfasdf')",[52828]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[26080, 26190, 26271, 26323, 26379, 26439, 26719, 26839, 26928, 26986, 27050, 27120, 27209, 27317, 28901, 29011, 29092, 29144, 29200, 29260, 29540, 29660, 29749, 29807, 29871, 29941, 30030, 30138]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'wot(uk.me.mjt.s3test.MultipleRequestTest)')","[870, 2054]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'test-bucket')","[11547, 12726, 14881, 17524]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../..')",[44565]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '1-0.2.3.4')",[33469]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBasicGet(uk.me.mjt.s3test.S3ServerTest)')","[162, 183, 204]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/....')",[48680]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..///../')",[44077]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket//no-path/two/prefix-1.xml')",[18471]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/', '/bucketname/asdf.txt')","[3639, 4324, 5481, 25541, 28362, 31183]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/....')",[48694]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/file/with/loads/of/slashes-3.png')","[13702, 16345, 18988]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname////../asdf')",[62846]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../////')",[54794]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/newlycreatedbucket/qwer.txt')",[23619]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..///')",[41164]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname////../..')",[47235]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../....')",[55785]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'wot(uk.me.mjt.s3test.MultipleRequestTest)')","[891, 912, 933, 2074]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..///')",[41135]
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseRegionNameByInternalConfig', '(.+\\.)?s3\\.amazonaws\\.com', '0.0.0.0')","[19391, 19443, 19708, 19762, 20139, 20169, 20365, 20395, 20591, 20621, 20817, 20847, 21043, 21073, 21269, 21299, 21495, 21525, 21721, 21751, 21947, 21977, 22173, 22203]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket/file-1')",[12955]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'listBucketsOnEmpty(uk.me.mjt.s3test.ListBucketsTest)')","[328, 1888]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../....asdf/')",[49900]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..///')",[41149]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../asdfasdf')",[42355]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../')",[49182]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testListObjectsWithPrefix(uk.me.mjt.s3test.ListObjectsTest)')","[704, 725, 746]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..//..')",[40920]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../....asdf')",[56517]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../asdfasdf')",[42369]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../asdf')",[41623]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/qwer.txt')",[6458]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../....asdfasdf')",[50144]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//....asdfasdfasdf')",[55268]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'file-2')",[13214]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'asdf.txt')","[3667, 4352, 5509, 25569, 28390, 31211]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..////')","[54048, 54536]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../..asdfasdf')",[57249]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket//file/with/loads/of/slashes-3.png')","[13687, 16330, 18973]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucket-5/')",[10282]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/targetDirectory/qwer.txt')",[38128]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//..//')",[43345]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///..//asdf')",[61856]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../....')",[55770]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'solutions-folder')","[20334, 20560, 20786, 21012, 21238, 21464, 21690, 21916, 22142, 22368]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/targetDirectory/qwer.txt')",[38142]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '1.2.3')",[32995]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///../')",[59904]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//..//')",[43360]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../..//')",[45312]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..//asdf')",[41379]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..///../')",[44063]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//......')",[51637]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname////../')",[62344]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///../../')",[46747]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateBuckjet_thenPutAndGet(uk.me.mjt.s3test.BucketManipulationTest)')","[973, 2095]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/-initial-hyphen.mjt.me.uk/')",[35351]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..///..')",[43848]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//....asdfasdfasdf')",[55282]
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseRegionNameByInternalConfig', '(.+\\.)?s3-external-1\\.amazonaws\\.com', '0.0.0.0')","[19496, 19548, 19817, 19871, 20200, 20230, 20426, 20456, 20652, 20682, 20878, 20908, 21104, 21134, 21330, 21360, 21556, 21586, 21782, 21812, 22008, 22038, 22234, 22264]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'listBucketsShouldReturnExpectedBuckets(uk.me.mjt.s3test.ListBucketsTest)')","[433, 454, 475]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../..asdf')",[40432]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket/no-path-1')","[15096, 17739]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/application-bucket/solutions-folder')","[20319, 20545, 20771, 20997, 21223, 21449, 21675, 21901, 22127, 22353]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..///..')",[46288]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..///..asdf')","[53818, 54306]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../....')",[39915]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//....asdf')",[52096]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..///..')",[43833]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '100000.2.3.4')",[36789]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/1000000.2.3.4/')",[37010]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..///asdf')",[59445]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//../..')",[43087]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..////..')",[44321]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/one/two/prefix-1.xml')",[15857]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../////')",[54780]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//../../')",[46776]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.BucketManipulationTest')","[24371, 24395, 24420, 24444]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../..asdf')",[56761]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//../..')",[43116]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '1.2.3.4.5')",[33232]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..//../')",[46044]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucket-1/')",[9358]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//....')",[51393]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testShouldAccept(uk.me.mjt.s3test.RejectBadKeyNamesTest)')","[1721, 2363]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/1.2.3/')",[32979]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//')",[51149]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDelete_thenGet(uk.me.mjt.s3test.S3ServerTest)')","[57, 1805]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../../')",[40173]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/name-with-hyphens.mjt.me.uk/')",[32505]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..///')","[58469, 58957]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..//....')","[57722, 57966]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'aaa')",[33706]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///..///')",[61612]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../......')",[49670]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/asdf')",[48206]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'bucket-1')",[9374]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..////')","[54077, 54565]"
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseRegionNameByInternalConfig', '(.+\\.)?s3\\.amazonaws\\.com', 'localhost')","[2595, 2624, 2776, 2809, 3006, 3038, 3245, 3278, 3448, 3483, 3701, 3734, 3930, 3963, 4133, 4168, 4449, 4478, 4630, 4663, 4860, 4892, 5098, 5130, 5295, 5329, 5633, 5662, 5814, 5847, 6044, 6076, 6282, 6314, 6521, 6554, 6724, 6759, 7165, 7194, 7346, 7379, 7576, 7608, 7816, 7850, 8037, 8071, 8306, 8335, 8487, 8520, 8717, 8749, 8957, 8991, 9177, 9210, 9408, 9441, 9639, 9672, 9870, 9903, 10101, 10134, 10333, 10367, 10700, 10729, 10881, 10914, 11111, 11143, 11350, 11383, 11582, 11616, 11879, 11908, 12060, 12093, 12290, 12322, 12529, 12562, 12760, 12793, 13004, 13037, 13248, 13281, 13492, 13525, 13737, 13771, 14034, 14063, 14215, 14248, 14445, 14477, 14684, 14717, 14915, 14948, 15159, 15192, 15403, 15436, 15647, 15680, 15891, 15924, 16135, 16168, 16380, 16414, 16677, 16706, 16858, 16891, 17088, 17120, 17327, 17360, 17558, 17591, 17802, 17835, 18046, 18079, 18290, 18323, 18534, 18567, 18778, 18811, 19023, 19057, 22563, 22592, 22744, 22777, 22974, 23006, 23213, 23246, 23443, 23475, 23682, 23715, 23885, 23920, 24165, 24198, 24538, 24566, 24713, 24745, 24937, 24968, 25169, 25200, 25360, 25393, 25688, 25716, 25863, 25895, 27758, 27789, 27990, 28021, 28181, 28214, 28509, 28537, 28684, 28716, 30579, 30610, 30811, 30842, 31002, 31035, 31431, 31460, 31612, 31645, 31842, 31874, 32082, 32116, 32319, 32353, 32556, 32590, 32793, 32827, 33030, 33064, 33267, 33301, 33504, 33538, 33741, 33775, 33978, 34012, 34215, 34249, 34514, 34543, 34695, 34728, 34925, 34957, 35165, 35199, 35402, 35436, 35639, 35673, 35876, 35910, 36113, 36147, 36350, 36384, 36587, 36621, 36824, 36858, 37221, 37250, 37402, 37435, 37632, 37664, 37857, 37877, 37896, 37915, 38352, 38381, 38533, 38566, 38763, 38795, 39002, 39035, 39246, 39279, 39490, 39523, 39734, 39767, 39978, 40011, 40222, 40255, 40466, 40499, 40710, 40743, 40954, 40987, 41198, 41231, 41442, 41475, 41686, 41719, 41930, 41963, 42174, 42207, 42418, 42451, 42662, 42695, 42906, 42939, 43150, 43183, 43394, 43427, 43638, 43671, 43882, 43915, 44126, 44159, 44370, 44403, 44614, 44647, 44858, 44891, 45102, 45135, 45346, 45379, 45590, 45623, 45834, 45867, 46078, 46111, 46322, 46355, 46566, 46599, 46810, 46843, 47054, 47087, 47361, 47390, 47542, 47575, 47772, 47804, 48011, 48044, 48255, 48288, 48499, 48532, 48743, 48776, 48987, 49020, 49231, 49264, 49475, 49508, 49719, 49752, 49963, 49996, 50207, 50240, 50451, 50484, 50695, 50728, 50939, 50972, 51183, 51216, 51427, 51460, 51671, 51704, 51915, 51948, 52159, 52192, 52403, 52436, 52647, 52680, 52891, 52924, 53135, 53168, 53379, 53412, 53623, 53656, 53867, 53900, 54111, 54144, 54355, 54388, 54599, 54632, 54843, 54876, 55087, 55120, 55331, 55364, 55575, 55608, 55819, 55852, 56063, 56096, 56307, 56340, 56551, 56584, 56795, 56828, 57039, 57072, 57283, 57316, 57527, 57560, 57771, 57804, 58015, 58048, 58259, 58292, 58503, 58536, 58747, 58780, 58991, 59024, 59235, 59268, 59479, 59512, 59723, 59756, 59967, 60000, 60211, 60244, 60455, 60488, 60699, 60732, 60943, 60976, 61187, 61220, 61431, 61464, 61675, 61708, 61919, 61952, 62163, 62196, 62407, 62440, 62651, 62684]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/....asdfasdfasdf')",[55297]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//..../')",[51852]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..//..')",[45785]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '-initial-hyphen.mjt.me.uk')",[35367]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'transferDirectory(uk.me.mjt.s3test.UploadDirectoryTest)')","[1555, 1576, 1597, 2301]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmptyBucketReturnsEmptyList(uk.me.mjt.s3test.ListObjectsTest)')","[515, 1950]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'bucket-3')",[9836]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'no-path-1')","[15125, 17768]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//../')",[42872]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testShouldReject(uk.me.mjt.s3test.RejectBadBucketNamesTest)')","[1452, 1473, 1494]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../asdfasdf')",[42384]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/1.2.3.4.5/')",[33216]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')","[26504, 26599, 29325, 29420]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../..../')",[56258]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..////')",[59172]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBasicPut_thenGet(uk.me.mjt.s3test.S3ServerTest)')","[225, 1867]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/')",[34401]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../asdf..')",[41881]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'listBucketsOnEmpty(uk.me.mjt.s3test.ListBucketsTest)')","[349, 370, 391, 1908]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../asdf..')",[41867]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/doesnotexist.mjt.me.uk/')",[32268]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket//file/with/slashes-1.xml')",[13443]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../../..')",[45068]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStartTwoHttpsServers(uk.me.mjt.s3test.MultipleServersTest)')","[1160, 2177]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../....asdfasdf')",[50173]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../....asdfasdf')",[50158]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//....asdf')",[52110]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../../')",[44824]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '292.168.0.1')",[35841]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket/no-path-2')","[15354, 17997]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..//')",[40676]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'application-bucket')",[20010]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../../')",[40188]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname////../asdf')",[62832]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///..//asdf')",[61870]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '1000000.2.3.4')",[37026]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../....')",[49426]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..')",[39197]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[2453]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../')",[49197]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..')",[39183]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../......')",[49685]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testShouldAccept(uk.me.mjt.s3test.RejectBadBucketNamesTest)')","[1347, 2219]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..asdf..')",[50661]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'qwer')","[6970, 24131]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..///')","[58454, 58942]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '///../..')",[47264]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/(.+)', '/bucketname/qwer.txt')",[6929]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..//')",[57493]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..///....')","[53330, 53574]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//..asdf')",[52354]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../')",[55541]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///../..')",[46517]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..////asdf')",[55024]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'asdf.txt')","[3211, 5065, 6249, 7781, 8922, 11316, 12495, 14650, 17293, 23179, 25137, 27958, 30779, 32047, 35130, 37837, 38968, 47977]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/one/prefix-1.xml')","[15613, 18256]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///....asdfasdf')",[59660]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//../..')",[46532]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'qwer.txt')","[6487, 23648]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//../asdf')",[43589]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testShouldRefuse(uk.me.mjt.s3test.RejectBadKeyNamesTest)')","[1658, 1679, 1700, 2342]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///....asdfasdf')",[59674]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'name-with-hyphens.mjt.me.uk')",[32521]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///../..asdf')","[60636, 61124]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '192.168.0.1.mjt.me.uk')",[32758]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//../asdf')",[43575]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../')",[39456]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/two/prefix-1.xml')","[16101, 18744]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..////')",[59186]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..////..')",[44336]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')",[34417]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//....')",[51378]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.MultipleRequestTest')","[22393, 22417, 22442, 22466]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testShouldAccept(uk.me.mjt.s3test.RejectBadBucketNamesTest)')","[1368, 1389, 1410, 2239]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../..//..')",[40891]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..///')",[53072]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..')",[48465]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..///../')",[44092]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..//..asdf')","[58225, 58713]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..')",[39212]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..////..')",[44307]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//../')",[42843]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/1000.168.0.1/')",[36299]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/test-bucket//no-path/two/prefix-1.xml')",[18485]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'localhost')","[27462, 27555, 27649, 30283, 30376, 30470]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//../')",[42857]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../..asdf')",[40417]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../../..')",[45053]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//..asdf')",[52369]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/newlycreatedbucket/qwer.txt')",[23633]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//..../')",[51881]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStartTwoHttpsServers(uk.me.mjt.s3test.MultipleServersTest)')","[1181, 1202, 1223]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../asdf/')",[42140]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../')",[49168]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//../..asdf')","[60665, 61153]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/targetDirectory/asdf.txt')",[38099]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//../asdf')",[43604]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../../asdf/')",[42111]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket/file-1')",[12941]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/(.+)', '/newlycreatedbucket/qwer.txt')",[24090]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmptyBucketReturnsExpectedObjects(uk.me.mjt.s3test.ListObjectsTest)')","[599, 1991]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname////../..')",[47249]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'bucket-5')",[10298]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/')",[34164]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//..asdfasdf')",[52857]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../..asdf')",[56746]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///../....')","[60148, 60392]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../..//')",[45297]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../......')",[56029]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'listBucketsShouldReturnExpectedBuckets(uk.me.mjt.s3test.ListBucketsTest)')","[412, 1929]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..//......')",[51608]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '///....asdf')",[62129]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../..//')",[45283]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/(.+)', '/bucketname/asdf.txt')","[3653, 4338, 5495, 25555, 28376, 31197]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.MultipleServersTest')",[1055]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//..//..')",[47020]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..////')","[54062, 54550]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../..asdf..')",[57005]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../../asdf..')",[41896]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../////')",[54809]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../../')",[44795]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/asdf')",[48192]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/asdf.txt')","[3196, 5050, 6234, 7766, 8907, 11301, 12480, 14635, 17278, 23164, 25122, 27943, 30764, 32032, 35115, 37822, 38953, 47962]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..///')",[53101]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..//..asdf')","[58210, 58698]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleDelete', '/([^/]+)/', '/newlycreatedbucket/')",[24346]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/', '/newlycreatedbucket/qwer.txt')",[24076]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..//')",[57464]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucket-2/')",[9589]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..///..asdf')","[53833, 54321]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/..//..../')",[51866]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../....asdf')",[56488]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleDelete', '/([^/]+)/(.+)', '/bucketname/asdf.txt')",[3896]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..//asdf')",[41393]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..///asdf')",[59416]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//..//../')",[46015]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//../')",[59933]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///../../')",[46761]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//..//../')",[46029]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStartTwoServers(uk.me.mjt.s3test.MultipleServersTest)')","[1076, 2136]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDelete_thenGet(uk.me.mjt.s3test.S3ServerTest)')","[78, 99, 120, 1825]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///..//..')",[46991]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/292.168.0.1/')",[35825]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '//....asdfasdf')",[59689]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.S3ServerTest')",[36]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'targetDirectory/asdf.txt')",[38114]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmptyBucketReturnsExpectedObjects(uk.me.mjt.s3test.ListObjectsTest)')","[620, 641, 662]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///..//..')",[47005]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/....asdfasdfasdfasdf')",[48938]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///../..asdf')","[60650, 61138]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../......')",[56000]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..///..')",[43819]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '///../asdf')",[62861]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../../..')",[45039]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/..////')",[59201]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/', '/bucketname/qwer.txt')",[6915]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../..asdfasdfasdf')",[50890]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '1000.168.0.1')",[36315]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../....asdf/')",[49914]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..////asdf')",[55053]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[2498]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname/../../asdf/')",[42125]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreateBuckjet_thenPutAndGet(uk.me.mjt.s3test.BucketManipulationTest)')","[994, 1015, 1036, 2115]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'doesnotexist.mjt.me.uk')",[32284]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket/file-2')",[13185]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'file-1')",[12970]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/../....')",[49412]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..')",[48436]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', '392.168.0.1')",[36078]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/aaa/')",[33690]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '..//....asdf')",[52125]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'bucket-2')",[9605]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname/..///..asdf')","[53804, 54292]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[26135, 26245, 26297, 26349, 26409, 26469, 26779, 26899, 26957, 27015, 27085, 27155, 27263, 27371, 28956, 29066, 29118, 29170, 29230, 29290, 29600, 29720, 29778, 29836, 29906, 29976, 30084, 30192]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/no-path/two/prefix-1.xml')",[18500]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname//../')",[55526]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStartTwoServers(uk.me.mjt.s3test.MultipleServersTest)')","[1097, 1118, 1139, 2156]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'bucket-4')",[10067]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname///../....')","[60162, 60406]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.S3ServerTest')","[6995, 7019, 7044, 7068]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucket-3/')",[9820]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testShouldReject(uk.me.mjt.s3test.RejectBadBucketNamesTest)')","[1431, 2260]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handleGet', '/([^/]+)/', '/test-bucket/')","[11768, 13923, 16566, 19209]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..//asdf')",[41408]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', 'targetDirectory/qwer.txt')",[38157]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStartBothHttpsAndHttpServers(uk.me.mjt.s3test.MultipleServersTest)')","[1265, 1286, 1307]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')","[26539, 26659, 29360, 29480]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmptyBucketReturnsEmptyList(uk.me.mjt.s3test.ListObjectsTest)')","[536, 557, 578, 1970]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/(.+)', '/bucketname////....asdf')",[62114]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '/../../asdf')",[45556]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '///../')",[62373]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname///../..')",[46503]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname////..//')",[62588]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../..asdfasdfasdf')",[50905]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/test-bucket//file/with/loads/of/slashes-3.png')","[13673, 16316, 18959]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '../....')",[49441]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePutObject', '(.*/)?\\.\\./+\\.\\.(/.*)?', '....')",[48709]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.ListBucketsTest')",[307]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.MultipleServersTest')","[31261, 31285, 31310, 31334]"
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'bucketNameValid', '[a-z0-9\\.\\-]{3,63}', 'newlycreatedbucket')",[23410]
+"('S3Server.java', 'uk.me.mjt.s3test.S3Server', 'handlePut', '/([^/]+)/', '/bucketname//../..../')",[56244]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testListObjectsWithNoPathWithPrefix(uk.me.mjt.s3test.ListObjectsTest)')","[788, 809, 830]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.me.mjt.s3test.ListObjectsTest')","[20035, 20059, 20084, 20108]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testListObjectsWithPrefix(uk.me.mjt.s3test.ListObjectsTest)')","[683, 2012]"

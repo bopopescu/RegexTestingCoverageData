@@ -1,0 +1,5 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'tank.myhttp.AppTest')","[178, 198, 219, 239]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApp(tank.myhttp.AppTest)')","[76, 96, 116, 157]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApp(tank.myhttp.AppTest)')","[56, 137]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'tank.myhttp.AppTest')",[36]

@@ -1,0 +1,29 @@
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'EAST')",[174]
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'OTHER')","[58, 116]"
+"('FunctionImpl.java', 'org.geotools.filter.FunctionImpl', 'toParameter', '(\\w+)(?::([\\.\\w]*)(?::(\\d*),(\\d*))?+)?+', 'result:String')",[536]
+"('DataIO.java', 'oms3.io.DataIO', 'locate', '.+', 'conditions')",[8770]
+"('SimpleFeaturePropertyAccessorFactory.java', 'org.geotools.filter.expression.SimpleFeaturePropertyAccessorFactory', 'createPropertyAccessor', '(\\w+:)?(\\w+)', 'the_geom')","[8954, 9198, 9318, 9378]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'rows:   8')","[1211, 1241, 1988, 2021, 2808, 2838, 3585, 3618, 4405, 4435, 5182, 5215, 6002, 6032, 6779, 6812, 7599, 7629, 8376, 8409]"
+"('SimpleFeaturePropertyAccessorFactory.java', 'org.geotools.filter.expression.SimpleFeaturePropertyAccessorFactory', 'createPropertyAccessor', '@(\\w+:)?id', 'cat')","[384, 8984, 9045, 9107, 9228]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'north:   5140020.0')","[906, 936, 1653, 1686, 2503, 2533, 3250, 3283, 4100, 4130, 4847, 4880, 5697, 5727, 6444, 6477, 7294, 7324, 8041, 8074]"
+"('GrassCoverageReader.java', 'org.geotools.gce.grassraster.GrassCoverageReader', 'createGridSampleDimension', '.*Infinty.*|.*NaN.*', '400.0:255:255:0 620.0:0:255:0  255@@split@@620.0:0:255:0 840.0:0:255:255  255@@split@@840.0:0:255:255 1060.0:0:0:255  255@@split@@1060.0:0:0:255 1280.0:255:0:255  255@@split@@1280.0:255:0:255 1500.0:255:0:0  255@@split@@')","[2320, 2350, 3917, 3947, 5514, 5544, 7111, 7141]"
+"('SimpleFeaturePropertyAccessorFactory.java', 'org.geotools.filter.expression.SimpleFeaturePropertyAccessorFactory', 'createPropertyAccessor', '@(\\w+:)?id', 'the_geom')","[8924, 9168, 9288, 9348]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'n-s resol:   30.0')","[1272, 1302, 2055, 2088, 2869, 2899, 3652, 3685, 4466, 4496, 5249, 5282, 6063, 6093, 6846, 6879, 7660, 7690, 8443, 8476]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'west:   1640650.0')","[1089, 1119, 1854, 1887, 2686, 2716, 3451, 3484, 4283, 4313, 5048, 5081, 5880, 5910, 6645, 6678, 7477, 7507, 8242, 8275]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'proj:   0')","[784, 814, 1519, 1552, 2381, 2411, 3116, 3149, 3978, 4008, 4713, 4746, 5575, 5605, 6310, 6343, 7172, 7202, 7907, 7940]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'e-w resol:   30.0')","[1333, 1363, 2122, 2155, 2930, 2960, 3719, 3752, 4527, 4557, 5316, 5349, 6124, 6154, 6913, 6946, 7721, 7751, 8510, 8543]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'format:   -1')","[1394, 1424, 2189, 2222, 2991, 3021, 3786, 3819, 4588, 4618, 5383, 5416, 6185, 6215, 6980, 7013, 7782, 7812, 8577, 8610]"
+"('DataIO.java', 'oms3.io.DataIO', 'locate', '.+', 'vegetation')",[8801]
+"('FunctionImpl.java', 'org.geotools.filter.FunctionImpl', 'toParameter', '(\\w+)(?::([\\.\\w]*)(?::(\\d*),(\\d*))?+)?+', 'text:String:2,')",[478]
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'east:   1640950.0')","[1028, 1058, 1787, 1820, 2625, 2655, 3384, 3417, 4222, 4252, 4981, 5014, 5819, 5849, 6578, 6611, 7416, 7446, 8175, 8208]"
+"('DataIO.java', 'oms3.io.DataIO', 'locate', '.+', 'jami_out_temp')",[722]
+"('DataIO.java', 'oms3.io.DataIO', 'locate', '.+', 'testrain')","[691, 753]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'south:   5139780.0')","[967, 997, 1720, 1753, 2564, 2594, 3317, 3350, 4161, 4191, 4914, 4947, 5758, 5788, 6511, 6544, 7355, 7385, 8108, 8141]"
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'DISPLAY_RIGHT')",[348]
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'zone:   0')","[845, 875, 1586, 1619, 2442, 2472, 3183, 3216, 4039, 4069, 4780, 4813, 5636, 5666, 6377, 6410, 7233, 7263, 7974, 8007]"
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'compressed:   1')","[1455, 1485, 2256, 2289, 3052, 3082, 3853, 3886, 4649, 4679, 5450, 5483, 6246, 6276, 7047, 7080, 7843, 7873, 8644, 8677]"
+"('SimpleFeaturePropertyAccessorFactory.java', 'org.geotools.filter.expression.SimpleFeaturePropertyAccessorFactory', 'createPropertyAccessor', '(\\w+:)?(\\w+)', 'cat')","[420, 9014, 9076, 9138, 9258]"
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'NORTH')",[232]
+"('DataIO.java', 'oms3.io.DataIO', 'locate', '.+', 'rain')","[567, 598, 629, 660, 8708, 8739, 8832, 8863, 8894]"
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'COLUMN_POSITIVE')",[290]
+"('JGrassRegion.java', 'org.geotools.gce.grassraster.JGrassRegion', 'readRegionFromFile', '.*reclass.*', 'cols:   10')","[1150, 1180, 1921, 1954, 2747, 2777, 3518, 3551, 4344, 4374, 5115, 5148, 5941, 5971, 6712, 6745, 7538, 7568, 8309, 8342]"

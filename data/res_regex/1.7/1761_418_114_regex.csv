@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmailValidation(org.wso2.carbon.stratos.common.test.CommonTest)')","[56, 137]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.wso2.carbon.stratos.common.test.CommonTest')",[36]
+"('CommonUtil.java', 'org.wso2.carbon.stratos.common.util.CommonUtil', 'validateEmail', '^[^@]+@[^@.]+\\.[^@]*\\w\\w$', 'damn@right.com')",[249]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('CommonUtil.java', 'org.wso2.carbon.stratos.common.util.CommonUtil', 'validateEmail', '^[^@]+@[^@.]+\\.[^@]*\\w\\w$', 'damn@right@wrong.com')",[387]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmailValidation(org.wso2.carbon.stratos.common.test.CommonTest)')","[76, 96, 116, 157]"
+"('CommonUtil.java', 'org.wso2.carbon.stratos.common.util.CommonUtil', 'validateEmail', '.*[\\(\\)\\<\\>\\,\\;\\:\\\\\\""\\[\\]].*', 'damn@right.com')",[203]
+"('CommonUtil.java', 'org.wso2.carbon.stratos.common.util.CommonUtil', 'validateEmail', '.*[\\(\\)\\<\\>\\,\\;\\:\\\\\\""\\[\\]].*', 'damn@right@wrong.com')",[341]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.wso2.carbon.stratos.common.test.CommonTest')","[408, 428, 449, 469]"
+"('CommonUtil.java', 'org.wso2.carbon.stratos.common.util.CommonUtil', 'validateEmail', '.*[\\(\\)\\<\\>\\,\\;\\:\\\\\\""\\[\\]].*', 'damn@right].com')",[295]

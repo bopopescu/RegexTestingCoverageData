@@ -1,0 +1,22 @@
+"('BindingConverterTest.java', 'br.com.touchtec.mockspi.BindingConverterTest', 'bindingToBinaryNameShouldFollowThePattern', 'M([0-9]+)_([0-9]+)', 'M1521417434_123')",[155]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'M1203155884_0')",[577]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'M12345_9231')",[247]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M1521417434_123')","[186, 217]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M1659566555_0')","[673, 685]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'java.lang.Object')","[336, 405, 504, 635]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'br.com.touchtec.mockspi.IntTestIface')","[321, 388, 484, 618]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'br.com.touchtec.mockspi.MockSPIClassLoader')","[420, 522, 650]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'M1223582485_0')",[434]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'M1223582485_1')",[536]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M1284745043_0')","[359, 371]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M1859687816_0')","[296, 306]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M1223582485_0')","[449, 464]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'oi')","[32, 95]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M1203155884_0')","[589, 601]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M1223582485_1')","[551, 566]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'matchAndGet', 'M([0-9]+)_([0-9]+)', 'M12345_9231')","[63, 126]"
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'br.com.touchtec.mockspi.OtherIntTestIface')",[702]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'M1859687816_0')",[286]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'M1659566555_0')",[661]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'M1284745043_0')",[347]
+"('BindingConverter.java', 'br.com.touchtec.mockspi.BindingConverter', 'binaryNameMatches', 'M([0-9]+)_([0-9]+)', 'oi')",[277]

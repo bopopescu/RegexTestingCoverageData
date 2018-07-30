@@ -1,0 +1,13 @@
+"('CvsBlameConsumer.java', 'org.sonar.plugins.scm.cvs.CvsBlameConsumer', 'consumeLine', '(.*)\\((.*)\\s+(.*)\\)', '1.1          (julien   21-Oct-14)')","[441, 480, 519, 558, 636, 675, 714, 753, 792, 831, 909, 948]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAnnotateParams(org.sonar.plugins.scm.cvs.CvsBlameCommandTest)')","[160, 331]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.sonar.plugins.scm.cvs.CvsScmProviderTest')","[36, 402]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParsingOfOutput(org.sonar.plugins.scm.cvs.CvsBlameCommandTest)')","[139, 309]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.sonar.plugins.scm.cvs.CvsBlameCommandTest')","[97, 975]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGlobalOptions(org.sonar.plugins.scm.cvs.CvsBlameCommandTest)')","[118, 287]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'sanityCheck(org.sonar.plugins.scm.cvs.CvsScmProviderTest)')","[57, 243]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.sonar.plugins.scm.cvs.CvsPluginTest')","[200, 998]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getExtensions(org.sonar.plugins.scm.cvs.CvsPluginTest)')","[221, 375]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAutodetection(org.sonar.plugins.scm.cvs.CvsScmProviderTest)')","[78, 265]"
+"('CvsBlameConsumer.java', 'org.sonar.plugins.scm.cvs.CvsBlameConsumer', 'consumeLine', '(.*)\\((.*)\\s+(.*)\\)', '1.2          (julien   21-Oct-14)')","[597, 870]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUnknowError(org.sonar.plugins.scm.cvs.CvsBlameCommandTest)')","[181, 353]"

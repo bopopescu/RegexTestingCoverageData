@@ -1,0 +1,69 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get(MultipleResourceConfigurationTest)')","[57, 1650]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'v5.MaxTemperatureMapperTest')","[4175, 4195, 4216, 4236]"
+"('KerberosName.java', 'org.apache.hadoop.security.KerberosName', '<init>', '([^/@]*)(/([^/@]*))?@([^/@]*)', 'peipei')","[2974, 4020]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'processesValidRecord(v3.MaxTemperatureMapperTest)')","[929, 950, 971]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'processesValidRecord(v2.MaxTemperatureMapperTest)')","[244, 1732]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'v3.MaxTemperatureDriverMiniTest')",[1549]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesMissingTemperature(v5.MaxTemperatureMapperTest)')","[1387, 1408, 1429]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'v1.MaxTemperatureMapperTest')",[326]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'v1.MaxTemperatureReducerTest')",[597]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 1530]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'MultipleResourceConfigurationTest')","[2191, 2215, 2240, 2264]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get(SingleResourceConfigurationTest)')","[721, 1877]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesMissingTemperature(v5.MaxTemperatureMapperTest)')","[1366, 2104]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ignoresSuspectQualityRecord(v3.MaxTemperatureMapperTest)')","[1097, 1118, 1139]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'v3.MaxTemperatureMapperTest')",[803]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'SingleResourceConfigurationTest')",[700]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'processesValidRecord(v3.MaxTemperatureMapperTest)')","[908, 1959]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'SingleResourceConfigurationTest')","[2583, 2607, 2632, 2656]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'processesPositiveTemperatureRecord(v3.MaxTemperatureMapperTest)')","[992, 1980]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesMalformedTemperature(v5.MaxTemperatureMapperTest)')","[1450, 2125]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'v2.MaxTemperatureMapperTest')",[139]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ignoresMissingTemperatureRecord(v2.MaxTemperatureMapperTest)')","[181, 202, 223, 1711]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', 'micro', 'micro')",[3014]
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'sunpkcs11.jar')",[3674]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ignoresSuspectQualityRecord(v3.MaxTemperatureMapperTest)')","[1076, 2001]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'processesMalformedTemperatureRecord(v1.MaxTemperatureMapperTest)')","[515, 1815]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'v5.MaxTemperatureMapperTest')",[1261]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ignoresMissingTemperatureRecord(v1.MaxTemperatureMapperTest)')","[347, 1753]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[3406]
+"('NcdcRecordParser.java', 'v5.NcdcRecordParser', 'isValidTemperature', '[01459]', '1')","[3307, 3336]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesValidRecord(v5.MaxTemperatureMapperTest)')","[1303, 1324, 1345, 2083]"
+"('NcdcRecordParser.java', 'v3.NcdcRecordParser', 'isValidTemperature', '[01459]', '1')","[2686, 2715, 2745, 2774, 3031, 3047, 3064, 3080, 3097, 3113, 3130, 3146, 3163, 3179]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'processesMalformedTemperatureRecord(v1.MaxTemperatureMapperTest)')","[536, 557, 578]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(v3.MaxTemperatureDriverTest)')","[1179, 2022]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(v3.MaxTemperatureDriverMiniTest)')","[1569, 2146]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'v3.MaxTemperatureDriverTest')",[1158]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'v3.MaxTemperatureMapperTest')","[2858, 2882, 2907, 2931]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ignoresMissingTemperatureRecord(v2.MaxTemperatureMapperTest)')","[160, 1691]"
+"('PermissionParser.java', 'org.apache.hadoop.fs.permission.PermissionParser', '<init>', '^\\s*[+]?([0-7]{3})\\s*$', '755')",[4072]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'v2.MaxTemperatureMapperTest')","[2289, 2313, 2338, 2362]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'v1.MaxTemperatureReducerTest')","[2485, 2509, 2534, 2558]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'v1.MaxTemperatureMapperTest')","[2387, 2411, 2436, 2460]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'processesPositiveTemperatureRecord(v3.MaxTemperatureMapperTest)')","[1013, 1034, 1055]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'processesValidRecord(v1.MaxTemperatureMapperTest)')","[431, 1794]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'sunjce_provider.jar')",[4004]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'processesValidRecord(v2.MaxTemperatureMapperTest)')","[265, 286, 307]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'v3.MaxTemperatureDriverMiniTest')","[4093, 4113, 4134, 4154]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'processesValidRecord(v1.MaxTemperatureMapperTest)')","[452, 473, 494]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(v3.MaxTemperatureDriverTest)')","[1200, 1221, 1242, 2042]"
+"('NcdcRecordParser.java', 'v3.NcdcRecordParser', 'isValidTemperature', '[01459]', '2')","[2804, 2833]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'get(MultipleResourceConfigurationTest)')","[78, 99, 120, 1670]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'javassist-instrument.jar')",[3608]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'v3.MaxTemperatureDriverTest')","[3204, 3228, 3253, 3277]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ignoresMissingTemperatureRecord(v3.MaxTemperatureMapperTest)')","[845, 866, 887, 1938]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[3476]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'returnsMaximumIntegerInValues(v1.MaxTemperatureReducerTest)')","[639, 660, 681, 1856]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'zipfs.jar')",[3740]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(v3.MaxTemperatureDriverMiniTest)')","[1589, 1609, 1629, 2166]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'surefirebooter2663916142279306392.jar')",[3542]
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'dnsns.jar')",[3872]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesMalformedTemperature(v5.MaxTemperatureMapperTest)')","[1471, 1492, 1513]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ignoresMissingTemperatureRecord(v1.MaxTemperatureMapperTest)')","[368, 389, 410, 1773]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'sunec.jar')",[3806]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesValidRecord(v5.MaxTemperatureMapperTest)')","[1282, 2063]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'localedata.jar')",[3938]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ignoresMissingTemperatureRecord(v3.MaxTemperatureMapperTest)')","[824, 1918]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'returnsMaximumIntegerInValues(v1.MaxTemperatureReducerTest)')","[618, 1836]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'get(SingleResourceConfigurationTest)')","[742, 763, 784, 1897]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'MultipleResourceConfigurationTest')",[36]

@@ -1,0 +1,15 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testId(com.github.aureliano.evtbridge.input.file.FileInputConverterTest)')",[187]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetDefaults(com.github.aureliano.evtbridge.input.file.FileInputConfigTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValidation(com.github.aureliano.evtbridge.input.file.FileInputConfigTest)')",[125]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConvert(com.github.aureliano.evtbridge.input.file.FileInputConverterTest)')",[146]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInputType(com.github.aureliano.evtbridge.input.file.FileInputConfigTest)')",[104]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '-1')","[318, 344]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConvert(com.github.aureliano.evtbridge.input.file.FileInputConverterTest)')",[166]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '0')","[265, 291]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testClone(com.github.aureliano.evtbridge.input.file.FileInputConfigTest)')",[83]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.input.file.FileInputConfigTest')","[368, 391, 415, 438]"
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '15')","[463, 487]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetDefaults(com.github.aureliano.evtbridge.input.file.FileInputConfigTest)')",[21]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '5')","[213, 238]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConfiguration(com.github.aureliano.evtbridge.input.file.FileInputConfigTest)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.input.file.FileInputConverterTest')","[508, 528, 549, 569]"

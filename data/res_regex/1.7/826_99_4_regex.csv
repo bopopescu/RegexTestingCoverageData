@@ -1,0 +1,5 @@
+"('MailCommand.java', 'com.icegreen.greenmail.smtp.commands.MailCommand', 'execute', 'MAIL FROM:\\s?<(.*)>', 'MAIL FROM:<test1@localhost>')",[87]
+"('RcptCommand.java', 'com.icegreen.greenmail.smtp.commands.RcptCommand', 'execute', 'RCPT TO:\\s?<([^>]+)>', 'RCPT TO:<test2@localhost>')",[95]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.icegreen.greenmail.standalone.GreenMailStandaloneRunnerTest')","[36, 118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDoRun(com.icegreen.greenmail.standalone.GreenMailStandaloneRunnerTest)')","[57, 79]"

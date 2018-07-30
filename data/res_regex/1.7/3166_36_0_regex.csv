@@ -1,0 +1,33 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBooleanNoDefault(org.eigenbase.test.PropertyTest)')","[196, 603]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDoubleLimitNoDefault(org.eigenbase.test.PropertyTest)')","[56, 456]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIntLimitNoDefault(org.eigenbase.test.PropertyTest)')","[236, 645]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVetoChangeValueManyTimes(org.eigenbase.test.PropertyTest)')","[136, 540]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTrigger(org.eigenbase.test.PropertyTest)')","[96, 498]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIntNoDefault(org.eigenbase.test.PropertyTest)')","[216, 624]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVetoChangeValue(org.eigenbase.test.PropertyTest)')","[156, 561]"
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.persistent.string\\E=.*', '')",[978]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValueChange(org.eigenbase.test.PropertyTest)')","[356, 771]"
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.persistent.string\\E=.*', 'test.eigenbase.existing1=existing value 1')",[1025]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDoubleNoDefault(org.eigenbase.test.PropertyTest)')","[256, 666]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVetoChangeValuePersistent(org.eigenbase.test.PropertyTest)')","[76, 477]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBoolean(org.eigenbase.test.PropertyTest)')","[176, 582]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStringNoDefault(org.eigenbase.test.PropertyTest)')","[276, 687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDoubleLimit(org.eigenbase.test.PropertyTest)')","[396, 813]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIntLimit(org.eigenbase.test.PropertyTest)')","[296, 708]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDouble(org.eigenbase.test.PropertyTest)')","[316, 729]"
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.existing2\\E=.*', 'test.eigenbase.persistent.string=new value')",[1448]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.eigenbase.test.PersistentPropertyTest')","[415, 1470]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testString(org.eigenbase.test.PropertyTest)')","[336, 750]"
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.existing2\\E=.*', '# Test config file')",[1166]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInt(org.eigenbase.test.PropertyTest)')","[116, 519]"
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.existing2\\E=.*', 'test.eigenbase.existing2=existing value 2')",[1307]
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.existing2\\E=.*', 'test.eigenbase.existing1=existing value 1')",[1260]
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.existing2\\E=.*', 'test.eigenbase.existing3=existing value 3')",[1354]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.eigenbase.test.PropertyTest')","[36, 884]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.existing2\\E=.*', '')","[1213, 1401]"
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.persistent.string\\E=.*', 'test.eigenbase.existing3=existing value 3')",[1119]
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.persistent.string\\E=.*', '# Test config file')",[931]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTriggerCallOrder(org.eigenbase.test.PropertyTest)')","[376, 792]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPersistentStringProperty(org.eigenbase.test.PersistentPropertyTest)')","[435, 834]"
+"('PersistentPropertyStorage.java', 'org.eigenbase.util.property.PersistentPropertyStorage', 'storeProperty', '^#?\\Qtest.eigenbase.persistent.string\\E=.*', 'test.eigenbase.existing2=existing value 2')",[1072]

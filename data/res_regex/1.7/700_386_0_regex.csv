@@ -1,0 +1,14 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWholeNumberOddsRegex(fusu.oddschecker.TeamOddsTest)')","[151, 381]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApp(fusu.bot.AppTest)')","[259, 402]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fusu.bot.AppTest')",[239]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fusu.oddschecker.TeamOddsTest')",[36]
+"('TeamOdds.java', 'fusu.oddschecker.TeamOdds', 'parseOddsString', '\\(?(\\d+)/(\\d+)\\)?', '(11/15)')",[476]
+"('TeamOdds.java', 'fusu.oddschecker.TeamOdds', 'parseOddsString', '\\(?(\\d+)\\)?', '(2)')",[584]
+"('TeamOdds.java', 'fusu.oddschecker.TeamOdds', 'parseOddsString', '\\(?(\\d+)/(\\d+)\\)?', '(2)')",[530]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFractionalOddsRegex(fusu.oddschecker.TeamOddsTest)')","[82, 105, 128, 360]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fusu.bot.AppTest')","[799, 819, 840, 860]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fusu.oddschecker.TeamOddsTest')","[633, 681, 730, 778]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWholeNumberOddsRegex(fusu.oddschecker.TeamOddsTest)')","[174, 197, 220]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFractionalOddsRegex(fusu.oddschecker.TeamOddsTest)')","[59, 340]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApp(fusu.bot.AppTest)')","[279, 299, 319, 422]"

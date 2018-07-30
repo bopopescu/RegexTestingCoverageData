@@ -1,0 +1,12 @@
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '0.7-groovy-2.0')",[64]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should generate coverage for return3Spock method in TestDummyForPit(com.example.spock.SpockTest)')","[264, 368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.example.spock.ParametrizedSpockTest')","[283, 388]"
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.99.99')",[128]
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.0.6')",[32]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[145, 223]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.example.spock.SpockTest')",[242]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.pitest.groovy.verification.TestJUnitConfigurationForSpock')","[164, 410]"
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.0.0')",[96]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFindTestInSpockTest(org.pitest.groovy.verification.TestJUnitConfigurationForSpock)')","[185, 326]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should get list of lengths for given strings(com.example.spock.ParametrizedSpockTest)')",[305]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFindTestsInParameterisedSpockTest(org.pitest.groovy.verification.TestJUnitConfigurationForSpock)')","[206, 347]"

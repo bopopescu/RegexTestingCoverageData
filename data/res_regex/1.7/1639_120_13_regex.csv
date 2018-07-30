@@ -1,0 +1,38 @@
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=java.lang.Double')","[1127, 1152, 1176, 1201]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateBooleanAttribute(io.fabric8.api.AttributeKeyTest)')","[305, 536]"
+"('VersionIdentity.java', 'io.fabric8.api.VersionIdentity', 'createFrom', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,rev=(?<rev>[a-zA-Z0-9\\.\\-\\#\\:]+))?', '1.0,rev=invalid@char')",[651]
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=double')",[1102]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSimpleIdentity(io.fabric8.api.VersionIdentityTest)')","[78, 347]"
+"('VersionIdentity.java', 'io.fabric8.api.VersionIdentity', 'createFrom', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,rev=(?<rev>[a-zA-Z0-9\\.\\-\\#\\:]+))?', '1.0.0,rev=bbb')",[582]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.fabric8.api.VersionIdentityTest')","[36, 677]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=java.lang.Boolean')","[1816, 1841, 1865, 1890]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRevisonIdentity(io.fabric8.api.ProfileIdentityTest)')","[118, 368]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=boolean')",[1791]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateStringAttribute(io.fabric8.api.AttributeKeyTest)')","[242, 473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateDoubleAttribute(io.fabric8.api.AttributeKeyTest)')","[200, 431]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key')","[1349, 1374, 1423, 1447, 1472]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=int')",[1693]
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=string')",[1398]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.fabric8.api.ProfileIdentityTest')","[97, 955]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=integer')",[1619]
+"('AbstractIdentity.java', 'io.fabric8.api.AbstractIdentity', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,rev=(?<rev>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'invalid@char')",[929]
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=java.lang.Short')","[1004, 1029, 1053, 1078]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSimpleIdentity(io.fabric8.api.ProfileIdentityTest)')","[139, 389]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('AbstractIdentity.java', 'io.fabric8.api.AbstractIdentity', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,rev=(?<rev>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'aaa')","[727, 879]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRevisonIdentity(io.fabric8.api.VersionIdentityTest)')","[57, 326]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateFloatAttribute(io.fabric8.api.AttributeKeyTest)')","[263, 494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.fabric8.api.AttributeKeyTest')","[158, 1912]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=long')",[1225]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateIntegerAttribute(io.fabric8.api.AttributeKeyTest)')","[284, 515]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=java.lang.Float')","[1521, 1546, 1570, 1595]"
+"('AbstractIdentity.java', 'io.fabric8.api.AbstractIdentity', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)', 'aaa')","[703, 753, 779, 829, 855, 905]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=java.lang.Integer')","[1644, 1669, 1718, 1742, 1767]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=float')",[1496]
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=java.lang.Long')","[1250, 1275, 1299, 1324]"
+"('AttributeKey.java', 'io.fabric8.api.AttributeKey', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,type=(?<type>[a-zA-Z0-9\\.\\-\\#\\:]+))?(,factory=(?<factory>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'my.key,type=short')",[979]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateShortAttribute(io.fabric8.api.AttributeKeyTest)')","[179, 410]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateLongAttribute(io.fabric8.api.AttributeKeyTest)')","[221, 452]"
+"('AbstractIdentity.java', 'io.fabric8.api.AbstractIdentity', 'assertCanonicalForm', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,rev=(?<rev>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'aaa,rev=bbb')",[803]
+"('VersionIdentity.java', 'io.fabric8.api.VersionIdentity', 'createFrom', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,rev=(?<rev>[a-zA-Z0-9\\.\\-\\#\\:]+))?', 'foo')",[628]
+"('VersionIdentity.java', 'io.fabric8.api.VersionIdentity', 'createFrom', '([a-zA-Z0-9\\.\\-\\#\\:]+)(,rev=(?<rev>[a-zA-Z0-9\\.\\-\\#\\:]+))?', '1.0.0')","[559, 605]"

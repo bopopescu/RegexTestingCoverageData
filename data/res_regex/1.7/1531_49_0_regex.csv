@@ -1,0 +1,79 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sai.integration.ProtectedUrlSecurityTest')","[5550, 5573, 5597, 5620]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'protectedPost(com.sai.controller.ProtectedControllerTest)')","[860, 883, 906]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security.*', '')","[3181, 3225, 3626, 3670, 4081, 4127, 4561, 4610]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'post_unprotected(com.sai.integration.UnprotectedUrlSecurityTest)')","[328, 1528]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'post_protected(com.sai.integration.ProtectedUrlSecurityTest)')","[78, 99, 120, 1445]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'methods(com.sai.security.CsrfSecurityRequestMatcherTest)')","[565, 588, 611]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sai.controller.UnprotectedControllerTest')","[7353, 7406, 7460, 7513]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sai.controller.UnprotectedControllerTest')",[925]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1989, 2559]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'csrf_protected_urls(com.sai.security.CsrfSecurityRequestMatcherTest)')","[450, 1549]"
+"('CsrfFilter.java', 'org.springframework.security.web.csrf.CsrfFilter', 'doFilterInternal', '/unprotected', '/j_spring_security_check')","[4916, 5331, 5728, 6031]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'csrf_unprotected_urls(com.sai.security.CsrfSecurityRequestMatcherTest)')","[657, 680, 703]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.2.*.xsd.*', '')","[3003, 3047, 3448, 3492, 3895, 3941, 4363, 4412]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get_unprotected(com.sai.integration.UnprotectedUrlSecurityTest)')","[244, 1487]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'csrf_unprotected_urls(com.sai.security.CsrfSecurityRequestMatcherTest)')","[634, 1611]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'methods', '/unprotected', '/blah')",[6552]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'unprotectedPost(com.sai.controller.UnprotectedControllerTest)')","[1040, 1735]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'csrf_protected_urls', '^(GET|HEAD|TRACE|OPTIONS)$', 'POST')",[6391]
+"('CsrfFilter.java', 'org.springframework.security.web.csrf.CsrfFilter', 'doFilterInternal', '/unprotected', '/protected')",[5071]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'unprotectedGet(com.sai.controller.UnprotectedControllerTest)')","[948, 1694]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CsrfSecurityRequestMatcherTest.class')",[2388]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q1531_49\\E', '1531_49')","[2046, 2616]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/unprotected')","[5806, 6109, 6338]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 408]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/protected')","[4994, 5223, 5409]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security.xsd.*', '')","[3092, 3136, 3537, 3581, 3988, 4034, 4462, 4511]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'methods', '^(GET|HEAD|TRACE|OPTIONS)$', 'GET')",[6605]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'protectedGet(com.sai.controller.ProtectedControllerTest)')","[745, 1632]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sai.controller.ProtectedControllerTest')","[7139, 7192, 7246, 7299]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')",[2160]
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.2.*.xsd.*', 'http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd')","[3270, 3314, 3715, 3759, 4174, 4220, 4660, 4709]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'methods(com.sai.security.CsrfSecurityRequestMatcherTest)')","[542, 1590]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sai.controller.ProtectedControllerTest')",[722]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get_protected(com.sai.integration.ProtectedUrlSecurityTest)')","[141, 1466]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'csrf_protected_urls(com.sai.security.CsrfSecurityRequestMatcherTest)')","[473, 496, 519, 1569]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'methods', '^(GET|HEAD|TRACE|OPTIONS)$', 'TRACE')",[6658]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'post_unprotected(com.sai.integration.UnprotectedUrlSecurityTest)')","[349, 370, 391]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[1932, 2502]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'protectedGet(com.sai.controller.ProtectedControllerTest)')","[768, 791, 814, 1652]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'loginFailure(com.sai.controller.LoginControllerTest)')","[1335, 1818]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[2217, 2787]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'csrf_protected_urls', '/unprotected', '/protected')",[6445]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1875, 2445]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'csrf_unprotected_urls', '^(GET|HEAD|TRACE|OPTIONS)$', 'POST')",[6817]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsecurity\\E', 'security')","[2331, 2901]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'protectedPost(com.sai.controller.ProtectedControllerTest)')","[837, 1673]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'methods', '^(GET|HEAD|TRACE|OPTIONS)$', 'OPTIONS')",[6764]
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'csrf_unprotected_urls', '/unprotected', '/unprotected')",[6871]
+"('CsrfFilter.java', 'org.springframework.security.web.csrf.CsrfFilter', 'doFilterInternal', '^(GET|HEAD|TRACE|OPTIONS)$', 'GET')","[5447, 5844]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'logout(com.sai.controller.LoginControllerTest)')","[1266, 1289, 1312]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sai.security.CsrfSecurityRequestMatcherTest')","[6925, 6978, 7032, 7085]"
+"('CsrfFilter.java', 'org.springframework.security.web.csrf.CsrfFilter', 'doFilterInternal', '/unprotected', '/unprotected')",[6186]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sai.security.CsrfSecurityRequestMatcherTest')",[427]
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security.xsd.*', 'http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd')","[3359, 3403, 3804, 3848, 4267, 4313, 4759, 4808]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'login(com.sai.controller.LoginControllerTest)')","[1151, 1756]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qunprotected\\E', 'unprotected')","[5923, 6265]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sai.controller.LoginControllerTest')","[7616, 7636, 7657, 7677]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CsrfSecurityRequestMatcher.class')",[2958]
+"('CsrfFilter.java', 'org.springframework.security.web.csrf.CsrfFilter', 'doFilterInternal', '^(GET|HEAD|TRACE|OPTIONS)$', 'POST')","[4876, 5032, 5291, 5688, 5991, 6147]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[2103, 2673]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'logout(com.sai.controller.LoginControllerTest)')","[1243, 1797]"
+"('UrlUtils.java', 'org.springframework.security.web.util.UrlUtils', 'isAbsoluteUrl', '\\A[a-z0-9.+-]+://.*', '/protected')","[4966, 5381, 5778, 6081]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qprotected\\E', 'protected')","[5150, 5526]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'unprotectedGet(com.sai.controller.UnprotectedControllerTest)')","[971, 994, 1017, 1714]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sai.integration.ProtectedUrlSecurityTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sai.controller.LoginControllerTest')",[1128]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'login(com.sai.controller.LoginControllerTest)')","[1174, 1197, 1220, 1776]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'get_unprotected(com.sai.integration.UnprotectedUrlSecurityTest)')","[265, 286, 307, 1507]"
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'methods', '^(GET|HEAD|TRACE|OPTIONS)$', 'HEAD')",[6711]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sai.integration.UnprotectedUrlSecurityTest')","[7534, 7554, 7575, 7595]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'unprotectedPost(com.sai.controller.UnprotectedControllerTest)')","[1063, 1086, 1109]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'post_protected(com.sai.integration.ProtectedUrlSecurityTest)')","[57, 1425]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sai.integration.UnprotectedUrlSecurityTest')",[223]
+"('CsrfSecurityRequestMatcherTest.java', 'com.sai.security.CsrfSecurityRequestMatcherTest', 'methods', '^(GET|HEAD|TRACE|OPTIONS)$', 'POST')",[6498]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'loginFailure(com.sai.controller.LoginControllerTest)')","[1358, 1381, 1404]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsai\\E', 'sai')","[2274, 2844]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')",[2730]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/j_spring_security_check')","[4837, 5252, 5649, 5952]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'get_protected(com.sai.integration.ProtectedUrlSecurityTest)')","[162, 183, 204]"

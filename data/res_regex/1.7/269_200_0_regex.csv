@@ -1,0 +1,91 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.util.TimeUtilTest')","[385, 2997]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMapping(com.etsy.statsd.profiler.util.TagUtilTest)')","[244, 1436]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetDataToFlush(com.etsy.statsd.profiler.util.CPUTracesTest)')","[305, 1478]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.util.MapUtilTest')","[345, 2971]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOptionalArguments(com.etsy.statsd.profiler.ArgumentsTest)')","[814, 1835]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReporterNotFound(com.etsy.statsd.profiler.ArgumentsTest)')","[772, 1793]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'includeMatches', '(.*\\.|^)((com-etsy)|(com-twitter-scalding)).*', 'com-etsy-statsd-profiler-profiler-util-StackTraceFormatter-formatStackTraceElement')",[3190]
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/isRunning', '/isRunning')",[2867]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidArgument(com.etsy.statsd.profiler.ArgumentsTest)')","[1003, 2024]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'excludeMatches', '(.*\\.|^)((com-etsy-statsd-profiler)|(com-timgroup-statsd)).*', 'com-google-guava-Foo-helloWorld')",[3117]
+"('PlatformDependent.java', 'io.netty.util.internal.PlatformDependent', 'isRoot0', '^(?:0|[1-9][0-9]*)$', '33657')",[2227]
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/profilers', '/profilers')","[2412, 2441, 2519]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/disable/(?<profiler>[^/]+)', '/disable/MockProfiler1')",[2493]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleProfilers(com.etsy.statsd.profiler.ArgumentsTest)')","[835, 1856]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHandleArguments(com.etsy.statsd.profiler.ProfilerTest)')","[1106, 2108]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.reporter.InfluxDBReporterTest')","[1186, 3599]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConvertReportingPeriod(com.etsy.statsd.profiler.util.TimeUtilTest)')","[406, 1541]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/disable/(?<profiler>[^/]+)', '/status/profiler/MockProfiler1')",[2577]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testThreadName(com.etsy.statsd.profiler.worker.ProfilerThreadFactoryTest)')","[711, 1751]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetBounds(com.etsy.statsd.profiler.util.CPUTracesTest)')","[326, 1499]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/profilers', '/isRunning')",[2751]
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/profilers', '/errors')",[2635]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfilers(com.etsy.statsd.profiler.server.ProfilerServerTest)')","[57, 1268]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMissingRequiredArgument(com.etsy.statsd.profiler.ArgumentsTest)')","[751, 1772]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.worker.ProfilerWorkerThreadTest')","[650, 3469]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'excludeMatches', '(.*\\.|^)((com-etsy-statsd-profiler)|(com-timgroup-statsd)).*', 'com-etsy-statsd-profiler-profiler-util-StackTraceFormatter-formatStackTraceElement.com-etsy-Foo-fooTest')","[3069, 3290]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFormatStackTraceElement(com.etsy.statsd.profiler.util.StackTraceFormatterTest)')","[591, 1688]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'includeMatches', '(.*\\.|^)((com-etsy)|(com-twitter-scalding)).*', 'com-google-guava-Foo-helloWorld')","[3165, 3365]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReporter(com.etsy.statsd.profiler.reporter.ReporterTest)')","[1247, 2192]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNoOptionalArguments(com.etsy.statsd.profiler.ArgumentsTest)')","[1045, 2066]"
+"('SystemPropertyUtil.java', 'io.netty.util.internal.SystemPropertyUtil', 'getInt', '-?[0-9]+', '64')",[2263]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfilerStatus(com.etsy.statsd.profiler.server.ProfilerServerTest)')","[99, 1310]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/profilers', '/disable/MockProfiler1')",[2467]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetGlobalTags(com.etsy.statsd.profiler.util.TagUtilTest)')","[265, 1457]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'excludeMatches', '(.*\\.|^)((com-etsy-statsd-profiler)|(com-timgroup-statsd)).*', 'com-etsy-statsd-profiler-profiler-util-StackTraceFormatter-formatStackTraceElement')","[3021, 3215]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIncludeStackTrace(com.etsy.statsd.profiler.util.StackTraceFilterTest)')","[509, 1625]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testErrors(com.etsy.statsd.profiler.server.ProfilerServerTest)')","[120, 1331]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfilerWithoutPackage(com.etsy.statsd.profiler.ArgumentsTest)')","[940, 1961]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.ProfilerTest')","[1085, 3547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExcludeMatches(com.etsy.statsd.profiler.util.StackTraceFilterTest)')","[446, 1562]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'includeMatches', '(.*\\.|^)((com-etsy)|(com-twitter-scalding)).*', 'com-etsy-foo-fooTest')","[3141, 3315]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/errors', '/isRunning')",[2838]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFormatEmptyStackTrace(com.etsy.statsd.profiler.util.StackTraceFormatterTest)')","[570, 1667]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetPackagePattern(com.etsy.statsd.profiler.util.StackTraceFilterTest)')","[488, 1604]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDefaultProfilers(com.etsy.statsd.profiler.ArgumentsTest)')","[877, 1898]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.util.StackTraceFormatterTest')","[528, 3417]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReporterWithPackage(com.etsy.statsd.profiler.ArgumentsTest)')","[961, 1982]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/status/profiler/(?<profiler>[^/]+)', '/isRunning')",[2809]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNullReporterArg(com.etsy.statsd.profiler.ProfilerTest)')","[1127, 2129]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/status/profiler/(?<profiler>[^/]+)', '/errors')",[2693]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.util.StackTraceFilterTest')","[425, 3391]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/status/profiler/(?<profiler>[^/]+)', '/status/profiler/MockProfiler1')",[2606]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIncludeGlobalTags(com.etsy.statsd.profiler.util.TagUtilTest)')","[181, 1373]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSetOrIncrementMap(com.etsy.statsd.profiler.util.MapUtilTest)')","[366, 1520]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRunnable(com.etsy.statsd.profiler.worker.ProfilerWorkerThreadTest)')","[671, 1730]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'includeMatches', '(.*\\.|^)((com-etsy)|(com-twitter-scalding)).*', 'com-etsy-statsd-profiler-profiler-util-StackTraceFormatter-formatStackTraceElement.com-etsy-Foo-fooTest')",[3265]
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/disable/(?<profiler>[^/]+)', '/errors')",[2664]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNoTagMapping(com.etsy.statsd.profiler.util.TagUtilTest)')","[202, 1394]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNonNumericPort(com.etsy.statsd.profiler.ArgumentsTest)')","[856, 1877]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDisableProfiler(com.etsy.statsd.profiler.server.ProfilerServerTest)')","[78, 1289]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfilerWithPackage(com.etsy.statsd.profiler.ArgumentsTest)')","[919, 1940]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.worker.ProfilerShutdownHookWorkerTest')","[610, 3443]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[2383]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.worker.ProfilerThreadFactoryTest')","[690, 3495]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/profilers', '/status/profiler/MockProfiler1')",[2548]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReporterWithoutPackage(com.etsy.statsd.profiler.ArgumentsTest)')","[898, 1919]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHttpServerEnabledByDefault(com.etsy.statsd.profiler.ArgumentsTest)')","[793, 1814]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRunnable(com.etsy.statsd.profiler.worker.ProfilerShutdownHookWorkerTest)')","[631, 1709]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[2343]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[2303]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRecordGaugeValue(com.etsy.statsd.profiler.reporter.StatsDReporterTest)')","[1167, 2150]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFormatStackTrace(com.etsy.statsd.profiler.util.StackTraceFormatterTest)')","[549, 1646]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'excludeMatches', '(.*\\.|^)((com-etsy-statsd-profiler)|(com-timgroup-statsd)).*', 'com-etsy-foo-fooTest')","[3093, 3340]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIncludeMatches(com.etsy.statsd.profiler.util.StackTraceFilterTest)')","[467, 1583]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsRunning(com.etsy.statsd.profiler.server.ProfilerServerTest)')","[141, 1352]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHttpServerDisabled(com.etsy.statsd.profiler.ArgumentsTest)')","[1066, 2087]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDefaultReporter(com.etsy.statsd.profiler.ArgumentsTest)')","[1024, 2045]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'includeMatches', '(.*\\.|^)((com-etsy)|(com-twitter-scalding)).*', 'com-timgroup-statsd-StatsDClient-send')",[3240]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRecordGaugeValue(com.etsy.statsd.profiler.reporter.InfluxDBReporterTest)')","[1207, 2171]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.reporter.StatsDReporterTest')","[1146, 3573]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.ArgumentsTest')","[730, 3521]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfilerNotFound(com.etsy.statsd.profiler.ArgumentsTest)')","[982, 2003]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.server.ProfilerServerTest')","[36, 2893]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.reporter.ReporterTest')","[1226, 3621]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidMapping(com.etsy.statsd.profiler.util.TagUtilTest)')","[223, 1415]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/disable/(?<profiler>[^/]+)', '/isRunning')",[2780]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.util.TagUtilTest')","[160, 2919]"
+"('RouteMatcher.java', 'org.vertx.java.core.http.RouteMatcher', 'route', '/errors', '/errors')",[2722]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.etsy.statsd.profiler.util.CPUTracesTest')","[284, 2945]"
+"('StackTraceFilter.java', 'com.etsy.statsd.profiler.util.StackTraceFilter', 'excludeMatches', '(.*\\.|^)((com-etsy-statsd-profiler)|(com-timgroup-statsd)).*', 'com-timgroup-statsd-StatsDClient-send')",[3045]

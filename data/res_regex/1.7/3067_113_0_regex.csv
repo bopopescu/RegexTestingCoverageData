@@ -1,0 +1,44 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'numbers_only_are_not_allowed(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[141, 518]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', '99912C45+67')",[1330]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'numbers_only_are_not_allowed(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[162, 183, 204]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', '99912C45+6')",[1219]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'only_letters_length_must_be_between_10_and_20(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[309, 560]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', 'ABCDEFGHIJ')",[914]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', '88812C45+6')",[1385]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', 'ABCDEF1234')",[747]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', 'ABCDEFGHIJABCDEFGHIJ')",[1108]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'cannot_be_blank_or_null(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[78, 99, 120, 497]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.tfnico.examples.guava.predicates.BusinessRulesTest')",[36]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', 'ABCDEFGHIJABCDEFGHI')",[1053]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', '999+')",[1191]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'plus_sign_allowed_if_starts_with_999_and_max_length_is_10(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[393, 581]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'mixed_length_must_be_either_10_or_15(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[225, 539]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', 'ABCDEFGHIJK')",[997]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', 'ABCDEF12345ABCD')",[803]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', '88812C45+6')",[1413]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', '99912C45+67')",[1357]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', '99912C45+6')",[1274]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', '99912C45+6')",[1247]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'plus_sign_allowed_if_starts_with_999_and_max_length_is_10(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[414, 435, 456]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', 'ABCDEFGHIJABCDEFGHI')",[1025]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', 'ABCDEFGHIJABCDEFGHI')",[1080]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.tfnico.examples.guava.predicates.BusinessRulesTest')","[1461, 1481, 1502, 1522]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', 'ABCDEFGHIJK')",[942]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'mixed_length_must_be_either_10_or_15(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[246, 267, 288]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', '999+')",[1136]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', '99912C45+67')",[1302]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'cannot_be_blank_or_null(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[57, 477]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', '999+')",[1164]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'only_letters_length_must_be_between_10_and_20(com.tfnico.examples.guava.predicates.BusinessRulesTest)')","[330, 351, 372]"
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', '123')",[637]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', 'ABCDEFGHIJK')",[970]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', 'ABCDEF12345A')",[858]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', '123')",[609]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', 'ABCDEF12345ABCD')",[775]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', 'ABCDEF12345ABCD')",[830]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', '88812C45+6')",[1440]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', 'ABCDEF1234')",[720]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[0-9A-Z]*[A-Z]+[0-9]+[0-9A-Z]*$', 'ABCDEF12345A')",[886]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^[A-Z]*$', 'ABCDEF1234')",[692]
+"('BusinessRules.java', 'com.tfnico.examples.guava.predicates.BusinessRules$PatternMatchingPredicate', 'apply', '^\\d+$', '123')",[664]

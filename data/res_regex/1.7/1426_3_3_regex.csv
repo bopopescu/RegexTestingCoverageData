@@ -1,0 +1,29 @@
+"('ServiceDescription.java', 'org.epics.pvmanager.service.ServiceDescription', '<init>', '[a-zA-Z_]\\w*', 'exec')",[1024]
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'You')","[517, 765]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'runCommand1(org.epics.pvmanager.exec.GenericExecServiceTest)')","[200, 332]"
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'test!')","[432, 1151]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new2(org.epics.pvmanager.exec.ExecXMLServiceFactoryTest)')","[160, 310]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addArgument', '[a-zA-Z_]\\w*', 'command')",[1074]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new1(org.epics.pvmanager.exec.ExecXMLServiceFactoryTest)')","[139, 288]"
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'This')","[393, 1112]"
+"('ServiceDescription.java', 'org.epics.pvmanager.service.ServiceDescription', '<init>', '[a-zA-Z_]\\w*', 'execSample')","[356, 456, 596, 817]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.exec.ExecServiceTest')","[36, 570]"
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'is')","[406, 1125]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'runCommand1(org.epics.pvmanager.exec.ExecXMLServiceFactoryTest)')","[118, 266]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addResult', '[a-zA-Z_]\\w*', 'result')","[648, 726, 869, 947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addArgument', '[a-zA-Z_]\\w*', 'param')",[504]
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'selected')",[778]
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', '<init>', '[a-zA-Z_]\\w*', 'echo')","[380, 480, 622, 843]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addResult', '[a-zA-Z_]\\w*', 'output')",[1099]
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addArgument', '[a-zA-Z_]\\w*', 'value')","[752, 973]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addArgument', '[a-zA-Z_]\\w*', 'string')","[674, 895]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.exec.GenericExecServiceTest')","[179, 1174]"
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'a')","[419, 1138]"
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'entered')",[530]
+"('CsvParser.java', 'org.epics.util.text.CsvParser', 'isTokenNumberParsable', '([-+]?[0-9]*\\.?[0-9]+([eE][-+]?[0-9]+)?)|NaN', 'FOO!')","[543, 791]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.exec.ExecXMLServiceFactoryTest')","[97, 1000]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'runCommand1(org.epics.pvmanager.exec.ExecServiceTest)')","[57, 222]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', '<init>', '[a-zA-Z_]\\w*', 'run')",[1049]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'runCommand2(org.epics.pvmanager.exec.ExecServiceTest)')","[78, 244]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', '<init>', '[a-zA-Z_]\\w*', 'script')","[700, 921]"

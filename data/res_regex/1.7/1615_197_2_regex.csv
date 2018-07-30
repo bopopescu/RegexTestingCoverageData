@@ -1,0 +1,17 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAppleExamples(net.chilicat.m3u8.PlaylistTest)')","[175, 307]"
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9\\.]*)\\s*(?:,((.*)))?', '#EXTINF:200.0,Title')",[443]
+"('M3uConstants.java', 'net.chilicat.m3u8.M3uConstants$Patterns', 'toDate', '\\s*#EXT-X-PROGRAM-DATE-TIME\\s*:\\s*(.*)', '#EXT-X-PROGRAM-DATE-TIME:2009-12-30T12:10:01+0100')",[353]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9\\.]*)\\s*(?:,((.*)))?', '#EXTINF:200,Title')",[398]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEXT_KEY(net.chilicat.m3u8.PatternTest)')","[136, 285]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEXTINF(net.chilicat.m3u8.PatternTest)')","[96, 241]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.chilicat.m3u8.PlaylistTest')","[155, 742]"
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9\\.]*)\\s*(?:,((.*)))?', '\t  #EXTINF \t : \t 200 \t , \t Title\t')",[488]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.chilicat.m3u8.PatternTest')","[36, 719]"
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9\\.]*)\\s*(?:,((.*)))?', '#EXTI NF:200,Title')",[668]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9\\.]*)\\s*(?:,((.*)))?', '#EXTINF:200A,Title')",[578]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmpty(net.chilicat.m3u8.PatternTest)')","[76, 219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEXTINF_NO_MATCH(net.chilicat.m3u8.PatternTest)')","[116, 263]"
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9\\.]*)\\s*(?:,((.*)))?', '#EXTINF:A200,Title')",[533]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9\\.]*)\\s*(?:,((.*)))?', '#  EXTINF:200,Title')",[623]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDateTime(net.chilicat.m3u8.PatternTest)')","[56, 197]"

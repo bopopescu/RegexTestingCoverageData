@@ -1,0 +1,14 @@
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '100')","[459, 483]"
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '50')","[410, 434]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConfiguration(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConfigTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testClone(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConfigTest)')",[104]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '1000')","[213, 238, 265, 291]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConverterTest')","[504, 524, 545, 565]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testId(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConverterTest)')",[146]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConfiguration(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConfigTest)')",[21]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testId(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConverterTest)')",[166]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConvert(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConverterTest)')",[187]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInputType(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConfigTest)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetDefaults(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConfigTest)')",[125]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValidation(com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConfigTest)')",[83]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.input.file_tailer.FileTailerInputConfigTest')","[315, 338, 362, 385]"

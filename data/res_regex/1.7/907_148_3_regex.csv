@@ -1,0 +1,78 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_regexSpecifiedFileReplace(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[284, 1515]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_renameListToItems(org.yurconf.processor.upgrade.TestTransformCommand)')","[202, 1449]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'detectCommonProtocols(org.yurconf.processor.impl.TestYurconfProtocol)')","[1089, 2219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.impl.TestYurconfUriResolver')","[1150, 3131]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkVariant(org.yurconf.processor.impl.TestVariantDirectory)')","[841, 1999]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', '([^_]*)_1.txt', 'input1_2.txt')",[2913]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_addFileOverwrite(org.yurconf.processor.upgrade.TestAddFileCommand)')","[141, 1405]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRenameWithRegExp2(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[389, 1625]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_singleFileReplaceRename(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[494, 1735]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkNullVariant(org.yurconf.processor.impl.TestVariantFile)')","[1028, 2175]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'structure1.xml')",[2631]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRenameWithRegExp3(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[410, 1647]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_WildcardFileReplaceToDirectoryWithExistingFile(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[347, 1581]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.upgrade.TestRemoveFileCommand')","[574, 2969]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRenameWithRegExp(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[431, 1669]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', '([^_]*)_1\\.txt', 'input1_2.txt')",[2772]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'loadDescriptorFromUpgrade(org.yurconf.processor.desc.TestLoader)')","[1295, 2395]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'loadDescriptorFromResource1(org.yurconf.processor.desc.TestLoader)')","[1253, 2351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkVariant(org.yurconf.processor.impl.TestVariantFile)')","[1007, 2153]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'catalogue/input(1).xml')",[2572]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_addNewFileMask2(org.yurconf.processor.upgrade.TestAddFileCommand)')","[120, 1383]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', '([^_]*)_1\\.txt', 'input1_1.txt')",[2801]
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'catalogue/input.xml')",[2602]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolveYurconfFromFile(org.yurconf.processor.impl.TestYurconfUriResolver)')","[1192, 2307]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolveYurconfFromYurconf(org.yurconf.processor.impl.TestYurconfUriResolver)')","[1213, 2329]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_singleFileReplaceToExistingOne(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[452, 1691]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'detectRepositorySource(org.yurconf.processor.impl.TestYurconfProtocol)')","[1131, 2263]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolveFileVsString(org.yurconf.processor.util.UriManipulatorTest)')","[740, 1933]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.impl.TestVariantFile')","[902, 3077]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.impl.TestVariantDirectory')","[820, 3050]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkPathVariant(org.yurconf.processor.impl.TestVariantFile)')","[1049, 2197]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkPathExtVariant(org.yurconf.processor.impl.TestVariantFile)')","[923, 2065]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_isFilenamePatternEffective(org.yurconf.processor.upgrade.TestRemoveFileCommand)')","[679, 1889]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'somedir/somefile.ext')",[2542]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.upgrade.TestAddFileCommand')","[36, 2687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_singleFileRename(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[473, 1713]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_removeFilesByWildCards(org.yurconf.processor.upgrade.TestRemoveFileCommand)')","[658, 1867]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.util.UriManipulatorTest')","[698, 2996]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_moveTextToAttributeWithInput(org.yurconf.processor.upgrade.TestTransformCommand)')","[223, 1471]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', '([^_]*)_1.txt', 'input2_1.txt')",[2884]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.upgrade.TestTransformCommand')","[181, 2714]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', '([^_]*)_1.txt', 'input1_1.txt')",[2942]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.TestProcessorFactory')","[780, 3023]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolveJarFileVsString(org.yurconf.processor.util.UriManipulatorTest)')","[719, 1911]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_removeFilesByRegex(org.yurconf.processor.upgrade.TestRemoveFileCommand)')","[616, 1823]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'input1_2.txt')",[2512]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_addNewFileSingle(org.yurconf.processor.upgrade.TestAddFileCommand)')","[78, 1339]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.impl.TestYurconfProtocol')","[1068, 3104]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'otherdir/otherfile.ext')",[2454]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.desc.TestLoader')","[1232, 3154]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_removeNonExistingFile(org.yurconf.processor.upgrade.TestRemoveFileCommand)')","[637, 1845]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_isFilenamePatternEffective(org.yurconf.processor.upgrade.TestAddFileCommand)')","[162, 1427]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_removeFileSingle(org.yurconf.processor.upgrade.TestRemoveFileCommand)')","[595, 1801]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_WildcardFileReplaceToFileInsteadofDirectory(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[326, 1559]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.upgrade.TestAbstractFileCommand')","[534, 2855]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkPathNullVariant(org.yurconf.processor.impl.TestVariantFile)')","[965, 2109]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkVariant2(org.yurconf.processor.impl.TestVariantDirectory)')","[883, 2043]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.yurconf.processor.upgrade.TestMoveFileCommand')","[263, 2828]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'detectProcessorResource(org.yurconf.processor.impl.TestYurconfProtocol)')","[1110, 2241]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkNullVariant(org.yurconf.processor.impl.TestVariantDirectory)')","[862, 2021]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_addNewFileMask(org.yurconf.processor.upgrade.TestAddFileCommand)')","[99, 1361]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkPathExtVariantNoExt(org.yurconf.processor.impl.TestVariantFile)')","[986, 2131]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_addNewFileRegexp(org.yurconf.processor.upgrade.TestAddFileCommand)')","[57, 1317]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'marshalToXml(org.yurconf.processor.desc.TestLoader)')","[1274, 2373]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetJarPathFromFullPath(org.yurconf.processor.TestProcessorFactory)')","[801, 1977]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_isFilenamePatternEffective(org.yurconf.processor.upgrade.TestTransformCommand)')","[244, 1493]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_isFilenamePatternEffective(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[515, 1757]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolveRelativeFromYurconf(org.yurconf.processor.impl.TestYurconfUriResolver)')","[1171, 2285]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'input1_1.txt')",[2660]
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'input1_3.txt')",[2424]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolveJarFileVsAbsString(org.yurconf.processor.util.UriManipulatorTest)')","[761, 1955]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', '([^_]*)_1\\.txt', 'input2_1.txt')",[2743]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_singleFileReplace(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[368, 1603]"
+"('UriLister.java', 'org.yurconf.processor.util.UriLister$RegexpFilenameAcceptor', 'accept', 'input1_[1-3]\\.txt', 'input2_1.txt')",[2483]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_MaskSpecifiedFileReplace(org.yurconf.processor.upgrade.TestMoveFileCommand)')","[305, 1537]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'check_isFilenamePatternEffective(org.yurconf.processor.upgrade.TestAbstractFileCommand)')","[555, 1779]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkVariantNoExt(org.yurconf.processor.impl.TestVariantFile)')","[944, 2087]"

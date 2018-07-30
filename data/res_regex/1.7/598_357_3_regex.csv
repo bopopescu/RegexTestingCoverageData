@@ -1,0 +1,37 @@
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong@gmail.com.com')",[1063]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.unb.cic.iris.core.TestFolderDAO')","[36, 502]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong()*@gmail.com')",[751]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSendMessage(br.unb.cic.iris.core.TestSimpleClient)')","[118, 365]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong+100@gmail.com')",[1087]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong@1.com')",[1039]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadMessages(br.unb.cic.iris.core.TestSimpleClient)')","[97, 343]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong.@gmail.com')",[823]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong123@gmail.a')",[655]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong-100@mkyong.net')",[991]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong.100@mkyong.com.au')",[1015]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', '.mkyong@mkyong.com')",[727]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong@gmail.com.1a')",[871]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong@.com.my')",[631]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong.100@yahoo.com')",[943]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultProvider(br.unb.cic.iris.core.TestSystemFacade)')","[238, 431]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong-100@yahoo-test.com')",[1111]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'save(br.unb.cic.iris.core.TestAddressBookDAO)')","[198, 409]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong-100@yahoo.com')",[919]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.unb.cic.iris.core.TestSimpleClient')","[76, 529]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.unb.cic.iris.core.TestSystemFacade')","[217, 1134]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.unb.cic.iris.core.TestHibernate')","[137, 556]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong123@.com.com')",[703]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ValidEmailTest(br.unb.cic.iris.util.EmailValidatorTest)')","[299, 475]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong')",[607]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong@%*.com')",[775]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'InValidEmailTest(br.unb.cic.iris.util.EmailValidatorTest)')","[278, 453]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong@yahoo.com')",[895]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong@mkyong@gmail.com')",[847]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong..2002@gmail.com')",[799]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateHibernateSession(br.unb.cic.iris.core.TestHibernate)')","[158, 387]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.unb.cic.iris.core.TestAddressBookDAO')","[177, 583]"
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong111@mkyong.com')",[967]
+"('EmailValidator.java', 'br.unb.cic.iris.util.EmailValidator', 'validate', '^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'mkyong123@.com')",[679]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'save(br.unb.cic.iris.core.TestFolderDAO)')","[57, 321]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.unb.cic.iris.util.EmailValidatorTest')","[257, 1157]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

@@ -1,0 +1,290 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'canEntry(ch08.MemberCombinedTest)')",[2071]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test01(ch10.BarTest)')","[4568, 4763]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '引数がint型のテストメソッド(ch08.EnclosedParameterizedTypeTest$intのパラメータ化テスト)')",[1974]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '要素が2つ追加された状態で要素をremoveするとsizeが1となる(ch03.ArrayListTest)')",[3079]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'y')","[11183, 11773, 12363]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fastTest(ch10.FooTest)')","[4640, 4713]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get_0(ch07.BookStoreTest)')",[4202]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getListで0件取得できる(ch06.UserDaoTest$テーブルが空の場合)')",[3718]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '-2')",[12599]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ch05.SlowAndFastTest')",[3766]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'テストメソッド(ch08.ParameterizedMultiParamsTest)')",[2047]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch02.CalculatorTest')","[21144, 21168, 21193, 21217]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(ch11.MethodExtractExampleTest)')",[748]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'デフォルトコンストラクタ(ch06.UserTest$インスタンス化テスト)')",[3225]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.WindowsOnlyTest')","[20948, 20972, 20997, 21021]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'canEntryは25歳以下の女性の場合にtrueを返す(ch08.MemberTest)')",[1875]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '例外の発生とメッセージを検証するテスト(ch09.ExpectedExceptionExampleTest)')",[1611]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'listに2件追加してある場合_sizeは2を返す(ch06.ArrayListFlatTest)')",[3595]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addで要素を追加するとサイズが1となりgetで取得できる(ch03.ArrayListTest)')",[3055]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'get_0(ch07.BookStoreTest)')",[4226]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.AssmeTest')","[20850, 20874, 20899, 20923]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'テスト名(ch09.TestNameExampleTest)')",[1563]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Martin')","[18175, 19235]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch11.SpyExampleTest')","[5334, 5378, 5423, 5467]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '引数がint型のテストメソッド(ch08.EnclosedParameterizedTypeTest$intのパラメータ化テスト)')",[1999]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getListは0件を返す(ch06.withoutrule.UserDaoTest)')",[3643]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'canEntry(ch08.MemberCombinedTest)')",[2095]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'contains_Aはtrueを返す(ch06.ItemStockTest$商品Aを1件含む場合)')",[3400]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.ArrayListTest')","[13712, 13756, 13801, 13845]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.RulesExampleTest')","[7267, 7311, 7356, 7400]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'add(ch05.CalcTheoriesTest)')",[4058]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.VerifierExampleTest')","[21046, 21070, 21095, 21119]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'アノテーションを使ったタイムアウト(ch09.TimeoutTest)')",[1827]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch10.BarTest')","[200, 352, 19992, 20036, 20081, 20125]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'デフォルトコンストラクタ(ch06.UserTest$インスタンス化テスト)')",[3200]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.StringUtilsTest')","[13178, 13222, 13267, 13311]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get_0(ch07.BookStoreYamlTest)')",[4346]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'テストメソッド(ch08.ParameterizedMultiParamsTest)')",[2023]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'size_Aが0を返す(ch06.ItemStockTest$空の場合)')",[3425]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch05.CalcTest')","[16772, 16816, 16861, 16905]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.UserDaoTest$テーブルが空の場合')","[20458, 20482, 20507, 20531]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getListで0件取得できる(ch06.UserDaoTest$テーブルが空の場合)')",[3743]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch07.BookStoreTest')","[17128, 17172, 17217, 17261]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCase(ch09.VerifierExternalObjectExampleTest)')",[1297]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '-3')",[12186]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'add(ch08.CalculatorDataPointsYamlTest)')",[2647]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '引数がint型のテストメソッド(ch08.ParameterizedTypeTest)')",[2431]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'title')","[17595, 18655]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'title')","[17543, 18603]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '空文字列の場合にtrueを返す(ch03.StringUtilsTest)')",[2791]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch04.AssertionTest')","[6224, 6268, 6313, 6357]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'assume(ch08.AssmeTest)')",[2359]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '4')",[11242]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sizeが1を返す(ch05.ItemStockTest$商品Aを1件含む場合)')",[3909]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.UserDaoTest$テーブルにサンプルデータが100件含まれる場合')","[20752, 20776, 20801, 20825]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'テスト(ch09.RuleChainExampleTest)')",[1393]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test02(ch10.BarTest)')","[282, 460]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch05.FooTest')","[16004, 16056, 16109, 16161]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'put_Cでsizeは3_keysはABCとなる(ch07.LruCacheTest$AとBを追加している場合)')",[4419]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Refactoring')","[17699, 18759]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getListは0件を返す(ch06.rule.UserDaoTest)')",[3499]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'onlyWindows(ch09.OSDependentTest)')",[1659]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'onlyMac(ch09.OSDependentTest)')",[1683]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'expected')","[11360, 11950, 12540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.TemporaryFolderExampleTest')","[6580, 6624, 6669, 6713]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '例外テスト(ch03.ExceptionThrownTest)')",[2743]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'SpyLoggerを利用したテスト(ch11.SpyExampleTest)')",[604]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch10.FooTest')","[39, 317, 20178, 20230, 20283, 20335]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'isEmptyOrNullは空文字列でtrueを返す(ch07.StringUtilTest)')",[4274]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'firstName')","[18121, 19181]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.withoutrule.UserDaoTest')","[15640, 15684, 15729, 15773]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'テストメソッド(ch08.ParameterizedMultiSameTypeParamsTest)')",[2143]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '長い時間がかかるかもしれないテスト(ch09.TimeoutExampleTest)')",[1707]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'インスタンス化テスト(ch03.ConstructorTest)')",[2695]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'multiplyで5と7の乗算結果が取得できる(ch02.CalculatorTest)')",[4885]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'なにか難しいけど重要なテストケース(ch04.AssertionFailTest)')",[937]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'doSomethingでdateに現在時刻が設定される(ch11.DateDependencyExampleTest)')",[700]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '失敗するテスト(ch09.TestWatcherExampleTest)')",[1249]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getListで100件取得できる(ch06.UserDaoTest$テーブルにサンプルデータが100件含まれる場合)')",[3693]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.ParameterizedMultiSameTypeParamsTest')","[9513, 9557, 9602, 9646]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'firstName')","[18067, 19127]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'y')","[11124, 11714, 12304]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'y')","[11065, 11655, 12245]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.TestNameExampleTest')","[7847, 7891, 7936, 7980]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'windows環境では改行はrn(ch08.WindowsOnlyTest)')",[2191]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sizeが1を返す(ch06.ItemStockTest$商品Aを1件含む場合)')",[3350]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '4500')","[17855, 18915]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'グーとパーなら敗北(ch08.JankenTest)')",[2263]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getListで100件取得できる(ch06.UserDaoTest$テーブルにサンプルデータが100件含まれる場合)')",[3668]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'Fooのテスト(ch05.FooTest)')",[3884]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'Fowler')","[18391, 19451]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch05.BarTest')","[15818, 15862, 15907, 15951]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.MemberCombinedTest')","[9335, 9379, 9424, 9468]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'price')","[17803, 18863]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'add(ch08.CalculatorDataPointTest)')",[2575]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Fowler')","[18445, 19505]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(ch11.withinterface.DelegateObjectExampleTest)')",[580]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'canEntryは25歳以下の女性の場合にtrueを返す(ch08.MemberTest)')",[1851]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sizeは1を返す(ch06.ArrayListEnclosedTest$listに1件追加してある場合)')",[3300]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'チョキとパーなら勝利(ch08.JankenTest)')",[2311]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'Barのテスト(ch05.BarTest)')",[3836]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get_Cでnullを返しkeysはAB(ch07.LruCacheTest$AとBを追加している場合)')",[4519]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.ItemStockTest$空の場合')","[15106, 15150, 15195, 15239]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.ClassRuleExampleTest')","[7631, 7675, 7720, 7764]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.MemberTest')","[8567, 8619, 8672, 8724]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.TestWatcherExampleTest')","[7050, 7094, 7139, 7183]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addに3と4を与えると7を返す(ch05.CalcTest)')",[4106]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch07.LruCacheTest$AとBを追加している場合')","[19814, 19858, 19903, 19947]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'contains_Aはfalseを返す(ch05.ItemStockTest$空の場合)')",[4034]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test02(ch09.ClassRuleExampleTest)')",[1515]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'multiplyで3と4の乗算結果が取得できる(ch02.CalculatorTest)')",[4837]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'Fooのテスト(ch05.FooTest)')",[3860]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch11.RandomsMockTest')","[5868, 5912, 5957, 6001]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '引数がString型のテストメソッド(ch08.EnclosedParameterizedTypeTest$Stringのパラメータ化テスト)')",[1949]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getTotalPrice(ch07.BookStoreComplexSetupTest)')",[4178]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'expected')","[11301, 11891, 12481]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.CalculatorTest')","[13356, 13400, 13445, 13489]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'abcの場合にfalseを返す(ch03.StringUtilsTest)')",[2839]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'price')","[17751, 18811]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Martin')","[18229, 19289]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test02(ch10.BarTest)')","[4616, 4813]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'グーとグーなら引き分け(ch08.JankenTest)')",[2287]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '例外の発生を検証する標準的なテスト(ch09.ExceptionTest)')",[1057]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'グーとチョキなら勝利(ch08.JankenTest)')",[2239]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.ArrayListEnclosedTest$listに1件追加してある場合')","[14694, 14746, 14799, 14851]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'null')","[21340, 21389]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'インスタンス化テスト(ch03.ConstructorTest)')",[2719]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'contains_Aはfalseを返す(ch06.ItemStockTest$空の場合)')",[3475]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'テストメソッド(ch08.ParameterizedMultiSameTypeParamsTest)')",[2119]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.TimeoutExampleTest')","[8203, 8247, 8292, 8336]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '7')",[11419]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'isEmptyOrNullは空文字列でtrueを返す(ch07.StringUtilTest)')",[4298]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.RuleChainExampleTest')","[7447, 7493, 7540, 7586]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '例外の発生とメッセージを検証する標準的なテスト(ch09.ExceptionTest)')",[1081]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'choiceでAを返す(ch11.RandomsMockTest)')",[844]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'size_Aが0を返す(ch06.ItemStockTest$空の場合)')",[3450]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch07.BookStoreComplexSetupTest')","[16950, 16994, 17039, 17083]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'get_0(ch07.BookStoreYamlTest)')",[4370]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch04.IsDateTest')",[889]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'listに1件追加してある場合_sizeは1を返す(ch06.ArrayListFlatTest)')",[3571]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.JUnit3StyleTest')","[14064, 14116, 14169, 14221]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'アノテーションを使ったタイムアウト(ch09.TimeoutTest)')",[1803]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get_BでvalueBを返しkeysはAB(ch07.LruCacheTest$AとBを追加している場合)')",[4494]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'add(ch05.CalcTheoriesTest)')",[4082]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch11.RandomsTest')","[4978, 5022, 5067, 5111, 21364, 21413]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '0')",[11596]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.CalculatorDataPointsTest')","[10225, 10269, 10314, 10358]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'Mockitoのspyを使ったテスト(ch11.SpyExampleTest)')",[652]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'judge(ch08.ParameterizedJankenTest)')",[2407]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ch04.IsDateTest')",[867]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '引数がint型のテストメソッド(ch08.ParameterizedTypeTest)')",[2455]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCase(ch09.VerifierExternalObjectExampleTest)')",[1273]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'なにか難しいけど重要なテストケース(ch04.AssertionFailTest)')",[913]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test01(ch10.BarTest)')","[241, 424, 4592, 4788]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '例外の発生とメッセージを検証するテスト(ch09.ExpectedExceptionExampleTest)')",[1587]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.TimeoutTest')","[8381, 8425, 8470, 8514]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(ch11.MethodExtractExampleTest)')",[724]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.ItemStockTest$商品Aを1件含む場合')","[14904, 14956, 15009, 15061]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'timeoutがtrueのときにロジックが実行されないこと(ch04.AssertionFailTest)')",[961]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '1')",[12422]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch05.SlowAndFastTest')",[3788]
+"('PercentEscaper.java', 'org.yaml.snakeyaml.external.com.google.gdata.util.common.base.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;=[]/"")","[10772, 10829]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch05.CalcTheoriesTest')","[16594, 16638, 16683, 16727]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.TimeoutTest')","[13887, 13928, 13970, 14011]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'x')","[10888, 11478, 12068]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getListは0件を返す(ch06.withoutrule.UserDaoTest)')",[3619]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'userNameが空のときにエラーメッセージが取得できる(ch03.UserFormTest)')",[3007]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addで要素を追加するとサイズが1となりgetで取得できる(ch03.ArrayListTest)')",[3031]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'judge(ch08.ParameterizedJankenTest)')",[2383]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.CalculatorDataPointTest')","[10403, 10447, 10492, 10536]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'x')","[10947, 11537, 12127]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'テスト名(ch09.TestNameExampleTest)')","[1539, 7802]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getTotalPrice(ch07.BookStoreYamlTest)')",[4394]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sizeは2(ch07.LruCacheTest$AとBを追加している場合)')",[4544]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '引数を持つテストメソッド(ch08.ParameterizedTest)')",[2599]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'divideで3と2の除算結果が取得できる(ch02.CalculatorTest)')",[4909]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '成功するテスト(ch09.TestWatcherExampleTest)')","[1201, 6929, 6967, 7005]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(ch11.withclass.DelegateObjectExampleTest)')",[772]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'size_Aが0を返す(ch05.ItemStockTest$空の場合)')",[3984]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'divideで5と0の時IllegalArgumentExceptionを送出する(ch02.CalculatorTest)')",[4933]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(ch09.RulesExampleTest)')",[1345]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test加算のテスト(ch03.JUnit3StyleTest)')",[3175]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch07.StringUtilTest')","[17306, 17350, 17395, 17439]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'author')","[17907, 18967]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'choiceでAを返す(ch11.RandomsMockTest)')",[820]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'firstName')","[18013, 19073]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'slowTest(ch10.FooTest)')",[161]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(ch11.withinterface.DelegateObjectExampleTest)')",[556]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '引数がString型のテストメソッド(ch08.ParameterizedTypeTest)')",[2479]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.UserTest$インスタンス化テスト')","[14274, 14326, 14379, 14431]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.ExternalResourceExampleTest')","[6758, 6802, 6847, 6891]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.UserFormTest')","[13534, 13578, 13623, 13667]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'title')","[17491, 18551]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'デフォルトコンストラクタ(ch09.ShopInfoTest$インスタンス化テスト)')",[1443]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch11.MethodExtractExampleTest')","[5512, 5556, 5601, 5645]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Fowler')","[18499, 19559]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'mkDefaultFilesで2つのファイルが作成される(ch09.TemporaryFolderExampleTest)')",[1129]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.ExceptionThrownTest')","[13000, 13044, 13089, 13133]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '引数がString型のテストメソッド(ch08.EnclosedParameterizedTypeTest$Stringのパラメータ化テスト)')",[1924]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nullの場合にtrueを返す(ch03.StringUtilsTest)')",[2863]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'doSomethingでdateに現在時刻が設定される(ch11.DateDependencyExampleTest)')",[676]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'choiceでBを返す(ch11.RandomsTest)')",[484]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.ParameterizedMultiParamsTest')","[9157, 9201, 9246, 9290]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'contains_Aはtrueを返す(ch05.ItemStockTest$商品Aを1件含む場合)')",[3959]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getTotalPrice(ch07.BookStoreComplexSetupTest)')",[4154]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'multiplyで3と4の乗算結果が取得できる(ch02.CalculatorTest)')",[4861]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch11.DateDependencyExampleTest')","[21242, 21266, 21291, 21315]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch11.withclass.DelegateObjectExampleTest')","[5690, 5734, 5779, 5823]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.ParameterizedJankenTest')","[9869, 9913, 9958, 10002]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '5')","[11832, 12009]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addに3と4を与えると7を返す(ch05.CalcTest)')",[4130]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '例外の発生を検証する標準的なテスト(ch09.ExceptionTest)')",[1033]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Refactoring')","[17647, 18707]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test01(ch09.ClassRuleExampleTest)')",[1467]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '3')",[11006]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'add(ch08.CalculatorDataPointsTest)')",[2527]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'onlyWindows(ch09.OSDependentTest)')",[1635]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.EnclosedParameterizedTypeTest$intのパラメータ化テスト')","[8979, 9023, 9068, 9112]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.JankenTest')","[9691, 9735, 9780, 9824]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.ShopInfoTest$インスタンス化テスト')","[20556, 20580, 20605, 20629]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'assertion(ch04.AssertionTest)')",[1009]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getValueで計算結果を取得する(ch09.VerifierExampleTest)')",[1755]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.CalculatorDataPointsYamlTest')","[12644, 12688, 12733, 12777]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.ExpectedExceptionExampleTest')","[20360, 20384, 20409, 20433]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch03.ConstructorTest')","[12822, 12866, 12911, 12955]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getTotalPrice(ch07.BookStoreTest)')",[4250]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sizeは2を返す(ch06.ArrayListEnclosedTest$listに2件追加してある場合)')",[3250]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get_AでvalueAを返しkeysはBA(ch07.LruCacheTest$AとBを追加している場合)')",[4469]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'add(ch08.CalculatorDataPointTest)')",[2551]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'listに1件追加してある場合_sizeは1を返す(ch06.ArrayListFlatTest)')",[3547]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addに3と4を与えると7を返す(ch03.CalculatorTest)')",[2911]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'isEmptyOrNullはAAAでfalseを返す(ch07.StringUtilTest)')",[4322]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.ParameterizedTest')","[10581, 10625, 10670, 10714]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'isValidはuserNameとpasswordが空でない場合にtrueを返す(ch03.UserFormTest)')",[2983]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCase(ch09.ExternalResourceExampleTest)')",[1153]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.OSDependentTest')","[8025, 8069, 8114, 8158]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '成功するテスト(ch09.TestWatcherExampleTest)')",[1225]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'assertion(ch04.AssertionTest)')",[985]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'author')","[17959, 19019]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'Barのテスト(ch05.BarTest)')",[3812]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fastTest(ch10.FooTest)')","[79, 120, 388, 4664, 4738]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'add(ch08.CalculatorDataPointsTest)')",[2503]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'sizeは1を返す(ch06.ArrayListEnclosedTest$listに1件追加してある場合)')",[3325]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'timeoutTest(ch03.TimeoutTest)')",[3127]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test01(ch09.ClassRuleExampleTest)')",[1491]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.EnclosedParameterizedTypeTest$Stringのパラメータ化テスト')","[8777, 8829, 8882, 8934]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'slowTest(ch10.FooTest)')",[4688]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCase(ch09.ExternalResourceExampleTest)')",[1177]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'グーとチョキなら勝利(ch08.JankenTest)')",[2215]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'isValidはuserNameとpasswordが空でない場合にtrueを返す(ch03.UserFormTest)')",[2959]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'divideに4と2を与えると2を返す(ch03.CalculatorTest)')",[2935]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '長い時間がかかるかもしれないテスト(ch09.TimeoutExampleTest)')",[1731]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addに3と4を与えると7を返す(ch03.CalculatorTest)')",[2887]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'sizeは2を返す(ch06.ArrayListEnclosedTest$listに2件追加してある場合)')",[3275]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'SpyLoggerを利用したテスト(ch11.SpyExampleTest)')",[628]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.ArrayListFlatTest')","[15462, 15506, 15551, 15595]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '例外テスト(ch03.ExceptionThrownTest)')",[2767]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.ArrayListEnclosedTest$listに2件追加してある場合')","[14484, 14536, 14589, 14641]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'windows環境では改行はrn(ch08.WindowsOnlyTest)')",[2167]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'sizeが1を返す(ch06.ItemStockTest$商品Aを1件含む場合)')",[3375]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'choiceでBを返す(ch11.RandomsTest)')",[508]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'timeoutTest(ch03.TimeoutTest)')",[3103]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch11.withinterface.DelegateObjectExampleTest')","[5156, 5200, 5245, 5289]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch08.ParameterizedTypeTest')","[10047, 10091, 10136, 10180]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'mkDefaultFilesで2つのファイルが作成される(ch09.TemporaryFolderExampleTest)')",[1105]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'canEntryは25歳以下の女性でない場合にfalseを返す(ch08.MemberTest)')",[1899]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'lastName')","[18337, 19397]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getValueで計算結果を取得する(ch09.VerifierExampleTest)')",[1779]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'lastName')","[18283, 19343]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch05.ItemStockTest$空の場合')","[16416, 16460, 16505, 16549]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '空文字列の場合にtrueを返す(ch03.StringUtilsTest)')",[2815]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'choiceでAを返す(ch11.RandomsTest)')",[532]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'add(ch08.CalculatorDataPointsYamlTest)')",[2671]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch04.AssertionFailTest')","[6046, 6090, 6135, 6179]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch07.BookStoreYamlTest')","[19612, 19664, 19717, 19769]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch06.rule.UserDaoTest')","[15284, 15328, 15373, 15417]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test加算のテスト(ch03.JUnit3StyleTest)')",[3151]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(ch09.RulesExampleTest)')","[1321, 7222]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'assume(ch08.AssmeTest)')",[2335]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getListは0件を返す(ch06.rule.UserDaoTest)')",[3523]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch05.ItemStockTest$商品Aを1件含む場合')","[16214, 16266, 16319, 16371]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'size_Aが0を返す(ch05.ItemStockTest$空の場合)')",[4009]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'put_Cでsizeは3_keysはABCとなる(ch07.LruCacheTest$AとBを追加している場合)')",[4444]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.ExceptionTest')","[6402, 6446, 6491, 6535]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(ch11.withclass.DelegateObjectExampleTest)')",[796]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'テスト(ch09.RuleChainExampleTest)')",[1369]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '引数を持つテストメソッド(ch08.ParameterizedTest)')",[2623]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'sizeが1を返す(ch05.ItemStockTest$商品Aを1件含む場合)')",[3934]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ch09.VerifierExternalObjectExampleTest')","[20654, 20678, 20703, 20727]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'デフォルトコンストラクタ(ch09.ShopInfoTest$インスタンス化テスト)')",[1418]

@@ -1,0 +1,37 @@
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe32')",[1068]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-tika-msoffice-embedded;format=comp_obj')",[1607]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(au.org.ala.images.metadata.MetadataExtractorTest)')","[78, 368]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?is)\\s*(charset\\s*=\\s*[^\\c;\\s]+)\\s*;\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*', 'application/application/x-java-pack200')",[1689]
+"('MetadataExtractor.java', 'au.org.ala.images.metadata.MetadataExtractor', 'readMetadata', '^audio/mp3$|^audio/mpeg$', 'audio/mpeg')",[1890]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(au.org.ala.images.thumb.ImageThumbnailerTest)')","[305, 557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(au.org.ala.images.thumb.ImageThumbnailerTest)')","[326, 578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test6(au.org.ala.images.tiling.ImageTilerTest)')","[223, 494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('MetadataExtractor.java', 'au.org.ala.images.metadata.MetadataExtractor', 'readMetadata', '^image/(.*)$', 'audio/mpeg')",[1865]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'au.org.ala.images.metadata.MetadataExtractorTest')","[36, 1916]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-armLE')",[1362]
+"('MimeTypes.java', 'org.apache.tika.mime.MimeTypes', 'getMimeType', '^owl$', 'silky_oak.JPG')","[1721, 1752]"
+"('MimeTypes.java', 'org.apache.tika.mime.MimeTypes', 'getMimeType', '^rdf$', 'silky_oak.JPG')","[1784, 1815]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-itanium')",[1264]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test7(au.org.ala.images.tiling.ImageTilerTest)')","[244, 515]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=val')",[921]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test8(au.org.ala.images.tiling.ImageTilerTest)')","[265, 536]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=topic')","[676, 872]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(au.org.ala.images.tiling.ImageTilerTest)')","[118, 389]"
+"('MetadataExtractor.java', 'au.org.ala.images.metadata.MetadataExtractor', 'readMetadata', '^image/(.*)$', 'image/jpeg')",[1840]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test5(au.org.ala.images.tiling.ImageTilerTest)')","[202, 473]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/application/x-java-pack200')",[1648]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(au.org.ala.images.tiling.ImageTilerTest)')","[139, 410]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'au.org.ala.images.tiling.ImageTilerTest')","[97, 1942]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=concept')",[823]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=task')","[725, 774]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe')","[1019, 1117, 1215, 1313, 1411, 1509]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=map')",[627]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'au.org.ala.images.thumb.ImageThumbnailerTest')","[284, 1964]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-Gnumeric-spreadsheet')",[970]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-arm7')",[1460]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(au.org.ala.images.metadata.MetadataExtractorTest)')","[57, 347]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe64')",[1166]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test4(au.org.ala.images.tiling.ImageTilerTest)')","[181, 452]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test3(au.org.ala.images.tiling.ImageTilerTest)')","[160, 431]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-tika-msoffice-embedded;format=ole10_native')",[1558]

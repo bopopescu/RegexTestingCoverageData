@@ -1,0 +1,42 @@
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'isEmpty')","[1029, 1446, 2637]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getString')",[2331]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'bar')",[3773]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'hash32')",[2535]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'isaEnabled')",[3642]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'differences')",[170]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'propertyName')",[356]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'CGLIB$clone$5')",[1818]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'toLowerCase')",[2790]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getCallbacks')",[1762]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'length')",[2688]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'toArray')","[1135, 1548]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'rightValue')",[488]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getFoo')","[2936, 3024, 3112, 3157, 3201, 3290, 3334, 3378, 3816]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getBar')","[3245, 3422]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'CGLIB$toString$3')",[1874]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getX')",[1706]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'gettyIsAMuseum')",[3598]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'toCharArray')",[2739]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getA')",[3861]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getBytes')",[2484]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'listIterator')","[1344, 1650]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'toUpperCase')",[2841]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'CGLIB$hashCode$4')",[1930]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'areEqual')",[110]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getMyString')",[3068]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'hashCode')","[50, 290, 620, 671, 722, 773, 821, 872, 923, 1240, 2098, 2433]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getInt')","[2281, 3730]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'is_boolean')",[3510]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'get_int')",[3554]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'intern')",[2586]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'isBoolean')",[3466]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'leftValue')",[422]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'CGLIB$getX$0')",[1986]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'size')","[1082, 1497]"
+"('RegexMatcher.java', 'org.pojomatic.internal.RegexMatcher', 'matchesSafely', '\\Qorg.pojomatic.internal.PojomatorStub$\\E\\d+', 'org.pojomatic.internal.PojomatorStub$378')","[2193, 2231]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'clone')","[1395, 2154]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'toString')","[230, 554, 976, 2042, 2382]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'iterator')","[1188, 1292, 1599]"
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'getNotDetected')",[2980]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'trim')",[2892]
+"('ClassProperties.java', 'org.pojomatic.internal.ClassProperties', 'isAccessorName', '(get|is)\\P{Ll}.*', 'thisIsNotAGetter')",[3686]

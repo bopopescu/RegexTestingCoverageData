@@ -1,0 +1,6 @@
+"('ActiveMQConnectionMetaData.java', 'org.apache.activemq.ActiveMQConnectionMetaData', '<clinit>', '(\\d+)\\.(\\d+).*', '5.10.0')",[212]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStartFailsWithNoListener(io.hawtjms.provider.discovery.JmsDiscoveryProviderTest)')","[78, 141, 232]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateDiscvoeryProvider(io.hawtjms.provider.discovery.JmsDiscoveryProviderTest)')","[99, 162, 252]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.hawtjms.provider.discovery.JmsDiscoveryProviderTest')","[36, 274]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateFailsWithUnknownAgent(io.hawtjms.provider.discovery.JmsDiscoveryProviderTest)')","[57, 120, 182]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]

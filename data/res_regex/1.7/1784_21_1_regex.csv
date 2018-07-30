@@ -1,0 +1,67 @@
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Qb\\E\\Qa\\E\\Qr\\E.*', 'foo. (bar)* ?baz{}')",[1190]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E.*', 'foobar bazbaz 123')",[1478]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlayBadPrivateMethod(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[141, 417]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E.*..*\\Qr\\E', 'foo\nbar')",[895]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Qf\\E\\Qo\\E\\Qo\\E.*', 'foobar bazbaz 123')",[1502]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.......', 'foo\nbar')",[870]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '', 'foo\nbar')",[920]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*', 'foobar bazbaz 123')",[1454]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E', '')",[694]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlayBarParam(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[78, 351]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E\\Qb\\E\\Qa\\E\\Qr\\E\\Q \\E\\Qb\\E\\Qa\\E\\Qz\\E\\Qb\\E\\Qa\\E\\Qz\\E\\Q \\E\\Q1\\E\\Q2\\E\\Q3\\E', 'foobar bazbaz 123')","[1430, 1694]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E\\Q.\\E\\Q \\E\\Q(\\E\\Qb\\E\\Qa\\E\\Qr\\E\\Q)\\E.*\\Q \\E.\\Qb\\E\\Qa\\E\\Qz\\E\\Q{\\E\\Q}\\E', 'foo. (bar)* ?baz{}')",[1094]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '', 'foobar bazbaz 123')",[1718]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Qf\\E\\Qo\\E\\Qo\\E', 'foo. (bar)* ?baz{}')",[1358]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qb\\E\\Qa\\E\\Qr\\E', 'foo. (bar)* ?baz{}')",[1334]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Q1\\E\\Q2\\E\\Q3\\E.*', 'foobar bazbaz 123')",[1814]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*', '')",[646]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E.*\\Q1\\E\\Q2\\E\\Q3\\E', 'foobar bazbaz 123')",[1574]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.................', 'foobar bazbaz 123')",[1646]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '........', 'foo\nbar')",[1070]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E.*', 'foo. (bar)* ?baz{}')",[1166]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.gorillalogic.fonemonkey.tests.PropertyUtilTest')","[223, 1909]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E.*\\Q}\\E', 'foo. (bar)* ?baz{}')",[1262]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '...', 'foo. (bar)* ?baz{}')",[1406]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '', '')",[622]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlay(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[99, 373]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E', 'foobar bazbaz 123')",[1742]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Qf\\E\\Qo\\E\\Qo\\E', 'foo\nbar')",[995]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qb\\E\\Qa\\E\\Qr\\E.*', 'foo. (bar)* ?baz{}')",[1382]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E', 'foo\nbar')",[945]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Qb\\E\\Qa\\E\\Qz\\E.*', 'foobar bazbaz 123')",[1622]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Qr\\E', 'foo\nbar')",[795]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlayMissingMethod(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[57, 329]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Q{\\E\\Q}\\E', 'foo. (bar)* ?baz{}')",[1214]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*.', 'foo. (bar)* ?baz{}')",[1142]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.', '')",[670]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E.*', 'foo\nbar')",[770]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWildcardMatcherWithMultiline(com.gorillalogic.fonemonkey.tests.PropertyUtilTest)')","[265, 527]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E....\\Qr\\E\\Q \\E\\Qb\\E....\\Qz\\E\\Q \\E\\Q1\\E.\\Q3\\E', 'foobar bazbaz 123')",[1598]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Q1\\E\\Q2\\E\\Q3\\E', 'foobar bazbaz 123')",[1526]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E.....\\Qr\\E', 'foo\nbar')",[845]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E.*\\Qr\\E', 'foo\nbar')",[820]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlayBadReturn(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[120, 395]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlayExecAndReturn(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[183, 461]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '', 'foo. (bar)* ?baz{}')",[1286]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Qf\\E\\Qo\\E\\Qo\\E', 'foobar bazbaz 123')",[1790]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWildcardMatcherWithEscapedRegexChars(com.gorillalogic.fonemonkey.tests.PropertyUtilTest)')","[286, 549]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E\\Qb\\E\\Qa\\E\\Qr\\E\\Q \\E\\Qb\\E\\Qa\\E\\Qz\\E\\Qb\\E\\Qa\\E\\Qz\\E\\Q \\E\\Q1\\E\\Q2\\E', 'foobar bazbaz 123')",[1886]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\QF\\E.*', 'foobar bazbaz 123')",[1862]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E\\Q\n\\E\\Qb\\E\\Qa\\E\\Qr\\E', 'foo\nbar')",[720]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.\\Qf\\E\\Qo\\E\\Qo\\E', 'foobar bazbaz 123')",[1766]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlayBadInstanceMethod(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[162, 439]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest')","[36, 598]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E.\\Q \\E\\Q(\\E\\Qb\\E\\Qa\\E\\Qr\\E\\Q)\\E.\\Q \\E.*\\Q{\\E\\Q}\\E', 'foo. (bar)* ?baz{}')",[1238]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qb\\E\\Qa\\E\\Qr\\E.*', 'foo\nbar')",[1020]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E', 'foo. (bar)* ?baz{}')",[1310]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWildcardMatcher(com.gorillalogic.fonemonkey.tests.PropertyUtilTest)')","[307, 571]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qb\\E\\Qa\\E\\Qr\\E', 'foo\nbar')",[970]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPlayMissingClass(com.gorillalogic.fonemonkey.automators.tests.AppAutomatorTest)')","[204, 483]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*', 'foo\nbar')",[745]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E\\Qo\\E\\Qo\\E.*\\Q1\\E\\Q2\\E\\Q4\\E', 'foobar bazbaz 123')",[1838]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*', 'foo. (bar)* ?baz{}')",[1118]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '.*\\Q1\\E\\Q2\\E\\Q3\\E.*', 'foobar bazbaz 123')",[1550]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWildcardMatcherWithBlank(com.gorillalogic.fonemonkey.tests.PropertyUtilTest)')","[244, 505]"
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '...', 'foo\nbar')",[1045]
+"('PropertyUtil.java', 'com.gorillalogic.fonemonkey.PropertyUtil', 'matchWildcard', '\\Qf\\E.*\\Q3\\E', 'foobar bazbaz 123')",[1670]

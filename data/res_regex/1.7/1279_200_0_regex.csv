@@ -1,0 +1,20 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'properHealthCheckTest(com.soaexpert.ServerTest)')","[158, 242]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[419]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[537, 655, 773, 891, 1147, 1275, 1391, 1507]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^(?:[0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$', 'aws-sdk-configurations.s3.amazonaws.com')","[1602, 1747]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')",[1019]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')",[955]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'debugTest(com.soaexpert.ServerTest)')","[137, 221]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^((?:[0-9A-Fa-f]{1,4}(?::[0-9A-Fa-f]{1,4})*)?)::((?:[0-9A-Fa-f]{1,4}(?::[0-9A-Fa-f]{1,4})*)?)$', 'aws-sdk-configurations.s3.amazonaws.com')","[1650, 1796]"
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseStandardRegionName', '^(?:.+\\.)?s3[.-]([a-z0-9-]+)$', 'sns.us-east-1')","[1949, 2035]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv4Address', '^(25[0-5]|2[0-4]\\d|[0-1]?\\d?\\d)(\\.(25[0-5]|2[0-4]\\d|[0-1]?\\d?\\d)){3}$', 'aws-sdk-configurations.s3.amazonaws.com')","[1554, 1698]"
+"('AwsHostNameUtils.java', 'com.amazonaws.util.AwsHostNameUtils', 'parseStandardRegionName', '^(?:.+\\.)?s3[.-]([a-z0-9-]+)$', 'ec2')",[1837]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sentlyTest(com.soaexpert.SentlyTest)')","[97, 200]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[478, 596, 714, 832, 1083, 1211, 1333, 1449]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[301]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.soaexpert.SanityTest')","[36, 1863]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[360]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sanityCheckTest(com.soaexpert.SanityTest)')","[57, 179]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.soaexpert.SentlyTest')","[76, 2079]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.soaexpert.ServerTest')","[116, 2057]"

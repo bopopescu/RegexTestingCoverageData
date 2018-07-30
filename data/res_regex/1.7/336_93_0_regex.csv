@@ -1,0 +1,46 @@
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/app.xml')","[2257, 4895]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/_rels/workbook.xml.rels')","[1262, 2529, 2852]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/_rels/.rels')","[135, 183, 1130, 1176, 2440, 2486]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/styles.xml')","[518, 565, 1760, 1806, 3586, 3632, 5829, 5871]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml')",[3336]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/_rels/sheet1.xml.rels')",[4404]
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-package.relationships+xml')","[1219, 1398]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/core.xml')","[2121, 4556]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/_rels/app.xml.rels')",[5082]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'xl/workbook.xml')",[5529]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'docProps/core.xml')",[5484]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/app.xml')","[708, 755, 2304, 2350, 4942, 4988]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.theme+xml')",[4014]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/sharedStrings.xml')","[1577, 3200]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/_rels/sharedStrings.xml.rels')",[3387]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/workbook.xml')","[1441, 2665]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/workbook.xml')","[613, 660, 1488, 1534, 2712, 2758, 5573, 5616]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/core.xml')","[232, 280, 993, 1040, 2168, 2214, 4603, 4649]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml')",[4353]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/sheet1.xml')","[1985, 4217]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/sharedStrings.xml')","[898, 945, 1624, 1670, 3247, 3293, 5914, 5956]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'worksheets/sheet1.xml')",[3108]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/')","[328, 375]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/theme/theme1.xml')","[423, 470, 1896, 1942, 3925, 3971, 5744, 5786]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'theme/theme1.xml')",[3059]
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.extended-properties+xml')",[5031]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/_rels/sheet1.xml.rels')","[4459, 4513]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml')",[2801]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'docProps/app.xml')",[5439]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/_rels/app.xml.rels')","[5137, 5191]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/styles.xml')","[1713, 3539]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/_rels/.rels')","[1083, 2393]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/_rels/workbook.xml.rels')","[1309, 1355, 2576, 2622, 2907, 2961]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-package.core-properties+xml')","[43, 86, 4692, 5234]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'sharedStrings.xml')",[3157]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/_rels/core.xml.rels')","[4798, 4852, 5340, 5394]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/_rels/styles.xml.rels')",[3726]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/theme/theme1.xml')","[1849, 3878]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/theme/_rels/theme1.xml.rels')",[4065]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/theme/_rels/theme1.xml.rels')","[4120, 4174]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/sheet1.xml')","[803, 850, 2032, 2078, 4264, 4310, 5659, 5701]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/_rels/styles.xml.rels')","[3781, 3835]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/_rels/core.xml.rels')","[4743, 5285]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml')",[3675]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/_rels/sharedStrings.xml.rels')","[3442, 3496]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'styles.xml')",[3010]

@@ -1,0 +1,12 @@
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[52]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[286, 416, 692, 830, 956, 1082]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[156]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'covisint.com')",[1748]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[221, 351, 623, 761, 893, 1019]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'api.qa.covisint.com')","[1191, 1302, 1469, 1636, 1915]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv4Address', '^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$', 'api.qa.covisint.com')","[1136, 1413, 1580, 1859]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')",[485]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')",[554]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[104]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'api.qa.covisint.com')","[1246, 1358, 1525, 1692, 1971]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'covisint.com')",[1804]

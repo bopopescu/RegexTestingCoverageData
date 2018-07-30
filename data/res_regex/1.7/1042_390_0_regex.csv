@@ -1,0 +1,281 @@
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir221111')",[8232]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d', 'dir1')","[6420, 6934, 7552, 8446, 8513, 8716, 8991, 9244, 9582, 9649, 9852, 10264, 11698, 12418, 12805, 13824, 13891, 14094, 14435, 14638, 14705, 14908, 15253]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenFileInMainFolderOfRootHierarchy(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest)')","[1507, 4282]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWithRegex(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[784, 3673]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{2}', 'dir12')","[9058, 10331, 11765, 12872, 14502, 15320]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest')","[139, 8318]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithRegexInAssert(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasParentDirWithNameTest)')","[2711, 5353]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir2')","[5956, 9418, 10818]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d2', 'dir22')","[8682, 8890, 10026, 14268, 14874, 15082]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', '(dir12)|(dir21)', 'dir21')","[6563, 7077, 12553]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentTest')","[326, 8344]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithRegexInMethod(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasParentDirWithNameTest)')","[2732, 5374]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenDoesNotExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertExistsTest)')","[929, 3799]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceed(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileRegexTest)')","[2234, 4933]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', '(dir12)|(dir21)', 'dir12')","[6491, 7005, 12485]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d2', 'dir12')","[8580, 8785, 9921, 14163, 14772, 14977]"
+"('FileAssert.java', 'pl.pkk82.filehierarchyassert.FileAssert', 'has', '\\d+', 'file-hierarchy-generator-5835368064671683416')",[13681]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWithUnmatchingRegexInAssert(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasParentDirWithNameTest)')","[2753, 5395]"
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{2}-line\\d{1}', 'file121-line1')",[6829]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'file22111')",[11589]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsRegexTest')","[1652, 10459]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsRegexTest')","[2896, 15488]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir2\\d', 'dir22')",[10160]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenFileIsNotDir(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1135, 3967]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir21')","[5995, 10855]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectoryAtLevelOne(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsRegexTest)')","[492, 3400]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d1', 'dir11')","[9750, 13992]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2358, 5038]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'file2211')",[8042]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertIsEmptyTest')","[1196, 15466]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file3', 'dir21')",[12698]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest')","[1776, 15444]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'file211')",[7890]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file2211')","[6190, 11040]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[223, 3169]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'file22111')",[12311]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenFileInSubfolderOfRootHierarchy(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest)')","[1549, 4324]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2484, 5164]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'file121')",[13048]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[658, 3547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenTwoFilesInTheSamePath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileRegexTest)')","[2276, 4975]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file2')","[5683, 9331, 10559]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{2}', 'dir21')","[9126, 10399, 11833, 12940, 14570, 15388]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir11')",[7776]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectory(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsRegexTest)')","[576, 3484]"
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file11-line1', 'file11-line1')",[8266]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertExistsTest')","[803, 9444]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir1\\d', 'dir11')",[15220]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{3}', 'dir11')",[14402]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shoulSucceedWhenFileExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertExistsTest)')","[845, 3715]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevelCombination(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsRegexTest)')","[597, 3505]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectory(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2505, 5185]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir1', 'dir1')","[14301, 15116]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir22')",[13233]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir11')","[5878, 10744]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir221111')",[12385]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'dir221')",[11437]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectory(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesRegexTest)')","[2856, 5479]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentRegexTest')","[36, 8292]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest')","[616, 15510]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file22112')","[6268, 11114]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'file22112')",[12274]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{2}', 'dir2')",[8958]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'dir22111')",[11627]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevelCombination(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesRegexTest)')","[2877, 5500]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenRootDirHasNotSubdirsAndFiles(pl.pkk82.filehierarchyassert.FileHierarchyAssertIsEmptyTest)')","[1280, 4093]"
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{3}-line\\d{1}', 'file212-line2')",[7518]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1923, 4660]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithTwoLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest)')","[1612, 4387]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertTest')","[988, 9496]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenRootDirHasSubdirsAndFiles(pl.pkk82.filehierarchyassert.FileHierarchyAssertIsEmptyTest)')","[1238, 4051]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{3}', 'dir12')",[14368]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d', 'file1')",[9273]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest)')","[1570, 4345]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{2}', 'dir11')","[9092, 10365, 11799, 12906, 14536, 15354]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir2211')",[12237]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file3', 'dir12')",[12624]
+"('FileAssert.java', 'pl.pkk82.filehierarchyassert.FileAssert', 'has', 'file-hierarchy-generator-\\d+', 'file-hierarchy-generator-2317965573667591327')",[13736]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenTwoFilesInDifferentPaths(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileRegexTest)')","[2318, 5017]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d1', 'dir12')","[9716, 13958]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenInvalidCount(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsRegexTest)')","[2938, 5542]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForRoot(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1341, 4135]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWithDifferentName(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasRootDirWithNameTest)')","[2566, 5227]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir221')","[6151, 11003]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir221111')",[13492]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file211')","[6034, 10892]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectory(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1467, 4261]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectory(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsRegexTest)')","[1736, 4492]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'dir2211')",[11513]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2463, 5143]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailAndFindTheDifference(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentTest)')","[389, 3316]"
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{3}-line\\d{1}', 'file121-line2')",[7378]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasRootDirWithNameTest')","[2524, 13654]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir2211')","[6229, 11077]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWithUnmatchingRegexInAssert(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasRootDirWithNameTest)')","[2650, 5311]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir12')",[13011]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1986, 4723]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file3', 'file211')",[12735]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'file2211')",[11475]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir22111')",[8194]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWithUnmatchingRegexInMethod(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasRootDirWithNameTest)')","[2545, 5206]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir21')",[13122]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1446, 4240]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2026, 4744]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir221')",[12163]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'file212')",[7928]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir1')",[7624]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file3', 'file121')",[12661]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithRegexInMethod(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasRootDirWithNameTest)')","[2629, 5290]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'file2211')",[12200]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWithTwoLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentRegexTest)')","[78, 3043]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir21')",[12015]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir221111')","[6385, 11225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1797, 4534]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithTwoLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentRegexTest)')","[99, 3064]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1881, 4618]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForRoot(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1860, 4597]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenPathIsNull(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1177, 4009]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'file121')",[7738]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2400, 5080]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir11')",[13085]
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{3}-line\\d{1}', 'file211-line2')",[7448]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file22111')","[6307, 11151]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir22', 'dir22')",[11363]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file121')","[5839, 10707]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenRootDirHasSubdirsAndFiles(pl.pkk82.filehierarchyassert.FileHierarchyAssertIsEmptyTest)')","[1217, 4030]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest')","[1486, 9548]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d2', 'dir21')","[8648, 8855, 9991, 14233, 14840, 15047]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1320, 4114]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsRegexTest)')","[555, 3463]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2173, 4891]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'file121')","[6677, 7191]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[286, 3232]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1362, 4156]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenFileHierarchyIsNull(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1051, 3883]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevelCombination(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsRegexTest)')","[3001, 5605]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenInvalidCount(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsRegexTest)')","[1694, 4450]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'file22112')",[8118]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir12')",[7700]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d', 'file2')",[9215]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentRegexTest)')","[120, 3085]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldPresentCorrectExamplesInDocumentation(pl.pkk82.filehierarchyassert.FileHierarchyAssertReadmeExamplesTest)')","[969, 3820]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectoryAtLevelOne(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1818, 4555]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDir(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[679, 3568]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d2', 'dir11')","[8614, 8820, 9956, 14198, 14806, 15012]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFail(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileRegexTest)')","[2255, 4954]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenPathIsNotDir(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1156, 3988]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectory(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsRegexTest)')","[2980, 5584]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir11')",[11978]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'file121')",[11941]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d1', 'dir22')","[9818, 14060]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d', 'dir2')","[6455, 6969, 7586, 8480, 8546, 8750, 9024, 9302, 9616, 9682, 9886, 10297, 11731, 12451, 12838, 13858, 13924, 14128, 14468, 14672, 14738, 14942, 15286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsRegexTest)')","[2959, 5563]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'file212')","[6794, 7308]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsRegexTest)')","[2917, 5521]"
+"('FileAssert.java', 'pl.pkk82.filehierarchyassert.FileAssert', 'has', '\\d+', 'file-hierarchy-generator-9147236916309505164')",[13764]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsRegexTest)')","[513, 3421]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir22111')","[6346, 11188]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'file211')",[12052]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForRoot(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2047, 4765]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithTwoLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentTest)')","[368, 3295]"
+"('FileAssert.java', 'pl.pkk82.filehierarchyassert.FileAssert', 'has', 'file-hierarchy-generator-\\d+', 'file-hierarchy-generator-4295211600293660029')",[13709]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2152, 4870]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceed(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[637, 3526]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenInvalidCount(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesRegexTest)')","[2814, 5437]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir2', 'dir2')","[10092, 11293]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2131, 4849]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesRegexTest')","[2772, 15554]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenDirInstead(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest)')","[1528, 4303]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWithUnmatchingRegexInMethod(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasParentDirWithNameTest)')","[2690, 5332]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir12')",[11904]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'file22111')",[13418]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsRegexTest)')","[1715, 4471]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'file212')",[12089]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir221')",[8004]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[202, 3148]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', '(dir12)|(dir21)', 'dir11')","[6527, 7041, 12519]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1902, 4639]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'dir221111')",[11665]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsRegexTest')","[471, 9186]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForRoot(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[181, 3127]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir2', 'dir1')","[10059, 11259]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[721, 3610]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest)')","[1633, 4408]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[244, 3190]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithRegex(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[742, 3631]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenExpectedEmtpy(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentTest)')","[452, 3379]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file3', 'file212')",[12772]
+"('FileAssert.java', 'pl.pkk82.filehierarchyassert.FileAssert', 'has', 'f.l[eE]Hierar.+', 'fileHierarchy')","[13573, 13600]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenFileDoesNotExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1072, 3904]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1425, 4219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[265, 3211]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesRegexTest)')","[2835, 5458]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir3', 'dir2')",[8412]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir22')",[12126]
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{3}-line\\d{1}', 'file121-line1')",[7343]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectory(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2194, 4912]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir22112', 'dir2211')",[10231]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'dir21')","[6716, 7230]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d1', 'dir21')","[9784, 14026]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenInvalidCount(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsRegexTest)')","[534, 3442]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir2')",[7814]
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{2}-line\\d{1}', 'file212-line1')",[6899]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir2211')",[13344]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[160, 3106]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileRegexTest')","[2213, 15532]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file1')","[5917, 9389, 10781]"
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{3}-line\\d{1}', 'file212-line1')",[7483]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'file212')",[13196]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoFilesInDifferentPaths(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileRegexTest)')","[2297, 4996]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2421, 5101]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir221', 'dir221')","[10195, 11399]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{2}', 'dir1')",[8924]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2089, 4807]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'file22112')",[11551]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', '(dir12)|(dir21)', 'dir22')","[6599, 7113, 12587]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenExists(pl.pkk82.filehierarchyassert.FileHierarchyAssertExistsTest)')","[887, 3757]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenFileInstead(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[763, 3652]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir21')",[7852]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2068, 4786]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir12')","[5800, 10670]"
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{2}-line\\d{1}', 'file211-line1')",[6864]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir22111')",[13455]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir22', 'dir21')",[11328]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevelCombination(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsRegexTest)')","[1757, 4513]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenEmpty(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1383, 4177]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'file11')",[7662]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir\\d{2}', 'dir22')","[9160, 10433, 11867, 12974, 14604, 15422]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenPathDoesNotExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1030, 3862]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'file211')",[13159]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertExistsTest)')","[866, 3736]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1944, 4681]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenRootDirHasNotSubdirsAndFiles(pl.pkk82.filehierarchyassert.FileHierarchyAssertIsEmptyTest)')","[1259, 4072]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenFileHierarchyDoesNotExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1093, 3925]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'dir12')","[6638, 7152]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForTwoLevel(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesTest)')","[307, 3253]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest')","[2337, 13518]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceed(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentTest)')","[347, 3274]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest)')","[1404, 4198]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{3}', 'file211')","[6755, 7269]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest)')","[2110, 4828]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsRegexTest)')","[1673, 4429]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'file22112')",[13381]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file2\\d{1}1', 'dir22111')",[12348]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenFileIsNull(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1009, 3841]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasParentDirWithNameTest')","[2669, 13790]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenDoesNotExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertExistsTest)')","[908, 3778]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDir(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileTest)')","[1591, 4366]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldThrowExceptionWhenFileHierarchyIsNotDir(pl.pkk82.filehierarchyassert.FileHierarchyAssertTest)')","[1114, 3946]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir1', 'dir2')","[14334, 15150]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir22')","[6112, 10966]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfSubdirsTest')","[2005, 10485]"
+"('FileHierarchyAssert.java', 'pl.pkk82.filehierarchyassert.FileHierarchyAssert', 'containsFileWithContent', 'file\\d{3}-line\\d{1}', 'file211-line1')",[7413]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithTwoLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsSubdirTest)')","[700, 3589]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'file22111')",[8156]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithName(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasRootDirWithNameTest)')","[2587, 5248]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenFileExist(pl.pkk82.filehierarchyassert.FileHierarchyAssertExistsTest)')","[824, 3694]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithRegexInAssert(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasRootDirWithNameTest)')","[2608, 5269]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'dir221')",[13270]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1965, 4702]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file11')","[5761, 10633]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}1', 'file2211')",[13307]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir2211')",[8080]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceedWithOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentTest)')","[431, 3358]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenExpectedNonEmtpy(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentTest)')","[410, 3337]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenOneFile(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2442, 5122]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertReadmeExamplesTest')","[948, 9470]"
+"('FileAssert.java', 'pl.pkk82.filehierarchyassert.FileAssert', 'has', 'f.l[eE]Hirar.+', 'fileHierarchy')","[13545, 13628]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir3', 'dir1')",[8378]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir1\\d', 'dir12')",[15185]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'file212')","[6073, 10929]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'dir2\\d', 'dir21')",[10126]
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'dir1')","[5722, 9360, 10596]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSucceed(pl.pkk82.filehierarchyassert.FileHierarchyAssertContainsFileWithContentRegexTest)')","[57, 3022]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d', 'fileHierarchy')","[5644, 10522]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForOneLevelPath(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesRegexTest)')","[2793, 5416]"
+"('IOFileFilterCondition.java', 'pl.pkk82.filehierarchyassert.IOFileFilterCondition', 'accept', 'file\\d{2}', 'dir22')",[7966]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndDirsTest')","[1299, 9522]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSuccedForRoot(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfFilesAndSubdirsTest)')","[2379, 5059]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldFailWhenNoDirectoryAtLevelTwo(pl.pkk82.filehierarchyassert.FileHierarchyAssertHasCountOfDirsTest)')","[1839, 4576]"

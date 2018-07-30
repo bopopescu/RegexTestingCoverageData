@@ -1,0 +1,8 @@
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[87]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', '_test')","[204, 294]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'unsubscribe.test')","[483, 528]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'testing.with.no.reply')","[327, 372]"
+"('PlatformDependent.java', 'io.netty.util.internal.PlatformDependent', 'isRoot0', '.*permission.*denied.*', 'permission denied')",[36]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'this.is.some.subject')","[405, 450]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[138]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test')","[171, 249]"

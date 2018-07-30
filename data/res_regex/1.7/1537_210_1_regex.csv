@@ -1,0 +1,176 @@
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'user.lastName')",[4513]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en,fr -> (1 - 11)')",[2949]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'max_time_invalid_24(net.iteach.core.model.PreferenceKeyTest)')","[721, 1475]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Displaying week-ends on the planning')",[3067]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.netbeetle.jackson.ConstructorPropertiesAnnotationIntrospectorTest')","[36, 1627]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'min_time_invalid_mm(net.iteach.core.model.PreferenceKeyTest)')","[679, 1433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'from_json(net.iteach.core.model.StudentFormTest)')","[866, 1601]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testJacksonUnableToDeserialize(com.netbeetle.jackson.ConstructorPropertiesAnnotationIntrospectorTest)')","[78, 908]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Web site')",[5635]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.iteach.core.model.StudentFormTest')","[824, 5768]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.key.min_time.help')",[2890]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.validation.boolean')",[2182]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'validate_false(net.iteach.core.model.AckTest)')","[244, 1055]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.key.max_time')",[3362]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'coordinate.EMAIL.name')",[5370]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'app.title')",[1798]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en,fr,de -> {0}')",[1946]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en,de -> {0}: {1}')",[2093]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> {0} must be a boolean.')",[2270]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Afficher le week-end sur le planning')",[3155]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en,fr,de -> {0}')",[1975]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', ""fr -> L'heure maximale pour le planning"")",[3509]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.iteach.core.model.CoordinatesTest')","[450, 5720]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nok(net.iteach.core.model.AckTest)')","[223, 1034]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Last name')",[4543]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Minimum time for the planning')",[2772]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Subject')",[4218]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> {0} doit être un entier.')",[2506]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'app.version')",[1709]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Prénom')",[4425]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'min_time_invalid_0(net.iteach.core.model.PreferenceKeyTest)')","[763, 1517]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Afficher le total des heures et des montants')",[3303]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.key.min_time.help')",[2919]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Web site')",[5606]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'from_json(net.iteach.core.model.AckTest)')","[265, 1076]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Display the total hours and amounts')",[3244]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'net.iteach.core.model.SchoolForm.color')",[3805]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> iTeach')",[1857]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> First name')",[4395]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.key.max_time.help')",[3539]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'or(net.iteach.core.model.AckTest)')","[181, 992]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'net.iteach.core.model.StudentForm.name')",[4011]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', ""fr -> Code couleur pour l'école"")",[3923]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'one_1(net.iteach.core.model.AckTest)')","[307, 1118]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> {0} must be an integer.')",[2418]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', '[coordinates]')",[4838]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Email')",[4720]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.key.reportTotalDisplayed')",[3185]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'net.iteach.core.model.StudentForm.subject')",[4159]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en,de -> {0}: {1}')",[2064]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.validation.range')",[2536]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> {0} : {1}')",[2152]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.iteach.core.model.AckTest')","[97, 1653]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en,fr -> (13 - 23)')",[3598]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'failure(net.iteach.core.model.IDTest)')","[389, 1181]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'count_1_with_id(net.iteach.core.model.IDTest)')","[431, 1223]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Prénom')",[4454]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'max_time_valid_6(net.iteach.core.model.PreferenceKeyTest)')","[637, 1391]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', ""fr -> Nom de l'école"")",[3775]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Courriel')","[4779, 5488]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Téléphone')",[5163]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Phone')",[5075]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Matière')",[4277]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', ""fr -> Nom de l'école"")",[3746]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', ""fr -> L'heure maximale pour le planning"")",[3480]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'min_time_valid_11(net.iteach.core.model.PreferenceKeyTest)')","[553, 1307]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.key.reportTotalDisplayed')",[3214]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'coordinate.WEB.name')",[5547]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Site Internet')",[5694]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'net.iteach.core.model.SchoolForm.name')",[3657]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> {0} doit être un booléen (true ou false).')",[2329]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> {0} must be between {1} and {2}.')",[2595]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ok(net.iteach.core.model.AckTest)')","[160, 971]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', ""fr -> L'heure minimale pour le planning"")",[2831]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Email')",[4749]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> {0} doit être un booléen (true ou false).')",[2300]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Téléphone mobile')",[5340]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Maximum time for the planning')",[3450]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'coordinate.EMAIL.name')",[5399]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Postal address')",[4927]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'max_time_invalid_double(net.iteach.core.model.PreferenceKeyTest)')","[532, 1286]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> First name')",[4366]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Nom')",[4631]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'net.iteach.core.model.SchoolForm.color')",[3834]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Nom')",[4602]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'coordinate.PHONE.name')",[5016]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'min_time_valid_6(net.iteach.core.model.PreferenceKeyTest)')","[595, 1349]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Mobile phone')",[5252]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> 0.7.0-SNAPSHOT')",[1768]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Student name')",[4041]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> {0} must be a boolean.')",[2241]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', ""fr -> Nom de l'étudiant"")",[4100]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'app.title')",[1827]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'min_time_invalid_12(net.iteach.core.model.PreferenceKeyTest)')","[658, 1412]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.key.weekend')",[3008]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'to_json(net.iteach.core.model.AckTest)')","[118, 929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'validate_true(net.iteach.core.model.AckTest)')","[139, 950]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'count_not1_with_id(net.iteach.core.model.IDTest)')","[410, 1202]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> {0} doit être un entier.')",[2477]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> {0} must be between {1} and {2}.')",[2624]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Subject')",[4247]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'success(net.iteach.core.model.IDTest)')","[368, 1160]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'net.iteach.core.validation.ValidationException')",[1916]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Site Internet')",[5665]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Last name')",[4572]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', ""fr -> L'heure minimale pour le planning"")",[2860]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'min_time_invalid_double(net.iteach.core.model.PreferenceKeyTest)')","[805, 1559]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Adresse postale')",[4986]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'validation.field')",[2005]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.validation.integer')",[2359]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.validation.integer')",[2388]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Téléphone mobile')",[5311]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Matière')",[4306]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> iTeach')",[1886]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'max_time_invalid_mm(net.iteach.core.model.PreferenceKeyTest)')","[742, 1496]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Téléphone')",[5134]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.key.min_time')",[2742]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'create(net.iteach.core.model.CoordinatesTest)')","[471, 1244]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'one_more(net.iteach.core.model.AckTest)')","[328, 1139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.iteach.core.model.IDTest')","[347, 1679]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Afficher le week-end sur le planning')",[3126]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'user.email')",[4690]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Mobile phone')",[5281]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Afficher le total des heures et des montants')",[3332]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en,fr -> (13 - 23)')",[3627]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'coordinate.ADDRESS.name')",[4868]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> {0} : {1}')",[2123]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en,fr -> (1 - 11)')",[2978]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.validation.range')",[2565]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testJacksonAbleToDeserialize(com.netbeetle.jackson.ConstructorPropertiesAnnotationIntrospectorTest)')","[57, 887]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'net.iteach.core.model.StudentForm.subject')",[4188]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'user.lastName')",[4484]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> Courriel')","[4808, 5517]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'max_time_valid_1(net.iteach.core.model.PreferenceKeyTest)')","[616, 1370]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> eMail')",[5458]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Postal address')",[4898]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> eMail')",[5429]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', ""fr -> Nom de l'étudiant"")",[4129]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'max_time_valid_11(net.iteach.core.model.PreferenceKeyTest)')","[784, 1538]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'add(net.iteach.core.model.CoordinatesTest)')","[492, 1265]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'coordinate.MOBILE_PHONE.name')",[5193]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'user.email')",[4661]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'coordinate.WEB.name')",[5576]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> 0.7.0-SNAPSHOT')",[1739]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'user.firstName')",[4336]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Colour code for the school')",[3893]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Phone')",[5104]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'fr -> {0} doit être entre {1} et {2}.')",[2683]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> School name')",[3716]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'one_0(net.iteach.core.model.AckTest)')","[286, 1097]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Minimum time for the planning')",[2801]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> School name')",[3687]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> {0} doit être entre {1} et {2}.')",[2654]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'preference.key.min_time')",[2713]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Colour code for the school')",[3864]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'max_time_invalid_12(net.iteach.core.model.PreferenceKeyTest)')","[700, 1454]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'validation.field')",[2034]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'to_json(net.iteach.core.model.StudentFormTest)')","[845, 1580]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'fr -> Adresse postale')",[4957]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.iteach.core.model.PreferenceKeyTest')","[511, 5746]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'coordinate.MOBILE_PHONE.name')",[5222]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'coordinate.PHONE.name')",[5045]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.key.max_time')",[3391]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'en -> Maximum time for the planning')",[3421]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Display the total hours and amounts')",[3273]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'and(net.iteach.core.model.AckTest)')","[202, 1013]"
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.validation.boolean')",[2211]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.key.weekend')",[3037]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> {0} must be an integer.')",[2447]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', ""fr -> Code couleur pour l'école"")",[3952]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser', 'getSectionHeader', '^\\[(.*)\\]$', 'net.iteach.core.model.StudentForm.name')",[3982]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Student name')",[4070]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'en -> Displaying week-ends on the planning')",[3096]
+"('LSParser.java', 'net.sf.jstring.io.ls.LSParser$ParsingContext$KeyParsingConsumer', 'consume', '^(.+)\\->(.*)$', 'preference.key.max_time.help')",[3568]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'min_time_valid_1(net.iteach.core.model.PreferenceKeyTest)')","[574, 1328]"

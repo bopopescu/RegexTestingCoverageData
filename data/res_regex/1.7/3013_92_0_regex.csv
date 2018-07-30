@@ -1,0 +1,53 @@
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[309]
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'geronimo-j2ee-connector_1.5_spec-2.0.0')",[959]
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'deployers-4.0-20130129.191029-6')",[1099]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.6')",[471]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '6.7.0.0')","[1403, 1426]"
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'abdera-i18n-0.4.0-incubating')",[1029]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.0')",[540]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[353]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '2.0.0.SNAPSHOT')",[840]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '6.5')","[632, 793]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.0.1')","[1263, 1286]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.6.0_u24')",[724]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jahia.commons.VersionTest')","[97, 1751]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVersionComparison(org.jahia.commons.VersionTest)')","[118, 223]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '3.4.0.GA.')",[816]
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'guava-r06')",[1589]
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'geronimo-stax-api_1.0_spec-1.0.1')",[1239]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.1.rc1')",[586]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFileNameParsing(org.jahia.commons.VersionTest)')","[160, 265]"
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'jodconverter-core-3.0-beta-4-jahia3')",[1449]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '0.4.0')","[1053, 1076]"
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'js-1.7R2')",[1519]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testVersionParsing(org.jahia.commons.VersionTest)')","[139, 244]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.1b1')",[609]
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'eclipse-core-runtime-20070801')",[1169]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.2.3.b2b')",[888]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.5.0.0')",[517]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.1.1.1.1.1.1.1')",[563]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.7')",[425]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDigest(org.jahia.commons.encryption.EncryptionUtilsTest)')","[78, 202]"
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'jackrabbit-api-2.4.2-rev1346887-patch9')",[1309]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '2.0.0')","[983, 1006]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '4.0')","[1123, 1146]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEncryptDecrypt(org.jahia.commons.encryption.EncryptionUtilsTest)')","[57, 181]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.6.0u24')",[770]
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'jakarta-slide-webdavlib-2.2pre1-SLIDE-386476')",[1612]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jahia.commons.encryption.EncryptionUtilsTest')","[36, 379]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '6.5b1')",[655]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '3.0')","[1473, 1496]"
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'geocoder-java-0.9-jdk5')",[1682]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', 'r06')",[747]
+"('Version.java', 'org.jahia.commons.Version', 'fromMavenFileName', '^(.*?)-(([0-9\\.]*[0-9]+)(.*))?$', 'jahia-api-6.7.0.0-SNAPSHOT')",[1379]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.6.0_24')","[448, 678, 701]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '20070801')","[1193, 1216]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '2.2pre1')","[1636, 1659]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.7R2')","[1543, 1566]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.2.3.rctest1')",[912]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.2.3.rc4test')",[936]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.2.3.beta1')",[864]
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '2.4.2')","[1333, 1356]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '0.9')","[1706, 1729]"
+"('Version.java', 'org.jahia.commons.Version', '<init>', '^([0-9\\.]*[0-9]+)(.*)', '1.5')","[402, 494]"

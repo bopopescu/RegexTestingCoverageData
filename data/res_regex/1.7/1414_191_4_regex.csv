@@ -1,0 +1,105 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'MapWritableTest')",[998]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'text(StringTextComparisonTest)')","[2864, 2885, 2906, 4147]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'SequenceFileSeekAndSyncTest')","[4419, 4443, 4468, 4492]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSizes(VIntWritableTest)')","[2740, 4106]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'find(TextTest)')","[57, 3217]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'seekToRecordBoundary(SequenceFileSeekAndSyncTest)')","[664, 3384]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'byteArrayNotShortened(TextTest)')","[477, 3342]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'comparison(TextTest)')","[393, 3321]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'IntPairTest')","[5007, 5031, 5056, 5080]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'IntWritableTest')",[1887]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'TextTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'comparison(TextTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'seekToNonRecordBoundary(SequenceFileSeekAndSyncTest)')","[769, 790, 811]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'mapWritable(MapWritableTest)')","[1040, 1061, 1082, 3508]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'mutability(TextTest)')","[561, 3363]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'syncAfterLastSyncPoint(SequenceFileSeekAndSyncTest)')","[916, 3467]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'NullWritableTest')",[3112]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(VLongWritableTest)')","[2574, 2595, 2616, 4044]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'walkthroughWithNoArgsConstructor(IntWritableTest)')","[2076, 3879]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(NullWritableTest)')","[3154, 3175, 3196, 4250]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(BytesWritableTest)')","[1517, 1538, 1559, 3673]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'walkthroughWithNoArgsConstructor(IntWritableTest)')","[2097, 2118, 2139]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'syncFromNonRecordBoundary(SequenceFileSeekAndSyncTest)')","[832, 3446]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFirstComparator(TextPairTest)')","[1290, 3591]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'walkthroughWithValueConstructor(IntWritableTest)')","[2181, 2202, 2223]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'MapFileSeekTest')","[5301, 5325, 5350, 5374]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'string(StringTextComparisonTest)')","[2948, 2969, 2990]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'Text\n')",[5400]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'GenericWritableTest')",[1784]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'FileDecompressorTest')","[5425, 5449, 5474, 5498]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(VIntWritableTest)')","[2677, 2698, 2719, 4085]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'toStringMethod(TextTest)')","[225, 3279]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'find(TextTest)')","[78, 99, 120, 3237]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ObjectWritableTest')",[1578]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(ArrayWritableTest)')","[1414, 1435, 1456, 3632]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComparator(IntPairTest)')","[1723, 1744, 1765, 3755]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(BytesWritableTest)')","[1496, 3653]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComparator(TextPairTest)')","[1227, 1248, 1269, 3570]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(TextTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ArrayWritableTest')",[1372]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'GenericWritableTest')","[5105, 5129, 5154, 5178]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'IntPairTest')",[1681]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'toStringMethod(TextTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'decompressesGzippedFile(FileDecompressorTest)')","[2450, 3983]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(TextTest)')","[141, 3258]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(IntWritableTest)')","[1929, 1950, 1971, 3837]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(ObjectWritableTest)')","[1620, 1641, 1662, 3714]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'TextPairTest')",[1185]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(VIntWritableTest)')","[2656, 4065]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(BooleanWritableTest)')","[3030, 4189]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'byteArrayNotShortened(TextTest)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'VLongWritableTest')",[2532]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'SequenceFileSeekAndSyncTest')",[643]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'get(MapFileSeekTest)')","[2284, 2305, 2326, 3941]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'get(MapFileSeekTest)')","[2263, 3921]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(IntWritableTest)')","[1908, 3817]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'VIntWritableTest')",[2635]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'walkthroughWithValueConstructor(IntWritableTest)')","[2160, 3900]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'VLongWritableTest')","[5523, 5547, 5572, 5596]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'comparator(IntWritableTest)')","[2013, 2034, 2055]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(BooleanWritableTest)')","[3051, 3072, 3093, 4209]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComparator(IntPairTest)')","[1702, 3735]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'StringTextComparisonTest')","[5719, 5743, 5768, 5792]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'withSupplementaryCharacters(TextTest)')","[309, 3300]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(ArrayWritableTest)')","[1393, 3612]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(NullWritableTest)')","[3133, 4230]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'BooleanWritableTest')","[5817, 5841, 5866, 5890]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'seek(MapFileSeekTest)')","[2368, 2389, 2410]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'mutability(TextTest)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'setWritableEmulation(MapWritableTest)')","[1103, 3529]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'FileDecompressorTest')",[2429]
+"('KerberosName.java', 'org.apache.hadoop.security.KerberosName', '<init>', '([^/@]*)(/([^/@]*))?@([^/@]*)', 'peipei')",[4394]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'seekToNonRecordBoundary(SequenceFileSeekAndSyncTest)')","[748, 3425]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'withSupplementaryCharacters(TextTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(GenericWritableTest)')","[1826, 1847, 1868, 3796]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'BytesWritableTest')",[1475]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ArrayWritableTest')","[4713, 4737, 4762, 4786]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(VLongWritableTest)')","[2553, 4024]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(GenericWritableTest)')","[1805, 3776]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'seekToRecordBoundary(SequenceFileSeekAndSyncTest)')","[685, 706, 727, 3404]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSizes(VIntWritableTest)')","[2761, 2782, 2803]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'VIntWritableTest')","[5621, 5645, 5670, 5694]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'setWritableEmulation(MapWritableTest)')","[1124, 1145, 1166]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'TextPairTest')","[4615, 4639, 4664, 4688]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'TextTest')","[4275, 4299, 4324, 4348]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(ObjectWritableTest)')","[1599, 3694]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'IntWritableTest')","[5203, 5227, 5252, 5276]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'string(StringTextComparisonTest)')","[2927, 4168]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'BytesWritableTest')","[4811, 4835, 4860, 4884]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'text(StringTextComparisonTest)')","[2843, 4127]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'syncFromNonRecordBoundary(SequenceFileSeekAndSyncTest)')","[853, 874, 895]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'NullWritableTest')","[5911, 5931, 5952, 5972]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFirstComparator(TextPairTest)')","[1311, 1332, 1353]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'syncAfterLastSyncPoint(SequenceFileSeekAndSyncTest)')","[937, 958, 979]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'MapWritableTest')","[4517, 4541, 4566, 4590]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComparator(TextPairTest)')","[1206, 3550]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'mapWritable(MapWritableTest)')","[1019, 3488]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'seek(MapFileSeekTest)')","[2347, 3962]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'BooleanWritableTest')",[3009]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'decompressesGzippedFile(FileDecompressorTest)')","[2471, 2492, 2513, 4003]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'comparator(IntWritableTest)')","[1992, 3858]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ObjectWritableTest')","[4909, 4933, 4958, 4982]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'MapFileSeekTest')",[2242]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'StringTextComparisonTest')",[2822]

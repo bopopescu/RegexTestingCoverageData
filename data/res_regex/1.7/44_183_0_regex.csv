@@ -1,0 +1,63 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test6(it.nerdammer.seasurf.Std1Test)')","[677, 1223]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)', '/action')","[1251, 2244, 2356, 2412, 2468, 2524]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/my\\E(.*)', '//mypage')",[2020]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Qhttps://www.google.\\E(.*)', 'http://api.google.it')",[2769]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPatternMatch1(it.nerdammer.seasurf.MatchingUtilsTest)')","[202, 824]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'it.nerdammer.seasurf.Std3Test')","[408, 2578]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/azion\\E(.*)', '/action')",[2687]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hexTest1(it.nerdammer.seasurf.TokenManagerTest)')","[368, 971]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPatternMatch2(it.nerdammer.seasurf.MatchingUtilsTest)')","[223, 845]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'it.nerdammer.seasurf.TokenManagerTest')","[326, 2216]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/action\\E', '/action')","[2632, 2715]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(it.nerdammer.seasurf.Std2Test)')","[57, 698]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'it.nerdammer.seasurf.ConfigLoaderTest')","[511, 2604]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)\\Qe\\E(.*)(.*)\\Qg\\E(.*)', '/mypage')","[1756, 1924]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)', '/aaa')","[1363, 1419, 1475, 1531]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/mypAge\\E', '//mypage')",[2164]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test3(it.nerdammer.seasurf.Std1Test)')","[614, 1160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)', '/ciccia')","[1307, 2300]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'tokenManager1(it.nerdammer.seasurf.TokenManagerTest)')","[347, 950]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/action\\E', '/azionista')","[2797, 2880, 2963, 2991]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Qhttp://www.google.\\E(.*)', 'http://www.google.it')",[2659]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/azion\\E(.*)', '/azionista')","[2825, 2908, 3019]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(it.nerdammer.seasurf.Std2Test)')","[78, 719]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMethodMatch1(it.nerdammer.seasurf.MatchingUtilsTest)')","[265, 887]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/my\\E', '//mypage')",[2116]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'it.nerdammer.seasurf.Std1Test')","[551, 3041]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRequestMatch1(it.nerdammer.seasurf.MatchingUtilsTest)')","[160, 782]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoader1(it.nerdammer.seasurf.ConfigLoaderTest)')","[532, 1097]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(it.nerdammer.seasurf.Std3Test)')","[429, 1013]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/my\\E(.*)', '/mypage')","[1684, 1852]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/mypage\\E', '//mypage')",[2140]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)(.*)(.*)\\Qy\\E(.*)', '/mypage')","[1708, 1876]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Qwww.nerdammer.it\\E', 'www.nerdammer.it')",[2852]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hexTest2(it.nerdammer.seasurf.TokenManagerTest)')","[389, 992]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/mypage\\E', '/mypage')","[1610, 1635, 1804, 1972]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'it.nerdammer.seasurf.Std2Test')","[36, 1585]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test4(it.nerdammer.seasurf.Std1Test)')","[635, 1181]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(it.nerdammer.seasurf.Std1Test)')","[593, 1139]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/ciccia\\E', '/ciccia')","[1335, 2328]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRequestMatch2(it.nerdammer.seasurf.MatchingUtilsTest)')","[181, 803]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/my\\E', '/mypage')","[1780, 1948]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)(.*)\\Qm\\E(.*)\\Qy\\E(.*)', '/mypage')","[1732, 1900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPatternMatch3(it.nerdammer.seasurf.MatchingUtilsTest)')","[244, 866]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test3(it.nerdammer.seasurf.Std3Test)')","[471, 1055]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMethodMatch3(it.nerdammer.seasurf.MatchingUtilsTest)')","[307, 929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test4(it.nerdammer.seasurf.Std2Test)')","[120, 761]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(it.nerdammer.seasurf.Std1Test)')","[572, 1118]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Qhttp://www.google.\\E(.*)', 'http://api.google.it')",[2742]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/ciccia\\E', '/aaa')","[1391, 1447, 1503, 1559]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'it.nerdammer.seasurf.MatchingUtilsTest')","[139, 2190]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)\\Qe\\E(.*)(.*)\\Qg\\E(.*)', '//mypage')",[2092]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Qwww.nerdammer.it\\E', 'www.google.it')",[2935]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test4(it.nerdammer.seasurf.Std3Test)')","[492, 1076]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(it.nerdammer.seasurf.Std3Test)')","[450, 1034]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test5(it.nerdammer.seasurf.Std1Test)')","[656, 1202]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/myp\\E(.*)\\Qge\\E', '/mypage')",[1660]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMethodMatch2(it.nerdammer.seasurf.MatchingUtilsTest)')","[286, 908]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)(.*)\\Qm\\E(.*)\\Qy\\E(.*)', '//mypage')",[2068]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/mypAge\\E', '/mypage')","[1828, 1996]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test3(it.nerdammer.seasurf.Std2Test)')","[99, 740]"
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/\\E(.*)(.*)(.*)\\Qy\\E(.*)', '//mypage')",[2044]
+"('MatchingUtils.java', 'it.nerdammer.seasurf.MatchingUtils', 'stringMatches', '\\Q/ciccia\\E', '/action')","[1279, 2272, 2384, 2440, 2496, 2552]"

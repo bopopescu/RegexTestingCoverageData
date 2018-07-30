@@ -1,0 +1,33 @@
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[288, 739, 1249, 1753, 2257, 2761, 3212, 3725, 4238, 4751, 5261]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[176, 625, 1137, 1641, 2145, 2649, 3098, 3611, 4124, 4637, 5149]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[400, 853, 1361, 1865, 2369, 2873, 3326, 3839, 4352, 4865, 5373]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PostData.class')",[4067]
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;=+/?"")","[6271, 6337]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""=&-_.!~*'()@:$,;/?:"")","[5876, 5938]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Constant.class')",[3554]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q448_450\\E', '448_450')","[344, 796, 1305, 1809, 2313, 2817, 3269, 3782, 4295, 4808, 5317]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qgc\\E', 'gc')","[568, 1024, 1529, 2033, 2537, 3041, 3497, 4010, 4523, 5036, 5541]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[232, 682, 1193, 1697, 2201, 2705, 3155, 3668, 4181, 4694, 5205]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'springgoogleanalytics')",[1585]
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', '-_.*')","[6005, 6071]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$,;/?:"")","[6537, 6603]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEventTracking(org.gc.springgoogleanalytics.PostDataTest)')","[78, 120]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HomeController.class')",[2593]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.gc.springgoogleanalytics.PostDataTest')","[36, 6675]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;="")","[6138, 6204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExceptionTracking(org.gc.springgoogleanalytics.PostDataTest)')","[57, 99]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qapi\\E', 'exception')",[5651]
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'():$&,;="")","[6404, 6470]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qapi\\E', 'callback')",[5759]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qorg\\E', 'org')","[512, 967, 1473, 1977, 2481, 2985, 3440, 3953, 4466, 4979, 5485]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'googleAnalytics')",[5597]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PostDataTest.class')",[1081]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[456, 910, 1417]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TrackingIDValidator.class')",[4580]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qapi\\E', 'event')",[5813]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthHelper.class')",[5093]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[1921, 2425, 2929, 3383, 3896, 4409, 4922, 5429]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qapi\\E', 'auth')",[5705]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GoogleController.class')",[2089]
+"('TrackingIDValidator.java', 'org.gc.googleAnalytics.TrackingIDValidator', 'validate', '([U][A])[-]([0-9]{5,7})[-]([0-9]{1,2})/?', '<insert here TRACKING ID>')","[6628, 6653]"

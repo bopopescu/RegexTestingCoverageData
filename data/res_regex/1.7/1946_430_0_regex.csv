@@ -1,0 +1,16 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.expedia.weather.service.WeatherServiceImplTest')","[166, 977]"
+"('WeatherValidator.java', 'com.expedia.weather.web.WeatherValidator', 'validate', '\\d{5}', 'abcde')",[847]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[507]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetWeatherByZipCode(com.expedia.weather.delegate.WundergroundDelegateTest)')","[59, 210]"
+"('WeatherValidator.java', 'com.expedia.weather.web.WeatherValidator', 'validate', '\\d{5}', '12345')",[900]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testfindWeatherByZipCode(com.expedia.weather.service.WeatherServiceImplTest)')","[189, 294]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'api.wunderground.com')","[565, 681]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.expedia.weather.web.WeatherValidatorTest')","[101, 955]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetWeatherByZipCode_ZipCodeNotFound(com.expedia.weather.delegate.WundergroundDelegateTest)')","[82, 231]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.expedia.weather.delegate.WundergroundDelegateTest')","[36, 794]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'api.wunderground.com')","[623, 739]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidateZipCode_Fail(com.expedia.weather.web.WeatherValidatorTest)')","[124, 252]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[365]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[436]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidateZipCode_Pass(com.expedia.weather.web.WeatherValidatorTest)')","[147, 273]"

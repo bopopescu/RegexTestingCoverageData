@@ -1,0 +1,6 @@
+"('MailboxQuery.java', 'com.hs.mail.imap.mailbox.MailboxQuery', 'match', '\\Qthis.\\E[^\\.]*\\Q.\\E[^\\.]*\\Q.\\E[^\\.]*\\Q.h\\E.*', 'this.is.a.mailbox.hierarchy')",[31]
+"('MailboxQuery.java', 'com.hs.mail.imap.mailbox.MailboxQuery', 'match', '\\Q#news.comp.mail.\\E.*', '#news.comp.mail.imap')",[93]
+"('MailboxQuery.java', 'com.hs.mail.imap.mailbox.MailboxQuery', 'match', '\\Qthis.\\E[^\\.]*\\Q.\\E[^\\.]*\\Q.\\E[^\\.]*\\Q.h\\E.*', 'this.hierarchy')",[62]
+"('MailboxQuery.java', 'com.hs.mail.imap.mailbox.MailboxQuery', 'match', '\\Q#news.comp.mail.\\E.*', '#news.comp.mail.imap.protocol')",[124]
+"('MailboxQuery.java', 'com.hs.mail.imap.mailbox.MailboxQuery', 'match', '\\Q#news.comp.mail.\\E.*', '#news.comp.wiki.user')",[155]
+"('MailboxQuery.java', 'com.hs.mail.imap.mailbox.MailboxQuery', 'match', '.*', 'INBOX')",[190]

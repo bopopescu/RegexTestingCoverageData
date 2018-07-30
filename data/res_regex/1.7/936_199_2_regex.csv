@@ -1,0 +1,35 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReflectionException(com.sirma.itt.javacourse.designpatterns.abstractfactory.AbstractFactoryTest)')","[242, 637]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAfter(com.sirma.itt.javacourse.designpatterns.proxy.ProxyTest)')","[139, 553]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.designpatterns.proxy.ProxyTest')","[118, 878]"
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '2.5')",[1008]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAcquire(com.sirma.itt.javacourse.designpatterns.objectpool.PoolTest)')","[385, 742]"
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '6.33')","[929, 1032, 1180]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAquireSampleResoource(com.sirma.itt.javacourse.designpatterns.objectpool.PoolTest)')","[469, 826]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testContent(com.sirma.itt.javacourse.designpatterns.mail.MailTest)')","[78, 511]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.designpatterns.objectpool.PoolTest')","[364, 1476]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSize(com.sirma.itt.javacourse.designpatterns.abstractfactory.AbstractFactoryTest)')","[221, 616]"
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '5')","[981, 1082, 1156, 1258]"
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '9/3*2')",[1312]
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '2')","[1108, 1286, 1428]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSize(com.sirma.itt.javacourse.designpatterns.objectpool.PoolTest)')","[406, 763]"
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '5^2.5')",[954]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEmptyPool(com.sirma.itt.javacourse.designpatterns.objectpool.PoolTest)')","[448, 805]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNoResources(com.sirma.itt.javacourse.designpatterns.objectpool.PoolTest)')","[427, 784]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.designpatterns.abstractfactory.AbstractFactoryTest')","[158, 904]"
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '9/3')",[1340]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFloatPower(com.sirma.itt.javacourse.designpatterns.calculator.CalculatorTest)')","[282, 658]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSubject(com.sirma.itt.javacourse.designpatterns.mail.MailTest)')","[99, 532]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShape(com.sirma.itt.javacourse.designpatterns.abstractfactory.AbstractFactoryTest)')","[200, 595]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.designpatterns.mail.MailTest')","[36, 852]"
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '9')",[1370]
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '6')",[1132]
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '5^2-9/3*2')",[1204]
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '3')",[1400]
+"('Calculator.java', 'com.sirma.itt.javacourse.designpatterns.calculator.Calculator', 'subCalculus', '(.*)\\+(.*)||(.*)\\-(.*)||(.*)\\*(.*)||(.*)\\/(.*)||(.*)\\^(.*)', '5^2')","[1056, 1230]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReflection(com.sirma.itt.javacourse.designpatterns.abstractfactory.AbstractFactoryTest)')","[179, 574]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDestination(com.sirma.itt.javacourse.designpatterns.mail.MailTest)')","[57, 490]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.designpatterns.calculator.CalculatorTest')","[261, 1454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAllOperations(com.sirma.itt.javacourse.designpatterns.calculator.CalculatorTest)')","[345, 721]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTwoIntegers(com.sirma.itt.javacourse.designpatterns.calculator.CalculatorTest)')","[324, 700]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTwoOperations(com.sirma.itt.javacourse.designpatterns.calculator.CalculatorTest)')","[303, 679]"

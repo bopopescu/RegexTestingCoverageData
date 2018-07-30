@@ -1,0 +1,8 @@
+"('PercentEscaper.java', 'com.google.gdata.util.common.base.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;=[]/"")","[113, 146]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', '/**/*.ico')",[286]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', '/**/*.ico')",[250]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'exclude')",[214]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'exclude')",[180]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.uberfire.security.server.URLResourceManagerTest)')","[57, 79]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.uberfire.security.server.URLResourceManagerTest')","[36, 309]"

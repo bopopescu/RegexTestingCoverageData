@@ -1,0 +1,2 @@
+"('MailCommand.java', 'com.icegreen.greenmail.smtp.commands.MailCommand', 'execute', 'MAIL FROM:\\s?<(.*)>', 'MAIL FROM:<mimousewu@sina.com>')",[6]
+"('RcptCommand.java', 'com.icegreen.greenmail.smtp.commands.RcptCommand', 'execute', 'RCPT TO:\\s?<([^>]+)>', 'RCPT TO:<mimousewu@sina.com>')",[12]

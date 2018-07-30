@@ -1,0 +1,6 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('TemplatedUrl.java', 'fr.vidal.oss.jax_rs_linker.model.TemplatedUrl', 'validateParamValue', '[a-cA-C]+', 'aBc')",[174]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fr.vidal.oss.jax_rs_linker.it.BrandResourceLinkerTest')","[36, 197]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'no_exception_is_thrown_when_argument_matches_regex(fr.vidal.oss.jax_rs_linker.it.BrandResourceLinkerTest)')","[78, 122]"
+"('TemplatedUrl.java', 'fr.vidal.oss.jax_rs_linker.model.TemplatedUrl', 'validateParamValue', '[a-cA-C]+', 'aBD2')",[148]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'illegal_argument_exception_is_thrown_when_regex_is_not_matched(fr.vidal.oss.jax_rs_linker.it.BrandResourceLinkerTest)')","[57, 100]"

@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.st.nicobot.bot.behavior.BackwardsSpeakingTest')","[118, 277]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'retrieveCongratulationMessage_should_return_congratHGT_if_there_is_more_than_one_greeters(com.st.nicobot.job.task.HappyGeekTimeTaskTest)')","[57, 161]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'buildMessageWithNames_should_return_noHGT_if_names_is_null(com.st.nicobot.job.task.HappyGeekTimeTaskTest)')","[78, 183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.st.nicobot.job.task.HappyGeekTimeTaskTest')","[36, 254]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'retrieveCongratulationMessage_should_return_congratSoloHGT_if_there_is_no_more_than_one_greeters(com.st.nicobot.job.task.HappyGeekTimeTaskTest)')","[99, 205]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReverseMessage(com.st.nicobot.bot.behavior.BackwardsSpeakingTest)')","[139, 227]"

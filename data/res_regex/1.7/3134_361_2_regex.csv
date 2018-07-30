@@ -1,0 +1,34 @@
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariable', '.*(\\$\\{(.*)\\}).*', '${var2} ${var3}')","[865, 977, 1195, 1303, 1631]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', '${var1}')","[645, 1411]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'dk.deck.maven.model.MavenVersionTest')","[36, 543]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', '${var2} ${var3}')","[699, 781, 1114, 1465, 1547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetVariables(dk.deck.maven.util.VariableUtilTest)')","[286, 517]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReplaceVariables_String_Map(dk.deck.maven.util.VariableUtilTest)')","[265, 496]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', 'Test line with ${var1} variables ${var2}')",[1901]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse102(dk.deck.maven.model.MavenVersionTest)')","[162, 412]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariable', '.*(\\$\\{(.*)\\}).*', 'This is a line containing ${var} and another variable ${var2}')",[568]
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', 'Test line with ')",[1951]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReplaceVariable(dk.deck.maven.util.VariableUtilTest)')","[202, 433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReplaceVariables_Map_StackOverflow(dk.deck.maven.util.VariableUtilTest)')","[244, 475]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariables', '.*(\\$\\{(.*)\\}).*', 'Test line with ')",[1876]
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', '! ${var4}')","[1715, 1772]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', 'Test line with ${var1} variables ')",[1926]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'dk.deck.maven.util.VariableUtilTest')","[181, 1973]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariables', '.*(\\$\\{(.*)\\}).*', 'Test line with ${var1} variables ')",[1851]
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', '')","[672, 753, 837, 1168, 1438, 1519, 1603]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', '! ')","[1743, 1801]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReplaceVariables_Map(dk.deck.maven.util.VariableUtilTest)')","[223, 454]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariable', '.*(\\$\\{(.*)\\}).*', '')","[921, 1033, 1087, 1249, 1357, 1687]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariable', '.*(\\$\\{(.*)\\}).*', 'This is a line containing ${var} and another variable ')",[593]
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariable', '.*(\\$\\{(.*)\\}).*', '${var1}')",[1060]
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariable', '.*(\\$\\{(.*)\\}).*', 'This is a line containing ')",[618]
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariable', '.*(\\$\\{(.*)\\}).*', '${var2} ')","[893, 1005, 1222, 1330, 1659]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'replaceVariables', '.*(\\$\\{(.*)\\}).*', 'Test line with ${var1} variables ${var2}')",[1826]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse102SNAPSHOT(dk.deck.maven.model.MavenVersionTest)')","[120, 370]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', '!')","[949, 1276, 1384]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToString(dk.deck.maven.model.MavenVersionTest)')","[99, 349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse11m1(dk.deck.maven.model.MavenVersionTest)')","[78, 328]"
+"('VariableUtil.java', 'dk.deck.maven.util.VariableUtil', 'getVariables', '.*(\\$\\{(.*)\\}).*', '${var2} ')","[726, 809, 1141, 1492, 1575]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse1(dk.deck.maven.model.MavenVersionTest)')","[141, 391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testComparator(dk.deck.maven.model.MavenVersionTest)')","[57, 307]"

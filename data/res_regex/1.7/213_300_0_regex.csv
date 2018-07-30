@@ -1,0 +1,18 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBatchRecognize(org.thinkit.decoder.TestFixedAudioSearch)')","[263, 529]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.thinkit.hbaseT.TestHbaseSound')",[76]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetOneRecord(org.thinkit.hbaseT.TestHbaseSound)')","[118, 403]"
+"('ClassSize.java', 'org.apache.hadoop.hbase.util.ClassSize', '<clinit>', '\\d\\.\\d\\..*', '1.7.0_80')","[665, 702]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWritelocalValByte(org.thinkit.hbaseT.TestHbaseExtend)')","[57, 361]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.thinkit.hbaseT.TestHbaseExtend')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDelRecord(org.thinkit.hbaseT.TestHbaseSound)')","[160, 445]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddRecord(org.thinkit.hbaseT.TestHbaseSound)')","[202, 487]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.thinkit.AppTest')",[320]
+"('KerberosName.java', 'org.apache.hadoop.security.authentication.util.KerberosName', '<init>', '([^/@]*)(/([^/@]*))?@([^/@]*)', 'pwang7')",[627]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 301]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDeleteTable(org.thinkit.hbaseT.TestHbaseSound)')","[97, 382]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDoRecognize(org.thinkit.decoder.TestFixedAudioSearch)')","[284, 550]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testApp(org.thinkit.AppTest)')","[340, 571]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddAudio(org.thinkit.hbaseT.TestHbaseSound)')","[139, 424]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetAllRecord(org.thinkit.hbaseT.TestHbaseSound)')","[181, 466]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreatTable(org.thinkit.hbaseT.TestHbaseSound)')","[223, 508]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.thinkit.decoder.TestFixedAudioSearch')",[242]

@@ -1,0 +1,1059 @@
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'January')",[7604]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'next Dec')",[10530]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '1981-10-26')",[710]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'tomorrow 5PM')",[26054]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'last Sat')",[20510]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'noon +24 hours')","[41367, 42405, 43401, 44439]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\-( *\\d{1,} +[^ ]+){1,}', 'Sat')","[13624, 20908]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'this evening +24 hours')",[47499]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'now -24 hours')","[28606, 31808]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '17:00:00.000')",[34038]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'evening -24 hours')",[30092]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'noon +24 hours')","[41337, 42369, 43371, 44403]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'this evening')","[34338, 34698, 48085]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+18 months')",[35751]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'next Sat')",[13166]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'Saturday -1 week')",[21932]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1 jan 00')",[51333]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'October 26, 1981 3:27:00 PM')",[24130]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Wednesday')",[9314]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Dec')","[11148, 16896]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'last Dec')",[16098]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Friday')",[8570]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'October 26, 1981 3:27:00 PM')",[24100]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'October')",[6854]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'tomorrow 5PM')",[26234]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'October 26, 1981')","[24368, 49653]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tonight +24 hours')","[3110, 4172]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Sat')","[13828, 21112]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Jan 15 -1 year')",[15684]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'this evening +24 hours')",[47799]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '26 Oct 1981')",[50163]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'next January 15')",[9674]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'December -1 year')",[17516]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'this afternoon +24 hours')",[45735]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'today')",[1730]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Wednesday')",[9494]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Wednesday')",[9194]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tomorrow afternoon')",[46401]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'tonight +24 hours')","[3350, 4460]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'next Sat')",[13406]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'morning +24 hours')",[40875]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'last Dec')",[16218]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tomorrow evening')",[48285]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '26 Oct 1981')",[50103]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '13:00:00.000')",[33378]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Oct')",[7364]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'December')","[7934, 11336, 17712]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'this morning')","[2120, 2480, 39949]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tomorrow afternoon')",[46341]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '11:59 PM')",[23260]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Friday')",[8262]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '12 months 1 day 60 seconds')",[35871]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\-( *\\d{1,} +[^ ]+){1,}', 'Sunday')","[12184, 18698]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'morning +24 hours')",[40371]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', '1981/10/26')",[5864]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'noon +24 hours')","[41847, 42981, 43881, 45015]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'noon +24 hours')","[41577, 42657, 43611, 44691]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\+?( *\\d{1,} +[^ ]+){1,}', 'January 15')","[10106, 15128]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'January')",[7664]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'noon')","[2870, 41983, 43141, 44017, 45175]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'next Dec')",[10320]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1 year 24 hours 1 minute')",[35961]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'morning +24 hours')",[40515]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'December')","[7874, 11276, 17644]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'this morning')","[2150, 2510, 39983]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'last Sat')",[20360]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'January')",[7424]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '10/26/81')","[5384, 25350]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tomorrow morning')",[40269]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'October 26')","[5984, 6224]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'noon tomorrow')",[44337]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'yesterday 5PM')","[27882, 31084]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'now -24 hours')","[29086, 32288]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'yesterday evening')",[29936]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'this morning')","[2030, 2390, 39847]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '10/26')",[6254]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Fri')",[8738]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'evening +24 hours')",[49011]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '5PM')","[25588, 27686, 29740, 32942]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Saturday')","[14366, 22302]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '10/26/81')","[5264, 25214]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'this evening +24 hours')",[47649]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'this evening +24 hours')",[47589]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'next Sunday')",[11756]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tomorrow night')",[3866]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', '10/26/81 5PM')",[25150]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'next Sunday')",[11666]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'evening -24 hours')",[30632]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Sunday')","[12490, 19004]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '10/26/81')","[5354, 25316]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Friday')",[8542]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+52 weeks')",[35271]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'now')","[1280, 27276, 29374, 32576, 36959, 37847, 38993, 51927, 52093, 52265]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tomorrow 5PM')",[25844]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'this afternoon +24 hours')",[45675]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Oct')",[7214]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Oct')",[7154]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Fri')",[9046]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Wednesday')",[9464]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'morning +24 hours')",[40551]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '12:00:00.000')",[2720]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Sun -1 week')",[19662]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '00:00:00.000')",[1550]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Oct 26')",[6104]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+1 hour')",[35136]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Oct')",[7094]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'this evening +24 hours')",[47829]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Oct 26, 1981')",[49713]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', '1981-10-26')",[914]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'next Sunday')",[11816]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tomorrow')","[26366, 36141, 38175]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '10/26/1981')",[5084]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '23:59:59')",[22870]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Oct 26')",[6044]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tomorrow noon')",[42303]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Saturday')","[14516, 22472]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'last Sat')",[20390]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Sun')","[12986, 20160]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'next Sat')",[13196]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Fri')",[8766]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '3:27:00 PM')",[24572]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'next Dec')",[10440]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'evening +24 hours')",[48543]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+1 year')","[35421, 35511]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Jan 15 -1 year')",[15354]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Oct 26, 1981')",[49743]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'last January 15')",[14606]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Saturday')","[14396, 22336]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '10/26/81')","[5324, 25282]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'next Sunday')",[12086]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'now -24 hours')","[28806, 32008]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'October 26, 1981 3:27:00 PM')",[23680]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Sunday')","[12422, 18936]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'December')","[7844, 11246, 17610]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1981-10-26 15:26:03.435')",[60]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+52 weeks')",[35217]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '1 jan 2000')",[51273]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'this morning +24 hours')",[39393]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tomorrow morning')",[40239]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'evening')","[30824, 34488, 49203]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'this evening +24 hours')",[47559]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'next Dec')",[10590]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'now +24 hours')","[26868, 36591, 37539, 38625]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tomorrow 5PM')",[25874]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'now +24 hours')","[26508, 36267, 37269, 38301]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'December')","[8084, 11486, 17882]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '11:59:59 PM')",[22630]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'January')",[7784]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Jan 15')","[10200, 15842]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '12:00:00.000')",[2690]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'this evening +24 hours')",[47859]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Oct 26, 1981')",[49923]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'evening -24 hours')",[30416]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '11:59 PM')",[23320]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'December')","[7994, 11396, 17780]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'October 26')","[5894, 6134]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'evening +24 hours')",[48903]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+12 months')",[35631]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'last Sunday')",[18480]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'October 26, 1981 3:27:00 PM')",[23980]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'last Sat')",[20600]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Wednesday')",[9254]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Friday')",[8290]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'October 26, 1981 3:27:00 PM')",[23890]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'noon +24 hours')","[41457, 42513, 43491, 44547]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '10/26/81 5PM')",[24760]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'noon tomorrow')",[44307]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', '10/26/81 5PM')",[25120]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'evening -24 hours')",[30488]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Friday')",[8486]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'next Sunday')",[12026]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'this afternoon +24 hours')",[45435]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'last Sunday')",[18360]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Sunday')","[12354, 18868]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'evening +24 hours')",[48687]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '-1 year')","[15198, 15944, 17000, 18086]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'morning +24 hours')",[40803]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'this morning +24 hours')",[39423]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'next Sat')",[13286]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1 jan 2000')",[51213]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '10/26/1981')",[5174]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '15:26:03.435')",[1220]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'this morning')","[2180, 2540, 40017]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'this afternoon +24 hours')",[45705]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'last Dec')",[16338]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'October')",[6824]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'now +24 hours')","[26748, 36483, 37449, 38517]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'now +24 hours')","[26588, 36339, 37329, 38373]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Oct')",[7184]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '23:59')",[23170]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'this afternoon')","[33498, 33858, 45949]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '13:00:00.000')",[33318]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'this afternoon +24 hours')",[45495]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'morning +24 hours')",[40479]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '5PM')","[25656, 27754, 29808, 33010]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'evening')","[30944, 34578, 49323]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Oct 26, 1981')",[49893]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '26 oct 1981')",[50583]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Saturday')","[14336, 22268]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '20:00:00.000')",[34812]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '26 oct 81')",[50703]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Jan 15 -1 year')",[15384]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'January')",[7574]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Sun')","[13076, 20262]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tomorrow morning')",[40179]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'Jan 15 -1 year')",[15744]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Saturday')","[14426, 22370]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'now -24 hours')","[28886, 32088]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'noon +24 hours')","[41637, 42729, 43671, 44763]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'now +24 hours')","[26948, 36663, 37599, 38697]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '13:00:00.000')",[33408]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Saturday -1 week')",[21872]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'Saturday -1 week')",[21962]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '26 oct 81')",[50823]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tomorrow afternoon')",[46311]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'this morning +24 hours')",[39783]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Sat')","[13794, 21078]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'next Dec')",[10620]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'now +24 hours')","[26988, 36699, 37629, 38733]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Saturday -1 week')",[21632]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Jan 15 -1 year')",[15564]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Fri')",[9074]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'this morning +24 hours')",[39453]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Sun -1 week')",[19632]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tonight')","[3538, 4684, 35001]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'October')",[6704]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'last Sunday')",[18570]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'next Dec')",[10500]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'now -24 hours')","[29126, 32328]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'morning +24 hours')",[40407]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Saturday -1 week')",[21542]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'morning')","[2210, 40987]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'tonight +24 hours')","[3380, 4496]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'this afternoon +24 hours')",[45825]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'last Sat')",[20660]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '15:26:03.435')",[1186]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'now')","[1340, 27364, 29462, 32664, 37039, 37915, 39073, 51981, 52151, 52321]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '1981/10/26')",[5654]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Dec')","[10978, 16726]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1981-10-26')",[608]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '10/26/81 5PM')",[24850]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '26 oct 81')",[50763]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'afternoon')","[33798, 47249]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'last January 15')",[14936]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'morning +24 hours')",[40947]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'next Sunday')",[12056]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}', 'Sunday')","[12150, 18664]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '23:59')",[23140]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'evening')","[30864, 34518, 49243]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'last Dec')",[16278]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'this morning +24 hours')",[39363]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'December')","[7904, 11306, 17678]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '12:00:00.000')",[2570]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'next Sunday')",[11996]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '15:26:03.435')",[1016]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '-1 hour')",[36021]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '23:59')",[23080]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'next Sat')",[13106]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '15:26:03.435')",[1050]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', '1981-10-26')",[948]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '11:59:59 PM')",[22570]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Oct')",[7034]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Saturday -1 week')",[21752]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '23:59')",[23020]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'tonight +24 hours')","[3140, 4208]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'tonight +24 hours')","[3230, 4316]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'tomorrow 5PM')",[26084]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1 Jan 00')",[51033]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Oct')",[7004]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tomorrow afternoon')",[46371]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'December -1 year')",[17336]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'last January 15')",[14756]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '26 october 1981')",[50493]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'October 26, 1981 3:27:00 PM')",[24040]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'this morning +24 hours')",[39693]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '1 Jan 2000')",[50973]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'evening -24 hours')",[30236]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '1981-10-26 15:26:03.435')",[120]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'this evening +24 hours')",[47889]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Wednesday')",[9224]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'yesterday 5PM')","[28092, 31294]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'yesterday 5PM')","[28152, 31354]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'next Sat')",[13316]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tonight +24 hours')","[3080, 4136]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\-( *\\d{1,} +[^ ]+){1,}', 'January 15')","[10072, 15094]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'next Dec')",[10560]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'next Sat')",[13256]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', '1981/10/26')",[5774]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'now -24 hours')","[29206, 32408]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'last Sunday')",[18270]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Oct')",[7244]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'this morning')","[2090, 2450, 39915]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '23:59:00.123')",[23500]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'January')",[7814]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1981/10/26')",[5534]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1 Jan 00')",[51063]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Jan 15 -1 year')",[15594]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '23:59')",[23050]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Dec')","[11216, 16964]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '10/26')",[6344]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', '1981-10-26 15:26:03.435')",[240]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tomorrow afternoon')",[46251]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '15:26:03.435')",[1084]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'morning')","[2240, 41027]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Jan 15')","[10260, 15910]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', '1981-10-26 15:26:03.435')",[330]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '26 oct 1981')",[50673]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'January')",[7514]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tomorrow morning')",[40299]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '11:59:59 PM')",[22750]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '-1 week')","[19176, 20296, 21386, 22506]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'yesterday')","[28464, 31666]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'morning +24 hours')",[40587]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'this afternoon')","[33528, 33888, 45983]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Sun')","[12926, 20092]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'December -1 year')",[17366]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'afternoon')","[33768, 47209]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '10/26')",[6374]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'next Sunday')",[11936]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'noon tomorrow')",[44247]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'last January 15')",[14816]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Sat')","[13998, 21282]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tomorrow morning')",[40209]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'noon')","[2840, 41949, 43101, 43983, 45135]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'noon +24 hours')","[41727, 42837, 43761, 44871]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'last Sunday')",[18240]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Dec')","[11012, 16760]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '3:27:00 PM')",[24640]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'evening +24 hours')",[48795]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'last Sat')",[20540]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Fri')",[9018]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '26 Oct 1981')",[50193]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '20:00:00.000')",[34947]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1981/10/26')",[5594]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '1 jan 00')",[51393]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'tomorrow 5PM')",[26264]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Saturday')","[14126, 22030]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', '10/26/81')","[5504, 25486]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Oct')",[7274]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '13:00:00.000')",[33288]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'tomorrow 5PM')",[25994]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'last Sunday')",[18540]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '10/26/81 5PM')",[24820]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tomorrow evening')",[48315]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '5PM')","[25622, 27720, 29774, 32976]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'yesterday 5PM')","[28362, 31564]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'afternoon +24 hours')",[46941]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Sun -1 week')",[19452]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'yesterday')","[28498, 31700]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '-24 hours')","[29638, 31024, 32840]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '00:00:00.000')",[1460]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'yesterday 5PM')","[28032, 31234]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Friday')",[8374]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'afternoon +24 hours')",[46725]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'December')","[8204, 11606, 18018]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'last Sunday')",[18630]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Jan 15 -1 year')",[15534]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'Sun -1 week')",[19752]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'December')","[8024, 11426, 17814]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '([a-z]+) +(\\d{1,2})', 'January 15')","[10140, 15162]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'last Sat')",[20480]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'January')",[7724]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '([a-z]+) +(\\d{1,2})', 'Sat')","[13692, 20976]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '07:00:00.000')",[1940]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Saturday -1 week')",[21812]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'morning +24 hours')",[40839]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Sun -1 week')",[19422]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'morning +24 hours')",[40731]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '1981-10-26')",[744]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1981/10/26')",[5564]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Jan 15 -1 year')",[15504]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Sun -1 week')",[19332]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'next Sunday')",[11966]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'yesterday 5PM')","[28242, 31444]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'now +24 hours')","[27108, 36807, 37719, 38841]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Saturday')","[14276, 22200]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'evening -24 hours')",[30560]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'evening -24 hours')",[30308]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Saturday')","[14456, 22404]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'this afternoon +24 hours')",[45615]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Jan 15 -1 year')",[15414]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'this morning +24 hours')",[39633]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'October 26, 1981 3:27:00 PM')",[23620]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Sun')","[12686, 19820]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'December -1 year')",[17576]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tomorrow 5PM')",[25784]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'evening')","[30744, 34428, 49123]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Fri')",[8822]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+1 year')","[35391, 35481]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '11:59:59 PM')",[22720]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'this evening +24 hours')",[47769]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'this afternoon')","[33558, 33918, 46017]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Wednesday')",[9344]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '23:59:00.123')",[23530]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'evening +24 hours')",[48939]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '10/26/81 5PM')",[24700]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '17:00:00.000')",[34158]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Dec')","[10910, 16658]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'noon tomorrow')",[44277]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Wednesday')",[9374]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'last Sat')",[20810]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Saturday')","[14306, 22234]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'last Sat')",[20450]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', '1981-10-26')",[812]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'October')",[6884]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'tonight +24 hours')","[3440, 4568]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', '10/26/81 5PM')",[24910]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', '10/26/1981')",[5204]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tomorrow 5PM')",[25904]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tomorrow')","[26434, 36201, 38235]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1 Jan 00')",[51003]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'October 26, 1981 3:27:00 PM')",[23920]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Sunday')","[12388, 18902]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'yesterday')","[28396, 31598]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '11:59:59 PM')",[22600]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'October')",[6794]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '07:00:00.000')",[1850]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Fri')",[8794]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'noon +24 hours')","[41547, 42621, 43581, 44655]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'last January 15')",[15026]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'this morning +24 hours')",[39663]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'next January 15')",[9584]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Sun -1 week')",[19542]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1 jan 00')",[51303]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'this evening')","[34278, 34638, 48017]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Jan 15')","[10230, 15876]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Sunday')","[12626, 19140]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', '10/26')",[6464]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'this afternoon +24 hours')",[45555]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tonight')","[3674, 4844, 35109]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Jan 15 -1 year')",[15624]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'yesterday evening')",[30056]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Dec')","[10842, 16590]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'this evening')","[34368, 34728, 48119]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '26 Oct 81')",[50313]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'noon +24 hours')","[41697, 42801, 43731, 44835]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'today')",[1700]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Oct')",[7064]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'afternoon +24 hours')",[46617]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'noon +24 hours')","[41517, 42585, 43551, 44619]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'evening +24 hours')",[48471]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tomorrow')","[26332, 36111, 38145]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'noon +24 hours')","[41427, 42477, 43461, 44511]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tomorrow')","[26298, 36081, 38115]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Friday')",[8318]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tomorrow noon')",[42333]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '5PM')","[25690, 27788, 29842, 33044]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'yesterday evening')",[29906]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'yesterday 5PM')","[28122, 31324]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tomorrow night')",[3956]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'now')","[1370, 27408, 29506, 32708, 37079, 37949, 39113, 52008, 52180, 52349]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', '1981-10-26')",[880]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Dec')","[11114, 16862]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', '1981-10-26')",[982]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Sun')","[12836, 19990]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'tonight +24 hours')","[3290, 4388]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'tomorrow 5PM')",[26024]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'October 26, 1981 3:27:00 PM')",[23800]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Wednesday')",[9434]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'last Dec')",[16038]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'noon +24 hours')","[41487, 42549, 43521, 44583]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '00:00:00.000')",[1490]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'this afternoon')","[33588, 33948, 46051]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'this evening +24 hours')",[47679]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tonight')","[3640, 4804, 35082]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '-1 year')","[15234, 15978, 17036, 18120]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'this evening +24 hours')",[47949]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '10/26/81 5PM')",[24670]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'tonight +24 hours')","[3170, 4244]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '07:00:00.000')",[1880]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tomorrow night')",[3926]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'next Sunday')",[11906]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Friday')",[8598]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Sunday')","[12558, 19072]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'noon +24 hours')","[41757, 42873, 43791, 44907]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'last Sat')",[20840]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'next Sat')",[13466]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'afternoon +24 hours')",[46509]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'morning')","[2270, 41067]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'this afternoon +24 hours')",[45405]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Saturday')","[14156, 22064]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'afternoon +24 hours')",[46545]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Sat')","[13760, 21044]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'tonight +24 hours')","[3410, 4532]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'last Sat')",[20720]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '26 Oct 81')",[50343]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Sunday')","[12456, 18970]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'now +24 hours')","[26668, 36411, 37389, 38445]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '00:00:00.000')",[1430]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'last Dec')",[16158]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Sun')","[12896, 20058]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'noon tomorrow')",[44367]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '11:59 PM')",[23350]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'afternoon +24 hours')",[46905]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'noon')","[2810, 41915, 43061, 43949, 45095]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tomorrow')","[26468, 36231, 38265]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'next January 15')",[9554]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tomorrow morning')",[40149]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Saturday -1 week')",[21662]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'evening +24 hours')",[48615]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '12:00:00.000')",[2630]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Dec')","[11182, 16930]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'next Dec')",[10650]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'noon +24 hours')","[41787, 42909, 43821, 44943]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '10/26')",[6404]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'next Dec')",[10470]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '1 Jan 00')",[51123]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Jan 15 -1 year')",[15264]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'morning')","[2360, 41187]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'afternoon +24 hours')",[46689]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'next January 15')",[9704]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'yesterday 5PM')","[28272, 31474]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '07:00:00.000')",[1970]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Oct 26')",[6074]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'now +24 hours')","[26548, 36303, 37299, 38337]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'October 26, 1981')","[24402, 49683]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'yesterday 5PM')","[28302, 31504]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'noon +24 hours')","[41817, 42945, 43851, 44979]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Oct 26, 1981')",[49803]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'afternoon +24 hours')",[47049]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\-( *\\d{1,} +[^ ]+){1,}', 'Dec')","[10808, 16556]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Sat')","[13862, 21146]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'evening -24 hours')",[30128]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Fri')",[8682]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '26 Oct 1981')",[50223]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'now -24 hours')","[29046, 32248]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1981-10-26')",[574]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Fri')",[8878]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'October 26, 1981 3:27:00 PM')",[24010]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'December -1 year')",[17306]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Oct')",[7334]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Friday')",[8654]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tomorrow 5PM')",[25754]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '12:00:00.000')",[2600]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', '1981-10-26 15:26:03.435')",[450]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '20:00:00.000')",[34866]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'next January 15')",[9614]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'this evening +24 hours')",[47739]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'last Sat')",[20570]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'last Dec')",[16188]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'next Dec')",[10710]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'October')",[6974]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tomorrow noon')",[42183]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '([a-z]+) +(\\d{1,2})', 'Dec')","[10876, 16624]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'next Sat')",[13436]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'now -24 hours')","[28766, 31968]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', '10/26/81 5PM')",[25030]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Fri')",[8962]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '26 oct 1981')",[50643]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'next Sat')",[13136]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'morning +24 hours')",[40659]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '1 Jan 00')",[51093]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'evening +24 hours')",[48831]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Sun')","[12806, 19956]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'last Dec')",[16248]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Wednesday')",[9284]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tonight')","[3572, 4724, 35028]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '3:27:00 PM')",[24436]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '13:00:00.000')",[33468]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'today')",[1640]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'noon +24 hours')","[41397, 42441, 43431, 44475]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}', 'January 15')","[10038, 15060]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'last Sunday')",[18510]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '5PM')","[25554, 27652, 29706, 32908]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '26 Oct 1981')",[50133]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'October')",[6734]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'now -24 hours')","[29006, 32208]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'afternoon +24 hours')",[46761]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'this morning +24 hours')",[39333]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'evening -24 hours')",[30668]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '-24 hours')","[29594, 30984, 32796]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'this afternoon +24 hours')",[45855]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'next January 15')",[9914]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Saturday -1 week')",[21602]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'noon')","[2780, 41881, 43021, 43915, 45055]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'last Dec')",[16068]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '26 oct 81')",[50733]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'afternoon +24 hours')",[47013]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Jan 15 -1 year')",[15444]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1 year 24 hours 1 minute')",[35931]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'next Dec')",[10290]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Sun -1 week')",[19482]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Friday')",[8346]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Saturday')","[14246, 22166]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'this morning +24 hours')",[39753]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'last January 15')",[14966]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1 jan 00')",[51363]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'evening -24 hours')",[30200]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'next January 15')",[9764]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '00:00:00.000')",[1580]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Sun -1 week')",[19242]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '13:00:00.000')",[33348]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Sat')","[13964, 21248]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Saturday -1 week')",[21722]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'October 26, 1981')","[24334, 49623]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'yesterday 5PM')","[28332, 31534]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'last Sat')",[20420]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '10/26')",[6284]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'last Sat')",[20780]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1 jan 2000')",[51183]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'now -24 hours')","[28966, 32168]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Saturday')","[14096, 21996]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tonight')","[3504, 4644, 34974]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'noon +24 hours')","[41607, 42693, 43641, 44727]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '23:59:00.123')",[23590]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'yesterday 5PM')","[27852, 31054]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Saturday')","[14216, 22132]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'last Sunday')",[18450]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Oct 26')",[6014]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tomorrow noon')",[42243]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'next January 15')",[9974]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'January')",[7544]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '23:59')",[22990]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Sun')","[13016, 20194]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'tonight +24 hours')","[3260, 4352]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '1981-10-26')",[778]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'tomorrow evening')",[48435]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}', 'Dec')","[10774, 16522]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'tomorrow 5PM')",[26114]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Wednesday')",[9404]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'last January 15')",[14726]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '20:00:00.000')",[34785]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'this evening +24 hours')",[47919]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'last Dec')",[16008]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '26 oct 1981')",[50553]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tomorrow evening')",[48345]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'next Sunday')",[11846]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+12 months')",[35601]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'evening +24 hours')",[48759]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '26 oct 1981')",[50613]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Friday')",[8514]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tonight +24 hours')","[3050, 4100]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'this evening +24 hours')",[47619]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'December -1 year')",[17156]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1 year')",[35331]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Wednesday')",[9134]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'October 26, 1981 3:27:00 PM')",[23860]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '1981/10/26')",[5684]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Sun -1 week')",[19302]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}', 'Sat')","[13590, 20874]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'last Sat')",[20630]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tonight +24 hours')","[2990, 4028]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'last Sunday')",[18150]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '1 Jan 2000')",[50943]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+1 s')",[33258]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'next Dec')",[10380]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'this morning +24 hours')",[39603]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'afternoon +24 hours')",[46869]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'afternoon +24 hours')",[46653]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '10/26/81 5PM')",[24730]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '07:00:00.000')",[1820]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'yesterday 5PM')","[28182, 31384]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'this afternoon +24 hours')",[45465]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1981-10-26')",[642]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '23:59:00.123')",[23560]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'afternoon +24 hours')",[46977]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tomorrow 5PM')",[25814]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Sat')","[13896, 21180]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Saturday -1 week')",[21782]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '11:59:59 PM')",[22690]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'afternoon')","[33828, 47289]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'December')","[8174, 11576, 17984]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Saturday -1 week')",[21482]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Oct 26, 1981')",[49773]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'noon +24 hours')","[41667, 42765, 43701, 44799]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '00:00:00.000')",[1520]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1 jan 2000')",[51153]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'January')",[7694]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '26 Oct 81')",[50283]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'evening +24 hours')",[48975]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+18 months')",[35781]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '1981/10/26')",[5624]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'December')","[8054, 11456, 17848]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '23:59:00.123')",[23410]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', '10/26')",[6524]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '17:00:00.000')",[34068]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '3:27:00 PM')",[24504]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'afternoon')","[33678, 47089]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'yesterday evening')",[29966]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'yesterday')","[28566, 31768]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'tonight +24 hours')","[3470, 4604]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Friday')",[8458]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Friday')",[8402]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'evening')","[30784, 34458, 49163]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Sunday')","[12320, 18834]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '10/26/1981')",[5144]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'last January 15')",[14636]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Sun')","[12656, 19786]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'this afternoon +24 hours')",[45885]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'today')",[1790]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'morning')","[2330, 41147]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '26 October 1981')","[50043, 51543, 51693, 51843]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1981-10-26 15:26:03.435')",[90]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'last January 15')",[14576]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'last Dec')",[16368]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'tomorrow 5PM')",[26204]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Fri')",[8710]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '11:59:59 PM')",[22660]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'now +24 hours')","[27068, 36771, 37689, 38805]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'next January 15')",[9824]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'last January 15')",[14846]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'afternoon +24 hours')",[46833]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'this evening +24 hours')",[47469]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'December -1 year')",[17546]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'now +24 hours')","[27188, 36879, 37779, 38913]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '15:26:03.435')",[1118]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'next Sunday')",[11876]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'now')","[1400, 27452, 29550, 32752, 37119, 37983, 39153, 52035, 52209, 52377]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'December -1 year')",[17456]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'December -1 year')",[17426]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'last Sunday')",[18330]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'last Sat')",[20750]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+24 hours')","[3776, 4964, 27584, 37239, 38085, 39273, 40119, 41307, 42153, 43341, 44187, 45375, 46221, 47409, 48255, 49443]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'now -24 hours')","[28926, 32128]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'evening -24 hours')",[30452]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Dec')","[11046, 16794]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'evening -24 hours')",[30380]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'this morning +24 hours')",[39483]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '12 months 1 day 60 seconds')",[35841]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'this morning +24 hours')",[39723]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'January')",[7634]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tomorrow evening')",[48375]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+52 weeks')",[35244]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'next January 15')",[9944]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'December')","[8114, 11516, 17916]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'next January 15')",[9644]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', '1981-10-26 15:26:03.435')",[390]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'yesterday')","[28430, 31632]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'next January 15')",[10004]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Jan 15 -1 year')",[15654]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', '1981-10-26 15:26:03.435')",[420]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Saturday -1 week')",[21692]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '1981-10-26 15:26:03.435')",[210]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'December -1 year')",[17396]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'January')",[7754]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Oct 26, 1981')",[49833]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Sun -1 week')",[19512]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'Jan 15 -1 year')",[15774]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'December')","[8144, 11546, 17950]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Dec')","[11080, 16828]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'noon')","[2930, 42051, 43221, 44085, 45255]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'evening -24 hours')",[30164]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'now')","[1250, 27232, 29330, 32532, 36919, 37813, 38953, 51900, 52064, 52237]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', '1981-10-26 15:26:03.435')",[540]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'December -1 year')",[17126]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'today')",[1670]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'now +24 hours')","[27148, 36843, 37749, 38877]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'this morning +24 hours')",[39813]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '10/26')",[6434]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Sunday')","[12218, 18732]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'afternoon +24 hours')",[46581]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '1 jan 2000')",[51243]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'December -1 year')",[17486]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'morning +24 hours')",[40911]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Sunday')","[12592, 19106]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '23:59:00.123')",[23440]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Jan 15 -1 year')",[15474]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'this morning')","[2060, 2420, 39881]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'tomorrow 5PM')",[25934]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'this afternoon +24 hours')",[45795]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'next Dec')",[10350]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '23:59:59')",[22930]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '10/26/81')","[5444, 25418]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '1981-10-26')",[676]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '-1 week')","[19212, 20330, 21422, 22540]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '11:59 PM')",[23290]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'evening -24 hours')",[30344]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'now +24 hours')","[26788, 36519, 37479, 38553]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'October')",[6764]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', '10/26/81 5PM')",[25060]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'last Sunday')",[18300]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '26 October 1981')","[49953, 51453, 51603, 51753]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'December -1 year')",[17216]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'December -1 year')",[17276]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'next Sat')",[13346]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'October')",[6944]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'morning +24 hours')",[40695]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '26 october 1981')",[50403]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'morning +24 hours')",[40623]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+1 hour')",[35190]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Fri')",[8850]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+1200 s')",[33108]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '23:59:59')",[22780]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Saturday')","[14186, 22098]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', '10/26/81 5PM')",[25000]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1 Jan 2000')",[50853]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '26 october 1981')",[50523]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'last Dec')",[16308]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '23:59:59')",[22810]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+1200 s')",[33168]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '20:00:00.000')",[34920]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'this evening')","[34308, 34668, 48051]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+1 year 6 months')",[35691]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'this morning +24 hours')",[39573]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'December -1 year')",[17066]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+1 year 6 months')",[35661]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'next January 15')",[9884]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'last Sunday')",[18180]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tonight +24 hours')","[2960, 3992]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tomorrow noon')",[42273]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '13:00:00.000')",[33438]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Sunday')","[12524, 19038]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'this evening')","[34398, 34758, 48153]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', '1981/10/26')",[5744]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Fri')",[8990]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'next Dec')",[10740]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '00:00:00.000')",[1610]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', '10/26')",[6494]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tomorrow night')",[3896]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', '10/26')",[6554]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'evening -24 hours')",[30704]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'Sun -1 week')",[19572]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'this afternoon +24 hours')",[45915]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '23:59')",[23110]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'evening -24 hours')",[30524]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Oct')",[7124]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'December -1 year')",[17186]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'this afternoon')","[33648, 34008, 46119]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '5PM')","[25724, 27822, 29876, 33078]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tomorrow afternoon')",[46281]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'October 26, 1981 3:27:00 PM')",[23770]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1 Jan 2000')",[50913]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'next Dec')",[10680]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Sat')","[13658, 20942]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '20:00:00.000')",[34893]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'last Sunday')",[18210]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'Sun -1 week')",[19602]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'evening')","[30904, 34548, 49283]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Wednesday')",[9524]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '1981/10/26')",[5714]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+1 s')",[33198]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'noon')","[2900, 42017, 43181, 44051, 45215]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'yesterday 5PM')","[27942, 31144]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'now +24 hours')","[27028, 36735, 37659, 38769]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tonight')","[3606, 4764, 35055]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'October 26, 1981 3:27:00 PM')",[23740]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '10/26/81')","[5414, 25384]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Saturday')","[14486, 22438]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'now +24 hours')","[26628, 36375, 37359, 38409]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '17:00:00.000')",[34188]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'next January 15')",[9794]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'last Sunday')",[18600]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'Sun -1 week')",[19692]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'now -24 hours')","[28646, 31848]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'yesterday 5PM')","[28212, 31414]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'this morning +24 hours')",[39543]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'morning +24 hours')",[40335]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'now +24 hours')","[26708, 36447, 37419, 38481]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'Sat')","[14066, 21350]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'next Sunday')",[11786]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '17:00:00.000')",[34218]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'last Sat')",[20690]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'tomorrow 5PM')",[26144]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'last Sunday')",[18390]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'October')",[6674]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '10/26/81')","[5294, 25248]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'now +24 hours')","[26828, 36555, 37509, 38589]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'last January 15')",[14996]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'yesterday evening')",[29996]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '11:59 PM')",[23380]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '12:00:00.000')",[2660]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'yesterday 5PM')","[27972, 31174]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'next Sat')",[13376]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1 year 24 hours 1 minute')",[35991]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'October 26, 1981 3:27:00 PM')",[23710]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Jan 15 -1 year')",[15294]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'evening +24 hours')",[48507]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', '10/26/81 5PM')",[24940]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'October')",[6584]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'October 26, 1981')","[24300, 49593]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Sat')","[13726, 21010]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '10/26/1981')",[4994]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'evening +24 hours')",[49083]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'tomorrow evening')",[48405]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Friday')",[8626]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'yesterday 5PM')","[27912, 31114]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '10/26/1981')",[5024]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'morning +24 hours')",[40767]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+1 hour')",[35163]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'evening +24 hours')",[48723]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '3:27:00 PM')",[24538]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'evening +24 hours')",[48651]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'next Sat')",[13556]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'January')",[7484]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'last January 15')",[14696]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'this evening +24 hours')",[47529]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', '1981-10-26 15:26:03.435')",[480]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '20:00:00.000')",[34839]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'October 26, 1981 3:27:00 PM')",[23650]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'next January 15')",[9734]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tomorrow noon')",[42213]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '10/26/1981')",[5114]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'Jan 15 -1 year')",[15714]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'October 26, 1981')","[24164, 49473]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'this afternoon +24 hours')",[45645]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'now +24 hours')","[26908, 36627, 37569, 38661]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'December -1 year')",[17246]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '5PM')","[25520, 27618, 29672, 32874]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'evening -24 hours')",[30272]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '3:27:00 PM')",[24606]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'tomorrow night')",[3806]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Jan 15')","[10170, 15808]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'January')",[7454]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'now -24 hours')","[29246, 32448]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Sun')","[12776, 19922]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '26 Oct 81')",[50253]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', '1981-10-26 15:26:03.435')",[360]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'afternoon +24 hours')",[46437]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'tomorrow')","[26400, 36171, 38205]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '23:59:59')",[22840]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'afternoon')","[33708, 47129]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '1 Jan 2000')",[50883]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'this morning +24 hours')",[39513]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '12 months 1 day 60 seconds')",[35901]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '1981-10-26 15:26:03.435')",[150]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Saturday -1 week')",[21572]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'morning')","[2300, 41107]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'last Dec')",[16458]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '12:00:00.000')",[2750]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', '1981-10-26 15:26:03.435')",[510]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Sunday')","[12286, 18800]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Saturday -1 week')",[21452]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '([a-z]+) +(\\d{1,2})', 'Sunday')","[12252, 18766]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Dec')","[10944, 16692]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'last Dec')",[16398]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', '10/26/1981')",[5234]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '11:59 PM')",[23230]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '26 october 1981')",[50433]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'Fri')",[8906]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'afternoon +24 hours')",[46473]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'October')",[6614]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'October 26, 1981')","[24232, 49533]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '11:59 PM')",[23200]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'last January 15')",[14906]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '26 October 1981')","[49983, 51483, 51633, 51783]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '1 year')",[35361]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'October 26')","[5924, 6164]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '23:59:00.123')",[23470]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'now -24 hours')","[28686, 31888]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'Wednesday')",[9104]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '17:00:00.000')",[34098]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'afternoon')","[33738, 47169]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', '10/26/81 5PM')",[24970]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+1200 s')",[33138]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'Friday')",[8430]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'last January 15')",[14786]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'Fri')",[8934]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'today')",[1760]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'December -1 year')",[17096]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'October 26')","[5954, 6194]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'evening -24 hours')",[30596]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', '1981-10-26')",[846]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'December')","[7964, 11366, 17746]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Sat')","[13930, 21214]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', '10/26/81 5PM')",[24880]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', '1981-10-26 15:26:03.435')",[180]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'morning +24 hours')",[40443]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'Sun -1 week')",[19722]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '1 jan 00')",[51423]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'this afternoon +24 hours')",[45585]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'afternoon +24 hours')",[46797]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'now')","[1310, 27320, 29418, 32620, 36999, 37881, 39033, 51954, 52122, 52293]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'next Sat')",[13226]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'October 26, 1981')","[24198, 49503]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '15:26:03.435')",[1152]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '23:59:59')",[22900]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'this afternoon +24 hours')",[45525]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'this morning +24 hours')",[39303]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'tomorrow 5PM')",[26174]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', 'now -24 hours')","[29286, 32488]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1981-10-26 15:26:03.435')",[30]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'getParserResult', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Sat')","[14032, 21316]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'tomorrow night')",[3836]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', '1981-10-26 15:26:03.435')",[300]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'this evening +24 hours')",[47709]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'yesterday 5PM')","[28062, 31264]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', '10/26/81 5PM')",[25090]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'December')","[8234, 11636, 18052]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', '1981-10-26 15:26:03.435')",[270]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'this evening')","[34248, 34608, 47983]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Saturday -1 week')",[21842]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '17:00:00.000')",[34128]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '26 October 1981')","[50073, 51573, 51723, 51873]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'now -24 hours')","[28726, 31928]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+1 year 6 months')",[35721]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+24 hours')","[3708, 4884, 27496, 37159, 38017, 39193, 40051, 41227, 42085, 43261, 44119, 45295, 46153, 47329, 48187, 49363]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'tonight +24 hours')","[3020, 4064]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'this afternoon')","[33618, 33978, 46085]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'Sun -1 week')",[19272]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '10/26/1981')",[5054]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'last January 15')",[14666]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '26 oct 81')",[50793]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Wednesday')",[9164]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'next January 15')",[9854]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'noon tomorrow')",[44217]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'last Dec')",[16128]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '23:59:59')",[22960]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'Saturday -1 week')",[21902]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', 'now -24 hours')","[28846, 32048]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'last January 15')",[14876]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '1 year')",[35301]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'next Sunday')",[12116]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'evening +24 hours')",[48867]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Sun')","[13046, 20228]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'next Sat')",[13526]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'evening +24 hours')",[48579]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'Sun -1 week')",[19362]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Oct')",[7304]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'last Dec')",[16488]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}/\\d{1,2}/\\d{2,4}', 'tonight +24 hours')","[3200, 4280]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'next +(.*)', 'October 26, 1981 3:27:00 PM')",[24070]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Oct 26, 1981')",[49863]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'yesterday evening')",[30026]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'this afternoon +24 hours')",[45765]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', 'next Sunday')",[11696]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'Sun')","[12746, 19888]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'last January 15')",[14546]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', 'October 26, 1981')","[24266, 49563]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+1 year')","[35451, 35541]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'October 26, 1981 3:27:00 PM')",[23830]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(.*) +(((\\+|\\-){1}.*)|(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?)$', '10/26/81 5PM')",[25180]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'next Sat')",[13496]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', 'this evening +24 hours')",[47439]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', '10/26/81')","[5474, 25452]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '3:27:00 PM')",[24470]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'October')",[6914]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', 'last +(.*)', 'evening +24 hours')",[49047]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'Sun')","[12866, 20024]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '[a-z]+ +\\d{1,2} *, *(\\d{2}|\\d{4})', 'tomorrow 5PM')",[25964]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '+18 months')",[35811]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '10/26')",[6314]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'now -24 hours')","[29166, 32368]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', 'last Sunday')",[18420]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'yesterday')","[28532, 31734]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '-1 hour')",[36051]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)', 'Oct')",[7394]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}/\\d{1,2}/\\d{1,2}', 'October 26, 1981 3:27:00 PM')",[23950]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', 'next Dec')",[10410]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', 'Sun')","[12956, 20126]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}\\-\\d{1,2}\\-\\d{1,2}', 'tonight +24 hours')","[3320, 4424]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Saturday -1 week')",[21512]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Sun')","[12716, 19854]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '26 October 1981')","[50013, 51513, 51663, 51813]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'Sun -1 week')",[19392]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'next Sunday')",[11726]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(:(\\d{1,2}))?(:(\\d{1,2})(\\.(\\d{1,3}))?)?( *(am?|pm?))?( *\\-\\d{4}|[a-z]{3}|[a-z ]+)?', '07:00:00.000')",[2000]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'Jan 15 -1 year')",[15324]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', 'October')",[6644]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\+?( *\\d{1,} +[^ ]+){1,}', '26 october 1981')",[50463]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '10/26/81 5PM')",[24790]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{4}', '+12 months')",[35571]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(\\d{1,2})(/|\\-)(\\d{1,2})', '1981/10/26')",[5834]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(midnight|now|today|(this +)?(morning|afternoon|evening)|tonight|noon( +tomorrow)?|tomorrow|tomorrow +(morning|afternoon|evening|night|noon)?|yesterday|yesterday +(morning|afternoon|evening|night)?)', 'yesterday 5PM')","[28002, 31204]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '(Sun(day)?|Mon(day)?|Tue(sday)?|Wed(nesday)?|Thu(rsday)?|Fri(day)?|Sat(urday)?)', 'last Dec')",[16428]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '([a-z]+) +(\\d{1,2})', '07:00:00.000')",[1910]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2} +[a-z]+ +(\\d{2}|\\d{4})', '26 Oct 81')",[50373]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+24 hours')","[3742, 4924, 27540, 37199, 38051, 39233, 40085, 41267, 42119, 43301, 44153, 45335, 46187, 47369, 48221, 49403]"
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\d{1,2}\\-\\d{1,2}\\-\\d{2,4}', '1981/10/26')",[5804]
+"('StringToTime.java', 'com.clutch.dates.StringToTime', 'time', '\\-( *\\d{1,} +[^ ]+){1,}', '+1 s')",[33228]

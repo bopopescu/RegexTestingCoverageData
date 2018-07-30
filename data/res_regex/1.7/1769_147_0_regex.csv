@@ -1,0 +1,6 @@
+"('SimpleTest.java', 'SimpleTest', 'getSignPairEnd', '--', ""'"")","[29, 57, 143, 171, 257, 285, 371, 399, 884, 912, 998, 1026, 1112, 1140, 1226, 1254, 1340, 1368]"
+"('SimpleTest.java', 'SimpleTest', 'getSignPairEnd', '--', '--')","[485, 513]"
+"('SimpleTest.java', 'SimpleTest', 'getSignPairEnd', '/\\*', '/*')","[656, 684, 827, 855]"
+"('SimpleTest.java', 'SimpleTest', 'getSignPairEnd', ""'"", '/*')","[599, 627, 770, 798]"
+"('SimpleTest.java', 'SimpleTest', 'getSignPairEnd', ""'"", ""'"")","[86, 114, 200, 228, 314, 342, 428, 456, 941, 969, 1055, 1083, 1169, 1197, 1283, 1311, 1397, 1425]"
+"('SimpleTest.java', 'SimpleTest', 'getSignPairEnd', '--', '/*')","[542, 570, 713, 741]"

@@ -1,0 +1,243 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.SubtractionTest')",[2009]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.CharClassTest')","[9504, 9528, 9553, 9577]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.AtMostTest)')","[3762, 6466]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.UnionTest)')","[1845, 1866, 1887, 5727]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.SpaceTest')","[10439, 10463, 10488, 10512]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookAhead', '(?!Messi).*Ronaldo.*', 'Ronaldo is a Real Madrid player.')",[8658]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.IntersectionTest)')","[1206, 5461]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testInputBoundaries', '\\ATest\\s+Regex\\Z', 'Test Regex')",[8093]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.DigitTest)')","[1330, 1351, 1372, 5522]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.OrTest)')","[3968, 6548]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.LookBehindTest)')","[2835, 6117]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.OneOrMoreTest)')","[3350, 6302]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', ' test')","[13011, 13035]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLineBoundaries', '^Test\\s+Regex$', ' Test Regex')",[7138]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.IntersectionTest)')","[1227, 1248, 1269, 5481]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.AnyTest')","[10537, 10561, 10586, 10610]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInputBoundaries(com.pg.creg.ExprBuilderTest)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.LineStartsWithTest)')","[4586, 6794]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNegativeLookAhead(com.pg.creg.ExprBuilderTest)')","[729, 5316]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmail(com.pg.creg.ExprBuilderTest)')","[309, 5211]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.ExactlyTest)')","[2938, 6138]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', 'https')","[7786, 7813, 11972, 11998, 12176, 12202]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', ' te st ')","[13109, 13133]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.LookAheadTest)')","[1000, 5399]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.WordTest')",[1597]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.AtLeastTest)')","[3556, 6384]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.SubtractionTest')","[10092, 10116, 10141, 10165]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.NonWordBoundaryTest')","[12913, 12937, 12962, 12986]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.WordTest')","[9700, 9724, 9749, 9773]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.CharClassTest')",[1391]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.CharListTest')","[9798, 9822, 9847, 9871]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.LiteralTest')",[2112]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.CharRangeTest)')","[2257, 2278, 2299, 5891]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.WithinTest)')","[3680, 3701, 3722, 6445]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', 'Ronaldo')","[7290, 7317, 8291, 8318, 8516, 8543, 8741, 8768]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.OneOrMoreTest')",[3329]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookBehind', '(?<!Messi)Ronaldo', 'Ronaldo and Messi are the best players in the world.')",[7363]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NonWordTest)')","[2545, 5994]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.CharListTest')",[1700]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.AnyTest')",[2421]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.OnceOrNotTest')",[3226]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.JoinTest')","[12023, 12047, 12072, 12096]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.ZeroOrMoreTest')",[3123]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.ExactlyTest')",[2917]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.WordTest)')","[1639, 1660, 1681, 5645]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.ExactlyTest)')","[2959, 2980, 3001, 6158]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEvalForNegative(com.pg.creg.expr.LookBehindTest)')","[2751, 6076]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.LineEndsWithTest')",[4153]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.ReluctantTest)')","[3062, 3083, 3104, 6199]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.AtLeastTest)')","[3577, 3598, 3619, 6404]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEvalForNegative(com.pg.creg.expr.LookBehindTest)')","[2772, 2793, 2814, 6096]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NonSpaceTest')","[9602, 9626, 9651, 9675]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.LookAheadTest')",[895]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.LastMatchEndsWithTest)')","[4401, 4422, 4443, 6732]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.LineEndsWithTest)')","[4174, 6630]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookAhead', '(?!Messi).*Ronaldo.*', 'Ronaldo and Messi are the best players in the world.')",[8635]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNegativeLookBehind(com.pg.creg.ExprBuilderTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NonDigitTest)')","[2648, 6035]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLineBoundaries(com.pg.creg.ExprBuilderTest)')","[78, 99, 120, 5148]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.ReluctantTest')",[3020]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.LiteralTest')","[10243, 10267, 10292, 10316]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookBehind', '(?<=Messi)Ronaldo', 'MessiRonaldo')",[8883]
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '.')","[7630, 7657]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookAhead', '(?!Messi).*Ronaldo.*', 'Messi and Ronaldo are the best players in the world.')",[8612]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.LastMatchEndsWithTest')",[4359]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.WithinTest')",[3638]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.DigitTest')","[9406, 9430, 9455, 9479]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookAhead', '(?!Messi).*Ronaldo.*', 'Messi is the best player in the world.')",[8589]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testEmail', '[\\w-+_.]+@[\\w-+_.]+\\.[\\w]{2,4}', 'ddd@sss.com')",[7680]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAppendExpr(com.pg.creg.util.StringUtilsTest)')","[5065, 5086, 5107]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEvalForNegative(com.pg.creg.expr.LookAheadTest)')","[916, 5358]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.GroupTest')","[9210, 9234, 9259, 9283]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.ExprBuilderTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.JoinTest)')","[3865, 6507]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPositiveLookBehind(com.pg.creg.ExprBuilderTest)')","[813, 5337]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLookAheadPassword', '(?=.*\\d{1}.*\\d{1}.*)\\w{8,10}', 'p1ssw2ord')",[7478]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEvalForNegative(com.pg.creg.expr.LookAheadTest)')","[937, 958, 979, 5378]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.WordBoundaryTest)')","[4504, 4525, 4546, 6773]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.CharClassTest)')","[1433, 1454, 1475, 5563]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.CharListTest)')","[1721, 5666]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testHttpProtocol', '^(http|https)://.*', ' https://www.google.com/')",[7937]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.LiteralTest)')","[2133, 5830]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.JoinTest)')","[3886, 3907, 3928, 6527]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLookAheadPassword', '(?=.*\\d{1}.*\\d{1}.*)\\w{8,10}', 'pwordd13')",[7524]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStartsWith(com.pg.creg.ExprBuilderTest)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.SpaceTest)')","[2360, 2381, 2402, 5932]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', 'Regex')","[7042, 7069, 8043, 8070]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.util.StringUtilsTest')",[4771]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.NonWordBoundaryTest)')","[4710, 4731, 4752, 6855]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.AtLeastTest')",[3535]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NonWordTest')","[10635, 10659, 10684, 10708]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.LiteralTest)')","[2154, 2175, 2196, 5850]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.CharListTest)')","[1742, 1763, 1784, 5686]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.NonWordBoundaryTest)')","[4689, 6835]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.OrTest)')","[3989, 4010, 4031, 6568]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.util.StringUtilsTest')","[13605, 13625, 13646, 13666]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWhiteSpaceOrNull(com.pg.creg.util.StringUtilsTest)')","[4876, 6917]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.LastMatchEndsWithTest)')","[4380, 6712]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookBehind', '(?<=Messi)Ronaldo', 'Ronaldo')",[8860]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookBehind', '(?<!Messi)Ronaldo', 'RonaldoMessi')",[7386]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookBehind', '(?<=Messi)Ronaldo', 'RonaldoMessi')",[8837]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.LineStartsWithTest')",[4565]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookBehind', '(?<!Messi)Ronaldo', 'Messi and Ronaldo are the best players in the world.')",[7340]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.PossessiveTest)')","[3474, 3495, 3516, 6363]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.LineStartsWithTest)')","[4607, 4628, 4649, 6814]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testInputBoundaries', '\\ATest\\s+Regex\\Z', ' Test Regex')",[8139]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.ZeroOrMoreTest)')","[3165, 3186, 3207, 6240]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testInputBoundaries', '\\ATest\\s+Regex\\Z', 'Test        Regex')",[8116]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testInputBoundaries', '\\ATest\\s+Regex\\Z', 'TestRegex')",[8185]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookBehind', '(?<=Messi)Ronaldo', 'Ronaldo and Messi are the best players in the world.')",[8814]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.InputEndsWithTest)')","[4092, 4113, 4134, 6609]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.OnceOrNotTest')","[11329, 11353, 11378, 11402]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.ZeroOrMoreTest)')","[3144, 6220]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.AtMostTest')",[3741]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInputBoundaries(com.pg.creg.ExprBuilderTest)')","[561, 5274]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.InputEndsWithTest)')","[4071, 6589]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmptyOrNull(com.pg.creg.util.StringUtilsTest)')","[4792, 6876]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.UnionTest)')","[1824, 5707]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLookAheadPassword(com.pg.creg.ExprBuilderTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.PossessiveTest')",[3432]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLineBoundaries', '^Test\\s+Regex$', 'test')",[7207]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.OrTest')","[12227, 12251, 12276, 12300]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmptyOrNull(com.pg.creg.util.StringUtilsTest)')","[4813, 4834, 4855, 6896]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookAhead', '(?=Messi).*Ronaldo.*', 'Ronaldo is a Real Madrid player.')",[8433]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLookAheadPassword(com.pg.creg.ExprBuilderTest)')","[225, 5190]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.OneOrMoreTest)')","[3371, 3392, 3413, 6322]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.ExprBuilderTest')","[8908, 8932, 8957, 8981]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookAhead', '(?=Messi).*Ronaldo.*', 'Ronaldo is the best player in the world.')",[8341]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testHttpProtocol', '^(http|https)://.*', 'hRttps://www.google.com/')",[7960]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.LastMatchEndsWithTest')","[12619, 12643, 12668, 12692]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.SpaceTest')",[2318]
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '^.*test$')","[10192, 10218, 13457, 13482]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.OnceOrNotTest)')","[3268, 3289, 3310, 6281]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.ReluctantTest)')","[3041, 6179]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '.$^{[(|)*+?\\.$^{[(|)*+?\\')","[13559, 13584]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.UnionTest')",[1803]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookAhead', '(?=Messi).*Ronaldo.*', 'Messi is the best player in the world.')",[8364]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.NonWordBoundaryTest')",[4668]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NonSpaceTest)')","[1515, 5584]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.GroupTest)')","[1124, 1145, 1166, 5440]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.LookBehindTest')","[10937, 10961, 10986, 11010]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.OnceOrNotTest)')","[3247, 6261]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.CharRangeTest)')","[2236, 5871]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.WithinTest)')","[3659, 6425]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NonDigitTest')","[10733, 10757, 10782, 10806]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNegativeLookAhead(com.pg.creg.ExprBuilderTest)')","[750, 771, 792]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmail(com.pg.creg.ExprBuilderTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHttpProtocol(com.pg.creg.ExprBuilderTest)')","[393, 5232]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NonSpaceTest')",[1494]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.LookAheadTest')","[9112, 9136, 9161, 9185]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.SubtractionTest)')","[2030, 5789]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.LookAheadTest)')","[1021, 1042, 1063]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '://')","[7841, 7868]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.LineEndsWithTest)')","[4195, 4216, 4237, 6650]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.ExactlyTest')","[11035, 11059, 11084, 11108]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.InputStartsWithTest)')","[4298, 4319, 4340, 6691]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testHttpProtocol(com.pg.creg.ExprBuilderTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NonDigitTest)')","[2669, 2690, 2711, 6055]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.OrTest')",[3947]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.SubtractionTest)')","[2051, 2072, 2093, 5809]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testInputBoundaries', '\\ATest\\s+Regex\\Z', 'test')",[8208]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookAhead', '(?=Messi).*Ronaldo.*', 'Messi and Ronaldo are the best players in the world.')",[8387]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.InputStartsWithTest)')","[4277, 6671]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.AtLeastTest')","[11623, 11647, 11672, 11696]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', 'Test')","[6987, 7014, 7988, 8015, 9008, 9034, 9061, 9087, 10833, 10859, 10886, 10912]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.WithinTest')","[11721, 11745, 11770, 11794]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NonSpaceTest)')","[1536, 1557, 1578, 5604]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.GroupTest')",[1082]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.IntersectionTest')",[1185]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.InputStartsWithTest')","[12521, 12545, 12570, 12594]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', ' test ')","[13060, 13084]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.WordTest)')","[1618, 5625]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLineBoundaries', '^Test\\s+Regex$', 'Test        Regex')",[7115]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookAhead', '(?!Messi).*Ronaldo.*', 'Ronaldo is the best player in the world.')",[8566]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLookAheadPassword', '(?=.*\\d{1}.*\\d{1}.*)\\w{8,10}', 'password')",[7455]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWhiteSpaceOrNull(com.pg.creg.util.StringUtilsTest)')","[4897, 4918, 4939]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.boundary.WordBoundaryTest)')","[4483, 6753]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testEmail', '[\\w-+_.]+@[\\w-+_.]+\\.[\\w]{2,4}', 'dt')",[7703]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.InputStartsWithTest')",[4256]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLookAheadPassword', '(?=.*\\d{1}.*\\d{1}.*)\\w{8,10}', 'p1s3w2ord')",[7501]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExcapeRegex(com.pg.creg.util.StringUtilsTest)')","[4960, 6938]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.OneOrMoreTest')","[11427, 11451, 11476, 11500]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookBehind', '(?<!Messi)Ronaldo', 'Ronaldo')",[7409]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NonWordTest)')","[2566, 2587, 2608, 6014]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.DigitTest')",[1288]
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', ' ')","[13305, 13329]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testNegativeLookBehind', '(?<!Messi)Ronaldo', 'MessiRonaldo')",[7432]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NonWordTest')",[2524]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NegationTest')",[1906]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNegativeLookBehind(com.pg.creg.ExprBuilderTest)')","[141, 5169]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLineBoundaries(com.pg.creg.ExprBuilderTest)')","[57, 5128]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLookAheadPassword', '(?=.*\\d{1}.*\\d{1}.*)\\w{8,10}', '123')",[7547]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPositiveLookAhead(com.pg.creg.ExprBuilderTest)')","[666, 687, 708]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '')","[13207, 13231, 13508, 13533]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.ReluctantTest')","[11133, 11157, 11182, 11206]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.LineEndsWithTest')","[12423, 12447, 12472, 12496]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLineBoundaries', '^Test\\s+Regex$', 'Test Regex ')",[7161]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.WordBoundaryTest')",[4462]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testInputBoundaries', '\\ATest\\s+Regex\\Z', 'Test Regex ')",[8162]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLineBoundaries', '^Test\\s+Regex$', 'TestRegex')",[7184]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPositiveLookAhead(com.pg.creg.ExprBuilderTest)')","[645, 5295]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStartsWith(com.pg.creg.ExprBuilderTest)')","[477, 5253]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.SpaceTest)')","[2339, 5912]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPositiveLookBehind(com.pg.creg.ExprBuilderTest)')","[834, 855, 876]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.CharRangeTest')","[10341, 10365, 10390, 10414]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testExcapeRegex(com.pg.creg.util.StringUtilsTest)')","[4981, 5002, 5023]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.DigitTest)')","[1309, 5502]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testHttpProtocol', '^(http|https)://.*', 'http://www.google.com/')",[7914]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.CharClassTest)')","[1412, 5543]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', 'http')","[7731, 7758, 11919, 11945, 12123, 12149]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.AnyTest)')","[2463, 2484, 2505, 5973]"
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookBehind', '(?<=Messi)Ronaldo', 'Messi and Ronaldo are the best players in the world.')",[8791]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NegationTest)')","[1927, 5748]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '.test')","[13406, 13431]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAppendExpr(com.pg.creg.util.StringUtilsTest)')","[5044, 6959]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.AnyTest)')","[2442, 5953]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.character.NegationTest)')","[1948, 1969, 1990, 5768]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.JoinTest')",[3844]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testLineBoundaries', '^Test\\s+Regex$', 'Test Regex')",[7092]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testPositiveLookAhead', '(?=Messi).*Ronaldo.*', 'Ronaldo and Messi are the best players in the world.')",[8410]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.PossessiveTest)')","[3453, 6343]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.PossessiveTest')","[11525, 11549, 11574, 11598]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.InputEndsWithTest')",[4050]
+"('ExprBuilderTest.java', 'com.pg.creg.ExprBuilderTest', 'testHttpProtocol', '^(http|https)://.*', 'https://www.google.com/')",[7891]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.IntersectionTest')","[9308, 9332, 9357, 9381]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.InputEndsWithTest')","[12325, 12349, 12374, 12398]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', 'test')","[13158, 13182, 13355, 13380]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NegationTest')","[9994, 10018, 10043, 10067]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.ZeroOrMoreTest')","[11231, 11255, 11280, 11304]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '    ')","[13256, 13280]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.LookBehindTest)')","[2856, 2877, 2898]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.WordBoundaryTest')","[12717, 12741, 12766, 12790]"
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', 'Messi')","[7235, 7262, 8236, 8263, 8461, 8488, 8686, 8713]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.CharRangeTest')",[2215]
+"('StringUtils.java', 'com.pg.creg.util.StringUtils', 'whiteSpaceOrNull', '^\\s*$', '@')","[7575, 7602]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.UnionTest')","[9896, 9920, 9945, 9969]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.character.NonDigitTest')",[2627]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.quantifier.AtMostTest')","[11819, 11843, 11868, 11892]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.quantifier.AtMostTest)')","[3783, 3804, 3825, 6486]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEval(com.pg.creg.expr.GroupTest)')","[1103, 5420]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.pg.creg.expr.LookBehindTest')",[2730]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.pg.creg.expr.boundary.LineStartsWithTest')","[12815, 12839, 12864, 12888]"

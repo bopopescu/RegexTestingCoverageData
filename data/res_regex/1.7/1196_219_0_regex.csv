@@ -1,0 +1,115 @@
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass\\E(\\s|$).*', 'class1 Class2 class3')",[4483]
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass2\\E(\\s|$).*', 'class1 Class2')",[4054]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eq(br.com.starcode.jerichoselector.api.TestTransversing)')","[1324, 2765]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'each(br.com.starcode.jerichoselector.api.TestTransversing)')","[1450, 2897]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelector(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[246, 1775]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass3\\E(\\s|$).*', 'class1 Class2')",[4256]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelectorVariationsBNegative(br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors)')","[1179, 2633]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'attrSubstringMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[576, 2061]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'notClassSelector(br.com.starcode.jerichoselector.TestNegationSelectors)')","[370, 1885]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass3\\E(\\s|$).*', 'class1')",[4231]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'first(br.com.starcode.jerichoselector.api.TestTransversing)')","[1513, 2963]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.TestPseudoSelectors')","[36, 3034]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'notTypeSelector(br.com.starcode.jerichoselector.TestNegationSelectors)')","[412, 1929]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass\\E(\\s|$).*', 'class1\r\n   class3')",[4509]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'onlyOneResult(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[929, 2391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-2\\E(\\s|$).*', 'my-text-2')",[5237]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthLastChildSelector(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[99, 1621]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'generalSiblingCombinator(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[1013, 2479]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'typeMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[660, 2149]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'doubleSelector(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[971, 2435]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass2\\E(\\s|$).*', 'class1 Class2 class3')",[4079]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.TestSimpleSelectors')","[431, 3358]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'attrEqualsMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[597, 2083]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'adjascentSiblingCombinatorEmptyResult(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[950, 2413]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'attrIncludesMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[681, 2171]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\QClass2\\E(\\s|$).*', 'class1\r\n   class3')",[4206]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelectorEven(br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors)')","[1158, 2611]"
+"('StartTag.java', 'net.htmlparser.jericho.StartTag', 'getNext', '.*(\\s|^)class1(\\s|$).*', 'class1 Class2 class3')","[3439, 3548, 3657, 3766, 3875, 4590, 4699, 4808, 4917]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass1\\E(\\s|$).*', 'class1\r\n   class3')",[4004]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.matcher.TestMatchers')","[534, 4972]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'contents(br.com.starcode.jerichoselector.api.TestTransversing)')","[1303, 2743]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthTypeSelector(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[309, 1841]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text\\E(\\s|$).*', 'my-text otherClass')","[3265, 5135, 5543]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'classSelector(br.com.starcode.jerichoselector.TestSimpleSelectors)')","[473, 1973]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'childCombinator(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[992, 2457]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-5\\E(\\s|$).*', 'my-text otherClass')",[5407]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'firstType(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[183, 1709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.TestNegationSelectors')","[349, 3133]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\QClass2\\E(\\s|$).*', 'class1 Class2')",[4155]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checked(br.com.starcode.jerichoselector.TestPseudoFormSelectors)')","[826, 2303]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass4\\E(\\s|$).*', 'class1 Class2 class3')",[4382]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'typeSelector(br.com.starcode.jerichoselector.TestSimpleSelectors)')","[452, 1951]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'noResults(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[1055, 2523]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelectorOdd(br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors)')","[1200, 2655]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'filter(br.com.starcode.jerichoselector.api.TestTransversing)')","[1261, 2699]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'rootSelector(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[288, 1819]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelectorNumber(br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors)')","[1095, 2545]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'closest(br.com.starcode.jerichoselector.api.TestTransversing)')","[1534, 2985]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass1\\E(\\s|$).*', 'class1 Class2 class3')",[3978]
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass3\\E(\\s|$).*', 'class1\r\n   class3')",[4307]
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass4\\E(\\s|$).*', 'class1\r\n   class3')",[4408]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'enabled(br.com.starcode.jerichoselector.TestPseudoFormSelectors)')","[763, 2237]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass4\\E(\\s|$).*', 'class1 Class2')",[4357]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'notAttributeSelector(br.com.starcode.jerichoselector.TestNegationSelectors)')","[391, 1907]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'last(br.com.starcode.jerichoselector.api.TestTransversing)')","[1492, 2941]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass\\E(\\s|$).*', 'class1 Class2')",[4458]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'triple(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[908, 2369]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'classMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[639, 2127]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors')","[1074, 5597]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'universal(br.com.starcode.jerichoselector.TestSimpleSelectors)')","[515, 2017]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelectorVariationsANegative(br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors)')","[1116, 2567]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'add(br.com.starcode.jerichoselector.api.TestTransversing)')","[1366, 2809]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthLastTypeSelector(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[267, 1797]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.api.TestTransversing')","[1240, 5620]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'descendantCombinator(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[866, 2325]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text\\E(\\s|$).*', 'my-text')","[3070, 3199, 3298, 5067, 5475]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'find(br.com.starcode.jerichoselector.api.TestTransversing)')","[1471, 2919]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'attributeSelector(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[1034, 2501]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'otherSelectorVariations(br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors)')","[1137, 2589]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-2\\E(\\s|$).*', 'my-text otherClass')",[5271]
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\QClass2\\E(\\s|$).*', 'class1')",[4130]
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-5\\E(\\s|$).*', 'top-title')",[5305]
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-2\\E(\\s|$).*', 'my-text')",[5203]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthLastChildSelectorNoResults(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[78, 1599]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'end(br.com.starcode.jerichoselector.api.TestTransversing)')","[1387, 2831]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass\\E(\\s|$).*', 'class1')",[4433]
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text\\E(\\s|$).*', 'top-title')","[3166, 5033, 5441]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'empty(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[162, 1687]"
+"('StartTag.java', 'net.htmlparser.jericho.StartTag', 'getNext', '.*(\\s|^)class1(\\s|$).*', 'class1')","[3385, 3494, 3603, 3712, 3821, 4536, 4645, 4754, 4863]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-5\\E(\\s|$).*', 'my-text')",[5339]
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass2\\E(\\s|$).*', 'class1')",[4029]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'children(br.com.starcode.jerichoselector.api.TestTransversing)')","[1555, 3007]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'map(br.com.starcode.jerichoselector.api.TestTransversing)')","[1429, 2875]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\QClass2\\E(\\s|$).*', 'class1 Class2 class3')",[4180]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'adjascentSiblingCombinator(br.com.starcode.jerichoselector.TestAvancedSelectors)')","[887, 2347]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lastChild(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[330, 1863]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.TestPseudoFormSelectors')","[742, 4999]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass4\\E(\\s|$).*', 'class1')",[4332]
+"('StartTag.java', 'net.htmlparser.jericho.StartTag', 'getNext', '.*(\\s|^)class1(\\s|$).*', 'class1 Class2')","[3412, 3521, 3630, 3739, 3848, 4563, 4672, 4781, 4890]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text\\E(\\s|$).*', 'my-text-2')","[3106, 3232, 3331, 5101, 5509]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass1\\E(\\s|$).*', 'class1 Class2')",[3953]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'has(br.com.starcode.jerichoselector.api.TestTransversing)')","[1408, 2853]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'hashMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[723, 2215]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-5\\E(\\s|$).*', 'my-text-2')",[5373]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lastType(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[120, 1643]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'is(br.com.starcode.jerichoselector.api.TestTransversing)')","[1345, 2787]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelectorVariations(br.com.starcode.jerichoselector.TestPseudoExpressionsSelectors)')","[1221, 2677]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'disabled(br.com.starcode.jerichoselector.TestPseudoFormSelectors)')","[805, 2281]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'attrPrefixMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[618, 2105]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass3\\E(\\s|$).*', 'class1 Class2 class3')",[4281]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'onlyType(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[57, 1577]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'br.com.starcode.jerichoselector.TestAvancedSelectors')","[845, 5570]"
+"('StartTag.java', 'net.htmlparser.jericho.StartTag', 'getNext', '.*(\\s|^)class1(\\s|$).*', 'class1\r\n   class3')","[3467, 3576, 3685, 3794, 3903, 4618, 4727, 4836, 4945]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'addBack(br.com.starcode.jerichoselector.api.TestTransversing)')","[1282, 2721]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'attrDashMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[702, 2193]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass2\\E(\\s|$).*', 'class1\r\n   class3')",[4105]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nthChildSelectorNoResults(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[225, 1753]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'onlyChild(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[204, 1731]"
+"('TestMatchers.java', 'br.com.starcode.jerichoselector.matcher.TestMatchers', 'classMatcher', '.*(\\s|^)\\Qclass1\\E(\\s|$).*', 'class1')",[3928]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'none(br.com.starcode.jerichoselector.TestPseudoFormSelectors)')","[784, 2259]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'firstChild(br.com.starcode.jerichoselector.TestPseudoSelectors)')","[141, 1665]"
+"('SelectorMatcher.java', 'br.com.starcode.jerichoselector.matcher.SelectorMatcher', 'matchSimpleSelectorList', '.*(\\s|^)\\Qmy-text-2\\E(\\s|$).*', 'top-title')",[5169]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'typeAndClassSelector(br.com.starcode.jerichoselector.TestSimpleSelectors)')","[494, 1995]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'attrSuffixMatcher(br.com.starcode.jerichoselector.matcher.TestMatchers)')","[555, 2039]"

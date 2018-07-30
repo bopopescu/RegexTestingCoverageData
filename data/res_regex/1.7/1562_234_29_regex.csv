@@ -1,0 +1,13 @@
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'location')",[274]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canUseMultipleIPConfigs(com.microsoft.azure.management.network.NetworkInterfaceOperationsTests)')","[433, 499, 1023]"
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'subscriptionId')","[311, 747, 819, 931, 1003, 1113, 1185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canDeleteNetworkWithServiceCallBack(com.microsoft.azure.management.network.NetworkInterfaceOperationsTests)')","[391, 455, 519]"
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'resourceGroupName')","[702, 783, 885, 967, 1068, 1149]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canListNetworkUsages(com.microsoft.azure.management.network.NetworkUsageOperationsTests)')","[57, 79, 99]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canCreateBatchOfNetworkInterfaces(com.microsoft.azure.management.network.NetworkInterfaceOperationsTests)')","[412, 477, 839]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.microsoft.azure.management.network.NetworkInterfaceOperationsTests')","[370, 1208]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')","[191, 611]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.microsoft.azure.management.network.NetworkUsageOperationsTests')","[36, 334]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')","[145, 565]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')","[237, 657]"

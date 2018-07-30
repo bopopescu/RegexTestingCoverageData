@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProjectsArray_shouldNotGetProjectsWithoutAMonitorPublisher(hudson.plugins.newgenserversstatus.MonitorActionTest)')","[136, 266]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProjectsArray_shouldGetMatrixProjectWithAMonitorPublisher(hudson.plugins.newgenserversstatus.MonitorActionTest)')","[56, 178]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProjectsArray_shouldGetProjectFreeStyleProjectWithAMonitorPublisher(hudson.plugins.newgenserversstatus.MonitorActionTest)')","[76, 200]"
+"('FilePath.java', 'hudson.FilePath', 'isAbsolute', '[A-Za-z]:[\\\\/].*', '.timestamp')","[810, 1533, 1553]"
+"('MonitorAction.java', 'hudson.plugins.newgenserversstatus.MonitorAction', 'findServer', '(.*)\\-(.*)\\-.*', 'test1')","[1163, 1263, 1365, 1513]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'hudson.plugins.newgenserversstatus.MonitorActionTest')","[36, 1576]"
+"('FilePath.java', 'hudson.FilePath', 'isAbsolute', '[A-Za-z]:[\\\\/].*', 'maven/slavebundle')","[799, 1522, 1542]"
+"('MonitorAction.java', 'hudson.plugins.newgenserversstatus.MonitorAction', 'findServer', '(.*)\\-(.*)\\-.*', 'test0')","[339, 389, 440, 490, 539, 590, 640, 691, 741, 790, 861, 911, 962, 1012, 1061, 1112, 1213, 1314, 1415, 1464]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProjectsArray_shouldGetMavenProjectProjectWithAMonitorPublisher(hudson.plugins.newgenserversstatus.MonitorActionTest)')","[96, 222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProjectsArray_shouldBeEmptyArrayWhenNoPojrectsWithMonitorPublishersFound(hudson.plugins.newgenserversstatus.MonitorActionTest)')","[156, 288]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetProjectsArray_shouldGetMultipleProjectsWhenMultipleProjectsWithMonitorPublishersFound(hudson.plugins.newgenserversstatus.MonitorActionTest)')","[116, 244]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

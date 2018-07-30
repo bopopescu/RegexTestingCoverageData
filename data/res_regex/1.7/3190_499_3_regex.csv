@@ -1,0 +1,40 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBatch(co.jirm.spring.JirmDaoIntegrationTest)')","[666, 687, 708]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testForUpdateIssue10(co.jirm.spring.JirmDaoIntegrationTest)')","[477, 1190]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1475, 1952]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testManyToOne(co.jirm.spring.JirmDaoIntegrationTest)')","[561, 1211]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'select string_prop as poop from test_bean')",[2405]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[1422, 1899]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBatch(co.jirm.spring.JirmDaoIntegrationTest)')","[645, 1232]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAdding(co.jirm.spring.JirmDaoIntegrationTest)')","[750, 771, 792]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.properties\\E', 'database.properties')",[2270]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'co.jirm.spring.JirmDaoIntegrationTest')","[2426, 2446, 2467, 2487]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testVersion(co.jirm.spring.JirmDaoIntegrationTest)')","[1002, 1023, 1044]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testVersionFail(co.jirm.spring.JirmDaoIntegrationTest)')","[78, 99, 120, 1085]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSingleValue(co.jirm.spring.JirmDaoIntegrationTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testErrorMessageForIssue8(co.jirm.spring.JirmDaoIntegrationTest)')","[309, 1148]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNonBatch(co.jirm.spring.JirmDaoIntegrationTest)')","[918, 939, 960]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'select string_prop from test_bean')",[2315]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNotEqIssue5(co.jirm.spring.JirmDaoIntegrationTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testForUpdateIssue10(co.jirm.spring.JirmDaoIntegrationTest)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAll(co.jirm.spring.JirmDaoIntegrationTest)')","[834, 855, 876]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'co.jirm.spring.JirmDaoIntegrationTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSingleOptional(co.jirm.spring.JirmDaoIntegrationTest)')","[225, 1127]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.properties\\E', 'test-applicationContext.xml')",[1793]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qjirm-spring\\E', 'jirm-spring')","[1581, 2058]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q3190_499\\E', '3190_499')","[1528, 2005]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1634, 2111]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSingleOptional(co.jirm.spring.JirmDaoIntegrationTest)')","[246, 267, 288]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1687, 2164]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNotEqIssue5(co.jirm.spring.JirmDaoIntegrationTest)')","[393, 1169]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNonBatch(co.jirm.spring.JirmDaoIntegrationTest)')","[897, 1295]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qspring\\E', 'spring')","[1740, 2217]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSingleValue(co.jirm.spring.JirmDaoIntegrationTest)')","[141, 1106]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testVersionFail(co.jirm.spring.JirmDaoIntegrationTest)')","[57, 1065]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testManyToOne(co.jirm.spring.JirmDaoIntegrationTest)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testVersion(co.jirm.spring.JirmDaoIntegrationTest)')","[981, 1316]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1369, 1846]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testErrorMessageForIssue8(co.jirm.spring.JirmDaoIntegrationTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAll(co.jirm.spring.JirmDaoIntegrationTest)')","[813, 1274]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'select string_prop from test_bean where string_prop = ?')",[2360]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAdding(co.jirm.spring.JirmDaoIntegrationTest)')","[729, 1253]"

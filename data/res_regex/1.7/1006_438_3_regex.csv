@@ -1,0 +1,121 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_payload_close_skip[0](org.jwat.common.TestPayload)')","[590, 3048]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHttpHeader')","[2633, 5603]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestByteArrayOutputStreamWithUnread')",[313]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[2]')","[145, 871, 5837, 5860, 5883, 5906]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_base64[0](org.jwat.common.TestBase64)')","[1209, 3324]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_stringreader_charcounting[0](org.jwat.common.TestCharCountingStringReader)')","[1146, 3301]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHttpHeader_Response')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_uri_absolute(org.jwat.common.TestUri)')","[2553, 4164]"
+"('IPAddressParser.java', 'org.jwat.common.IPAddressParser', 'getAddress', '([0-9a-fA-F]{0,4}:){0,6}(([0-9a-fA-F]{0,4}:[0-9a-fA-F]{1,4})|(([0-9]{1,3}\\.){3}[0-9]{1,3}))', '0.0.0')",[5218]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHeaderLineReader')","[2673, 5630]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_uriprofile(org.jwat.common.TestUriProfile)')","[2330, 4010]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerlinereader_decode_eof(org.jwat.common.TestHeaderLineReader_HeaderLineReader)')","[2776, 4318]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_base32[0](org.jwat.common.TestBase32)')","[1316, 3370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader(org.jwat.common.TestHttpHeader)')","[2654, 4230]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_digest_equals_hashcode(org.jwat.common.TestDigest)')","[2593, 4186]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_contenttype(org.jwat.common.TestContentType)')","[2269, 3966]"
+"('IPAddressParser.java', 'org.jwat.common.IPAddressParser', 'getAddress', '([0-9a-fA-F]{0,4}:){0,6}(([0-9a-fA-F]{0,4}:[0-9a-fA-F]{1,4})|(([0-9]{1,3}\\.){3}[0-9]{1,3}))', '192.168.1.1')",[5287]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_uri(org.jwat.common.TestUri)')","[2532, 4142]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestNewlineParser')","[1579, 4956]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_maxlengthrecording_underflow(org.jwat.common.TestMaxLengthRecordingInputStreamUnderflow)')","[1985, 3768]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[1]')","[101, 441, 634, 827, 1230, 1337, 5653, 5676, 5745, 5768, 5929, 5952, 5975, 5998]"
+"('IPAddressParser.java', 'org.jwat.common.IPAddressParser', 'getAddress', '([0-9a-fA-F]{0,4}:){0,6}(([0-9a-fA-F]{0,4}:[0-9a-fA-F]{1,4})|(([0-9]{1,3}\\.){3}[0-9]{1,3}))', '0.0.0.0.0')",[5241]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_payload_reading[1](org.jwat.common.TestPayload)')","[680, 3117]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_digest[0](org.jwat.common.TestDigestInputStream)')","[294, 2933]"
+"('IPAddressParser.java', 'org.jwat.common.IPAddressParser', 'getAddress', '([0-9a-fA-F]{0,4}:){0,6}(([0-9a-fA-F]{0,4}:[0-9a-fA-F]{1,4})|(([0-9]{1,3}\\.){3}[0-9]{1,3}))', 'fail')",[5195]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestInputStreamNoSkip')","[1781, 5064]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_readline(org.jwat.common.Test_AdditionalReadMethods)')","[1945, 3746]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestByteCountingPushbackInputStream')",[483]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestIPAddressParser')","[2126, 5360]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_stringreader_readline(org.jwat.common.Test_AdditionalReadMethods)')","[1924, 3724]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_response[2](org.jwat.common.TestHttpHeader_Response)')","[168, 2887]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_base32[1](org.jwat.common.TestBase32)')","[1360, 3393]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_fixedlength[0](org.jwat.common.TestFixedLengthInputStream)')","[957, 3232]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_skipping(org.jwat.common.Test_Skip)')","[1480, 3438]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestDigest')","[2572, 5576]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestMaxLengthRecordingInputStream')",[187]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_randomaccessfile_iostreams(org.jwat.common.TestRandomAccessFileStreams)')","[1520, 3460]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestCharCountingStringReader')",[1102]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestByteCountingInputStream')",[1379]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_countingpushback[0](org.jwat.common.TestByteCountingPushbackInputStream)')","[527, 3025]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_utf8_encode_decode(org.jwat.common.TestUtf8)')","[2229, 3944]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestBase2')",[1039]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHeaderLineReader_HeaderLineReader')","[2713, 5722]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerlinereader_headerlines(org.jwat.common.TestHeaderLineReader_HeaderLineReader)')","[2797, 4340]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_isHttpStatusLineValid(org.jwat.common.TestHttpHeader_IsValidMethods)')","[2391, 4054]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestDiagnosis')","[1720, 5037]"
+"('IPAddressParser.java', 'org.jwat.common.IPAddressParser', 'getAddress', '([0-9a-fA-F]{0,4}:){0,6}(([0-9a-fA-F]{0,4}:[0-9a-fA-F]{1,4})|(([0-9]{1,3}\\.){3}[0-9]{1,3}))', 'dead::beef:cafe:f800:0000')",[5310]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestBase64')",[1165]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestPayloadHttpResponse')",[376]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_streams_in_streams[0](org.jwat.common.Test_StreamsInStreams)')","[743, 3140]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_linereader_lines(org.jwat.common.TestHeaderLineReader_LineReader)')","[2065, 3812]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.Test_Skip')","[1459, 4875]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_isHttpRequestLineValid(org.jwat.common.TestHttpHeader_IsValidMethods)')","[2370, 4032]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestISO8859_1')","[2450, 5522]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_iso8859_1_decode(org.jwat.common.TestISO8859_1)')","[2471, 4098]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestPayload')",[546]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_bytecounting[0](org.jwat.common.TestByteCountingInputStream)')","[1423, 3416]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_parsenewlines_crlf(org.jwat.common.TestNewlineParser)')","[1621, 3526]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_peek(org.jwat.common.Test_AdditionalReadMethods)')","[1882, 3680]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_base2[0](org.jwat.common.TestBase2)')","[1083, 3278]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_maxlengthrecording[0](org.jwat.common.TestMaxLengthRecordingInputStream)')","[231, 2910]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestMaxLengthRecordingInputStreamUnderflow')","[1964, 5118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstreamnoskip(org.jwat.common.TestInputStreamNoSkip)')","[1802, 3636]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_readfully(org.jwat.common.Test_AdditionalReadMethods)')","[1903, 3702]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_digest_wrapper(org.jwat.common.TestDigest)')","[2614, 4208]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_utf8_decode_encode(org.jwat.common.TestUtf8)')","[2208, 3922]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.jwat.common.TestDiagnosis)')","[1741, 3592]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_bytearrayoutputstreamunread[0](org.jwat.common.TestByteArrayOutputStreamWithUnread)')","[357, 2956]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerline_readline(org.jwat.common.TestHeaderLine)')","[1701, 3570]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_payload_httpresponse[0](org.jwat.common.TestPayloadHttpResponse)')","[420, 2979]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_payload_reading[0](org.jwat.common.TestPayload)')","[613, 3071]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestUri')","[2511, 5549]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_scheme(org.jwat.common.TestScheme)')","[1842, 3658]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestEncodedWords')","[1539, 4929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_quotedprintable(org.jwat.common.TestQuotedPrintable)')","[1661, 3548]"
+"('IPAddressParser.java', 'org.jwat.common.IPAddressParser', 'getAddress', '([0-9a-fA-F]{0,4}:){0,6}(([0-9a-fA-F]{0,4}:[0-9a-fA-F]{1,4})|(([0-9]{1,3}\\.){3}[0-9]{1,3}))', 'a.b.c.d')",[5264]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHttpHeader_Request')",[762]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_response[1](org.jwat.common.TestHttpHeader_Response)')","[124, 2864]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHeaderLineReader_LineReader')","[2044, 5172]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHttpHeader_IsValidMethods')","[2349, 5468]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestQuotedPrintable')","[1640, 4983]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestByteCountingPushbackInputStreamPeek')","[2410, 5495]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerlinereader_lines(org.jwat.common.TestHeaderLineReader_HeaderLineReader)')","[2818, 4362]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestBase32')",[1272]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestDigestInputStream')",[250]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestRandomAccessFileStreams')","[1499, 4902]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_inputstream_countingpushback_peek(org.jwat.common.TestByteCountingPushbackInputStreamPeek)')","[2431, 4076]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestBase16')",[976]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_encodedwords(org.jwat.common.TestEncodedWords)')","[1560, 3482]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_parsenewlines_lf(org.jwat.common.TestNewlineParser)')","[1600, 3504]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_response[0](org.jwat.common.TestHttpHeader_Response)')","[80, 2841]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_digest_equals_hashcode(org.jwat.common.TestDiagnosis)')","[1762, 3614]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_payload_close_skip[1](org.jwat.common.TestPayload)')","[657, 3094]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_iso8859_1_encode(org.jwat.common.TestISO8859_1)')","[2492, 4120]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestHeaderLine')","[1680, 5010]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerlinereader_report_error(org.jwat.common.TestHeaderLineReader)')","[2694, 4252]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerlinereader_quotedtext(org.jwat.common.TestHeaderLineReader_HeaderLineReader)')","[2734, 4274]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[0]')","[57, 208, 271, 334, 397, 504, 567, 720, 783, 934, 997, 1060, 1123, 1186, 1293, 1400, 4389, 4416, 4443, 4470, 4497, 4524, 4551, 4578, 4605, 4632, 4659, 4686, 4713, 4740, 4767, 4794, 4821, 4848, 5791, 5814]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_request[2](org.jwat.common.TestHttpHeader_Request)')","[894, 3209]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestUriProfile')","[2309, 5441]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 1440]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_request[0](org.jwat.common.TestHttpHeader_Request)')","[806, 3163]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerlinereader_headerlines_lws(org.jwat.common.TestHeaderLineReader_HeaderLineReader)')","[2755, 4296]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestFixedLengthInputStream')",[913]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_contenttype_equals_hashcode(org.jwat.common.TestContentType)')","[2290, 3988]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_linereader_headerlines(org.jwat.common.TestHeaderLineReader_LineReader)')","[2086, 3834]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestContentType')","[2248, 5414]"
+"('IPAddressParser.java', 'org.jwat.common.IPAddressParser', 'getAddress', '([0-9a-fA-F]{0,4}:){0,6}(([0-9a-fA-F]{0,4}:[0-9a-fA-F]{1,4})|(([0-9]{1,3}\\.){3}[0-9]{1,3}))', '999.999.999.999')",[5333]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_base16[0](org.jwat.common.TestBase16)')","[1020, 3255]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.Test_AdditionalReadMethods')","[1861, 5699]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestUtf8')","[2166, 5387]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestFieldValidator')","[2004, 5145]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_utf8_invalid(org.jwat.common.TestUtf8)')","[2187, 3900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_httpheader_request[1](org.jwat.common.TestHttpHeader_Request)')","[850, 3186]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_base64[1](org.jwat.common.TestBase64)')","[1253, 3347]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_headerlinereader_trim(org.jwat.common.TestHeaderLineReader_LineReader)')","[2107, 3856]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.TestScheme')","[1821, 5091]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jwat.common.Test_StreamsInStreams')",[699]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_fieldvalidator(org.jwat.common.TestFieldValidator)')","[2025, 3790]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_ipaddressparser(org.jwat.common.TestIPAddressParser)')","[2147, 3878]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_payload_httpresponse[1](org.jwat.common.TestPayloadHttpResponse)')","[464, 3002]"

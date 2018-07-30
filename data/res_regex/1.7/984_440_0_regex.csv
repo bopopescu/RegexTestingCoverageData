@@ -1,0 +1,25 @@
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[612, 1648, 2662, 3662, 4698, 5712, 6868, 7904, 8918]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRegister(org.mas.codehaus.finder.manager.UserServiceImplTest)')","[309, 328, 347, 6445, 6485, 6642, 6681, 6720, 9629, 9647]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserServiceImpl.class')","[1500, 4550, 7756]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCheckWeiboAccessToken(org.mas.codehaus.finder.manager.AccessTokenCheckImplTest)')","[216, 235, 254, 3395, 3435, 3514, 6564, 6603]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.mas.codehaus.finder.manager.UserServiceImplTest')",[271]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[982, 2018, 2977, 4032, 5068, 6027, 7238, 8274, 9233]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q984_440\\E', '984_440')","[760, 1796, 2788, 3810, 4846, 5838, 7016, 8052, 9044]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qorg\\E', 'org')","[1056, 2092, 3040, 4106, 5142, 6090, 7312, 8348, 9296]"
+"('RollingFileAppender.java', 'ch.qos.logback.core.rolling.RollingFileAppender', 'fileAndPatternCollide', 'logs/finder.\\d{4}-\\d{2}-\\d{2}.log', 'logs/finder.log')","[98, 140]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCheckQqAccessToken(org.mas.codehaus.finder.manager.AccessTokenCheckImplTest)')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCheckWeiboAccessToken(org.mas.codehaus.finder.manager.AccessTokenCheckImplTest)')",[197]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDao.class')","[3355, 6405, 9611]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCheckQqAccessToken(org.mas.codehaus.finder.manager.AccessTokenCheckImplTest)')","[55, 159, 178, 386, 425, 464, 3475, 6525]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qimpl\\E', 'impl')","[1426, 2462, 4476, 5512, 7682, 8718]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[908, 1944, 2914, 3958, 4994, 5964, 7164, 8200, 9170]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.mas.codehaus.finder.manager.AccessTokenCheckImplTest')",[17]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qfinder\\E', 'finder')","[834, 1278, 1870, 2314, 2851, 3229, 3884, 4328, 4920, 5364, 5901, 6279, 7090, 7534, 8126, 8570, 9107, 9485]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmanager\\E', 'manager')","[1352, 2388, 4402, 5438, 7608, 8644]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qdao\\E', 'dao')","[3292, 6342, 9548]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AccessTokenCheckServiceImpl.class')","[2536, 5586, 8792]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[538, 1574, 2599, 3588, 4624, 5649, 6794, 7830, 8855]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRegister(org.mas.codehaus.finder.manager.UserServiceImplTest)')",[290]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcodehaus\\E', 'codehaus')","[1204, 2240, 3166, 4254, 5290, 6216, 7460, 8496, 9422]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmas\\E', 'mas')","[1130, 2166, 3103, 4180, 5216, 6153, 7386, 8422, 9359]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[686, 1722, 2725, 3736, 4772, 5775, 6942, 7978, 8981]"

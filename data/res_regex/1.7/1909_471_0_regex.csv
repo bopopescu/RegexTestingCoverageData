@@ -1,0 +1,62 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasCity(br.com.realmtech.bean.TestAddress)')","[620, 641, 662]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasAddress(br.com.realmtech.bean.TestPerson)')","[1059, 1080, 1101]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestZipCode')","[2684, 2708, 2733, 2757]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestAddress')",[326]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'constructIncorrectEmpty(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1309, 2394]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasNumber(br.com.realmtech.bean.TestTelephone)')","[78, 99, 120, 2020]"
+"('TelephoneImpl.java', 'br.com.realmtech.bean.impl.TelephoneImpl', 'valueOf', '(\\((\\d{2})\\))?(\\d{4})-?(\\d{4})', '')",[3029]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestTelephone')","[2586, 2610, 2635, 2659]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasAreaCode(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1666, 1687, 1708]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'constructFromCorrectNumberCompleteFormat(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1393, 2415]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestAddress')","[2782, 2806, 2831, 2855]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasName(br.com.realmtech.bean.TestPerson)')","[975, 996, 1017]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'constructFromCorrectNumberWithAreacodeNoDash(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1498, 1519, 1540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasZipCode(br.com.realmtech.bean.TestAddress)')","[704, 725, 746]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasTelephone(br.com.realmtech.bean.TestPerson)')","[891, 912, 933, 2269]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasStreet(br.com.realmtech.bean.TestAddress)')","[368, 389, 410, 2123]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasName(br.com.realmtech.bean.TestPerson)')","[954, 2290]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'constructFromCorrectNumberCompleteFormat(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1414, 1435, 1456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestPerson')",[849]
+"('TelephoneImpl.java', 'br.com.realmtech.bean.impl.TelephoneImpl', 'valueOf', '(\\((\\d{2})\\))?(\\d{4})-?(\\d{4})', '33331234')",[3003]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasState(br.com.realmtech.bean.TestAddress)')","[431, 2144]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestPerson')","[2880, 2904, 2929, 2953]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasState(br.com.realmtech.bean.TestAddress)')","[452, 473, 494]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'constructFromCorrectNumberWithAreacodeNoDash(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1477, 2436]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestZipCode')",[223]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasAreaCode(br.com.realmtech.bean.TestTelephone)')","[141, 2041]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasStreet(br.com.realmtech.bean.TestAddress)')","[347, 2103]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasTelephone(br.com.realmtech.bean.TestPerson)')","[870, 2249]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasLast(br.com.realmtech.bean.TestName)')","[1853, 1874, 1895]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasToFormattedString(br.com.realmtech.bean.TestName)')","[1937, 1958, 1979]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestTelephone')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'constructFromCorrectNumberWithoutAreaCodeNoDash(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1246, 1267, 1288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasValue(br.com.realmtech.bean.TestZipCode)')","[244, 2062]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'constructIncorrectEmpty(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1330, 1351, 1372]"
+"('TelephoneImpl.java', 'br.com.realmtech.bean.impl.TelephoneImpl', 'valueOf', '(\\((\\d{2})\\))?(\\d{4})-?(\\d{4})', '(48)33331234')",[3079]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasAddress(br.com.realmtech.bean.TestPerson)')","[1038, 2311]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasCity(br.com.realmtech.bean.TestAddress)')","[599, 2186]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestName')",[1727]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'constructFromCorrectNumberWithoutAreaCodeNoDash(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1225, 2373]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasZipCode(br.com.realmtech.bean.TestAddress)')","[683, 2207]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasDistrict(br.com.realmtech.bean.TestAddress)')","[536, 557, 578]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'constructFromCorrectNumberWithoutAreaCode(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1162, 1183, 1204, 2352]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasFirst(br.com.realmtech.bean.TestName)')","[1748, 2499]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'constructFromCorrectNumberWithoutAreaCode(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1141, 2332]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasDistrict(br.com.realmtech.bean.TestAddress)')","[515, 2165]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasToFormattedString(br.com.realmtech.bean.TestName)')","[1916, 2561]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasNumber(br.com.realmtech.bean.TestAddress)')","[767, 2228]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasNumber(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1582, 1603, 1624]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.impl.TestTelephoneImpl')","[3104, 3128, 3153, 3177]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasValue(br.com.realmtech.bean.TestZipCode)')","[265, 286, 307, 2082]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasFirst(br.com.realmtech.bean.TestName)')","[1769, 1790, 1811, 2519]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.impl.TestTelephoneImpl')",[1120]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasAreaCode(br.com.realmtech.bean.TestTelephone)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasLast(br.com.realmtech.bean.TestName)')","[1832, 2540]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasNumber(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1561, 2457]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hasNumber(br.com.realmtech.bean.TestAddress)')","[788, 809, 830]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasNumber(br.com.realmtech.bean.TestTelephone)')","[57, 2000]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.com.realmtech.bean.TestName')","[3198, 3218, 3239, 3259]"
+"('TelephoneImpl.java', 'br.com.realmtech.bean.impl.TelephoneImpl', 'valueOf', '(\\((\\d{2})\\))?(\\d{4})-?(\\d{4})', '3333-1234')",[2978]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hasAreaCode(br.com.realmtech.bean.impl.TestTelephoneImpl)')","[1645, 2478]"
+"('TelephoneImpl.java', 'br.com.realmtech.bean.impl.TelephoneImpl', 'valueOf', '(\\((\\d{2})\\))?(\\d{4})-?(\\d{4})', '(48)3333-1234')",[3054]

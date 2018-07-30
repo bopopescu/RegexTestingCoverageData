@@ -1,0 +1,309 @@
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'br.com.caelum.vraptor.serialization.gson')",[1378]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[2146]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.QuerySenderListener')",[2861]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r.si')","[24329, 24913, 26325, 28467]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.XSLTResponseWriter')",[2911]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.StrField')",[2464]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z.nvm')","[40189, 42268]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l.nvd')","[11407, 12207, 13619, 15761]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m.fnm')","[12819, 14349, 16491]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t_Lucene41_0.tip')","[27337, 29489]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u.nvm')","[30413, 31193, 32605, 34747]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p_Lucene41_0.tip')","[19245, 20629, 22771]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.RealTimeGetComponent')",[3113]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.HtmlEncoder')",[4243]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h.nvm')",[4051]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k_Lucene41_0.tip')","[8331, 10430]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n.nvm')","[14757, 16929]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i_Lucene41_0.tim')","[4505, 5197, 6609, 8751]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y_Lucene41_0.doc')","[38455, 39980, 42122]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r_Lucene41_0.tim')","[24123, 24840, 26252, 28394]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.PatternValidator', 'isValid', '.*', 'used@gmail.com')",[44730]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i.fnm')","[4913, 5562, 6974, 9116]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j.nvm')","[6257, 7850, 9992]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'ClassicIndexSchemaFactory')",[2442]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k_Lucene41_0.pos')","[7991, 10138]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.LowerCaseFilterFactory')",[2712]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s_Lucene41_0.doc')","[25127, 26544, 28686]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t.fdt')","[27813, 30073]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m_Lucene41_0.tip')","[12547, 13911, 16053]"
+"('MamuteEnvironment.java', 'org.mamute.vraptor.environment.MamuteEnvironment', 'resolveEnv', '\\$\\{.+\\}', '20')","[49, 97, 146, 194, 243, 291, 340, 388, 437, 485, 534, 582, 631, 679, 728, 776]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.DumpRequestHandler')",[3372]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v_Lucene41_0.doc')","[31825, 33262, 35404]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.admin.CoreAdminHandler')",[2353]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h.nvd')",[3571]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r.fnm')","[23783, 24402, 25814, 27956]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t.si')","[27883, 29562]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z.si')","[40735, 42706]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f.nvm')",[3531]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g.fdt')",[3851]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q.si')","[21457, 22990]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t.fdx')","[27677, 29927]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v_Lucene41_0.tim')","[31893, 33408, 35550]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l_Lucene41_0.pos')","[11271, 12061, 13473, 15615]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.lucene.analysis.synonym.SolrSynonymParser')",[2828]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.UpdateRequestHandler')","[3147, 3165, 3182, 3200, 3217, 3235, 3252, 3270]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v.si')","[32167, 33335, 35477]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.BreakIteratorBoundaryScanner')",[4369]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g_Lucene41_0.pos')",[3551]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z_Lucene41_0.pos')","[40257, 42414]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l_Lucene41_0.doc')","[11067, 11769, 13181, 15323]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TrieIntField')",[2508]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z.nvd')","[40597, 42852]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z.fnm')","[40665, 42925]"
+"('SolrXMLCoresLocator.java', 'org.apache.solr.core.SolrXMLCoresLocator', 'buildTemplate', '^(.*<cores[^>]*>)(.*)(</cores>.*)$', '<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?>\n<solr sharedLib=""lib"" persistent=""true"">\n\t<cores adminPath=""/admin/cores"" hostPort=""${jetty.port:8983}"" hostContext=""${hostContext:solr}"">\n    \t<core default=""true"" instanceDir=""mamute"" name=""mamute""/>\n\t</cores>\n</solr>\n')",[1798]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k.fdx')","[8399, 10576]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p.fdx')","[18769, 20191, 22333]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g.nvd')",[3591]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.PingRequestHandler')",[3355]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w.si')","[34309, 35842]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u.fnm')","[30209, 30828, 32240, 34382]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f.si')",[3611]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r.fdt')","[23715, 24475, 25887, 28029]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.SimpleBoundaryScanner')",[4348]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t_Lucene41_0.doc')","[27473, 29708]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x_Lucene41_0.doc')","[36839, 37546, 38958, 41100]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h.fnm')",[3891]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g.si')",[3471]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x_Lucene41_0.tip')","[36975, 37692, 39104, 41246]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.admin.CollectionsHandler')",[2215]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o.nvd')","[17697, 18487, 19899, 22041]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u.fdx')","[30549, 31266, 32678, 34820]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x_Lucene41_0.pos')","[36703, 37327, 38739, 40881]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.SpellCheckComponent')",[2931]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o.fnm')","[17493, 18049, 19461, 21603]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.SchemaCodecFactory')",[2877]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o.nvm')","[17357, 18195, 19607, 21749]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j_Lucene41_0.tip')","[6121, 7704, 9846]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s.fdx')","[25195, 26690, 28832]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w_Lucene41_0.pos')","[33899, 36061]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l.fnm')","[11135, 11696, 13108, 15250]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h_Lucene41_0.doc')",[4031]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'DocumentDictionaryFactory')",[4141]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x.fnm')","[36771, 37254, 38666, 40808]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j_Lucene41_0.pos')","[5985, 7412, 9554]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o.fdt')","[17289, 17976, 19388, 21530]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p_Lucene41_0.doc')","[18905, 20410, 22552]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h.fdt')",[3731]
+"('MamuteEnvironment.java', 'org.mamute.vraptor.environment.MamuteEnvironment', 'resolveEnv', '\\$\\{.+\\}', 'true')","[1509, 1579]"
+"('EmailValidator.java', 'org.hibernate.validator.internal.constraintvalidators.EmailValidator', 'matchPart', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*"", 'valid')","[44609, 44971, 45152, 45333, 45575, 45756, 45937, 46118]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i.nvd')","[4573, 5270, 6682, 8824]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TermsComponent')",[2991]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p.si')","[19315, 20775, 22917]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TrieLongField')",[2552]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p.nvm')","[18701, 20118, 22260]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f_Lucene41_0.pos')",[3491]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y_Lucene41_0.tip')","[38115, 39542, 41684]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m.nvd')","[12343, 13838, 15980]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k.nvd')","[8059, 10211]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r_Lucene41_0.doc')","[24259, 24986, 26398, 28540]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q_Lucene41_0.pos')","[20911, 23063]"
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'br.com.caelum.vraptor.http.ParanamerNameProvider')",[1438]
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.PatternValidator', 'isValid', '.*', 'valid@gmail.com')","[44549, 44911, 45092, 45273, 45515, 45696, 45877, 46058]"
+"('EmailValidator.java', 'org.hibernate.validator.internal.constraintvalidators.EmailValidator', 'matchPart', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\]"", 'gmail.com')","[44669, 44850, 45031, 45212, 45393, 45635, 45816, 45997, 46178]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k.fnm')","[8535, 10722]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o.fdx')","[17561, 18341, 19753, 21895]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u.nvd')","[30685, 31485, 32897, 35039]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.BoolField')",[2486]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f.fnm')",[4011]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i.fdt')","[4981, 5708, 7120, 9262]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.tartarus.snowball.ext.EnglishStemmer')",[2807]
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'org.mamute.infra.rss.job.InfoQRSSJob')",[1078]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l_Lucene41_0.tim')","[10931, 11623, 13035, 15177]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i_Lucene41_0.pos')","[4641, 5416, 6828, 8970]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k.fdt')","[8195, 10357]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j.nvd')","[5917, 7339, 9481]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h_Lucene41_0.pos')",[4071]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n_Lucene41_0.tim')","[14485, 16637]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.StandardTokenizerFactory')",[2687]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.QueryComponent')",[3028]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x.fdx')","[36907, 37765, 39177, 41319]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n.fdt')","[14689, 17002]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v_Lucene41_0.tip')","[31621, 33043, 35185]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i_Lucene41_0.tip')","[4709, 5343, 6755, 8897]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y.si')","[38593, 39688, 41830]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.DirectUpdateHandler2')",[3405]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p.nvd')","[18837, 20483, 22625]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q.nvm')","[20843, 23136]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.StatsComponent')",[3079]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s.fdt')","[25331, 26763, 28905]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n.si')","[15031, 16783]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u.si')","[30755, 31412, 32824, 34966]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TrieDoubleField')",[2574]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t.fnm')","[27405, 29635]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q.fnm')","[21251, 23428]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v.fnm')","[32097, 33554, 35696]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s_Lucene41_0.pos')","[25535, 27055, 29197]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u_Lucene41_0.doc')","[30481, 31120, 32532, 34674]"
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'org.mamute.model')",[958]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w_Lucene41_0.doc')","[34239, 36499]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.JSONResponseWriter')",[2894]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s.fnm')","[25467, 26982, 29124]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.RealTimeGetHandler')",[3304]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.ExpandComponent')",[3130]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v_Lucene41_0.pos')","[31961, 33481, 35623]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p_Lucene41_0.tim')","[18973, 20337, 22479]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.UpdateRequestHandler')",[3321]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f.fdt')",[3971]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.admin.InfoHandler')",[2284]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m.si')","[12889, 13692, 15834]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'FuzzyLookupFactory')",[4123]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[2053]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.SingleFragListBuilder')",[4285]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i.fdx')","[4777, 5489, 6901, 9043]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z_Lucene41_0.doc')","[40461, 42633]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', 'segments_k')",[3951]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s_Lucene41_0.tim')","[25263, 26617, 28759]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n.fnm')","[14893, 17148]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', '{\n  ""id"": ""100001959511194"", \n  ""name"": ""Francisco Sokol"", \n  ""first_name"": ""Francisco"", \n  ""last_name"": ""Sokol"", \n  ""link"": ""http://www.facebook.com/francisco.sokol"", \n  ""username"": ""francisco.sokol"", \n  ""birthday"": ""02/07/1989"", \n  ""location"": {\n    ""id"": ""112047398814697"", \n    ""name"": ""São Paulo, Brazil""\n  }, \n  ""gender"": ""male"", \n  ""email"": ""chico@brutal.com"", \n  ""timezone"": -3, \n  ""locale"": ""en_US"", \n  ""verified"": true, \n  ""updated_time"": ""2013-01-13T13:51:25+0000""\n}')",[838]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y.nvd')","[38047, 39469, 41611]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l.fdx')","[11203, 11988, 13400, 15542]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k_Lucene41_0.tim')","[8127, 10284]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.SynonymFilterFactory')",[2762]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v.fdt')","[31757, 33116, 35258]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g.fdx')",[3931]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q_Lucene41_0.tip')","[20979, 23209]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y.fdx')","[38183, 39615, 41757]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.SimpleFragListBuilder')",[4264]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t_Lucene41_0.tim')","[27269, 29416]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f.nvd')",[3631]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s.nvm')","[25399, 26836, 28978]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.WordBreakSolrSpellChecker')",[4105]
+"('EmailValidator.java', 'org.hibernate.validator.internal.constraintvalidators.EmailValidator', 'matchPart', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*"", 'used')",[44790]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t.nvm')","[27609, 29854]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p.fdt')","[19109, 20556, 22698]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.DirectSolrSpellChecker')",[4088]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z_Lucene41_0.tim')","[40393, 42560]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.ScoreOrderFragmentsBuilder')",[4327]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.MoreLikeThisComponent')",[3062]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m.fdx')","[12683, 14203, 16345]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.LRUCache')",[2389]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p_Lucene41_0.pos')","[19177, 20702, 22844]"
+"('MamuteEnvironment.java', 'org.mamute.vraptor.environment.MamuteEnvironment', 'resolveEnv', '\\$\\{.+\\}', '2000')","[42977, 43028, 43080, 43131, 43182, 43232, 43283, 43333, 43383, 43432, 43482, 43531, 43581, 43630, 43680, 43729]"
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'br.com.caelum.vraptor.observer.upload.NullMultipartObserver')",[1258]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w_Lucene41_0.tip')","[33763, 35915]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y_Lucene41_0.tim')","[38523, 40053, 42195]"
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'org.mamute.integration')",[898]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i_Lucene41_0.doc')","[4437, 5124, 6536, 8678]"
+"('EmailValidator.java', 'org.hibernate.validator.internal.constraintvalidators.EmailValidator', 'matchPart', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*"", 'artur.adam')","[43905, 44080, 44255, 44430]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.BinaryField')",[2618]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TextField')",[2662]
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'br.com.caelum.vraptor.serialization.xstream')",[1318]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z_Lucene41_0.tip')","[40529, 42779]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o_Lucene41_0.pos')","[17833, 18633, 20045, 22187]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.HttpShardHandlerFactory')",[1867]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q.nvd')","[21387, 23574]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v.nvm')","[32029, 33627, 35769]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j_Lucene41_0.tim')","[6393, 7923, 10065]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TermVectorComponent')",[2971]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u_Lucene41_0.tip')","[30141, 30901, 32313, 34455]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s.si')","[25741, 26909, 29051]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w.fdx')","[34035, 36280]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[1960]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k.si')","[8605, 10795]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h.fdx')",[3831]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.ReplicationHandler')",[3389]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o_Lucene41_0.tip')","[17629, 18268, 19680, 21822]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j.fnm')","[6189, 7631, 9773]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q.fdt')","[21319, 23647]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j.fdx')","[5849, 7266, 9408]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g.fnm')",[3691]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m_Lucene41_0.pos')","[12615, 14130, 16272]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q_Lucene41_0.tim')","[21047, 23282]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j_Lucene41_0.doc')","[6325, 7777, 9919]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k_Lucene41_0.doc')","[8467, 10649]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x_Lucene41_0.tim')","[37043, 37838, 39250, 41392]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.FacetComponent')",[3045]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r_Lucene41_0.tip')","[24055, 24694, 26106, 28248]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_k.nvm')","[8263, 10503]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.RegexFragmenter')",[4201]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.NoOpRegenerator')",[2426]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r_Lucene41_0.pos')","[23851, 24548, 25960, 28102]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w_Lucene41_0.tim')","[33967, 36207]"
+"('MamuteEnvironment.java', 'org.mamute.vraptor.environment.MamuteEnvironment', 'resolveEnv', '\\$\\{.+\\}', 'en')","[1649, 1718]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n.fdx')","[14825, 17075]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z.fdt')","[40121, 42341]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w.fdt')","[33695, 35988]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y.fdt')","[37979, 39396, 41538]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.NRTCachingDirectoryFactory')",[2844]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n_Lucene41_0.tip')","[14621, 16856]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n_Lucene41_0.pos')","[14553, 16710]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f_Lucene41_0.tip')",[3651]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w.nvm')","[34103, 36426]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v.fdx')","[31689, 33189, 35331]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.PatternValidator', 'isValid', '.*', 'invalidgmail.com')",[45454]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.RandomSortField')",[2640]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q_Lucene41_0.doc')","[21183, 23501]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l_Lucene41_0.tip')","[10863, 11550, 12962, 15104]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.search.LRUCache')",[2407]
+"('EmailValidator.java', 'org.hibernate.validator.internal.constraintvalidators.EmailValidator', 'matchPart', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\]"", 'email.com.br')","[43963, 44138, 44313, 44488]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m.fdt')","[12411, 14057, 16199]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.PatternValidator', 'isValid', '.*', 'invalidEmail')",[43788]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u_Lucene41_0.tim')","[30345, 31047, 32459, 34601]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f.fdx')",[3991]
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'com.google.common.util.concurrent.MoreExecutors$SameThreadExecutorService')",[1138]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w.fnm')","[34171, 36353]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x.si')","[37181, 37619, 39031, 41173]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f_Lucene41_0.doc')",[3711]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r.fdx')","[23919, 24621, 26033, 28175]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m_Lucene41_0.tim')","[12275, 13765, 15907]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t.nvd')","[27541, 29781]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g_Lucene41_0.tip')",[3671]
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.PatternValidator', 'isValid', '.*', 'artur.adam@email.com.br')","[43847, 44022, 44197, 44372]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.GapFragmenter')",[4180]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.SuggestComponent')",[2951]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.SnowballPorterFilterFactory')",[2737]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.WeightedFragListBuilder')",[4306]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.HighlightComponent')",[3011]
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserver')",[1198]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TrieFloatField')",[2530]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h_Lucene41_0.tim')",[3911]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o.si')","[17903, 18414, 19826, 21968]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n.nvd')","[14961, 17221]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.lucene.index.ConcurrentMergeScheduler')",[3451]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x.nvd')","[37111, 37911, 39323, 41465]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g.nvm')",[3511]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j.si')","[6463, 7485, 9627]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l.nvm')","[10999, 11842, 13254, 15396]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.TrieDateField')",[2596]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x.nvm')","[36635, 37400, 38812, 40954]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_t_Lucene41_0.pos')","[27745, 30000]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.SearchHandler')",[3287]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.admin.AdminHandlers')",[3338]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u.fdt')","[30617, 31339, 32751, 34893]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.lucene.index.TieredMergePolicy')",[3428]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_x.fdt')","[36567, 37473, 38885, 41027]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_p.fnm')","[19041, 20264, 22406]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l.fdt')","[11339, 12134, 13546, 15688]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g_Lucene41_0.doc')",[3751]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m.nvm')","[12751, 14276, 16418]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_l.si')","[11477, 11915, 13327, 15469]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o_Lucene41_0.tim')","[17425, 18122, 19534, 21676]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s_Lucene41_0.tip')","[25603, 27128, 29270]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_o_Lucene41_0.doc')","[17765, 18560, 19972, 22114]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_s.nvd')","[25671, 27201, 29343]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_n_Lucene41_0.doc')","[14417, 16564]"
+"('FilterPredicate.java', 'org.jboss.weld.metadata.FilterPredicate$CDI11Matcher', '<init>', '([\\p{L}_$][\\p{L}\\p{N}_$]*\\.)*[\\p{L}_$][\\p{L}\\p{N}_$]*', 'org.mamute.infra.rss.job.OndeTrabalharRSSJob')",[1018]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_w.nvd')","[33831, 36134]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_m_Lucene41_0.doc')","[12479, 13984, 16126]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h_Lucene41_0.tip')",[3871]
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.handler.component.DebugComponent')",[3096]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r.nvm')","[24191, 25059, 26471, 28613]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_g_Lucene41_0.tim')",[3771]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_u_Lucene41_0.pos')","[30277, 30974, 32386, 34528]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_z.fdx')","[40325, 42487]"
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_h.si')",[3811]
+"('IndexFileDeleter.java', 'org.apache.lucene.index.IndexFileDeleter', '<init>', '_[a-z0-9]+(_.*)?\\..*', '_f_Lucene41_0.tim')",[3791]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_v.nvd')","[31553, 32970, 35112]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_j.fdt')","[6053, 7558, 9700]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'org.apache.solr.highlight.DefaultSolrHighlighter')",[4159]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i.si')","[5051, 5781, 7193, 9335]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_r.nvd')","[23987, 24767, 26179, 28321]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y.fnm')","[38387, 39907, 42049]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_i.nvm')","[4845, 5635, 7047, 9189]"
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y_Lucene41_0.pos')","[38251, 39761, 41903]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.StopFilterFactory')",[2787]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_q.fdx')","[21115, 23355]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.highlight.HtmlFormatter')",[4222]
+"('SegmentInfo.java', 'org.apache.lucene.index.SegmentInfo', 'checkFileNames', '_[a-z0-9]+(_.*)?\\..*', '_y.nvm')","[38319, 39834, 41976]"
+"('SolrResourceLoader.java', 'org.apache.solr.core.SolrResourceLoader', 'findClass', '((\\Qorg.apache.solr.analysis.\\E)|(\\Qsolr.\\E))([\\p{L}_$][\\p{L}\\p{N}_$]+?)(TokenFilter|Filter|Tokenizer|CharFilter)Factory', 'solr.FastLRUCache')",[2371]

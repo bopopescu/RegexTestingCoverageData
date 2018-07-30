@@ -1,0 +1,70 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(com.appjangle.qunit.tests.TestSslPage)')",[41]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827566264')","[5554, 5660]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827565886')","[4920, 5086]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827568405')","[6234, 6340]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831168523')","[6500, 6604]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831168405')","[6288, 6392]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831162867')","[1279, 1383]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831169244')","[9002, 9184]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv4Address', '^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$', 'www.google-analytics.com')",[8398]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'appjangle.com')","[1125, 11465]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827568190')","[6022, 6128]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827568631')","[6658, 6764]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'fonts.googleapis.com')",[3574]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', 'Sat, 13 Jan 2018 07:12:44 GMT')","[3758, 3840]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831164421')","[4008, 4172]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')","[518, 7487, 10572]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827574337')","[11593, 11703]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', 'Sun, 17 May 1998 03:00:00 GMT')",[9275]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831175084')","[12477, 12629]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[290, 402, 638, 758, 872, 980, 2157, 2377, 2601, 2829, 3051, 3267, 7119, 7301, 7677, 7867, 8051, 8229, 10240, 10404, 10744, 10916, 11082, 11242]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.appjangle.qunit.tests.TestQUnitEmbedding')","[9868, 9891, 9915, 9938]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(com.appjangle.qunit.tests.TestSslPage)')",[21]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', 'Mon, 13 Nov 2017 20:19:12 GMT')","[8625, 8753]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831163127')","[1551, 1715]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(com.appjangle.qunit.tests.TestSslScript)')",[103]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.appjangle.qunit.tests.TestSslScript')","[12650, 12670, 12691, 12711]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[197]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', 'Thu, 31 Dec 2037 23:55:55 GMT')","[9572, 9680, 9764, 9844, 10050, 10158, 12169, 12321]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827568715')","[6870, 6976]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(com.appjangle.qunit.tests.TestSslScript)')",[123]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831165722')","[4672, 4836]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.appjangle.qunit.tests.TestSslPage')","[9390, 9413, 9437, 9460]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827562867')","[1225, 1331]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831165886')","[5004, 5168]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827567690')","[5777, 5905]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827564421')","[3924, 4090]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv4Address', '^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$', 'fonts.googleapis.com')",[3474]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827569244')","[8909, 9093]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827566050')","[5252, 5418]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827563127')","[1467, 1633]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827568523')","[6446, 6552]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831164039')","[1883, 2047]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', 'Fri, 01 Jan 1990 00:00:00 GMT')",[9366]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831166050')","[5336, 5500]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831174478')","[11887, 12013]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831168715')","[6924, 7028]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', 'Sat, 13 Jan 2018 08:22:27 GMT')","[8690, 8816]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831164569')","[4340, 4504]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', 'Fri, 24 Oct 2014 00:16:08 GMT')","[9516, 9626, 9722, 9804, 9994, 10104, 12091, 12245]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827575084')","[12399, 12553]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'appjangle.com')","[1171, 11537]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_simple_tests(com.appjangle.qunit.tests.TestQUnitEmbedding)')",[82]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827564569')","[4256, 4422]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827565722')","[4588, 4754]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827564039')","[1799, 1965]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'www.google-analytics.com')",[8479]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827574478')","[11822, 11950]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[160]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[346, 458, 698, 818, 926, 1034, 2267, 2487, 2715, 2943, 3159, 3375, 7210, 7392, 7772, 7962, 8140, 8318, 10322, 10486, 10830, 11002, 11162, 11322]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831167690')","[5842, 5968]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[234]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831168631')","[6712, 6816]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv4Address', '^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$', 'appjangle.com')","[1079, 11393]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831166264')","[5608, 5712]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'www.google-analytics.com')",[8560]
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515831168190')","[6076, 6180]"
+"('Cache.java', 'com.gargoylesoftware.htmlunit.Cache', 'parseDateHeader', '-?\\d+', '1515827575337')","[11649, 11757]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'fonts.googleapis.com')",[3674]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_simple_tests(com.appjangle.qunit.tests.TestQUnitEmbedding)')",[62]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')","[578, 7582, 10658]"

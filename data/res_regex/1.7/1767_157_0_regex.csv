@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test1(com.lejingw.apps.myjpa.rawjpa.JpaTest)')","[160, 388]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.lejingw.apps.myjpa.rawjpa.JpaTest')","[470, 490, 511, 531]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test1(com.lejingw.apps.myjpa.springjpa.SpringJpaTest)')","[57, 347]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.lejingw.apps.myjpa.springjpa.SpringJpaTest')","[552, 572, 593, 613]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test1(com.lejingw.apps.myjpa.springjpa.SpringJpaTest)')","[78, 99, 120, 367]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.lejingw.apps.myjpa.rawjpa.JpaTest')",[139]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.lejingw.apps.myjpa.springjpa.SpringJpaTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.lejingw.apps.myjpa.springdatajpa.SpringDataJpaTest')",[242]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test1(com.lejingw.apps.myjpa.springdatajpa.SpringDataJpaTest)')","[284, 305, 326, 449]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test1(com.lejingw.apps.myjpa.springdatajpa.SpringDataJpaTest)')","[263, 429]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test1(com.lejingw.apps.myjpa.rawjpa.JpaTest)')","[181, 202, 223, 408]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.lejingw.apps.myjpa.springdatajpa.SpringDataJpaTest')","[634, 654, 675, 695]"

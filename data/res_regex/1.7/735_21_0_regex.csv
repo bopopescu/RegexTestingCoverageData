@@ -1,0 +1,69 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'br.ufc.lia.qef.sparql.JoinQueryManipulationTest')","[101, 229, 6969]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://jena.hpl.hp.com/#arq')",[4710]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', ')')","[1024, 1366, 1480, 3038, 3798]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '!')",[3380]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '[')","[644, 1252, 1556, 1860, 2012, 2164, 2430, 2582, 2886, 3152, 3418, 3532, 3646, 3836, 3988, 4292]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'br.ufc.lia.qef.datasource.SparqlEndpointDataSourceTest')","[57, 332, 4979]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://dblp.l3s.de/d2r/resource/authors/V%C3%A2nia_Maria_Ponte_Vidal')","[5864, 6657]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '{1,31')",[4178]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'TestSuite')",[36]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', ':')","[3760, 4254]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'host')",[1746]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://dblp.l3s.de/d2r/resource/authors/Jos%C3%A9_Ant%C3%B4nio_Fernandes_de_Mac%C3%AAdo')","[5929, 6722]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSparqlEndpointDataSource(br.ufc.lia.qef.datasource.SparqlEndpointDataSourceTest)')","[80, 353, 375, 568]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '|')","[1442, 1822, 1974]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'rR')",[3570]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'nN')",[3684]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'type')",[986]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://www.w3.org/2005/xpath-functions#')","[5199, 5243]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'file:///home/pwang7/RepoReaper/735_21/')",[4628]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[4839]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://example/ns#')",[5287]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '=')",[1100]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '@{')","[872, 1138, 1708]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'A-Z0-9.+_')","[2278, 2696]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBindVariables1(br.ufc.lia.qef.sparql.JoinQueryManipulationTest)')","[170, 292, 441, 526]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '?')",[3076]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://www.w3.org/2001/XMLSchema#')",[5111]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'A-Z')","[2088, 2506]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://example/')",[5331]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '-')","[2202, 2620, 4026]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetKey(br.ufc.lia.qef.sparql.JoinQueryManipulationTest)')","[147, 271, 419, 505]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '*')","[758, 1898, 2354, 2772, 3266]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '/')","[2392, 2848]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')",[5023]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '+@')",[1670]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetInnerSharedVarsPositions(br.ufc.lia.qef.sparql.JoinQueryManipulationTest)')","[124, 250, 397, 484]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', ';')",[834]
+"('ComponentPattern.java', 'org.apache.jena.iri.impl.ComponentPattern', 'analyse', '[^;~]*', '/home/pwang7/RepoReaper/735_21/')",[4669]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[4953]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://purl.org/dc/elements/1.1/')","[5373, 5415, 5457, 5501, 5544, 5647, 5691, 5734, 6166, 6208, 6250, 6294, 6337, 6440, 6484, 6527]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBindVariables2(br.ufc.lia.qef.sparql.JoinQueryManipulationTest)')","[193, 313, 463, 547]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'a-z')","[2050, 2240, 2468, 2658, 3874, 4064]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'uU')",[3456]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[4896]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'A-Z0-9')","[3912, 4102]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '+')","[3000, 4406]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://dblp.l3s.de/d2r/resource/authors/Karin_Koogan_Breitman')","[5994, 6787]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '^/~')",[4330]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', '')","[4443, 4480, 4517, 4554]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://jena.hpl.hp.com/ARQ#')",[4590]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://dblp.l3s.de/d2r/resource/authors/Ana_Maria_de_Carvalho_Moura')","[6124, 6917]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 210]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '')","[606, 1518, 3114, 3304]"
+"('HttpQuery.java', 'com.hp.hpl.jena.sparql.engine.http.HttpQuery', 'init', '.+[&|\\?]query=.*', 'http://pt.dbpedia.org/sparql')","[4782, 6947]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'shouldLowerCase')",[1176]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '(')","[796, 948, 1214, 2810]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '(?')",[3342]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '}')","[1062, 1404, 1784, 4216]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'aid')",[1290]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://dblp.l3s.de/d2r/resource/authors/Marco_A._Casanova')","[5605, 5799, 6398, 6592]"
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://www.w3.org/2002/07/owl#')",[5155]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://www.w3.org/2000/01/rdf-schema#')",[5067]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '^;~')","[682, 3190]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', 'mustLowerCase')",[910]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '0-9')",[2924]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://jena.apache.org/#riot')",[4752]
+"('Parser.java', 'org.apache.jena.iri.impl.Parser', '<init>', '(([^:/?#]*):)?(//((([^/?#@]*)@)?(\\[[^/?#]*\\]|([^/?#:]*))?(:([^/?#]*))?))?([^#?]*)?(\\?([^#]*))?(#(.*))?', 'http://dblp.l3s.de/d2r/resource/authors/Fabio_Porto')","[6059, 6852]"
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', '^@')",[1594]
+"('ComponentPatternParser.java', 'org.apache.jena.iri.impl.ComponentPatternParser', 'classify', '([(](?![?]))|([(][?])|([)])|(\\[)|(\\])|([@][{])|([}]|[a-z]-[a-z])', ']')","[720, 1328, 1632, 1936, 2126, 2316, 2544, 2734, 2962, 3228, 3494, 3608, 3722, 3950, 4140, 4368]"

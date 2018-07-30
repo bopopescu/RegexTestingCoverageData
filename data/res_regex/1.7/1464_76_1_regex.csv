@@ -1,0 +1,214 @@
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-tika-msoffice-embedded;format=comp_obj')",[8483]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGlobalKey(com.dievision.sinicum.server.resources.CacheResourceTest)')","[244, 5528]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindAvailableComponentsForSubArea(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2704, 2725, 2746]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/_navigation/parents/0/01/010')",[8531]
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/.*', '/.*')",[11050]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NodeApiWrapper4Test')","[10954, 10978, 11003, 11027]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJsonContainsContentNodes(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4691, 6858]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCaseInsensivityNull(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4441, 4462, 4483]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.templating.DialogResolverTest')","[10464, 10488, 10513, 10537]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSubAreaCreated(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2767, 6316]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDamLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1160, 5838]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=topic')","[7210, 7478]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/([^/]+)(/.*)?', '/website/_query')","[9067, 9214]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComponentParentPathElement(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3458, 6504]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPageParentPathElement(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3122, 6420]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_query(/)?', '/_query')","[9142, 9289]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.NavigationResourceTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPageComponentResolution(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[2954, 6378]"
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/something.*', '/some')",[11165]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAreaCreated(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2515, 6253]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLimitAndOffset(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4000, 6670]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOneLevelNavigationUuidBase(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1870, 6046]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testQuery(com.dievision.sinicum.server.resources.NodeResourceTest)')","[347, 5569]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAreaInitializer(com.dievision.sinicum.server.resources.TemplatingResourceTest)')","[702, 5693]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testJsonContainsNoNodesOfSameType(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4796, 4817, 4838]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMultisiteLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1244, 5859]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPageParentPathElement(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3143, 3164, 3185]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetRequest(com.dievision.sinicum.server.JackrabbitRestServletTest)')","[826, 847, 868, 5734]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-tika-msoffice-embedded;format=ole10_native')",[8416]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.templating.ComponentIdTest')",[2849]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-Gnumeric-spreadsheet')",[7612]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDefaultPattern(com.dievision.sinicum.server.filters.ProxyFilterConfigTest)')","[5298, 7005]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReturnCacheKey(com.dievision.sinicum.server.jcr.caching.GlobalRepositoryStateTest)')","[1431, 5901]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHandlesNestedProperties(com.dievision.sinicum.server.jcr.NavigationElementTest)')","[2141, 6129]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.filters.ProxyFilterConfigTest')","[11232, 11252, 11273, 11293]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComponentsForPage(com.dievision.sinicum.server.resources.TemplatingResourceTest)')","[555, 576, 597, 5651]"
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/.*', '/something')",[11073]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCorrectElements(com.dievision.sinicum.server.jcr.ParentNavigationProviderTest)')","[3561, 6525]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInclusionOfJcrProperties(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[5048, 5069, 5090]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindRightDialog(com.dievision.sinicum.server.jcr.templating.DialogResolverTest)')","[2244, 6150]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAreaCreated(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2536, 2557, 2578]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpdateCacheKey(com.dievision.sinicum.server.jcr.caching.GlobalRepositoryStateTest)')","[1515, 5942]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCaseInsensivityJcrSql2(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4252, 6733]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/parents/(.+)(/)?', '/parents/0/01/010')",[8605]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/_cache/global')",[8824]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCaseInsensivitySomethingElse(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4504, 6796]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDialogsForComponent(com.dievision.sinicum.server.resources.TemplatingResourceTest)')","[618, 5672]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPageType(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[2870, 6337]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCaseInsensivitySql(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4168, 6712]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPageType(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[2891, 2912, 2933, 6357]"
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/something.*', '/other')",[11188]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCorrectProperties(com.dievision.sinicum.server.jcr.ParentNavigationProviderTest)')","[3666, 3687, 3708]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testQuery(com.dievision.sinicum.server.resources.NodeResourceTest)')","[368, 389, 410, 5589]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComponentPath(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3374, 6483]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.CacheResourceTest')",[223]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComponentsForPage(com.dievision.sinicum.server.resources.TemplatingResourceTest)')","[534, 5631]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCorrectElements(com.dievision.sinicum.server.jcr.ParentNavigationProviderTest)')","[3582, 3603, 3624, 6545]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParentDirectionResponseFormat(com.dievision.sinicum.server.resources.NavigationResourceTest)')","[78, 99, 120, 5486]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetNewPattern(com.dievision.sinicum.server.filters.ProxyFilterConfigTest)')","[5403, 5424, 5445]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPagePath(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3038, 6399]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/_templating/components/myModule/homepage/main')",[9411]
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/something.*', '/something')",[11096]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUpdateCacheKey(com.dievision.sinicum.server.jcr.caching.GlobalRepositoryStateTest)')","[1536, 1557, 1578]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/website/_query')","[9043, 9190]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReturnsCorrectProperties(com.dievision.sinicum.server.jcr.NavigationElementTest)')","[2057, 6088]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/areas/initialize(/)?', '/dialogs/page/myModule/homepage')",[9606]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest')",[887]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/_templating/dialogs/page/myModule/homepage')",[9533]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NodeQueryManagerTest')","[10856, 10880, 10905, 10929]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCorrectSizeOfElements(com.dievision.sinicum.server.jcr.ParentNavigationProviderTest)')","[3750, 3771, 3792]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/global(/)?', '/global')",[8897]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCaseInsensivityXPath(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4105, 4126, 4147]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=val')",[7545]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCaseInsensivityJqm(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4336, 6754]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testElementWithProperties(com.dievision.sinicum.server.resources.NavigationResourceTest)')","[141, 5507]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-itanium')",[8014]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testJsonContainsProperties(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4628, 4649, 4670, 6837]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOneLevelNavigationPathBase(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1954, 6067]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComponentComponentResolution(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3227, 3248, 3269]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.JackrabbitRestServletTest')",[784]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParentDirectionResponseFormat(com.dievision.sinicum.server.resources.NavigationResourceTest)')","[57, 5466]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTwoLevelMultisiteLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1328, 5880]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe32')",[7746]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCaseInsensivityJcrSql2(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4273, 4294, 4315]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMultiReplacement(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[992, 5796]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testHandlesNestedProperties(com.dievision.sinicum.server.jcr.NavigationElementTest)')","[2162, 2183, 2204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.ParentNavigationProviderTest')",[3540]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/_cache/global')",[8848]
+"('GlobalRepositoryStateTest.java', 'com.dievision.sinicum.server.jcr.caching.GlobalRepositoryStateTest', 'testReturnCacheKey', '.{40}', '845e052329fed595c781f02c530a9733b6535c7c')","[10122, 10145]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDateHandling(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[5111, 6963]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=concept')",[7411]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUuidBasedLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[908, 5755]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.TemplatingResourceTest')","[9778, 9802, 9827, 9851]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCaseInsensivityNull(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4420, 6775]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSubAreaCreated(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2788, 2809, 2830]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComponentComponentResolution(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3206, 6441]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe')","[7679, 7813, 7947, 8081, 8215, 8349]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_templating(/.*)?', '/_templating/dialogs/page/myModule/homepage')",[9581]
+"('WysiwygTemplateTranslatorTest.java', 'com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest', 'testDamLink', 'Start /damfiles/default/file-[a-f0-9]{32}.pdf End', 'Start /damfiles/default/file-e917a1dc11c5e317fc011ade8ef87a64.pdf End')","[9975, 10000]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOneLevelNavigationUuidBase(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1891, 1912, 1933]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.caching.GlobalRepositoryStateTest')","[10170, 10194, 10219, 10243]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPageComponentResolution(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[2975, 2996, 3017]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.NavigationResourceTest')","[8727, 8751, 8776, 8800]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInclusionOfJcrProperties(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[5027, 6942]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDamLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1181, 1202, 1223]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=task')","[7277, 7344]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInclusionOfDocumentInDms(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4964, 4985, 5006]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_cache(/.*)?', '/_cache/global')",[8872]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_uuid/([^/]+)(/)?', '/_query')","[9117, 9264]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMultiValueNodes(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[5216, 5237, 5258]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUuidBasedLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[929, 950, 971, 5775]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-arm7')",[8282]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.NodeResourceTest')",[326]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NavigationElementTest')","[10366, 10390, 10415, 10439]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindPageToNode(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2368, 2389, 2410, 6211]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindSubArea(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2620, 2641, 2662]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NavigationProviderTest')",[1597]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReturnsCorrectNodes(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1618, 5963]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDmsLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1076, 5817]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOffset(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[3916, 6649]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.templating.AreaInitializerTest')",[2326]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCaseInsensivitySomethingElse(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4525, 4546, 4567]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/children/(.+)(/)?', '/parents/0/01/010')",[8580]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.CacheResourceTest')","[8922, 8946, 8971, 8995]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/components/([^/]+)/([^/]+)/(.+)(/)?', '/components/myModule/homepage/main')",[9509]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/website/_query')","[9019, 9166]"
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/something.*', '/somethingnew')",[11119]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindAvailableComponentsForSubArea(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2683, 6295]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCorrectProperties(com.dievision.sinicum.server.jcr.ParentNavigationProviderTest)')","[3645, 6566]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.JackrabbitRestServletTest')","[9876, 9900, 9925, 9949]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComponentType(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3290, 6462]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReturnsCorrectProperties(com.dievision.sinicum.server.jcr.NavigationElementTest)')","[2078, 2099, 2120, 6108]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/something.*', '/')",[11211]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPagePath(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3059, 3080, 3101]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testJsonContainsMetadata(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4880, 4901, 4922]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testJsonContainsContentNodes(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4712, 4733, 4754]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NodeApiWrapper4Test')",[4586]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest')","[10025, 10049, 10074, 10098]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/_templating/areas/initialize')",[9680]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_navigation(/.*)?', '/_navigation/children/c57c19b2-8640-4258-bd46-f56cfdaa65a4')",[8677]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLimit(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[3832, 6608]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReturnsMultipleLevels(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1786, 6025]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJsonContainsMetadata(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4859, 6900]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/_navigation/children/c57c19b2-8640-4258-bd46-f56cfdaa65a4')",[8653]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComponentParentPathElement(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3479, 3500, 3521]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testElementWithProperties(com.dievision.sinicum.server.resources.NavigationResourceTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJsonContainsProperties(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4607, 6817]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMultiReplacement(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1013, 1034, 1055]"
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '2.3.23')",[7076]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComponentType(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3311, 3332, 3353]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/_templating/areas/initialize')",[9704]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAreaInitializer(com.dievision.sinicum.server.resources.TemplatingResourceTest)')","[723, 744, 765]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLimitAndOffset(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4021, 4042, 4063]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.TemplatingResourceTest')",[513]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.templating.ComponentIdTest')","[10660, 10684, 10709, 10733]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReturnCacheKey(com.dievision.sinicum.server.jcr.caching.GlobalRepositoryStateTest)')","[1452, 1473, 1494, 5921]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDefaultPattern(com.dievision.sinicum.server.filters.ProxyFilterConfigTest)')","[5319, 5340, 5361, 7025]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMultisiteLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1265, 1286, 1307]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLimit(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[3853, 3874, 3895, 6628]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReturnsMultipleLevels(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1807, 1828, 1849]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetRequest(com.dievision.sinicum.server.JackrabbitRestServletTest)')","[805, 5714]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-armLE')",[8148]
+"('ProxyFilterConfig.java', 'com.dievision.sinicum.server.filters.ProxyFilterConfig', 'matchesPath', '/something.*', '/something/more')",[11142]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindRightDialog(com.dievision.sinicum.server.jcr.templating.DialogResolverTest)')","[2265, 2286, 2307, 6170]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.filters.ProxyFilterConfigTest')",[5277]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/dialogs/([^/]+)/([^/]+)/(.+)(/)?', '/dialogs/page/myModule/homepage')",[9656]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.caching.GlobalRepositoryStateTest')",[1410]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComponentPath(com.dievision.sinicum.server.jcr.templating.ComponentIdTest)')","[3395, 3416, 3437]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDialogsForComponent(com.dievision.sinicum.server.resources.TemplatingResourceTest)')","[639, 660, 681]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInclusionOfDocumentInDms(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4943, 6921]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.templating.AreaInitializerTest')","[10562, 10586, 10611, 10635]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=map')",[7143]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/_navigation/parents/0/01/010')",[8507]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.templating.DialogResolverTest')",[2223]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/areas/initialize(/)?', '/components/myModule/homepage/main')",[9484]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJsonContainsNoNodesOfSameType(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[4775, 6879]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe64')",[7880]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/children/(.+)(/)?', '/children/c57c19b2-8640-4258-bd46-f56cfdaa65a4')",[8702]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/_templating/dialogs/page/myModule/homepage')",[9557]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTwoLevelMultisiteLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1349, 1370, 1391]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NavigationElementTest')",[2036]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindPageToNode(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2347, 6191]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testQueryResultFormat(com.dievision.sinicum.server.resources.NodeResourceTest)')","[452, 473, 494]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindAvailableComponents(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2431, 6232]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetNewPattern(com.dievision.sinicum.server.filters.ProxyFilterConfigTest)')","[5382, 7046]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/_navigation/children/c57c19b2-8640-4258-bd46-f56cfdaa65a4')",[8629]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.resources.NodeResourceTest')","[9314, 9338, 9363, 9387]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_navigation(/.*)?', '/_navigation/parents/0/01/010')",[8555]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReturnsNoChildNodes(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1702, 6004]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NavigationProviderTest')","[10268, 10292, 10317, 10341]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindSubArea(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2599, 6274]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReturnsCorrectNodes(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1639, 1660, 1681, 5983]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOffset(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[3937, 3958, 3979]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDmsLink(com.dievision.sinicum.server.jcr.WysiwygTemplateTranslatorTest)')","[1097, 1118, 1139]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_templating(/.*)?', '/_templating/components/myModule/homepage/main')",[9459]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/components/([^/]+)/([^/]+)/(.+)(/)?', '/dialogs/page/myModule/homepage')",[9631]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCaseInsensivityXPath(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4084, 6691]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCaseInsensivityJqm(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4357, 4378, 4399]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.NodeQueryManagerTest')",[3811]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testQueryResultFormat(com.dievision.sinicum.server.resources.NodeResourceTest)')","[431, 5610]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindAvailableComponents(com.dievision.sinicum.server.jcr.templating.AreaInitializerTest)')","[2452, 2473, 2494]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/_templating/components/myModule/homepage/main')",[9435]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_templating(/.*)?', '/_templating/areas/initialize')",[9728]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/areas/initialize(/)?', '/areas/initialize')",[9753]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMultiValueNodes(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[5195, 6984]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/_binary/(.+)(/)?', '/_query')","[9092, 9239]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.dievision.sinicum.server.jcr.ParentNavigationProviderTest')","[10758, 10782, 10807, 10831]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOneLevelNavigationPathBase(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1975, 1996, 2017]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReturnsNoChildNodes(com.dievision.sinicum.server.jcr.NavigationProviderTest)')","[1723, 1744, 1765]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCorrectSizeOfElements(com.dievision.sinicum.server.jcr.ParentNavigationProviderTest)')","[3729, 6587]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGlobalKey(com.dievision.sinicum.server.resources.CacheResourceTest)')","[265, 286, 307, 5548]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCaseInsensivitySql(com.dievision.sinicum.server.jcr.NodeQueryManagerTest)')","[4189, 4210, 4231]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDateHandling(com.dievision.sinicum.server.jcr.NodeApiWrapper4Test)')","[5132, 5153, 5174]"

@@ -1,0 +1,11 @@
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.0.0')",[96]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.broadleafcommerce.openadmin.spec.PropertyValidatorSpec')",[164]
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '0.7-groovy-2.0')",[64]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'non-required metadata should allos nulls and empty strings(org.broadleafcommerce.openadmin.spec.PropertyValidatorSpec)')","[252, 358]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null values are not valid when required(org.broadleafcommerce.openadmin.spec.PropertyValidatorSpec)')","[186, 295]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'empty strings are not valid when required(org.broadleafcommerce.openadmin.spec.PropertyValidatorSpec)')","[208, 316]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'required overrides should always take precedence(org.broadleafcommerce.openadmin.spec.PropertyValidatorSpec)')","[274, 379]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'any values are valid when required(org.broadleafcommerce.openadmin.spec.PropertyValidatorSpec)')","[230, 337]"
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.99.99')",[128]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[145]
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.1.8')",[32]

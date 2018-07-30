@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testShowInfo(org.ybygjy.mvn.HelloMavenTest)')",[82]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.ybygjy.account.AccountEmailServiceTest)')",[21]
+"('RcptCommand.java', 'com.icegreen.greenmail.smtp.commands.RcptCommand', 'execute', 'RCPT TO:\\s?<([^>]+)>', 'RCPT TO:<soldier.yancheng@163.com>')",[94]
+"('MailCommand.java', 'com.icegreen.greenmail.smtp.commands.MailCommand', 'execute', 'MAIL FROM:\\s?<(.*)>', 'MAIL FROM:<ybygjy@gmail.com>')",[88]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testShowInfo(org.ybygjy.mvn.HelloMavenTest)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.ybygjy.account.AccountEmailServiceTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.ybygjy.account.AccountEmailServiceTest')","[197, 217, 238, 258]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.ybygjy.mvn.HelloMavenTest')","[115, 135, 156, 176]"

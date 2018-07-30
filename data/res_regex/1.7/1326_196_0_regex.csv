@@ -1,0 +1,9 @@
+"('ReflectionUtils.java', 'org.weakref.jmx.ReflectionUtils', 'getAttributeName', '(get|set|is)(.+)', 'getOtherValue')",[607]
+"('ReflectionUtils.java', 'org.weakref.jmx.ReflectionUtils', 'getAttributeName', '(get|set|is)(.+)', 'getMessage')",[375]
+"('ReflectionUtils.java', 'org.weakref.jmx.ReflectionUtils', 'getAttributeName', '(get|set|is)(.+)', 'getValue')","[549, 875]"
+"('MonitoringItem.java', 'com.ning.arecibo.jmx.MonitoringItem', 'getEventName', '.*[Nn]ame=([a-zA-Z0-9_]*).*', 'com.ning.arecibo.jmx:name=TestClass3')",[701]
+"('ReflectionUtils.java', 'org.weakref.jmx.ReflectionUtils', 'getAttributeName', '(get|set|is)(.+)', 'getMonitoringProfileVersion')","[259, 433, 759]"
+"('XmlMethodSelector.java', 'org.testng.internal.XmlMethodSelector', 'isMemberOf', 'fast', 'fast')","[34, 67, 101, 134, 168, 201]"
+"('ReflectionUtils.java', 'org.weakref.jmx.ReflectionUtils', 'getAttributeName', '(get|set|is)(.+)', 'getMonitoringProfile')","[317, 491, 817]"
+"('AreciboMBeanExporter.java', 'com.ning.arecibo.jmx.AreciboMBeanExporter', 'export', '(get|set|is)(.)(.*)', 'getValue')","[662, 930]"
+"('MonitoringItem.java', 'com.ning.arecibo.jmx.MonitoringItem', 'getEventName', '.*[Nn]ame=([a-zA-Z0-9_]*).*', 'com.ning.arecibo.jmx:name=TestClass2')",[969]

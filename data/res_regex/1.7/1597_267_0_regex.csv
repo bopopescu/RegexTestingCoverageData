@@ -1,0 +1,63 @@
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringSet\\[(\\d)\\]', 'multiValuedForm.stringList[2]')",[2046]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_type_from_extras(co.mewf.formaliser.FormWriterClassTest)')","[431, 1229]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_custom_template(co.mewf.formaliser.FormWriterClassTest)')","[662, 1460]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringSet\\[(\\d)\\]', 'multiValuedForm.stringList[0]')",[2096]
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringList\\[(\\d)\\]', 'multiValuedForm.stringList[0]')",[1946]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_maxlength_for_strings(co.mewf.formaliser.FormWriterClassTest)')","[746, 1544]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringArray\\[(\\d)\\]', 'multiValuedForm.stringList[1]')",[1771]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_date_if_requested(co.mewf.formaliser.FormWriterClassTest)')","[536, 1334]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringSet\\[(\\d)\\]', 'multiValuedForm.a')",[2221]
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringList\\[(\\d)\\]', 'multiValuedForm.stringArray[0]')",[1971]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_extra_attributes(co.mewf.formaliser.FormWriterInstanceTest)')","[183, 1019]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_fields_to_specified_writer(co.mewf.formaliser.FormWriterClassTest)')","[473, 1271]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_read_string_fields(co.mewf.formaliser.FormReaderTest)')","[328, 1145]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringList\\[(\\d)\\]', 'multiValuedForm.stringArray[1]')",[1996]
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringArray\\[(\\d)\\]', 'multiValuedForm.stringArray[0]')",[1821]
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringList\\[(\\d)\\]', 'multiValuedForm.stringList[1]')",[1921]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.formaliser.FormWriterInstanceTest')","[36, 1696]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_select_for_enum(co.mewf.formaliser.FormWriterClassTest)')","[851, 1649]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_embedded_object(co.mewf.formaliser.FormWriterInstanceTest)')","[78, 914]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringArray\\[(\\d)\\]', 'multiValuedForm.stringList[0]')",[1796]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_all_collection_elements(co.mewf.formaliser.FormWriterInstanceTest)')","[162, 998]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_min_and_max_for_numbers(co.mewf.formaliser.FormWriterClassTest)')","[620, 1418]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringArray\\[(\\d)\\]', 'multiValuedForm.stringArray[2]')",[1721]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_named_fields(co.mewf.formaliser.FormWriterClassTest)')","[515, 1313]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_required_attribute(co.mewf.formaliser.FormWriterClassTest)')","[683, 1481]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_embedded_object(co.mewf.formaliser.FormWriterClassTest)')","[578, 1376]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringSet\\[(\\d)\\]', 'multiValuedForm.stringArray[2]')",[2021]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_ignore_missing_fields(co.mewf.formaliser.FormReaderTest)')","[370, 1187]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_extra_attributes_for_checkboxes(co.mewf.formaliser.FormWriterClassTest)')","[452, 1250]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_read_ordered_multi_valued_fields(co.mewf.formaliser.FormReaderTest)')","[244, 1061]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.formaliser.FormWriterClassTest')","[389, 2269]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_ordered_fields_for_list(co.mewf.formaliser.FormWriterInstanceTest)')","[99, 935]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_all_fields(co.mewf.formaliser.FormWriterClassTest)')","[599, 1397]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringList\\[(\\d)\\]', 'multiValuedForm.stringArray[2]')",[1871]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_email(co.mewf.formaliser.FormWriterClassTest)')","[410, 1208]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_all_fields(co.mewf.formaliser.FormWriterInstanceTest)')","[120, 956]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_checkboxes_for_booleans(co.mewf.formaliser.FormWriterClassTest)')","[872, 1670]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_not_set_value_on_null_fields(co.mewf.formaliser.FormWriterInstanceTest)')","[141, 977]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_i18n(co.mewf.formaliser.FormWriterClassTest)')","[809, 1607]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_read_embedded_object(co.mewf.formaliser.FormReaderTest)')","[223, 1040]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_read_boolean_fields(co.mewf.formaliser.FormReaderTest)')","[286, 1103]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringList\\[(\\d)\\]', 'multiValuedForm.a')",[2196]
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringSet\\[(\\d)\\]', 'multiValuedForm.stringArray[1]')",[2146]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_fail_if_named_field_does_not_exist(co.mewf.formaliser.FormWriterClassTest)')","[704, 1502]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringArray\\[(\\d)\\]', 'multiValuedForm.a')",[2171]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_number_fields(co.mewf.formaliser.FormWriterClassTest)')","[641, 1439]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringArray\\[(\\d)\\]', 'multiValuedForm.stringList[2]')",[1746]
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringSet\\[(\\d)\\]', 'multiValuedForm.stringArray[0]')",[2121]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_read_primitive_fields(co.mewf.formaliser.FormReaderTest)')","[265, 1082]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.formaliser.FormReaderTest')","[202, 2247]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_write_url_if_requested(co.mewf.formaliser.FormWriterClassTest)')","[557, 1355]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringList\\[(\\d)\\]', 'multiValuedForm.stringList[2]')",[1896]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_extra_attributes_for_default_type(co.mewf.formaliser.FormWriterClassTest)')","[494, 1292]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringArray\\[(\\d)\\]', 'multiValuedForm.stringArray[1]')",[1846]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_set_value_for_select_for_enum(co.mewf.formaliser.FormWriterInstanceTest)')","[57, 893]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_extra_attributes_for_select(co.mewf.formaliser.FormWriterClassTest)')","[725, 1523]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_color_if_requested(co.mewf.formaliser.FormWriterClassTest)')","[767, 1565]"
+"('DefaultParameterReader.java', 'co.mewf.formaliser.parameters.DefaultParameterReader', 'extractValues', 'multiValuedForm.stringSet\\[(\\d)\\]', 'multiValuedForm.stringList[1]')",[2071]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_extra_attributes(co.mewf.formaliser.FormWriterClassTest)')","[788, 1586]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_use_extra_attributes_for_numbers(co.mewf.formaliser.FormWriterClassTest)')","[830, 1628]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_ignore_missing_multi_valued_fields(co.mewf.formaliser.FormReaderTest)')","[349, 1166]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_read_unordered_multi_valued_fields(co.mewf.formaliser.FormReaderTest)')","[307, 1124]"

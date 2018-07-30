@@ -1,0 +1,37 @@
+"('ElementFactory.java', 'ru.ifmo.ailab.e3soos.facts.elements.ElementFactory', 'newElement', '^(\\w{1})(\\d{1})(\\w{1})(\\d{1})(\\w{1})$', 'C2A3I')",[1928]
+"('ElementFactory.java', 'ru.ifmo.ailab.e3soos.facts.elements.ElementFactory', 'newElement', '^(\\w{1})(\\d{1})(\\w{1})(\\d{1})(\\w{1})$', 'C1V2P')","[1618, 1713]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(ru.ifmo.ailab.e3soos.facts.ClassificationTest)')","[244, 803]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNewElement(ru.ifmo.ailab.e3soos.facts.ElementFactoryTest)')","[637, 927]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.ClassificationTest')",[139]
+"('ElementFactory.java', 'ru.ifmo.ailab.e3soos.facts.elements.ElementFactory', 'newElement', '^(\\w{1})(\\d{1})(\\w{1})(\\d{1})(\\w{1})$', 'B1P3P')","[994, 1041, 1088, 1159, 1547, 1905]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.SchemaTest')","[1208, 1232, 1257, 1281]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.SchemaFactoryTest')",[513]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.ClassificationTest')","[1306, 1330, 1355, 1379]"
+"('SchemaFactory.java', 'ru.ifmo.ailab.e3soos.facts.SchemaFactory', 'newSchema', '^([YyBb]{1}\\d\\w\\d){1}[(\\w\\d\\w\\d)\\s\\+]*$', 'C1V2P + T2V2P')",[1784]
+"('ElementFactory.java', 'ru.ifmo.ailab.e3soos.facts.elements.ElementFactory', 'newElement', '^(\\w{1})(\\d{1})(\\w{1})(\\d{1})(\\w{1})$', 'T2V2P')","[1642, 1761]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.ElementTest')","[1427, 1451, 1476, 1500]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetR(ru.ifmo.ailab.e3soos.facts.ClassificationTest)')","[160, 762]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(ru.ifmo.ailab.e3soos.facts.SchemaTest)')","[78, 99, 120, 741]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.ElementTest')",[326]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('SchemaFactory.java', 'ru.ifmo.ailab.e3soos.facts.SchemaFactory', 'newSchema', '^([YyBb]{1}\\d\\w\\d){1}[(\\w\\d\\w\\d)\\s\\+]*$', 'B1P1A + C1V2P + C2A2P + T2V2P')",[1665]
+"('SchemaFactory.java', 'ru.ifmo.ailab.e3soos.facts.SchemaFactory', 'newSchema', '^([YyBb]{1}\\d\\w\\d){1}[(\\w\\d\\w\\d)\\s\\+]*$', 'B1P3P + C3A3A')","[1064, 1135]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNewSchema(ru.ifmo.ailab.e3soos.facts.SchemaFactoryTest)')","[555, 576, 597, 906]"
+"('ElementFactory.java', 'ru.ifmo.ailab.e3soos.facts.elements.ElementFactory', 'newElement', '^(\\w{1})(\\d{1})(\\w{1})(\\d{1})(\\w{1})$', 'B1P1A')","[1402, 1594, 1689]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.SchemaTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString(ru.ifmo.ailab.e3soos.facts.ElementTest)')","[347, 824]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNewSchema(ru.ifmo.ailab.e3soos.facts.SchemaFactoryTest)')","[534, 886]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(ru.ifmo.ailab.e3soos.facts.ElementTest)')","[431, 865]"
+"('SchemaFactory.java', 'ru.ifmo.ailab.e3soos.facts.SchemaFactory', 'newSchema', '^([YyBb]{1}\\d\\w\\d){1}[(\\w\\d\\w\\d)\\s\\+]*$', 'B1P1A + C1V2P + T2V2P')",[1570]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.SchemaFactoryTest')","[1809, 1833, 1858, 1882]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(ru.ifmo.ailab.e3soos.facts.SchemaTest)')","[57, 721]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.ElementFactoryTest')",[616]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNewElement(ru.ifmo.ailab.e3soos.facts.ElementFactoryTest)')","[658, 679, 700, 947]"
+"('ElementFactory.java', 'ru.ifmo.ailab.e3soos.facts.elements.ElementFactory', 'newElement', '^(\\w{1})(\\d{1})(\\w{1})(\\d{1})(\\w{1})$', 'C2A2P')",[1737]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ru.ifmo.ailab.e3soos.facts.ElementFactoryTest')","[1949, 1969, 1990, 2010]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToString(ru.ifmo.ailab.e3soos.facts.ElementTest)')","[368, 389, 410, 844]"
+"('ElementFactory.java', 'ru.ifmo.ailab.e3soos.facts.elements.ElementFactory', 'newElement', '^(\\w{1})(\\d{1})(\\w{1})(\\d{1})(\\w{1})$', 'C3A3A')","[1112, 1183]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetR(ru.ifmo.ailab.e3soos.facts.ClassificationTest)')","[181, 202, 223, 782]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(ru.ifmo.ailab.e3soos.facts.ElementTest)')","[452, 473, 494]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(ru.ifmo.ailab.e3soos.facts.ClassificationTest)')","[265, 286, 307]"
+"('SchemaFactory.java', 'ru.ifmo.ailab.e3soos.facts.SchemaFactory', 'newSchema', '^([YyBb]{1}\\d\\w\\d){1}[(\\w\\d\\w\\d)\\s\\+]*$', 'B1P3P')","[970, 1017, 1523]"

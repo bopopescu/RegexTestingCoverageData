@@ -1,0 +1,16 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testComplexStringsDirecty(eu.stratosphere.api.avro.EncoderDecoderTest)')","[202, 438]"
+"('HardwareDescriptionFactory.java', 'eu.stratosphere.nephele.instance.HardwareDescriptionFactory', 'getSizeOfPhysicalMemoryForLinux', '^MemTotal:\\s*(\\d+)\\s+kB$', 'MemTotal:       16315136 kB')","[588, 662]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmptyArray(eu.stratosphere.api.avro.EncoderDecoderTest)')","[139, 372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.api.avro.AvroOutputFormatTest')","[263, 685]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNestedObjectsWithCollections(eu.stratosphere.api.avro.EncoderDecoderTest)')","[160, 394]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.api.java.record.io.avro.AvroRecordInputFormatTest')","[36, 531]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJob(eu.stratosphere.api.avro.AvroOutputFormatTest)')","[284, 504]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.api.avro.EncoderDecoderTest')","[76, 558]"
+"('KerberosName.java', 'org.apache.hadoop.security.KerberosName', '<init>', '([^/@]*)(/([^/@]*))?@([^/@]*)', 'peipei')",[632]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testArrayTypes(eu.stratosphere.api.avro.EncoderDecoderTest)')","[118, 350]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testVarLenCountEncoding(eu.stratosphere.api.avro.EncoderDecoderTest)')","[181, 416]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeserialisation(eu.stratosphere.api.java.record.io.avro.AvroRecordInputFormatTest)')","[57, 306]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPrimitiveTypes(eu.stratosphere.api.avro.EncoderDecoderTest)')","[244, 482]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGeneratedObjectWithNullableFields(eu.stratosphere.api.avro.EncoderDecoderTest)')","[223, 460]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testObjects(eu.stratosphere.api.avro.EncoderDecoderTest)')","[97, 328]"

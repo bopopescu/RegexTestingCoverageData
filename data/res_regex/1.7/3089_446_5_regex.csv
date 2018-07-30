@@ -1,0 +1,219 @@
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17430]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/deleteAddressBook/myBook')",[3675]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.DelegatingMethodAccessorImpl')",[338]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/updateAddressBook/myBook')","[2779, 6321, 11587]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/updateAddressBook')","[2340, 5882, 11148]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.NativeConstructorAccessorImpl')","[78, 104]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/deleteAddressBook')",[3136]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/foo/createAddressBook/myBook')",[13577]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18511]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/createAddressBook')","[634, 1487, 5029, 7709, 9564, 10295, 11851]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/get/([^/]+?)', '/lolipet')","[18908, 19406]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/getAddressBook/zeBook')",[9446]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/bar/createAddressBook/myBook')",[16042]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/bar/createAddressBook/myBook')",[16210]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/updateAddressBook')","[2433, 5975, 11241]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/createAddressBook/myBook')","[1073, 1926, 5468, 8148, 10003, 10734, 12290]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/deleteAddressBook')",[3043]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/getAddressBook/myBook')","[4967, 7647]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)(/)?', '/getAddressBook/zeBook')",[9063]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/createAddressBook/myBook')","[1030, 1883, 5425, 8105, 9960, 10691, 12247]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/createAddressBook')","[758, 1611, 5153, 7833, 9688, 10419, 11975]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/getAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18791]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/getAddressBook/([^/]+?)', '/bar')","[15716, 16638, 17802]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18735]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/foo/updateAddressBook/myBook')",[13992]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/lolipet/([^/]+?)(/.*)?', '/lolipet/myPet')","[18877, 19025, 19523]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '(/.*)?', '/create/myPets')","[19216, 19714]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17094]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/createAddressBook')","[727, 1580, 5122, 7802, 9657, 10388, 11944]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/updateAddressBook')","[2309, 5851, 11117]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '(/.*)?', '/createAddressBook/myBook')","[1116, 1969, 5511, 8191, 10046, 10777, 12333]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/foo/createAddressBook/myBook')",[13297]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/updateAddressBook/myBook')","[2736, 6278, 11544]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17038]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)(/)?', '/createAddressBook/myBook')","[1163, 2016, 5558, 8238, 10093, 10824, 12380, 13147, 15892]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/foo')","[12921, 13856, 14921]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/deleteAddressBook')",[3229]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/deleteAddressBook/myBook')",[3787]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/updateAddressBook')","[2402, 5944, 11210]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/foo')","[12983, 13918, 14983]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14250]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)(/)?', '/createAddressBook/myBook')","[1210, 2063, 5605, 8285, 10140, 10871, 12427, 13194, 15939]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)(/)?', '/createAddressBook/myBook')","[1257, 2110, 5652, 8332, 10187, 10918, 12474, 13241, 15986]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/createAddressBook/myBook')","[1313, 2166, 5708, 10974, 12530]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '(/.*)?', '/updateAddressBook/myBook')","[2822, 6364, 11630]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14194]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[16982]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/bar/createAddressBook/myBook')",[15845]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)(/)?', '/updateAddressBook/myBook')","[2869, 6411, 11677, 14082, 16814]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14306]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/deleteAddressBook/myBook')",[3482]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/getAddressBook/([^/]+?)', '/getAddressBook')","[4215, 6895, 8750]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.restsimple.jaxrs.test.addressBook.AddressBookJaxrsTest')",[260]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/deleteAddressBook/myBook')",[3396]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/getAddressBook/myBook')","[4743, 7423]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14586]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/bar/createAddressBook/myBook')",[15802]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/createAddressBook/myBook')","[1369, 2222, 5764, 11030, 12586]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/getAddressBook/([^/]+?)', '/foo')","[13014, 13949, 15014]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/updateAddressBook/myBook')","[2925, 6467, 11733]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.testng.internal.MethodInvocationHelper')",[390]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/deleteAddressBook')",[3105]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/deleteAddressBook')",[3198]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/getAddressBook/myBook')","[4687, 7367]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/bar')","[15375, 16297, 17461]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/createAddressBook/myBook')","[1425, 2278, 5820, 11086, 12642]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/getAddressBook/zeBook')",[9222]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/updateAddressBook')","[2619, 6161, 11427]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/getAddressBook/([^/]+?)', '/createAddressBook')","[944, 1797, 5339, 8019, 9874, 10605, 12161]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/getAddressBook/zeBook')",[8879]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/createAddressBook')","[882, 1735, 5277, 7957, 9812, 10543, 12099]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14642]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.FutureTask')",[494]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/getAddressBook/zeBook')",[9502]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/getAddressBook')","[3874, 6554, 8409]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)(/)?', '/getAddressBook/myBook')","[4528, 7208, 15241, 18072]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/bar')","[15499, 16421, 17585]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/create/([^/]+?)', '/create/myPets')","[19375, 19873]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/bar/getAddressBook/myBook')",[17845]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/updateAddressBook')","[2371, 5913, 11179]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)(/)?', '/getAddressBook/myBook')","[4575, 7255, 15288, 18119]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17262]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/createAddressBook')","[789, 1642, 5184, 7864, 9719, 10450, 12006]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/bar')","[15561, 16483, 17647]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)(/)?', '/getAddressBook/myBook')","[4434, 7114, 15147, 17978]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/deleteAddressBook')",[3012]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/bar')","[15530, 16452, 17616]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/foo/createAddressBook/myBook')",[13353]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '(/.*)?', '/getAddressBook/myBook')","[4387, 7067]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)(/)?', '/getAddressBook/zeBook')",[8969]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/foo')","[12797, 13732, 14797]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/bar/createAddressBook/myBook')",[16098]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/foo/getAddressBook/myBook')",[15057]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/createAddressBook')","[603, 1456, 4998, 7678, 9533, 10264, 11820]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18679]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/bar/updateAddressBook/myBook')",[16724]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.jboss.netty.channel.SimpleChannelUpstreamHandler')",[52]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/bar/createAddressBook/myBook')",[16154]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.DelegatingConstructorAccessorImpl')",[130]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/getAddressBook')","[4060, 6740, 8595]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/getAddressBook/zeBook')",[9166]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/deleteAddressBook')",[3167]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/getAddressBook')","[4029, 6709, 8564]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/getAddressBook/myBook')","[4301, 6981]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/foo')","[12735, 13670, 14735]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/getAddressBook/myBook')","[4799, 7479]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/getAddressBook/myBook')","[4631, 7311]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/getAddressBook/zeBook')",[8836]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.NativeMethodAccessorImpl')","[286, 312]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/foo')","[12673, 13608, 14673]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17374]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/createAddressBook')","[820, 1673, 5215, 7895, 9750, 10481, 12037]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/bar')","[15592, 16514, 17678]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18623]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/getAddressBook/([^/]+?)', '/deleteAddressBook')",[3353]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/foo/createAddressBook/myBook')",[13100]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/bar/createAddressBook/myBook')",[15759]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/bar')","[15654, 16576, 17740]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14530]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17318]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/bar/updateAddressBook/myBook')",[16767]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'com.ning.http.client.AsyncHttpClient')","[182, 208, 234]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/updateAddressBook')","[2495, 6037, 11303]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/deleteAddressBook/myBook')",[3439]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '.*', '/createAddressBook/myBook')","[8378, 10233]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/foo/updateAddressBook/myBook')",[14035]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18231]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/deleteAddressBook/myBook')",[3843]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/foo')","[12890, 13825, 14890]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/create/([^/]+?)', '/create')","[19087, 19585]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/getAddressBook')","[4091, 6771, 8626]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.jboss.netty.logging.InternalLoggerFactory')",[26]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/updateAddressBook')","[2588, 6130, 11396]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/updateAddressBook')","[2557, 6099, 11365]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/getAddressBook')","[4153, 6833, 8688]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/foo/getAddressBook/myBook')",[15344]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[16926]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/getAddressBook/myBook')","[4344, 7024]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.ThreadPoolExecutor$Worker')",[546]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.testng.internal.InvokeMethodRunnable')","[416, 442]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/deleteAddressBook')",[3074]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.lang.reflect.Constructor')",[156]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/get/([^/]+?)', '/create')","[19056, 19554]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/foo/createAddressBook/myBook')",[13057]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/get/([^/]+?)', '/create/myPets')","[19319, 19817]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/bar(/.*)?', '/bar/getAddressBook/myBook')",[17931]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/getAddressBook')","[3967, 6647, 8502]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/foo/createAddressBook/myBook')",[13465]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/deleteAddressBook/myBook')",[3731]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18343]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/getAddressBook/zeBook')",[9278]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18175]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/createAddressBook/myBook')","[987, 1840, 5382, 8062, 9917, 10648, 12204]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/getAddressBook')","[4122, 6802, 8657]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '(/.*)?', '/getAddressBook/zeBook')",[8922]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/create/myPets')","[19130, 19628]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[16870]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/deleteAddressBook')",[3322]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/createAddressBook')","[696, 1549, 5091, 7771, 9626, 10357, 11913]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/foo')","[12704, 13639, 14704]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14418]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18567]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/bar')","[15623, 16545, 17709]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/updateAddressBook/myBook')","[2693, 6235, 11501]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/createAddressBook')","[851, 1704, 5246, 7926, 9781, 10512, 12068]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18287]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/getAddressBook/zeBook')",[9334]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)(/)?', '/deleteAddressBook/myBook')",[3619]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)(/)?', '/deleteAddressBook/myBook')",[3572]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/getAddressBook/([^/]+?)', '/updateAddressBook')","[2650, 6192, 11458]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/foo/createAddressBook/myBook')",[13521]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18455]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/updateAddressBook/myBook')","[2981, 6523, 11789]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/foo')","[12766, 13701, 14766]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/lolipet/myPet')","[18834, 18982, 19480]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.lang.Thread')",[572]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/getAddressBook/myBook')","[4911, 7591]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/createAddressBook')","[665, 1518, 5060, 7740, 9595, 10326, 11882]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/updateAddressBook')","[2464, 6006, 11272]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)(/)?', '/getAddressBook/myBook')","[4481, 7161, 15194, 18025]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/getAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14138]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)(/)?', '/getAddressBook/zeBook')",[9110]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/deleteAddressBook/([^/]+?)', '/deleteAddressBook')",[3260]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/getAddressBook/myBook')","[4855, 7535]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17150]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/getAddressBook')","[3905, 6585, 8440]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/foo/getAddressBook/myBook')",[15100]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14474]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.Executors$RunnableAdapter')",[468]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/createAddressBook')","[913, 1766, 5308, 7988, 9843, 10574, 12130]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/bar/getAddressBook/myBook')",[18399]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/foo/createAddressBook/myBook')",[13409]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/getAddressBook')","[3936, 6616, 8471]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/bar')","[15685, 16607, 17771]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/create/([^/]+?)(/)?', '/create/myPets')","[19263, 19761]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/getAddressBook/myBook')","[4258, 6938]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/foo/updateAddressBook/myBook')",[14362]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/getAddressBook')","[3998, 6678, 8533]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/create/([^/]+?)', '/lolipet')","[18939, 19437]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/bar')","[15406, 16328, 17492]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/getAddressBook/zeBook')",[8793]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/deleteAddressBook')",[3291]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/getAddressBook/zeBook')",[9390]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/deleteAddressBook/([^/]+?)', '/updateAddressBook')","[2526, 6068, 11334]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '(/.*)?', '/deleteAddressBook/myBook')",[3525]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/foo(/.*)?', '/bar/getAddressBook/myBook')",[17888]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/bar')","[15437, 16359, 17523]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/updateAddressBook/([^/]+?)', '/getAddressBook')","[4184, 6864, 8719]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.lang.reflect.Method')",[364]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.ThreadPoolExecutor')",[520]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/foo')","[12859, 13794, 14859]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/application\\.wadl(/.*)?', '/bar/updateAddressBook/myBook')",[16681]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/lolipet/([^/]+?)(/.*)?', '/create/myPets')","[19173, 19671]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/updateAddressBook/([^/]+?)', '/foo')","[12952, 13887, 14952]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/bar')","[15468, 16390, 17554]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/foo/createAddressBook/([^/]+?)', '/foo')","[12828, 13763, 14828]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)(/)?', '/getAddressBook/zeBook')",[9016]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/bar/updateAddressBook/myBook')",[17206]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/bar/createAddressBook/([^/]+?)', '/bar/createAddressBook/myBook')",[16266]

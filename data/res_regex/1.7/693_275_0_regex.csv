@@ -1,0 +1,129 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldTestIfWordIsBothNumericAndLettersButFail(se.rydberg.handla.TestProcessWord)')","[732, 1257]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', '1,5')","[39200, 39225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getArticleById(se.rydberg.handla.TestGetArticleFromDaoUsingMock)')","[299, 900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldReturnTextAndNumberSeperated(se.rydberg.handla.TestSplitNumberAndTextInOneWord)')","[421, 984]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListNotSavedException.class')",[33705]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserRole.class')",[16339]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldAutoWire(se.rydberg.handla.TestAutowireCanBeRemoved)')","[57, 753]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'Sandpapper')","[39656, 39681]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', '12')",[40478]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', '2kg')",[39981]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleController.class')",[20253]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TypeOfArticleNotFoundException.class')",[36555]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestFindUnit.class')",[4581]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'gurka')",[38870]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleServiceImpl.class')",[26447]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', '2')","[38408, 38433, 38660, 38685, 39023, 39048, 39731, 39756, 40157, 40182]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TypeOfArticle.class')",[12919]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldReturnAsTextSinceNumberIsNotTheFirstLetter(se.rydberg.handla.TestSplitNumberAndTextInOneWord)')","[400, 963]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[11611, 12121, 12691, 13261, 13831, 14401, 14971, 15541, 16111, 16681, 17251, 17815, 18375, 18885, 19455, 20025, 20595, 21159, 21719, 22229, 22799, 23369, 23939, 24509, 25079, 25649, 26219, 26783, 27343, 27853, 28423, 28993, 29563, 30133, 30703, 31273, 31843, 32407, 32967, 33477, 34047, 34617, 35187, 35757, 36327, 36897, 37467, 38031]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'kg')","[38459, 38484, 39074, 39099, 39353, 39378]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListDaoImpl.class')",[30931]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'model')","[4021, 18039]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'rullar')","[39782, 39807]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TypeOfArticleService.class')",[24167]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopStatus.class')",[14059]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestGetArticleFromDaoUsingMock')","[278, 38789]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_return_user_information(se.rydberg.handla.model.UserTest)')","[97, 774]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestArticleService.class')",[9035]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.model.UserTest')","[76, 38307]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TypeOfArticleNotDeletedException.class')",[37695]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleService.class')",[25307]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldReturnOnlyText(se.rydberg.handla.TestSplitNumberAndTextInOneWord)')","[442, 1005]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject4(se.rydberg.handla.TestProcessSentence)')","[566, 1110]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestAutowireCanBeRemoved')","[36, 38281]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'potatis')","[38333, 38358, 38510, 38535, 38585, 38610, 38948, 38973, 39125, 39150, 39404, 39429, 40007, 40032, 40259, 40284]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldReturnOnlyNumber(se.rydberg.handla.TestSplitNumberAndTextInOneWord)')","[463, 1026]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleDaoImpl.class')",[30361]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject(se.rydberg.handla.TestProcessSentence)')","[503, 1047]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject3(se.rydberg.handla.TestProcessSentence)')","[545, 1089]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopList.class')",[15769]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qse\\E', 'se')","[1649, 2209, 2720, 3290, 3853, 4413, 4973, 5484, 6054, 6624, 7187, 7747, 8307, 8867, 9427, 9987, 10547, 11107, 11667, 12178, 12748, 13318, 13888, 14458, 15028, 15598, 16168, 16738, 17308, 17871, 18431, 18942, 19512, 20082, 20652, 21215, 21775, 22286, 22856, 23426, 23996, 24566, 25136, 25706, 26276, 26839, 27399, 27910, 28480, 29050, 29620, 30190, 30760, 31330, 31900, 32463, 33023, 33534, 34104, 34674, 35244, 35814, 36384, 36954, 37524, 38087]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'StartController.class')",[19113]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'g')",[40432]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleTest.class')",[3461]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1537, 2097, 2606, 3176, 3741, 4301, 4861, 5370, 5940, 6510, 7075, 7635, 8195, 8755, 9315, 9875, 10435, 10995, 11555, 12064, 12634, 13204, 13774, 14344, 14914, 15484, 16054, 16624, 17194, 17759, 18319, 18828, 19398, 19968, 20538, 21103, 21663, 22172, 22742, 23312, 23882, 24452, 25022, 25592, 26162, 26727, 27287, 27796, 28366, 28936, 29506, 30076, 30646, 31216, 31786, 32351, 32911, 33420, 33990, 34560, 35130, 35700, 36270, 36840, 37410, 37975]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qrydberg\\E', 'rydberg')","[1705, 2265, 2777, 3347, 3909, 4469, 5029, 5541, 6111, 6681, 7243, 7803, 8363, 8923, 9483, 10043, 10603, 11163, 11723, 12235, 12805, 13375, 13945, 14515, 15085, 15655, 16225, 16795, 17365, 17927, 18487, 18999, 19569, 20139, 20709, 21271, 21831, 22343, 22913, 23483, 24053, 24623, 25193, 25763, 26333, 26895, 27455, 27967, 28537, 29107, 29677, 30247, 30817, 31387, 31957, 32519, 33079, 33591, 34161, 34731, 35301, 35871, 36441, 37011, 37581, 38143]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1593, 2153, 2663, 3233, 3797, 4357, 4917, 5427, 5997, 6567, 7131, 7691, 8251, 8811, 9371, 9931, 10491, 11051]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject2(se.rydberg.handla.TestProcessSentence)')","[524, 1068]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'service')","[7355, 27007]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject5(se.rydberg.handla.TestProcessSentence)')","[587, 1131]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListServiceIT.class')",[6225]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleDao.class')",[29791]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListServiceImpl.class')",[23027]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'g')","[39251, 39276]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestProcessSentence')","[482, 40409]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'fasta')","[40131, 40383]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'User.class')",[12349]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDao.class')",[28081]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateArticle(se.rydberg.handla.TestCreateArticeWithShopStatus)')","[259, 879]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestProcessWord')","[669, 40500]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.model.ArticleTest')","[116, 38711]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListNotFoundException.class')",[34845]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserServiceIT.class')",[6795]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserService.class')",[23597]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestGetArticleFromDaoUsingMock.class')",[8475]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListDao.class')",[29221]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'flaska')","[39530, 39555]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'controller')",[21383]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'sandpapper')",[39906]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'potatis')","[38382, 38559, 38634, 38997, 39174, 39453, 40056, 40308]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject7(se.rydberg.handla.TestProcessSentence)')","[629, 1173]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestAutowireCanBeRemoved.class')",[1817]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', '12g')",[40455]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestSplitNumberAndTextInOneWord.class')",[10155]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhandla\\E', 'handla')","[1761, 2321, 2834, 3404, 3965, 4525, 5085, 5598, 6168, 6738, 7299, 7859, 8419, 8979, 9539, 10099, 10659, 11219, 11779, 12292, 12862, 13432, 14002, 14572, 15142, 15712, 16282, 16852, 17422, 17983, 18543, 19056, 19626, 20196, 20766, 21327, 21887, 22400, 22970, 23540, 24110, 24680, 25250, 25820, 26390, 26951, 27511, 28024, 28594, 29164, 29734, 30304, 30874, 31444, 32014, 32575, 33135, 33648, 34218, 34788, 35358, 35928, 36498, 37068, 37638, 38199]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoImpl.class')",[31501]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestArticleService')","[318, 38896]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestProcessSentence.class')",[10715]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'sandpapper')","[39857, 39882]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'Sandpapper')",[39705]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject6(se.rydberg.handla.TestProcessSentence)')","[608, 1152]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleNotFoundException.class')",[35985]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getArticleById(se.rydberg.handla.TestArticleService)')","[360, 942]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', '2kg')","[39932, 39957]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'gurka')","[38817, 38844]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'fasta')","[40082, 40107, 40334, 40359]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TypeOfArticleServiceImpl.class')",[24737]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TypeOfArticleDao.class')",[28651]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleNotSavedException.class')",[35415]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_return_title(se.rydberg.handla.model.ArticleTest)')","[158, 816]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestCreateArticeWithShopStatus')","[238, 38763]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'mjölk')","[39581, 39606]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldTestIfWordIsBothNumericAndLetters(se.rydberg.handla.TestProcessWord)')","[711, 1236]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestSplitNumberAndTextInOneWord')","[379, 38922]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Article.class')",[17479]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_return_title_value(se.rydberg.handla.model.ArticleTest)')","[179, 837]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TypeOfArticleDaoImpl.class')",[32071]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1313, 1873, 2378, 2948, 3517, 4077, 4637, 5142, 5712, 6282, 6851, 7411, 7971, 8531, 9091, 9651, 10211, 10771, 11331, 11836, 12406, 12976, 13546, 14116, 14686, 15256, 15826, 16396, 16966, 17535, 18095, 18600, 19170, 19740, 20310, 20879, 21439, 21944, 22514, 23084, 23654, 24224, 24794, 25364, 25934, 26503, 27063, 27568, 28138, 28708, 29278, 29848, 30418, 30988, 31558, 32127, 32687, 33192, 33762, 34332, 34902, 35472, 36042, 36612, 37182, 37751]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'exception')",[38255]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1425, 1985, 2492, 3062, 3629, 4189, 4749, 5256, 5826, 6396, 6963, 7523, 8083, 8643, 9203, 9763, 10323, 10883, 11443, 11950, 12520, 13090, 13660, 14230, 14800, 15370, 15940, 16510, 17080, 17647, 18207, 18714, 19284, 19854, 20424, 20991, 21551, 22058, 22628, 23198, 23768, 24338, 24908, 25478, 26048, 26615, 27175, 27682, 28252, 28822, 29392, 29962, 30532, 31102, 31672, 32239, 32799, 33306, 33876, 34446, 35016, 35586, 36156, 36726, 37296, 37863]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'mjölk')",[39630]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'saveSmallArticle(se.rydberg.handla.TestArticleService)')","[339, 921]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldReturnUnitIfItIsAunit(se.rydberg.handla.TestFindUnit)')","[219, 858]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumericAndString', '^(?=.*[0-9])(?=.*[a-z])([a-z0-9_-]+)$', 'rullar')",[39831]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TitleDetail.class')",[14629]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSplitAndReturnADetailedTitleObject8(se.rydberg.handla.TestProcessSentence)')","[650, 1194]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_return_title_value_unit(se.rydberg.handla.model.ArticleTest)')","[137, 795]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[1369, 1929, 2435, 3005, 3573, 4133, 4693, 5199, 5769, 6339, 6907, 7467, 8027, 8587, 9147, 9707, 10267, 10827, 11387, 11893, 12463, 13033, 13603, 14173, 14743, 15313, 15883, 16453, 17023, 17591, 18151, 18657, 19227, 19797, 20367, 20935, 21495, 22001, 22571, 23141, 23711, 24281, 24851, 25421, 25991, 26559, 27119, 27625, 28195, 28765, 29335, 29905, 30475, 31045, 31615, 32183, 32743, 33249, 33819, 34389, 34959, 35529, 36099, 36669, 37239, 37807]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AnalyzeCentence.class')",[13489]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListService.class')",[25877]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AnalyzeWord.class')",[15199]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserNotFoundException.class')",[34275]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserServiceImpl.class')",[22457]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'RemoveBoughtArticlesFromShoplistIT.class')",[5655]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserTest.class')",[2891]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestProcessWord.class')",[11275]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ArticleNotDeletedException.class')",[37125]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TextNumber.class')",[16909]
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', 'paket')","[40208, 40233]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.rydberg.handla.TestFindUnit')","[198, 38737]"
+"('AnalyzeWord.java', 'se.rydberg.handla.model.AnalyzeWord', 'isNumeric', '-?\\d+(\\,\\d+)?', '1')","[39302, 39327, 39479, 39504]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestCreateArticeWithShopStatus.class')",[7915]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldTestIfWordIsBothNumericAndLettersButFailAgain(se.rydberg.handla.TestProcessWord)')","[690, 1215]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'dao')",[32631]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q693_275\\E', '693_275')","[1481, 2041, 2549, 3119, 3685, 4245, 4805, 5313, 5883, 6453, 7019, 7579, 8139, 8699, 9259, 9819, 10379, 10939, 11499, 12007, 12577, 13147, 13717, 14287, 14857, 15427, 15997, 16567, 17137, 17703, 18263, 18771, 19341, 19911, 20481, 21047, 21607, 22115, 22685, 23255, 23825, 24395, 24965, 25535, 26105, 26671, 27231, 27739, 28309, 28879, 29449, 30019, 30589, 31159, 31729, 32295, 32855, 33363, 33933, 34503, 35073, 35643, 36213, 36783, 37353, 37919]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ShopListController.class')",[19683]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserController.class')",[20823]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestArticleService$1.class')",[9595]

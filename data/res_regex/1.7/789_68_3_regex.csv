@@ -1,0 +1,6 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('AbstractURLSegment.java', 'org.wicketstuff.rest.resource.urlsegments.AbstractURLSegment', 'newSegment', '\\{[A-Za-z_][A-Za-z0-9_]*(?::([^\\}\\{]*|(\\{[\\d]+\\}))*)?\\}', '{personIndex}')","[228, 372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.wicketstuff.rest.PersonResourceTest')","[36, 430]"
+"('AbstractURLSegment.java', 'org.wicketstuff.rest.resource.urlsegments.AbstractURLSegment', 'newSegment', '\\{[A-Za-z_][A-Za-z0-9_]*(?::([^\\}\\{]*|(\\{[\\d]+\\}))*)?\\}', 'persons')","[156, 192, 264, 300, 336, 408]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreatePerson(org.wicketstuff.rest.PersonResourceTest)')","[57, 99]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidatorBundle(org.wicketstuff.rest.PersonResourceTest)')","[78, 120]"

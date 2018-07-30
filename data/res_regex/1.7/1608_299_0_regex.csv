@@ -1,0 +1,20 @@
+"('CompressingMessageConverter.java', 'io.meles.amqp.spring.CompressingMessageConverter', 'fromMessage', '^\\Qan_encoding\\E(;(.*))?$', 'an_encoding')",[680]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldDecompressCompressedMessage(io.meles.amqp.spring.CompressingMessageConverterTest)')","[99, 410]"
+"('CompressingMessageConverter.java', 'io.meles.amqp.spring.CompressingMessageConverter', 'fromMessage', '^\\Qan_encoding\\E(;(.*))?$', 'an_encoding;another_enc')",[710]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldUseOriginalUncompressableMessage(io.meles.amqp.spring.CompressingMessageConverterTest)')","[141, 452]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldPrependEncoding(io.meles.amqp.spring.CompressingMessageConverterTest)')","[204, 515]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'decompressIsInverseOfCompress(io.meles.amqp.spring.GzipCompressorTest)')","[347, 620]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.meles.amqp.spring.GzipCompressorTest')","[326, 784]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.meles.amqp.spring.CompressingMessageConverterTest')","[36, 736]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'encodingNameIsRequired(io.meles.amqp.spring.CompressingMessageConverterTest)')","[57, 368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldOnlyDecompressSpecifiedEncoding(io.meles.amqp.spring.CompressingMessageConverterTest)')","[78, 389]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'compressorIsRequired(io.meles.amqp.spring.CompressingMessageConverterTest)')","[183, 494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'messageSizeIsNeverLarger(io.meles.amqp.spring.CompressingMessageConverterTest)')","[246, 557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'decompressIsInverseOfCompress(io.meles.amqp.spring.SnappyCompressorTest)')","[286, 578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldPassOnUnderlyingEncoding(io.meles.amqp.spring.CompressingMessageConverterTest)')","[225, 536]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldSetEncodingForCompressableMessage(io.meles.amqp.spring.CompressingMessageConverterTest)')","[162, 473]"
+"('CompressingMessageConverter.java', 'io.meles.amqp.spring.CompressingMessageConverter', 'fromMessage', '^\\Qan_encoding\\E(;(.*))?$', 'this_is_not_an_encoding_we_expect')",[650]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'underlyingConverterIsRequired(io.meles.amqp.spring.CompressingMessageConverterTest)')","[120, 431]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.meles.amqp.spring.SnappyCompressorTest')","[265, 762]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldProduceValidSnappyCompressedBytes(io.meles.amqp.spring.SnappyCompressorTest)')","[307, 599]"

@@ -1,0 +1,145 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.util.PixelRoundingHalfUpTest')","[242, 2532]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.FilterDescriptionTest')","[402, 3548]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_filter_descriptions_from_empty_string(com.tdb.mip.filter.FilterDescriptionTest)')","[486, 1782]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{8})', 'fillw101h102#11223344')",[3672]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'check_icon_marker_add_an_extra_target_density(com.tdb.mip.pipeline.AndroidPipelineFactoryTest)')","[1247, 2307]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint123456,0,12')",[3254]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'w320w300')",[2916]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'check_generated_images_have_a_correct_size_if_reader_supports_resizing(com.tdb.mip.pipeline.AndroidPipelineRunnableTest)')","[1136, 2223]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{6})', 'fillh101w102#112233')",[3840]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6}),([0-9]+[,\\.]{0,1}[0-9]*)', 'tint123456,0.12')",[3230]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'compute_missing_width_and_keep_proportion_h140(com.tdb.mip.filter.ResizeTest)')","[709, 1929]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'w320w300')",[2892]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_filter_descriptions_from_string(com.tdb.mip.filter.FilterDescriptionTest)')","[423, 1719]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)', 'w320')",[2748]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{6})', 'fillw101h102#11223344')",[3624]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ratio_when_same_density_is_1(com.tdb.mip.density.DensityUtilsTest)')","[162, 1572]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'w400h200')",[4562]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'compute_missing_height_and_keep_proportion_w140(com.tdb.mip.filter.ResizeTest)')","[667, 1887]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_empty_pipeline(com.tdb.mip.pipeline.BasePipelineFactoryIntegrationTest)')","[1312, 2349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'find_highest_density(com.tdb.mip.density.DensityUtilsTest)')","[120, 1530]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_round_down(com.tdb.mip.util.PixelRoundingHalfDownTest)')","[223, 1614]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)', '320w300')",[2844]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint#JAZZYY')",[3350]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'when_missing_properties_throw_an_exception(com.tdb.mip.ConfigurationTest)')","[913, 2076]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.FillSquareTest')","[789, 4180]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'h400w200')",[5342]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.TintFactoryTest')","[322, 3496]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)', 'h320h200')",[3060]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{8})', 'fillh101w102#11223344')",[3768]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{6})', 'fillh100#112233')",[4080]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_file_descriptions_can_be_build_from_filename(com.tdb.mip.filter.FilterDescriptionTest)')","[465, 1761]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'w320h300')",[2652]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'compute_missing_width_and_keep_proportion_h150(com.tdb.mip.filter.ResizeTest)')","[730, 1950]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6}),([0-9]+[,\\.]{0,1}[0-9]*)', 'tintJAZZYY')",[3326]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.pipeline.BasePipelineFactoryTest')","[1014, 5476]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tintJAZZYY')",[3302]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint1234567')",[3446]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_vertical_filling_need_manual_review(com.tdb.mip.filter.FillSquareTest)')","[810, 1992]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)', 'h320')",[2604]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'resize_image_to_h140(com.tdb.mip.pipeline.BasePipelineFactoryIntegrationTest)')","[1381, 2412]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{8})', 'fillh101w102#11223344')",[3744]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)', 'w320w300')",[2964]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_file_descriptions_can_be_build_from_filename_without_filter_description(com.tdb.mip.filter.FilterDescriptionTest)')","[444, 1740]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{8})', 'fillh100#112233')",[4128]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'can_build(com.tdb.mip.filter.TintFactoryTest)')","[343, 1677]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'autocrop')","[4397, 5177]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{6})', 'fillw101h102#11223344')",[3648]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{6})', 'fillh101w102#112233')",[3816]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'an_empty_config_throw_an_exception(com.tdb.mip.ConfigurationTest)')","[934, 2097]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.FillToTest')","[362, 3522]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)', '320w300')",[2868]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{8})', 'fillw100#112233')",[4032]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint#123456')",[3158]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.util.PixelRoundingHalfDownTest')","[181, 2506]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_need_manual_review(com.tdb.mip.filter.CenterFillToTest)')","[566, 1824]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.pipeline.AndroidPipelineFactoryTest')","[1224, 5542]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.pipeline.PipelineExecutorImplTest')","[974, 4232]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'h320w300')",[2628]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'autocrop')","[4342, 5122]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'h320h200')",[3012]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint123456')",[3182]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'createResizeFilter', 'w([0-9]+)h([0-9]+)', 'h140')",[5010]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'w320')",[2724]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{8})', 'fillw100#112233')",[4008]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ratio_from_xxhdpi_to_mdpi(com.tdb.mip.density.DensityUtilsTest)')","[141, 1551]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'when_all_android_properties_specific_to_android_are_not_present_consider_android_profile_has_disabled(com.tdb.mip.ConfigurationTest)')","[871, 2034]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{6})', 'fillw100h100#11223')",[3864]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)', 'w320w300')",[2940]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'one_filter_per_description(com.tdb.mip.pipeline.BasePipelineFactoryTest)')","[1035, 2160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.TintTest')","[505, 5498]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.pipeline.BasePipelineFactoryIntegrationTest')","[1289, 5454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.CenterFillToTest')","[545, 5564]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'find_closest_upper_density_max_is_max(com.tdb.mip.density.DensityUtilsTest)')","[99, 1509]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{6})', 'fillw101h102#112233')",[3792]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'h320')",[2580]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', '320w300')",[2820]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'bugfix_rounding_should_works_with_big_number_too(com.tdb.mip.util.PixelRoundingHalfDownTest)')","[202, 1593]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6}),([0-9]+[,\\.]{0,1}[0-9]*)', 'tint#1234567')",[3422]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint#FF00AB')",[3134]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_svg_autocrop_resize_w400_h200(com.tdb.mip.pipeline.BasePipelineFactoryIntegrationTest)')","[1358, 2391]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'h320h200')",[2988]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{6})', 'fillh101w102#11223344')",[3696]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'check_generated_images_have_a_correct_size_if_reader_does_not_support_resizing(com.tdb.mip.pipeline.AndroidPipelineRunnableTest)')","[1159, 2244]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{8})', 'fillw100h100#11223')",[3936]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'w320')",[2700]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'android_target_densities_are_accessible_via_pipeline(com.tdb.mip.pipeline.AndroidPipelineFactoryTest)')","[1270, 2328]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_svg_autocrop_resize_h400_w200(com.tdb.mip.pipeline.BasePipelineFactoryIntegrationTest)')","[1404, 2433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_round_up(com.tdb.mip.util.PixelRoundingHalfUpTest)')","[263, 1635]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_horizontal_filling_need_manual_review(com.tdb.mip.filter.FillSquareTest)')","[831, 2013]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{8})', 'fillh100#112233')",[4104]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'apply_filter_need_manual_review(com.tdb.mip.filter.AutoCropTest)')","[606, 1845]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', '320w300')",[2796]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'createResizeFilter', 'h([0-9]+)w([0-9]+)', 'h400w200')",[5399]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'wait_until_no_more_pending_task(com.tdb.mip.pipeline.PipelineExecutorImplTest)')","[995, 2139]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'createResizeFilter', 'h([0-9]+)', 'h140')",[5067]
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{6})', 'fillw100#112233')",[3960]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 1094]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)', 'autocrop')","[4452, 5232]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pipeline_cannot_be_created_if_a_filter_description_is_not_understood(com.tdb.mip.pipeline.BasePipelineFactoryTest)')","[1056, 2181]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'createResizeFilter', 'w([0-9]+)h([0-9]+)', 'w400h200')",[4731]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'createResizeFilter', 'h([0-9]+)w([0-9]+)', 'w400h200')",[4674]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.ConfigurationTest')","[850, 4206]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{6})', 'fillh101w102#11223344')",[3720]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'w400h200')",[4617]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'h140')",[4841]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint123456,0.12')",[3206]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'compute_missing_height_and_keep_proportion_w150_2(com.tdb.mip.filter.ResizeTest)')","[646, 1866]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6}),([0-9]+[,\\.]{0,1}[0-9]*)', 'tint1234567')",[3470]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)', 'h140')",[4896]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'find_closest_upper_density(com.tdb.mip.density.DensityUtilsTest)')","[57, 1467]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'h140')",[4786]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'when_all_ios_properties_specific_to_android_are_not_present_consider_ios_profile_has_disabled(com.tdb.mip.ConfigurationTest)')","[955, 2118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'filters_have_been_applied(com.tdb.mip.pipeline.AndroidPipelineRunnableTest)')","[1182, 2265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.AutoCropTest')","[585, 3574]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'no_special_behavior_for_ios_yet(com.tdb.mip.pipeline.IOSPipelineFactoryTest)')","[1446, 2454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.pipeline.IOSPipelineFactoryTest')","[1423, 5520]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'filter_detects_his_config_properly(com.tdb.mip.filter.ResizeFactoryTest)')","[303, 1656]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)', 'w320')",[2772]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'when_android_and_ios_properties_are_defined_both_are_valid(com.tdb.mip.ConfigurationTest)')","[892, 2055]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tint#1234567')",[3398]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)h([0-9]+)', 'w320h300')",[2676]
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)', 'h320h200')",[3036]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'filter_detects_his_config_properly(com.tdb.mip.filter.FillToFactoryTest)')","[770, 1971]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'w([0-9]+)', 'autocrop')","[4507, 5287]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6}),([0-9]+[,\\.]{0,1}[0-9]*)', 'tint123456,0,12')",[3278]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'save_one_file_per_target_density(com.tdb.mip.pipeline.AndroidPipelineRunnableTest)')","[1205, 2286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.FillToFactoryTest')","[749, 4154]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.pipeline.AndroidPipelineRunnableTest')","[1113, 4287]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'find_density_by_human_name(com.tdb.mip.density.DensityUtilsTest)')","[78, 1488]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.ResizeFactoryTest')","[282, 3086]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{8})', 'fillw100h100#11223')",[3912]
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6})', 'tintFF3600')",[3110]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'compute_missing_height_and_keep_proportion_w150(com.tdb.mip.filter.ResizeTest)')","[688, 1908]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillw([0-9]+)h([0-9]+)#([0-9a-fA-F]{6})', 'fillh100#112233')",[4056]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.density.DensityUtilsTest')","[36, 2480]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'createResizeFilter', 'h([0-9]+)w([0-9]+)', 'h140')",[4953]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'pipeline_cannot_be_created_if_a_filter_description_is_understood_by_more_than_1_filter(com.tdb.mip.pipeline.BasePipelineFactoryTest)')","[1077, 2202]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{6})', 'fillw100h100#11223')",[3888]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'build_simplest_svg_file_pipeline(com.tdb.mip.pipeline.BasePipelineFactoryIntegrationTest)')","[1335, 2370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.tdb.mip.filter.ResizeTest')","[625, 3600]"
+"('TintFactory.java', 'com.tdb.mip.filter.TintFactory', 'canBuild', 'tint#{0,1}([0-9a-fA-F]{6}),([0-9]+[,\\.]{0,1}[0-9]*)', 'tint#JAZZYY')",[3374]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'apply_filter_need_manual_review(com.tdb.mip.filter.TintTest)')","[526, 1803]"
+"('ResizeFactory.java', 'com.tdb.mip.filter.ResizeFactory', 'canBuild', 'h([0-9]+)w([0-9]+)', 'h320')",[2556]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_need_manual_review(com.tdb.mip.filter.FillToTest)')","[383, 1698]"
+"('FillToFactory.java', 'com.tdb.mip.filter.FillToFactory', 'canBuild', 'fillh([0-9]+)w([0-9]+)#([0-9a-fA-F]{6})', 'fillw100#112233')",[3984]

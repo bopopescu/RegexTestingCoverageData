@@ -1,0 +1,369 @@
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '73')",[12927]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'bindingHosts')",[7152]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', '127.0.0.1:8080')",[9685]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '60')",[12485]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', 'ff02:0:0:0:0:1:ffff:ffff')",[6039]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '126')",[14729]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.zone.ZoneDatabaseTest')",[1895]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.HeaderTest')",[681]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.NameTest')","[10240, 10264, 10289, 10313]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '119')",[14491]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind(org.handwerkszeug.dns.zone.ZoneDatabaseTest)')","[1916, 5083]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '34')",[11601]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'autoDetect')",[7431]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '124')",[14661]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOpcode(org.handwerkszeug.dns.HeaderTest)')","[891, 912, 933]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEscapeNumber(org.handwerkszeug.dns.NameTest)')","[3561, 5621]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFromV4(org.handwerkszeug.util.AddressUtilTest)')","[244, 4624]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '56')",[12349]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '113')",[14287]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '255.255.0.1')",[6727]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '70')",[12825]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '143-252')",[15307]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLoad(org.handwerkszeug.dns.client.WKPortNumbersTest)')","[4374, 5850]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSplit(org.handwerkszeug.dns.NameTest)')","[3918, 3939, 3960]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'AutoDetect')",[8234]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '5')",[10615]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind(org.handwerkszeug.dns.zone.ZoneDatabaseTest)')","[1937, 1958, 1979, 5103]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '[2001:db8::1]:82')",[6392]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParse(org.handwerkszeug.dns.NameTest)')","[3309, 5558]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '[::]:81')",[6340]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^([-+]?(\\.[0-9]+|[0-9_]+(\\.[0-9_]*)?)([eE][-+]?[0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '127.0.0.1:80')",[8891]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '127')",[14763]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]|[0-9][0-9][0-9][0-9]-[0-9][0-9]?-[0-9][0-9]?(?:[Tt]|[ \t]+)[0-9][0-9]?:[0-9][0-9]:[0-9][0-9](?:\\.[0-9]*)?(?:[ \t]*(?:Z|[-+][0-9][0-9]?(?::[0-9][0-9])?))?)$', '127.0.0.1:53')",[7245]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEscape(org.handwerkszeug.dns.NameTest)')","[3477, 5600]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '85')",[13335]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testScalarToAddress(org.handwerkszeug.dns.conf.NodeToAddressTest)')","[2580, 5330]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'load(org.handwerkszeug.dns.conf.ServerConfigurationTest)')","[2683, 5351]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '50')",[12145]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]|[0-9][0-9][0-9][0-9]-[0-9][0-9]?-[0-9][0-9]?(?:[Tt]|[ \t]+)[0-9][0-9]?:[0-9][0-9]:[0-9][0-9](?:\\.[0-9]*)?(?:[ \t]*(?:Z|[-+][0-9][0-9]?(?::[0-9][0-9])?))?)$', '127.0.0.1')","[8421, 8705, 9304, 9833]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '127.0.0.1:80801')",[6852]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToLong(org.handwerkszeug.util.AddressUtilTest)')","[496, 4687]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '\\[((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))\\](:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '[2001:db8::1]:82')",[6418]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '91')",[13539]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '111')",[14219]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]|[0-9][0-9][0-9][0-9]-[0-9][0-9]?-[0-9][0-9]?(?:[Tt]|[ \t]+)[0-9][0-9]?:[0-9][0-9]:[0-9][0-9](?:\\.[0-9]*)?(?:[ \t]*(?:Z|[-+][0-9][0-9]?(?::[0-9][0-9])?))?)$', '127.0.0.1:8080')",[9655]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '131')",[14899]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetByAddress(org.handwerkszeug.util.AddressUtilTest)')","[433, 454, 475]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParse(org.handwerkszeug.dns.conf.ResolveConfTest)')","[2227, 2248, 2269, 5206]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '\\[((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))\\](:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::1:1#22')",[6470]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '72')",[12893]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '255')",[15409]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '\\[((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))\\](:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8:1:2::1.80')",[6548]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.ResolveConfTest')","[8101, 8125, 8150, 8174]"
+"('WKPortNumbers.java', 'org.handwerkszeug.dns.client.WKPortNumbers', 'setServices', '\\d+', 'echo')",[15603]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testQuoted(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[2891, 2912, 2933]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::256.0.0.1')",[6314]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseChannelBuffer(org.handwerkszeug.dns.DNSMessageTest)')","[2124, 2145, 2166]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testErrorString(org.handwerkszeug.dns.NameTest)')","[3393, 5579]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '86')",[13369]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.masterfile.PartitionerTest')","[10142, 10166, 10191, 10215]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '74')",[12961]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.masterfile.PartitionerTest')",[2765]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '103')",[13947]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '52')",[12213]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '75')",[12995]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '27')",[11363]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', '127.0.0.1:53')",[7276]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.handwerkszeug.dns.NameTest)')","[3162, 3183, 3204, 5516]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'forwarders')",[7338]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '37')",[11703]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '129')",[14831]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '118')",[14457]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAa(org.handwerkszeug.dns.HeaderTest)')","[1059, 1080, 1101]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '53')","[8581, 9469]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRa(org.handwerkszeug.dns.HeaderTest)')","[1290, 4916]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '8080')",[8801]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHandle(org.handwerkszeug.dns.conf.NodeToForwardersTest)')","[2309, 5227]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '76')",[13029]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetByAddress(org.handwerkszeug.util.AddressUtilTest)')","[412, 4666]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', '127.0.0.1')","[8453, 8737, 9337, 9863]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '53')",[12247]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRd(org.handwerkszeug.dns.HeaderTest)')","[1227, 1248, 1269]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRcode(org.handwerkszeug.dns.HeaderTest)')","[1458, 4958]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.DNSMessageTest')",[1998]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '141')",[15239]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '33')",[11567]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '68')",[12757]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.client.WKProtocolsTest')","[15434, 15458, 15483, 15507]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '90')",[13505]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.record.AbstractRecordTest')",[4063]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '45')",[11975]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '\\[((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))\\](:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '[::]:81')",[6366]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'forwarders')",[7400]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.DNSMessageTest')","[8003, 8027, 8052, 8076]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '36')",[11669]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '79')",[13131]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'threadPoolSize')",[7493]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '110')",[14185]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8:aaaa:bbbb:cccc:dddd::1')",[6064]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '38')",[11737]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLPRP(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[2807, 2828, 2849, 5412]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToPackagePath(org.handwerkszeug.util.ClassUtilTest)')","[78, 99, 120, 4562]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRa(org.handwerkszeug.dns.HeaderTest)')","[1311, 1332, 1353]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '25')",[11295]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^([-+]?(\\.[0-9]+|[0-9_]+(\\.[0-9_]*)?)([eE][-+]?[0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '127.0.0.1:8080')",[9625]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMappingToAddress(org.handwerkszeug.dns.conf.NodeToAddressTest)')","[2433, 2454, 2475, 5288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSplit(org.handwerkszeug.dns.NameTest)')","[3897, 5705]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'bindingHosts')",[7121]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '77')",[13063]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '3')",[10547]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.yaml.YamlNodeAccepterTest')","[7611, 7635, 7660, 7684]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToArray(org.handwerkszeug.dns.record.AbstractRecordTest)')","[4084, 5747]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.ServerConfigurationTest')","[10044, 10068, 10093, 10117]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.util.AddressUtilTest')",[139]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFromHostName(org.handwerkszeug.util.AddressUtilTest)')","[349, 370, 391]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWrite(org.handwerkszeug.dns.NameTest)')","[3225, 5537]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOpcode(org.handwerkszeug.dns.HeaderTest)')","[870, 4811]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(([a-zA-Z][\\w-]*[\\w]*(\\.[a-zA-Z][\\w-]*[\\w]*)*))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', 'localhost')",[6877]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '138')",[15137]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001::1')",[6114]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '127.0.0.1:80')","[6777, 9501]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '94')",[13641]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'threadPoolSize')",[7555]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '255.255.0.1:8080')",[6802]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::1:2:3#83')",[6652]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTc(org.handwerkszeug.dns.HeaderTest)')","[1122, 4874]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^([-+]?(\\.[0-9]+|[0-9_]+(\\.[0-9_]*)?)([eE][-+]?[0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '127.0.0.1')","[8389, 8673, 9271, 9803]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '7')",[10683]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '253')",[15341]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '63')",[12587]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '82')",[13233]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.zone.MasterZoneTest')","[7807, 7831, 7856, 7880]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', '127.0.0.1')","[8485, 8769, 9370, 9893]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.NodeToForwardersTest')",[2288]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToArray(org.handwerkszeug.dns.record.AbstractRecordTest)')","[4105, 4126, 4147, 5767]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '192.168.0.1')","[6677, 9533]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '69')",[12791]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '2')",[10513]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(([a-zA-Z][\\w-]*[\\w]*(\\.[a-zA-Z][\\w-]*[\\w]*)*))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', 'localhost:8080')",[6902]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetServices(org.handwerkszeug.dns.client.WKPortNumbersTest)')","[4479, 4500, 4521]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '4')",[10581]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8:1:2::1.80')",[6574]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testZ(org.handwerkszeug.dns.HeaderTest)')","[1395, 1416, 1437]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '21')",[11159]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '51')",[12179]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'load(org.handwerkszeug.dns.conf.ServerConfigurationTest)')","[2704, 2725, 2746, 5371]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'writeTest(org.handwerkszeug.dns.DNSMessageTest)')","[2040, 2061, 2082, 5144]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.client.WKPortNumbersTest')","[15648, 15668, 15689, 15709]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '81')",[13199]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.HeaderTest')","[7709, 7733, 7758, 7782]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '123')",[14627]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '55')",[12315]
+"('NodeToForwarders.java', 'org.handwerkszeug.dns.conf.NodeToForwarders$ScalarToForwarders', 'handle', 'auto[_]?detect', 'AutoDetect')",[8261]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '80')",[13165]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '18')",[11057]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '::1')",[6139]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '13')",[10887]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8:aaaa:bbbb:cccc:dddd::1:03:ff:2b')",[6264]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001::db8:aaaa:bbbb:cccc:dddd:eeee')",[6214]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '125')",[14695]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(([a-zA-Z][\\w-]*[\\w]*(\\.[a-zA-Z][\\w-]*[\\w]*)*))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', 'localhost:65536')",[6927]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testId(org.handwerkszeug.dns.HeaderTest)')","[702, 4749]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '41')",[11839]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.zone.MasterZoneTest')",[1708]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRecordEq(org.handwerkszeug.dns.record.AbstractRecordTest)')","[4189, 4210, 4231]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^([-+]?(\\.[0-9]+|[0-9_]+(\\.[0-9_]*)?)([eE][-+]?[0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '127.0.0.1:53')",[7214]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '115')",[14355]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '107')",[14083]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '71')",[12859]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReplace(org.handwerkszeug.dns.NameTest)')","[3813, 5684]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '0')",[10445]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToParent(org.handwerkszeug.dns.NameTest)')","[3981, 5726]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '137')",[15103]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '1')",[10479]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLoad(org.handwerkszeug.dns.client.WKProtocolsTest)')","[4292, 4313, 4334, 5829]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '2001:db8:1:2::1.80')",[6522]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.NameTest')",[3120]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.ServerConfigurationTest')",[2662]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '67')",[12723]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReplace(org.handwerkszeug.dns.NameTest)')","[3834, 3855, 3876]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.record.AbstractRecordTest')","[10338, 10362, 10387, 10411]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '130')",[14865]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToWildcard(org.handwerkszeug.dns.NameTest)')","[3645, 5642]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '105')",[14015]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '98')",[13777]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '101')",[13879]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '192.168.0.1')",[9015]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDirective(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[2975, 2996, 3017]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetServices(org.handwerkszeug.dns.client.WKPortNumbersTest)')","[4458, 5891]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFromV6(org.handwerkszeug.util.AddressUtilTest)')","[181, 202, 223, 4603]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '29')",[11431]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '::')",[6164]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDNAME(org.handwerkszeug.dns.zone.MasterZoneTest)')","[1750, 1771, 1792, 5041]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '23')",[11227]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSequenceToAddress(org.handwerkszeug.dns.conf.NodeToAddressTest)')","[2517, 2538, 2559]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testContains(org.handwerkszeug.dns.NameTest)')","[3729, 5663]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '136')",[15069]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]|[0-9][0-9][0-9][0-9]-[0-9][0-9]?-[0-9][0-9]?(?:[Tt]|[ \t]+)[0-9][0-9]?:[0-9][0-9]:[0-9][0-9](?:\\.[0-9]*)?(?:[ \t]*(?:Z|[-+][0-9][0-9]?(?::[0-9][0-9])?))?)$', '192.168.0.1')",[9077]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'writeTest(org.handwerkszeug.dns.DNSMessageTest)')","[2019, 5124]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '10')",[10785]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '\\[((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))\\](:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::1:2:3#83')",[6626]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '112')",[14253]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testZ(org.handwerkszeug.dns.HeaderTest)')","[1374, 4937]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testQr(org.handwerkszeug.dns.HeaderTest)')","[807, 828, 849]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '78')",[13097]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToLong(org.handwerkszeug.util.AddressUtilTest)')","[517, 538, 559]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '134')",[15001]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '87')",[13403]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '62')",[12553]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '192.168.0.1:1')",[6752]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'forwarders')",[7369]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '122')",[14593]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '97')",[13743]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '120')",[14525]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '49')",[12111]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '2001:db8::1:2:3#83')",[6600]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '93')",[13607]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '39')",[11771]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFromV6(org.handwerkszeug.util.AddressUtilTest)')","[160, 4583]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString(org.handwerkszeug.dns.HeaderTest)')","[1542, 4979]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', '127.0.0.1:80')",[8953]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAa(org.handwerkszeug.dns.HeaderTest)')","[1038, 4853]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLoad(org.handwerkszeug.dns.client.WKPortNumbersTest)')","[4395, 4416, 4437, 5870]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToWildcard(org.handwerkszeug.dns.NameTest)')","[3666, 3687, 3708]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTc(org.handwerkszeug.dns.HeaderTest)')","[1143, 1164, 1185]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.util.ClassUtilTest')",[36]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '15')",[10955]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '61')",[12519]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::1')",[6089]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::')",[6189]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '30')",[7586]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'autoDetect')",[7462]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPartition(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[3059, 3080, 3101]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testErrorString(org.handwerkszeug.dns.NameTest)')","[3414, 3435, 3456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.util.AddressUtilTest')","[6952, 6976, 7001, 7025]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.yaml.YamlNodeAccepterTest')",[578]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.util.ClassUtilTest')","[5916, 5940, 5965, 5989]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '43')",[11907]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '24')",[11261]
+"('WKPortNumbers.java', 'org.handwerkszeug.dns.client.WKPortNumbers', 'setServices', '\\d+', 'sql*net')",[15555]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '102')",[13913]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '40')",[11805]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToString(org.handwerkszeug.dns.HeaderTest)')","[1563, 1584, 1605]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '84')",[13301]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '127.0.0.1:8080')",[9595]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '192.168.0.1:65536')",[6827]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '26')",[11329]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLoad(org.handwerkszeug.dns.client.WKProtocolsTest)')","[4271, 5809]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '100')",[13845]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.NodeToAddressTest')","[9946, 9970, 9995, 10019]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '35')",[11635]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.client.WKPortNumbersTest')",[4353]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '17')",[11023]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '88')",[13437]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '89')",[13471]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '64')",[12621]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '32')",[11533]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '114')",[14321]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '48')",[12077]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '66')",[12689]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]|[0-9][0-9][0-9][0-9]-[0-9][0-9]?-[0-9][0-9]?(?:[Tt]|[ \t]+)[0-9][0-9]?:[0-9][0-9]:[0-9][0-9](?:\\.[0-9]*)?(?:[ \t]*(?:Z|[-+][0-9][0-9]?(?::[0-9][0-9])?))?)$', '127.0.0.1:80')",[8922]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWrite(org.handwerkszeug.dns.HeaderTest)')","[1647, 1668, 1689]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '127.0.0.1:53')",[7183]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '44')",[11941]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEscape(org.handwerkszeug.dns.NameTest)')","[3498, 3519, 3540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testContains(org.handwerkszeug.dns.NameTest)')","[3750, 3771, 3792]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.NodeToAddressTest')",[2391]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', '192.168.0.1')",[9139]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', '192.168.0.1')",[9108]
+"('WKPortNumbers.java', 'org.handwerkszeug.dns.client.WKPortNumbers', 'setServices', '\\d+', '85')",[15579]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '133')",[14967]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParse(org.handwerkszeug.dns.NameTest)')","[3330, 3351, 3372]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '16')",[10989]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^([-+]?(\\.[0-9]+|[0-9_]+(\\.[0-9_]*)?)([eE][-+]?[0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '192.168.0.1')",[9046]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '140')",[15205]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmit(org.handwerkszeug.dns.HeaderTest)')","[975, 996, 1017]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'address')","[8293, 9172]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'address')","[8325, 9205]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRecordEq(org.handwerkszeug.dns.record.AbstractRecordTest)')","[4168, 5788]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', '127.0.0.1:8080')",[9715]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWrite(org.handwerkszeug.dns.HeaderTest)')","[1626, 5000]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '254')",[15375]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEscapeNumber(org.handwerkszeug.dns.NameTest)')","[3582, 3603, 3624]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testScalarToAddress(org.handwerkszeug.dns.conf.NodeToAddressTest)')","[2601, 2622, 2643]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '65')",[12655]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '116')",[14389]
+"('WKPortNumbers.java', 'org.handwerkszeug.dns.client.WKPortNumbers', 'setServices', '\\d+', 'TELNET')",[15627]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '46')",[12009]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWrite(org.handwerkszeug.dns.NameTest)')","[3246, 3267, 3288]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '127.0.0.1:8080')",[9743]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.zone.ZoneDatabaseTest')","[7905, 7929, 7954, 7978]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseChannelBuffer(org.handwerkszeug.dns.DNSMessageTest)')","[2103, 5165]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', '127.0.0.1:53')",[7307]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '6')",[10649]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAccept(org.handwerkszeug.yaml.YamlNodeAccepterTest)')","[599, 4708]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '95')",[13675]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParse(org.handwerkszeug.dns.conf.ResolveConfTest)')","[2206, 5186]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToPackagePath(org.handwerkszeug.util.ClassUtilTest)')","[57, 4542]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind(org.handwerkszeug.dns.zone.MasterZoneTest)')","[1813, 5062]"
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8:0:0:8:800:200c:417a')",[6014]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'threadPoolSize')",[7524]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '2001:db8::1:1#22')",[6444]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testQr(org.handwerkszeug.dns.HeaderTest)')","[786, 4790]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '8')",[10717]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '28')",[11397]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '9')",[10751]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '128')",[14797]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '58')",[12417]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.client.WKProtocolsTest')",[4250]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRcode(org.handwerkszeug.dns.HeaderTest)')","[1479, 1500, 1521]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.NodeToForwardersTest')","[15730, 15750, 15771, 15791]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '117')",[14423]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmit(org.handwerkszeug.dns.HeaderTest)')","[954, 4832]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '83')",[13267]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDNAME(org.handwerkszeug.dns.zone.MasterZoneTest)')","[1729, 5021]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '20')",[11125]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', '127.0.0.1:80')",[8984]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDirective(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[2954, 5454]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '108')",[14117]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '59')",[12451]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '42')",[11873]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '57')",[12383]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '109')",[14151]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToParent(org.handwerkszeug.dns.NameTest)')","[4002, 4023, 4044]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFromV4(org.handwerkszeug.util.AddressUtilTest)')","[265, 286, 307]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPartition(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[3038, 5475]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '96')",[13709]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '142')",[15273]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::1:1#22')",[6496]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '(((25[0-5]|(2[0-4]|1\\d|[1-9]?)\\d)(\\.|\\b)){4}(?<!\\.))(:(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?', '127.0.0.1')","[6702, 8609, 8829, 9565, 9921]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '99')",[13811]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '127.0.0.1')","[8357, 8641, 9238, 9773]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.handwerkszeug.dns.NameTest)')","[3141, 5496]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFromHostName(org.handwerkszeug.util.AddressUtilTest)')","[328, 4645]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '104')",[13981]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '2001:db8::aa::bb')",[6289]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '22')",[11193]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '31')",[11499]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testQuoted(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[2870, 5433]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '106')",[14049]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '19')",[11091]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.handwerkszeug.dns.conf.ResolveConfTest')",[2185]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'AutoDetect')",[8204]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '92')",[13573]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testId(org.handwerkszeug.dns.HeaderTest)')","[723, 744, 765, 4769]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '121')",[14559]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLPRP(org.handwerkszeug.dns.conf.masterfile.PartitionerTest)')","[2786, 5392]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '12')",[10853]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '139')",[15171]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '127.0.0.1:80')",[8860]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '30')",[11465]
+"('AddressUtil.java', 'org.handwerkszeug.util.AddressUtil', 'toSocketAddress', '((((?=(?>.*?::)(?!.*::)))(::)?([0-9a-f]{1,4}::?){0,5}|([0-9a-f]{1,4}:){6})(((25[0-5]|(2[0-4]|1[0-9]|[1-9])?[0-9])(\\.|\\b)){4}|\\3([0-9a-f]{1,4}(::?|\\b)){0,2}|[0-9a-f]{1,4}:[0-9a-f]{1,4})(?<![^:]:)(?<!\\.))(?:(#|\\.)(6553[0-5]|6(55[012]|(5[0-4]|[0-4]\\d)\\d)\\d|[1-5]?\\d{1,4}))?$', '::1:2:3:4')",[6239]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '14')",[10921]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '11')",[10819]
+"('WKPortNumbers.java', 'org.handwerkszeug.dns.client.WKPortNumbers', 'setServices', '\\d+', 'ftp')",[15531]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMappingToAddress(org.handwerkszeug.dns.conf.NodeToAddressTest)')","[2412, 5268]"
+"('PercentEscaper.java', 'org.yaml.snakeyaml.external.com.google.gdata.util.common.base.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;=[]/"")","[7058, 7090]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind(org.handwerkszeug.dns.zone.MasterZoneTest)')","[1834, 1855, 1876]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRd(org.handwerkszeug.dns.HeaderTest)')","[1206, 4895]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '54')",[12281]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSequenceToAddress(org.handwerkszeug.dns.conf.NodeToAddressTest)')","[2496, 5309]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '47')",[12043]
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '135')",[15035]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testHandle(org.handwerkszeug.dns.conf.NodeToForwardersTest)')","[2330, 2351, 2372, 5247]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'port')","[8517, 9403]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'port')","[8549, 9436]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAccept(org.handwerkszeug.yaml.YamlNodeAccepterTest)')","[620, 641, 662, 4728]"
+"('WKProtocols.java', 'org.handwerkszeug.dns.client.WKProtocols$RecordHandler', 'handle', '\\p{Digit}+', '132')",[14933]

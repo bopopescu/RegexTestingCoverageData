@@ -1,0 +1,17 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'doesNotGenerateJavascriptWhenIsDisabled(lt.inventi.wicket.component.BlankInputHidingBehaviorTest)')","[78, 242]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'resolvesLabelResourceRelativeToParentComponent(lt.inventi.wicket.component.BlankInputHidingBehaviorTest)')","[57, 220]"
+"('MarkupResourceStream.java', 'org.apache.wicket.markup.MarkupResourceStream', 'setDoctype', '!DOCTYPE\\s+(.*)\\s*', '!DOCTYPE html')","[499, 676]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'localizesBooleanValue(lt.inventi.wicket.component.label.BooleanValueLabelTest)')","[158, 286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOnUpdate(lt.inventi.wicket.component.KeypressUpdatingBehaviourTest)')","[118, 264]"
+"('XmlReader.java', 'org.apache.wicket.util.io.XmlReader', 'getXmlDeclaration', '[\\s\\n\\r]*<\\?xml(\\s+.*)?\\?>', '<?xml version=""1.0"" encoding=""UTF-8"" ?>')",[758]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lt.inventi.wicket.application.StaticIdInitializationListenerTest')","[177, 1384]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lt.inventi.wicket.component.BlankInputHidingBehaviorTest')","[36, 703]"
+"('XmlReader.java', 'org.apache.wicket.util.io.XmlReader', 'getXmlDeclaration', '[\\s\\n\\r]*<\\?xml(\\s+.*)?\\?>', '<html>')","[338, 529, 815, 845, 875, 932]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStaticId(lt.inventi.wicket.application.StaticIdInitializationListenerTest)')","[198, 308]"
+"('XmlReader.java', 'org.apache.wicket.util.io.XmlReader', 'getXmlDeclaration', '[\\s\\n\\r]*<\\?xml(\\s+.*)?\\?>', '<!DOCTYPE html>')","[420, 604]"
+"('XmlReader.java', 'org.apache.wicket.util.io.XmlReader', 'getXmlDeclaration', '[\\s\\n\\r]*<\\?xml(\\s+.*)?\\?>', '<wicket:panel>')",[1361]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lt.inventi.wicket.component.label.BooleanValueLabelTest')","[137, 902]"
+"('AbstractRepeater.java', 'org.apache.wicket.markup.repeater.AbstractRepeater', 'onBeforeRender', '^\\d+$', '1')","[1038, 1162, 1286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lt.inventi.wicket.component.KeypressUpdatingBehaviourTest')","[97, 785]"
+"('AbstractRepeater.java', 'org.apache.wicket.markup.repeater.AbstractRepeater', 'onBeforeRender', '^\\d+$', '0')","[985, 1100, 1224]"

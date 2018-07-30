@@ -1,0 +1,14 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validation_fails_on_password_without_special_character(api.validation.PasswordValidatorTest)')","[162, 294]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'api.validation.PasswordValidatorTest')","[36, 455]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validation_fails_on_password_without_upper_case_char(api.validation.PasswordValidatorTest)')","[99, 228]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validation_fails_on_password_without_numeric_char(api.validation.PasswordValidatorTest)')","[141, 272]"
+"('PasswordValidator.java', 'api.validation.PasswordValidator', 'validate', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{8,})', 'n0 upper case ch@racter')",[363]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validation_fails_on_password_without_lower_case_char(api.validation.PasswordValidatorTest)')","[57, 184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validation_succeeds(api.validation.PasswordValidatorTest)')","[78, 206]"
+"('PasswordValidator.java', 'api.validation.PasswordValidator', 'validate', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{8,})', 'n0 special characteR')",[432]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'validation_fails_on_password_too_short(api.validation.PasswordValidatorTest)')","[120, 250]"
+"('PasswordValidator.java', 'api.validation.PasswordValidator', 'validate', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{8,})', 'f@i1ure')",[386]
+"('PasswordValidator.java', 'api.validation.PasswordValidator', 'validate', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{8,})', 'no numeric ch@racteR')",[409]
+"('PasswordValidator.java', 'api.validation.PasswordValidator', 'validate', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{8,})', 'p@ssw0rD')",[340]
+"('PasswordValidator.java', 'api.validation.PasswordValidator', 'validate', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{8,})', 'N0 LOWER CASE CH@RACTER')",[317]

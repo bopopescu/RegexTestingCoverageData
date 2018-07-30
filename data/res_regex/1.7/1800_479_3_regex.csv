@@ -1,0 +1,12 @@
+"('ResourceModel.java', 'org.hyperic.hq.api.model.ResourceModel', 'clearNonValidCharacters', '\\A\\p{ASCII}*\\z', 'ubuntu.eng.vmware.com Apache Tomcat 6.0')","[401, 430]"
+"('ResourceModel.java', 'org.hyperic.hq.api.model.ResourceModel', 'clearNonValidCharacters', '\\A\\p{ASCII}*\\z', 'Server 2')","[519, 548]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApproveAIResource(org.hyperic.hq.api.transfer.AIResourceTransferTest)')","[225, 371]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.hyperic.hq.api.transfer.AIResourceTransferTest')","[569, 589, 610, 630]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAIResourcePlatform(org.hyperic.hq.api.transfer.AIResourceTransferTest)')","[57, 309]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAIResourceServer(org.hyperic.hq.api.transfer.AIResourceTransferTest)')","[141, 350]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.hyperic.hq.api.transfer.AIResourceTransferTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApproveAIResource(org.hyperic.hq.api.transfer.AIResourceTransferTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAIResourcePlatform(org.hyperic.hq.api.transfer.AIResourceTransferTest)')","[78, 99, 120, 329]"
+"('ResourceModel.java', 'org.hyperic.hq.api.model.ResourceModel', 'clearNonValidCharacters', '\\A\\p{ASCII}*\\z', 'Server 1')","[460, 489]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAIResourceServer(org.hyperic.hq.api.transfer.AIResourceTransferTest)')","[162, 183, 204]"

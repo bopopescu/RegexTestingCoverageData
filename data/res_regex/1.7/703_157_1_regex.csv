@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleQueryNE(com.cinefms.dbstore.api.BasicQueryTest)')","[243, 487]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmptyQuery(com.cinefms.dbstore.api.BasicQueryTest)')","[82, 333]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleQueryGT(com.cinefms.dbstore.api.BasicQueryTest)')","[197, 443]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIllegalKeyQuery(com.cinefms.dbstore.api.BasicQueryTest)')","[174, 421]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testElemMatchDatabase(com.cinefms.dbstore.api.BasicQueryTest)')","[266, 509]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleQuery(com.cinefms.dbstore.api.BasicQueryTest)')","[59, 311]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.cinefms.dbstore.api.BasicQueryTest')","[36, 554]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNestedQuery(com.cinefms.dbstore.api.BasicQueryTest)')","[289, 531]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleQueryLE(com.cinefms.dbstore.api.BasicQueryTest)')","[220, 465]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleAndQuery(com.cinefms.dbstore.api.BasicQueryTest)')","[151, 399]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleQueryGTE(com.cinefms.dbstore.api.BasicQueryTest)')","[105, 355]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleQueryLTE(com.cinefms.dbstore.api.BasicQueryTest)')","[128, 377]"

@@ -1,0 +1,7 @@
+"('AbstractRepeater.java', 'org.apache.wicket.markup.repeater.AbstractRepeater', 'onBeforeRender', '^\\d+$', '2')",[2148]
+"('XmlReader.java', 'org.apache.wicket.util.io.XmlReader', 'getXmlDeclaration', '[\\s\\n\\r]*<\\?xml(\\s+.*)?\\?>', '<?xml version=""1.0"" encoding=""UTF-8"" ?>')","[572, 1144, 1906, 2979]"
+"('XmlReader.java', 'org.apache.wicket.util.io.XmlReader', 'getXmlDeclaration', '[\\s\\n\\r]*<\\?xml(\\s+.*)?\\?>', '<!--\n')","[124, 256, 407, 490, 696, 828, 979, 1062, 1272, 1458, 1590, 1741, 1824, 2334, 2468, 2621, 2705, 2833, 3105, 3239, 3392, 3476]"
+"('AbstractRepeater.java', 'org.apache.wicket.markup.repeater.AbstractRepeater', 'onBeforeRender', '^\\d+$', '1')",[2088]
+"('MarkupResourceStream.java', 'org.apache.wicket.markup.MarkupResourceStream', 'setDoctype', '!DOCTYPE\\s+(.*)\\s*', '!DOCTYPE html')","[184, 324, 756, 896, 1334, 1518, 1658, 2395, 2537, 2895, 3166, 3308]"
+"('AbstractRepeater.java', 'org.apache.wicket.markup.repeater.AbstractRepeater', 'onBeforeRender', '^\\d+$', '0')","[60, 632, 1206, 1394, 1968, 2028, 2269, 2767, 3040]"
+"('AbstractRepeater.java', 'org.apache.wicket.markup.repeater.AbstractRepeater', 'onBeforeRender', '^\\d+$', '3')",[2208]

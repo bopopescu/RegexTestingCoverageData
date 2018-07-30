@@ -1,0 +1,563 @@
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/InvokeTestEndpoint/fail')",[17219]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/JSONRequestTestEndpoint/testJSONBody')",[22059]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testQuery')",[6978]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/setUpSession')",[7882]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testBuiltinType')",[6587]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', '_method')","[11317, 11341]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStageFunctionOfTT(org.eiichiro.bootleg.PipelineTest)')","[1225, 3365]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/path/to/RouteTestEndpoint/method1')",[24181]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/ReceiveTestEndpoint/acceptPost')","[18757, 18967, 19177]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', 'html.html')",[4548]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/.*?/.*?', '/path/to/endpoint/method')",[11946]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/RouteTestEndpoint/method3')",[24452]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testBuiltinType')",[6768]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/getSerializable')",[16311]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/ReceiveTestEndpoint/acceptPost')","[18847, 19057, 19267]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testVariables(org.eiichiro.bootleg.URITemplateTest)')","[702, 3199]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/RouteTestEndpoint/method3')",[24392]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatches(org.eiichiro.bootleg.URITemplateTest)')","[1038, 3303]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testQuery')",[6798]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/SendTestEndpoint/generateXML')",[5076]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/ReceiveTestEndpoint/acceptGet')","[18157, 18367, 18577]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/getNull')",[15201]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/RouteTestEndpoint/method1')",[23273]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPipeline(org.eiichiro.bootleg.DefaultConfigurationTest)')","[414, 435, 456]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/RouteTestEndpoint/method1')",[23484]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/getUserDefined')",[16521]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testApplication')",[8575]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/setUpApplication')",[8424]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/SendTestEndpoint/generateResponse')",[5316]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/InvokeTestEndpoint/succeed')",[17009]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/RouteTestEndpoint/method3')",[24514]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', 'jpg.jpg')",[4298]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testBuiltinType')",[6677]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'gif.gif')",[4073]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRouting(org.eiichiro.bootleg.DefaultConfigurationTest)')","[162, 183, 204]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/SendTestEndpoint/generateXML')",[4986]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/RouteTestEndpoint')",[23062]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/InvokeTestEndpoint/succeed')",[16949]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/setUpNoSource')",[8967]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/9/c/aaa/hello/hi/ccc/goodbye')",[9509]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', 'ignores')",[4773]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testQuery')",[6948]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/SendTestEndpoint/negotiate')","[5706, 5916]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testSession')",[8063]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testCookie')",[7671]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/ReceiveTestEndpoint/acceptAll')","[17587, 17797, 18007]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/setUpSession')",[7942]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'gif.gif')",[4048]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTo(org.eiichiro.bootleg.GenericResponseTest)')","[1851, 3532]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCompareTo(org.eiichiro.bootleg.URITemplateTest)')","[870, 3261]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/9/c/aaa/hello/hi/ccc/goodbye')",[9539]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/JSONRequestTestEndpoint/testJSONCollection3')",[21939]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'png.png')",[4173]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/setUpApplication')",[8455]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', 'html.html')",[4598]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReceive(org.eiichiro.bootleg.ReceiveTest)')","[2057, 3614]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'type1')","[6286, 6320]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/path/to/endpoint/m')","[25634, 25997, 26360]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/SendTestEndpoint/generateUnsupportedMediaType')",[5346]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/RouteTestEndpoint/method1')",[23243]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/ReceiveTestEndpoint/acceptGetPost')","[19477, 19687, 19897]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.GenericRequestTest')",[578]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.DefaultConfigurationTest')","[4823, 4847, 4872, 4896]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/JSONRequestTestEndpoint/testJSONCollection2')",[21639]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/RouteTestEndpoint/method1/')",[23726]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testSession')",[8093]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.xml.XMLRequestTest')",[2139]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/ReceiveTestEndpoint/acceptAll')","[17407, 17617, 17827]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/JSONResponseTestEndpoint/getJSONUserInfo')",[21061]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/SendTestEndpoint/generateUnsupportedMediaType')",[5466]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/getSerializable')",[16221]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/ReceiveTestEndpoint/acceptGet')","[18187, 18397, 18607]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testBuiltinType')",[6647]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/path/to/endpoint/m')","[25724, 26087, 26450]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/XMLRequestTestEndpoint/testXMLBody')",[20595]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/JSONRequestTestEndpoint/testJSONBody')",[21999]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.xml.XMLResponseTest')","[20958, 20982, 21007, 21031]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testHeader')",[7370]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/ReceiveTestEndpoint/acceptGet')","[18217, 18427, 18637]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/get204Null')",[15621]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIgnore(org.eiichiro.bootleg.RoutingTest)')","[1664, 3470]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testApplication')",[8635]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', 'jsp.jsp')",[4373]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/getNull')",[15111]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testBuiltinType')",[6617]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAdd(org.eiichiro.bootleg.RoutingTest)')","[1769, 1790, 1811]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/RouteTestEndpoint')",[23093]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/getXMLString')",[16131]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/ReceiveTestEndpoint/acceptGetPost')","[19297, 19507, 19717]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.json.JSONResponseTest')","[21266, 21290, 21315, 21339]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testHeader')",[7430]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/JSONRequestTestEndpoint/testJSONCollection1')",[21489]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString(org.eiichiro.bootleg.PipelineTest)')","[1561, 3449]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/JSONRequestTestEndpoint/testJSONBody')",[22119]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/get204Null')",[15531]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/setUpNoSource')",[9117]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/RouteTestEndpoint')",[22970]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/ReceiveTestEndpoint/acceptXML')","[20047, 20257]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/ReceiveTestEndpoint/acceptAll')","[17497, 17707, 17917]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testURITemplate(org.eiichiro.bootleg.URITemplateTest)')","[975, 996, 1017]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testCookie')",[7641]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/ReceiveTestEndpoint/acceptPost')","[18727, 18937, 19147]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/path/to/RouteTestEndpoint/method1')",[23999]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/RouteTestEndpoint/method1/')",[23606]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/SendTestEndpoint/negotiate')","[5616, 5826]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.InvokeTest)')","[1954, 3573]"
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/.*?', '/path/to/endpoint/method')",[11992]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/get204Null')",[15681]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/ReceiveTestEndpoint/acceptXML')","[20017, 20227]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testSession')",[8183]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/XMLRequestTestEndpoint/testXMLBody')",[20535]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/SendTestEndpoint/generateXML')",[5106]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRouting(org.eiichiro.bootleg.DefaultConfigurationTest)')","[141, 3033]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/endpoint/(.+?)', '/path/to/endpoint/method')",[10177]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/getXMLNull')",[15501]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'html.html')",[4523]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/RouteTestEndpoint')",[23000]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testVariables(org.eiichiro.bootleg.URITemplateTest)')","[723, 744, 765, 3219]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testNoSource')",[9328]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/setUpApplication')",[8304]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/path/to/endpoint/method')","[24725, 25088, 25451]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.PipelineTest)')","[1141, 3324]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', 'gif.gif')",[4123]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/ReceiveTestEndpoint/acceptAll')","[17527, 17737, 17947]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/RouteTestEndpoint/method3')",[24545]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/path/to/endpoint/method')","[24635, 24998, 25361]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/NotFoundEndpoint/method2')",[23153]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/getString')",[15921]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/setUpNoSource')",[9147]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/path/to/RouteTestEndpoint/method1')",[24119]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/getXMLString')",[16101]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testBody')",[7129]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/NotFoundEndpoint/method2')",[23213]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/me/th/od2')",[22637]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/getXMLNull')",[15441]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'ignores')",[4673]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/RouteTestEndpoint/method1/')",[23666]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testNoSource')",[9298]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testCookie')",[7701]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/getSerializable')",[16191]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.RouteTest')",[2803]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', 'png\\..*?', 'pngpng')",[12799]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.GenericResponseTest')","[16786, 16810, 16835, 16859]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/path/to/RouteTestEndpoint/method1')",[24150]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.SendTest)')","[517, 538, 559, 3137]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/clearApplication')",[8937]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testJSONCollection1(org.eiichiro.bootleg.json.JSONRequestTest)')","[2490, 2511, 2532, 3798]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/ReceiveTestEndpoint/acceptGet')","[18037, 18247, 18457]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/(.+?)\\.(.+?)/(.+?)', '/path/to/endpoint/method')",[10949]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJSONCollection3(org.eiichiro.bootleg.json.JSONRequestTest)')","[2637, 3840]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/SendTestEndpoint/generateUnsupportedMediaType')",[5436]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/path/to/endpoint/m')","[25937, 26300, 26663]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/path/to/RouteTestEndpoint/method1')",[24059]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/ReceiveTestEndpoint/acceptPost')","[18787, 18997, 19207]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/RouteTestEndpoint/method1/')",[23696]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResponseTypes(org.eiichiro.bootleg.DefaultConfigurationTest)')","[309, 3075]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/path/to/RouteTestEndpoint/method1')",[23939]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/InvokeTestEndpoint/fail')",[17099]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testApplication')",[8515]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/getUserDefined')",[16461]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.ReceiveTest')","[20342, 20366, 20391, 20415]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/getString')",[15741]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/get204Null')",[15651]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testNoSource')",[9388]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', 'png', 'png.pngpng')",[12674]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testHeader')",[7340]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/XMLResponseTestEndpoint/getXMLUserInfo')",[20783]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testBody')",[7219]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/ReceiveTestEndpoint/acceptGet')","[18097, 18307, 18517]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/SendTestEndpoint/generateXML')",[5046]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/InvokeTestEndpoint/succeed')",[16919]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/JSONRequestTestEndpoint/testJSONCollection2')",[21729]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/getString')",[15891]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/JSONRequestTestEndpoint/testJSONCollection2')",[21759]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/ReceiveTestEndpoint/acceptAll')","[17437, 17647, 17857]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', 'jsp.jsp')",[4423]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', 'png', 'pngpng')",[12749]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTo(org.eiichiro.bootleg.xml.XMLResponseTest)')","[2284, 2305, 2326, 3716]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testHeader')",[7491]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testApplication')",[8545]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStageStringFunctionOfTT(org.eiichiro.bootleg.PipelineTest)')","[1330, 1351, 1372]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/RouteTestEndpoint/method1')",[23363]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', 'png', 'png')",[12599]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/SendTestEndpoint/generateResponse')",[5196]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/JSONRequestTestEndpoint/testJSONCollection1')",[21369]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/InvokeTestEndpoint/succeed')",[16979]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', 'jsp.jsp')",[4448]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testURITemplate(org.eiichiro.bootleg.URITemplateTest)')","[954, 3282]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/me/th/od2')",[22457]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/getString')",[15861]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', 'jpg.jpg')",[4248]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testCookie')",[7551]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/setUpNoSource')",[9087]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/RouteTestEndpoint/method1/')",[23848]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/JSONRequestTestEndpoint/testJSONCollection1')",[21459]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', 'png\\..*?', 'png.pngpng')",[12724]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/SendTestEndpoint/generateResponse')",[5166]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/me/th/od2')",[22487]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'method')","[9862, 9886, 10058, 10082, 10251, 10275, 10516, 10540, 10686, 10710, 10902, 10926, 10974, 10998, 11121, 11145, 11219, 11243, 11804, 11828, 12115, 12139, 12331, 12355]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testBody')",[7159]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/getXMLString')",[16011]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/SendTestEndpoint/negotiate')","[5586, 5796]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testQuery')",[6828]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/ReceiveTestEndpoint/acceptGetPost')","[19417, 19627, 19837]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRoute(org.eiichiro.bootleg.RouteTest)')","[2929, 2950, 2971]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/ReceiveTestEndpoint/acceptGetPost')","[19447, 19657, 19867]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStageStringPredicateOfT(org.eiichiro.bootleg.PipelineTest)')","[1477, 3428]"
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/endpoint/(.+?)', '/path/to/endpoint/method')",[11730]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/InvokeTestEndpoint/fail')",[17189]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/(.+?)\\.(.+?)/(.+?)', '/path/to/end.poi.nt/method')",[12162]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testNoSource')",[9238]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testHeader')",[7280]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'js.js')",[3948]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', 'html.html')",[4573]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/XMLResponseTestEndpoint/getXMLUserInfo')",[20813]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', '-method')","[11366, 11390]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/SendTestEndpoint/generateXML')",[5016]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/setUpApplication')",[8394]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTo(org.eiichiro.bootleg.GenericResponseTest)')","[1872, 1893, 1914, 3552]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/getUserDefined')",[16371]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/ReceiveTestEndpoint/acceptAll')","[17557, 17767, 17977]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/clearApplication')",[8756]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/endpoint/m', '/path/to/endpoint/m')","[25967, 26330, 26693]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.xml.XMLRequestTest')","[20650, 20674, 20699, 20723]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testHeader')",[7460]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/RouteTestEndpoint')",[23031]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testSession')",[8033]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'userDefinedType3Value')","[6493, 6527]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testBuiltinType')",[6737]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGet(org.eiichiro.bootleg.GenericRequestTest)')","[599, 3158]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/RouteTestEndpoint/method1')",[23515]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/RouteTestEndpoint/method1/')",[23576]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEndpoints(org.eiichiro.bootleg.DefaultConfigurationTest)')","[78, 99, 120, 3012]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/getNull')",[15261]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/XMLResponseTestEndpoint/getXMLUserInfo')",[20903]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/clearApplication')",[8726]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/getSerializable')",[16281]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFrom(org.eiichiro.bootleg.xml.XMLRequestTest)')","[2181, 2202, 2223, 3675]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/ReceiveTestEndpoint/acceptGetPost')","[19327, 19537, 19747]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/path/to/endpoint/m')","[25906, 26269, 26632]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/me/th/od2')",[22427]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testApplication')",[8605]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.PipelineTest')","[12501, 12525, 12550, 12574]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/RouteTestEndpoint')",[22940]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/JSONRequestTestEndpoint/testJSONBody')",[22029]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.RoutingTest')",[1643]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/(.+?)/.*?', '/path/to/endpoint/method')",[10370]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testCookie')",[7581]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/getXMLUserDefined')",[16611]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/XMLRequestTestEndpoint/testXMLBody')",[20625]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/RouteTestEndpoint')",[22850]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/path/to/endpoint/m')","[25664, 26027, 26390]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/InvokeTestEndpoint/succeed')",[16889]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/me/th/od2')",[22668]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.RouteTest')","[26714, 26734, 26755, 26775]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testCookie')",[7732]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/XMLRequestTestEndpoint/testXMLBody')",[20445]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/RouteTestEndpoint/method1')",[23423]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/RouteTestEndpoint/method1/')",[23817]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/path/to/endpoint/method')","[24605, 24968, 25331]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/InvokeTestEndpoint/fail')",[17249]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/RouteTestEndpoint')",[22790]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRequestTypes(org.eiichiro.bootleg.DefaultConfigurationTest)')","[225, 3054]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/SendTestEndpoint/generateResponse')",[5286]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/getXMLString')",[15981]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testBody')",[7039]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/setUpNoSource')",[9178]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/setUpSession')",[7822]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/getXMLNull')",[15471]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/getUserDefined')",[16431]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/JSONRequestTestEndpoint/testJSONCollection3')",[21789]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/me/th/od2')",[22730]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testNoSource')",[9208]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/setUpApplication')",[8334]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/RouteTestEndpoint/method3')",[24422]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/JSONResponseTestEndpoint/getJSONUserInfo')",[21241]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/(.+?)/.*?', '/path/to/endpoint/method')",[11923]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/path/to/endpoint/method')","[24847, 25210, 25573]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/getUserDefined')",[16551]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/getXMLNull')",[15411]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/JSONRequestTestEndpoint/testJSONCollection2')",[21669]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFrom(org.eiichiro.bootleg.json.JSONRequestTest)')","[2742, 2763, 2784]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/path/to/endpoint/m')","[25784, 26147, 26510]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testBody')",[7069]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/getXMLString')",[16041]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'pngpng.png')",[12649]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/ReceiveTestEndpoint/acceptPost')","[18667, 18877, 19087]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJSONCollection1(org.eiichiro.bootleg.json.JSONRequestTest)')","[2469, 3778]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testQuery')",[6918]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/getSerializable')",[16341]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/ReceiveTestEndpoint/acceptGetPost')","[19387, 19597, 19807]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGet(org.eiichiro.bootleg.GenericRequestTest)')","[620, 641, 662, 3178]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.SendTest')",[475]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'char')","[6148, 6182]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/JSONRequestTestEndpoint/testJSONBody')",[22149]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/path/to/endpoint/method')","[24665, 25028, 25391]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/XMLResponseTestEndpoint/getXMLUserInfo')",[20873]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/RouteTestEndpoint/method1')",[23546]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testQuery')",[6858]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testSession')",[8153]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/RouteTestEndpoint/method1')",[23453]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/path/to/endpoint/m')","[25754, 26117, 26480]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/path/to/endpoint/method')","[24575, 24938, 25301]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEndpoints(org.eiichiro.bootleg.DefaultConfigurationTest)')","[57, 2992]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/clearApplication')",[8876]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/path/to/endpoint/method')","[24785, 25148, 25511]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/RouteTestEndpoint/method3')",[24272]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/setUpApplication')",[8274]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/.*?', '/path/to/endpoint/method')",[12903]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testQuery')",[6888]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/RouteTestEndpoint/method1')",[23333]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/clearApplication')",[8846]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/ReceiveTestEndpoint/acceptPost')","[18697, 18907, 19117]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/getNull')",[15291]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'png.png')",[4148]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/NotFoundEndpoint/method2')",[23183]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/9/c/aaa/hello/hi/ccc/goodbye')",[9569]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/endpoint/method', '/path/to/endpoint/methodd')",[12208]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', 'jsp.jsp')",[4398]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/path/to/endpoint/method')","[24695, 25058, 25421]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/SendTestEndpoint/generateXML')",[4926]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/SendTestEndpoint/negotiate')","[5736, 5946]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/setUpSession')",[7973]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/setUpNoSource')",[9027]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/9/c/aaa/hello/hi/ccc/goodbye')",[9449]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', 'ignores')",[4798]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/endpoint/method', '/path/to/endpoint/method')",[11658]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/XMLResponseTestEndpoint/getXMLUserInfo')",[20753]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testSession')",[8003]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/(.+?)\\.(.+?)/(.+?)', '/path/to/end.poi.nt/method')",[10733]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'type3')","[6424, 6458]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.GenericResponseTest')",[1830]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/SendTestEndpoint/negotiate')","[5646, 5856]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/setUpSession')",[7792]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.RoutingTest')","[15008, 15032, 15057, 15081]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/JSONResponseTestEndpoint/getJSONUserInfo')",[21211]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.DefaultConfigurationTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToString(org.eiichiro.bootleg.PipelineTest)')","[1582, 1603, 1624]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTo(org.eiichiro.bootleg.json.JSONResponseTest)')","[2387, 2408, 2429, 3757]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/JSONResponseTestEndpoint/getJSONUserInfo')",[21151]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/path/to/endpoint/method')","[24878, 25241, 25604]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'point')","[10009, 10033, 10467, 10491, 10637, 10661, 10853, 10877, 11611, 11635, 12066, 12090, 12282, 12306]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', '.method')","[11268, 11292]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.json.JSONResponseTest')",[2345]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/endpoint/method', '/path/to/endpoint/metho')",[12185]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/XMLRequestTestEndpoint/testXMLBody')",[20565]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/XMLResponseTestEndpoint/getXMLUserInfo')",[20933]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/SendTestEndpoint/generateUnsupportedMediaType')",[5406]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.SendTest')","[5971, 5995, 6020, 6044]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/RouteTestEndpoint/method2')",[22397]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/JSONResponseTestEndpoint/getJSONUserInfo')",[21091]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testVariablesString(org.eiichiro.bootleg.URITemplateTest)')","[786, 3240]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/me/th/od2', '/me/th/od2')",[22760]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'css.css')",[3998]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/path/to/endpoint/method')","[24755, 25118, 25481]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.PipelineTest)')","[1162, 1183, 1204, 3344]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/JSONRequestTestEndpoint/testJSONCollection2')",[21609]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReceive(org.eiichiro.bootleg.ReceiveTest)')","[2078, 2099, 2120, 3634]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'int')","[6079, 6113]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/testApplication')",[8665]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/get204Null')",[15711]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/(.+?)/(.+?)', '/path/to/endpoint/method')",[11851]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/ReceiveTestEndpoint/acceptGetPost')","[19357, 19567, 19777]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStagePredicateOfT(org.eiichiro.bootleg.PipelineTest)')","[1393, 3407]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTo(org.eiichiro.bootleg.json.JSONResponseTest)')","[2366, 3737]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/RouteTestEndpoint/method1/')",[23636]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'ignores')",[4648]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'strings')","[6217, 6251]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testBuiltinType')",[6557]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/9/c/aaa/hello/hi/ccc/goodbye')",[9690]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'end')","[9960, 9984, 10418, 10442, 10588, 10612, 10804, 10828, 11562, 11586, 12017, 12041, 12233, 12257]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRequestTypes(org.eiichiro.bootleg.DefaultConfigurationTest)')","[246, 267, 288]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/JSONRequestTestEndpoint/testJSONBody')",[22089]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPipeline(org.eiichiro.bootleg.DefaultConfigurationTest)')","[393, 3096]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testQuery')",[7009]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/ReceiveTestEndpoint/acceptGet')","[18127, 18337, 18547]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/ReceiveTestEndpoint/acceptXML')","[19957, 20167]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/RouteTestEndpoint/method1/')",[23879]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/path/to/endpoint/m')","[25875, 26238, 26601]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericResponseTestEndpoint/getXMLUserDefined')",[16761]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/XMLRequestTestEndpoint/testXMLBody')",[20505]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRoute(org.eiichiro.bootleg.RouteTest)')","[2908, 3923]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/get204Null')",[15561]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', 'png', 'pngpng.png')",[12624]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/JSONRequestTestEndpoint/testJSONCollection2')",[21699]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/InvokeTestEndpoint/succeed')",[17069]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/JSONRequestTestEndpoint/testJSONCollection1')",[21519]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericResponseTestEndpoint/getXMLUserDefined')",[16731]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.json.JSONRequestTest')","[22204, 22228, 22253, 22277]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/InvokeTestEndpoint/fail')",[17159]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/SendTestEndpoint/negotiate')","[5556, 5766]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/9/c/aaa/hello/hi/ccc/goodbye')",[9599]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/JSONRequestTestEndpoint/testJSONCollection3')",[21909]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/RouteTestEndpoint/method3')",[24242]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', 'html.html')",[4623]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testBuiltinType')",[6707]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/InvokeTestEndpoint/fail')",[17279]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/RouteTestEndpoint/method3')",[24332]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStageFunctionOfTT(org.eiichiro.bootleg.PipelineTest)')","[1246, 1267, 1288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIgnore(org.eiichiro.bootleg.RoutingTest)')","[1685, 1706, 1727, 3490]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/JSONRequestTestEndpoint/testJSONBody')",[22179]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m.*?', '/path/to/endpoint/method')","[12929, 13085, 13137, 13189, 13241, 13293, 13345, 13787, 13839, 13891, 13943, 13995, 14047, 14489, 14541, 14593, 14645, 14697]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/ReceiveTestEndpoint/acceptXML')","[20077, 20287]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/me/th/od2')",[22547]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/ReceiveTestEndpoint/acceptAll')","[17467, 17677, 17887]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/ReceiveTestEndpoint/acceptXML')","[20107, 20317]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'jsp.jsp')",[4323]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', 'gif.gif')",[4098]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/testCookie')",[7611]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/setUpApplication')",[8244]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'jsp.jsp')",[4348]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/JSONRequestTestEndpoint/testJSONCollection3')",[21879]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/JSONRequestTestEndpoint/testJSONCollection2')",[21579]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.SendTest)')","[496, 3117]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/getSerializable')",[16251]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/ReceiveTestEndpoint/acceptXML')","[19987, 20197]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'pngpng')",[12774]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/getXMLNull')",[15381]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTo(org.eiichiro.bootleg.xml.XMLResponseTest)')","[2263, 3696]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testApplication')",[8696]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.GenericRequestTest')","[9715, 9739, 9764, 9788]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStagePredicateOfT(org.eiichiro.bootleg.PipelineTest)')","[1414, 1435, 1456]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', 'ignores')",[4698]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/me/th/od2')",[22607]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFrom(org.eiichiro.bootleg.json.JSONRequestTest)')","[2721, 3861]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/setUpNoSource')",[8997]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/setUpSession')",[7852]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/getXMLNull')",[15321]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/path/to/RouteTestEndpoint/method1')",[23909]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'png.pngpng')",[12699]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/getXMLUserDefined')",[16581]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'm-e_t.h--od')","[10130, 10154, 11023, 11047, 11683, 11707]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/getSerializable')",[16161]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/path/to/(.+?)\\.(.+?)/(.+?)', '/path/to/endpoint/method')",[12378]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/JSONRequestTestEndpoint/testJSONCollection3')",[21849]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/JSONRequestTestEndpoint/testJSONCollection1')",[21399]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericRequestTestEndpoint/testHeader')",[7310]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/path/to/RouteTestEndpoint/method1')",[24029]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.RouteTest)')","[2824, 3882]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/getXMLNull')",[15351]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'html.html')",[4498]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/InvokeTestEndpoint/fail')",[17129]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStageStringFunctionOfTT(org.eiichiro.bootleg.PipelineTest)')","[1309, 3386]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/getXMLUserDefined')",[16671]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testNoSource')",[9358]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/SendTestEndpoint/generateUnsupportedMediaType')",[5496]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/path/to/endpoint/m')","[25844, 26207, 26570]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/setUpNoSource')",[9057]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'type2')","[6355, 6389]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/getString')",[15771]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/RouteTestEndpoint/method2')",[22367]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/RouteTestEndpoint/method3')",[24302]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/path/to/RouteTestEndpoint/method1')",[23969]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.InvokeTest)')","[1975, 1996, 2017, 3593]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/InvokeTestEndpoint/succeed')",[17039]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', 'ignores')",[4748]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.ReceiveTest')",[2036]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/RouteTestEndpoint/method3')",[24362]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testSession')",[8123]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', 'jpg.jpg')",[4273]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/ReceiveTestEndpoint/acceptPost')","[18817, 19027, 19237]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResponseTypes(org.eiichiro.bootleg.DefaultConfigurationTest)')","[330, 351, 372]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/getUserDefined')",[16401]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testApplication')",[8485]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/JSONRequestTestEndpoint/testJSONCollection3')",[21819]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/SendTestEndpoint/generateUnsupportedMediaType')",[5526]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testJSONCollection3(org.eiichiro.bootleg.json.JSONRequestTest)')","[2658, 2679, 2700]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/JSONResponseTestEndpoint/getJSONUserInfo')",[21121]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/SendTestEndpoint/generateResponse')",[5136]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', 'jsp.jsp')",[4473]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/XMLRequestTestEndpoint/testXMLBody')",[20475]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/(.+?)\\.(.+?)/(.+?)', '/path/to/end.point/method')",[10563]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testVariablesString(org.eiichiro.bootleg.URITemplateTest)')","[807, 828, 849]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/9/c/aaa/hello/hi/ccc/goodbye')",[9660]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJSONCollection2(org.eiichiro.bootleg.json.JSONRequestTest)')","[2553, 3819]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', 'ignores')",[4723]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/JSONRequestTestEndpoint/testJSONCollection1')",[21429]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/setUpSession')",[7912]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/endpoint/method', '/path/to/endpoint/metho')",[10756]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/get204Null')",[15591]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/path/to/endpoint/m')","[25814, 26177, 26540]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/endpoint/method', '/path/to/endpoint/methodd')",[10779]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/JSONRequestTestEndpoint/testJSONCollection1')",[21549]
+"('URITemplateTest.java', 'org.eiichiro.bootleg.URITemplateTest', 'testMatches', '/.*?/endpoint/method', '/path/to/endpoint/method')",[11969]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/RouteTestEndpoint')",[22820]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testJSONCollection2(org.eiichiro.bootleg.json.JSONRequestTest)')","[2574, 2595, 2616]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', '?method')","[11415, 11439]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.URITemplateTest')","[12403, 12427, 12452, 12476]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/endpoint/method', '/path/to/endpoint/method')","[10105, 24908, 25271]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/SendTestEndpoint/generateResponse')",[5226]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/9/c/aaa/hello/hi/ccc/goodbye')",[9629]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/RouteTestEndpoint/method1/')",[23756]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.json.JSONRequestTest')",[2448]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/getNull')",[15171]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/GenericRequestTestEndpoint/clearApplication')",[8906]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/m', '/me/th/od2')",[22699]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.PipelineTest')",[1120]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/RouteTestEndpoint')",[22880]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/getNull')",[15231]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/RouteTestEndpoint')",[22910]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.InvokeTest')","[17304, 17328, 17353, 17377]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/SendTestEndpoint/generateResponse')",[5256]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/ReceiveTestEndpoint/acceptXML')","[19927, 20137]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/SendTestEndpoint/generateXML')",[4956]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCompareTo(org.eiichiro.bootleg.URITemplateTest)')","[891, 912, 933]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/RouteTestEndpoint/method1')",[23393]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/testHeader')",[7400]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/path/to/RouteTestEndpoint/method1')",[24089]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAdd(org.eiichiro.bootleg.RoutingTest)')","[1748, 3511]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/RouteTestEndpoint/method3')",[24483]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/getString')",[15801]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/me/th/od2')",[22577]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/getXMLString')",[16071]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testBody')",[7250]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'css.css')",[3973]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/path/to/endpoint/method')","[12825, 12877, 12955, 12981, 13007, 13033, 13059, 13111, 13163, 13215, 13267, 13319, 13371, 13397, 13449, 13501, 13553, 13605, 13657, 13709, 13735, 13761, 13813, 13865, 13917, 13969, 14021, 14073, 14099, 14151, 14203, 14255, 14307, 14359, 14411, 14437, 14463, 14515, 14567, 14619, 14671, 14723, 14749, 14801, 14853, 14905, 14957, 24816, 25179, 25542]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/path/to/endpoint/m')","[25694, 26057, 26420]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericRequestTestEndpoint/testBody')",[7189]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/clearApplication')",[8786]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatches(org.eiichiro.bootleg.URITemplateTest)')","[1059, 1080, 1101]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testNoSource')",[9419]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStageStringPredicateOfT(org.eiichiro.bootleg.PipelineTest)')","[1498, 1519, 1540]"
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', '<init>', '^\\p{Alnum}[\\p{Alnum}|.|_|-]*', 'endpoint')","[9813, 9837, 9911, 9935, 10202, 10226, 10323, 10347, 11072, 11096, 11170, 11194, 11464, 11488, 11513, 11537, 11755, 11779, 11876, 11900]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/getUserDefined')",[16491]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/(.+?)/(.+?)', '/path/to/endpoint/method')",[10298]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/RouteTestEndpoint/method1')",[23303]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericResponseTestEndpoint/getXMLUserDefined')",[16641]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/ReceiveTestEndpoint/acceptGet')","[18067, 18277, 18487]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApply(org.eiichiro.bootleg.RouteTest)')","[2845, 2866, 2887, 3902]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/RouteTestEndpoint/method2')",[22337]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/GenericRequestTestEndpoint/clearApplication')",[8816]
+"('URITemplate.java', 'org.eiichiro.bootleg.URITemplate', 'variables', '/path/to/.*?/.*?', '/path/to/endpoint/method')",[10393]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/RouteTestEndpoint/method2')",[22307]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/testCookie')",[7521]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/XMLResponseTestEndpoint/getXMLUserInfo')",[20843]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFrom(org.eiichiro.bootleg.xml.XMLRequestTest)')","[2160, 3655]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.gif', '/GenericRequestTestEndpoint/setUpApplication')",[8364]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/SendTestEndpoint/negotiate')","[5676, 5886]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.xml.XMLResponseTest')",[2242]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)/(.+?)', '/GenericRequestTestEndpoint/testSession')",[8214]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericResponseTestEndpoint/getNull')",[15141]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/GenericResponseTestEndpoint/getString')",[15831]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.InvokeTest')",[1933]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/9/c/aaa/hello/hi/ccc/goodbye')",[9479]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/SendTestEndpoint/generateUnsupportedMediaType')",[5376]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', 'jpg.jpg')",[4198]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', 'jpg.jpg')",[4223]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/endpoint/method', '/path/to/endpoint/notfound')",[12851]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.eiichiro.bootleg.URITemplateTest')",[681]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', 'css.css')",[4023]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericResponseTestEndpoint/getXMLString')",[15951]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testBody')",[7099]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/path/to/e.*?', '/path/to/endpoint/method')","[13423, 13475, 13527, 13579, 13631, 13683, 14125, 14177, 14229, 14281, 14333, 14385, 14775, 14827, 14879, 14931, 14983]"
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jsp', '/GenericRequestTestEndpoint/setUpSession')",[7762]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?/method2', '/me/th/od2')",[22517]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.png', '/JSONResponseTestEndpoint/getJSONUserInfo')",[21181]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.js', '/GenericResponseTestEndpoint/getXMLUserDefined')",[16701]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.html', '/GenericRequestTestEndpoint/testNoSource')",[9268]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.css', '/RouteTestEndpoint/method1/')",[23786]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/JSONRequestTestEndpoint/testJSONCollection3')",[21969]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'route', '/me/th/od2', '/path/to/RouteTestEndpoint/method1')",[24212]
+"('Routing.java', 'org.eiichiro.bootleg.Routing', 'ignores', '.*?\\.jpg', '/NotFoundEndpoint/method2')",[23123]

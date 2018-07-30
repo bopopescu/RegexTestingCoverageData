@@ -1,0 +1,71 @@
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)mi?n$', '1s')","[2209, 3599, 4989, 6379]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'java.lang.annotation.Annotation')","[1654, 1757, 1860, 1963, 3044, 3147, 3250, 3353, 4434, 4537, 4640, 4743, 5824, 5927, 6030, 6133]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.JobManagerTest.class')","[1310, 2700, 4090, 5480]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', '1mn')",[6875]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'de.spinscale.dropwizard.jobs.Job')","[937, 1005, 1141, 1277, 2327, 2395, 2531, 2667, 3717, 3785, 3921, 4057, 5107, 5175, 5311, 5447]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtilTest.class')","[1174, 2564, 3954, 5344]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)mi?n$', '0')",[6802]
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)mi?n$', 'foo')",[6702]
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)s$', '1s')","[2234, 2259, 3624, 3649, 5014, 5039, 6404, 6429]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.ApplicationStartTestJob.class')","[1242, 2632, 4022, 5412]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)mi?n$', '1mn')","[6899, 6923]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.annotations.Every.class')","[1584, 2974, 4364, 5754]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jobsOnStartupShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[57, 683]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', '1s')","[2184, 3574, 4964, 6354]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)s$', '0')",[6827]
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', '40s')",[7187]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'de.spinscale.dropwizard.jobs.JobManagerTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jobsWithEveryAnnotationShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[162, 183, 204]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', '20h')","[7115, 7139]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.Job.class')","[1481, 2871, 4261, 5651]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'org.quartz.Job')","[1551, 2941, 4331, 5721]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)mi?n$', '1w')",[6602]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'de.spinscale.dropwizard.jobs.JobsBundleTest')","[7378, 7398, 7419, 7439]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.yammer.dropwizard.lifecycle.Managed')","[2066, 3456, 4846, 6236]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'timeParserShouldThrowException(de.spinscale.dropwizard.jobs.parser.TimeParserUtilTest)')","[433, 454, 475, 807]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.EveryTestJob.class')","[902, 2292, 3682, 5072]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)s$', '1w')",[6627]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'de.spinscale.dropwizard.jobs.JobsBundleTest')",[578]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.annotations.OnApplicationStart.class')","[1790, 3180, 4570, 5960]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '1s')","[2159, 3549, 4939, 6329]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '40s')",[7163]
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', '1min')",[6971]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.JobManager.class')","[1996, 3386, 4776, 6166]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.JobsBundleTest.class')","[1038, 2428, 3818, 5208]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jobsOnStartupShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[78, 99, 120, 703]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jobsOnStoppingShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[246, 267, 288]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', 'foo')",[6652]
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '20h')",[7091]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'assertJobsBundleIsWorking(de.spinscale.dropwizard.jobs.JobsBundleTest)')","[620, 641, 662, 869]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'de.spinscale.dropwizard.jobs.JobManagerTest')","[6454, 6478, 6503, 6527]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.ApplicationStopTestJob.class')","[970, 2360, 3750, 5140]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '1mn')",[6851]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtilTest')",[391]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.annotations.OnApplicationStop.class')","[1687, 3077, 4467, 5857]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jobsWithOnAnnotationShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[309, 766]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'assertJobsBundleIsWorking(de.spinscale.dropwizard.jobs.JobsBundleTest)')","[599, 849]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)mi?n$', '40s')",[7211]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jobsWithEveryAnnotationShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[141, 724]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)s$', '40s')","[7235, 7259]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', '0')",[6777]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jobsOnStoppingShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[225, 745]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.annotations.On.class')","[1893, 3283, 4673, 6063]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtilTest')","[7284, 7308, 7333, 7357]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.OnTestJob.class')","[1106, 2496, 3886, 5276]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'java.lang.Object')","[1073, 1209, 1345, 1413, 1516, 1619, 1722, 1825, 1928, 2031, 2134, 2463, 2599, 2735, 2803, 2906, 3009, 3112, 3215, 3318, 3421, 3524, 3853, 3989, 4125, 4193, 4296, 4399, 4502, 4605, 4708, 4811, 4914, 5243, 5379, 5515, 5583, 5686, 5789, 5892, 5995, 6098, 6201, 6304]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)s$', 'foo')",[6727]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.JobsBundle.class')","[1378, 2768, 4158, 5548]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'timeParserShouldWork(de.spinscale.dropwizard.jobs.parser.TimeParserUtilTest)')","[496, 828]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)mi?n$', '1min')","[6995, 7019]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', '1w')",[6577]
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '1w')",[6552]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.yammer.dropwizard.Bundle')","[1448, 2838, 4228, 5618]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)h$', 'foo')",[6677]
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '0')",[6752]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'timeParserShouldWork(de.spinscale.dropwizard.jobs.parser.TimeParserUtilTest)')","[517, 538, 559]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '1min')",[6947]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'timeParserShouldThrowException(de.spinscale.dropwizard.jobs.parser.TimeParserUtilTest)')","[412, 787]"
+"('TimeParserUtil.java', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil', 'parseDuration', '^([0-9]+)d$', '10d')","[7043, 7067]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jobsWithOnAnnotationShouldBeExecuted(de.spinscale.dropwizard.jobs.JobManagerTest)')","[330, 351, 372]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'de.spinscale.dropwizard.jobs.parser.TimeParserUtil.class')","[2099, 3489, 4879, 6269]"

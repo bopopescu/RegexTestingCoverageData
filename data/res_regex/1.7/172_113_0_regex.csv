@@ -1,0 +1,25 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDefineLocalAddress(net.intelie.slowproxy.OptionsTest)')","[57, 385]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBufferSize(net.intelie.slowproxy.SpeedDefinitionTest)')","[307, 616]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test56kbps200ms(net.intelie.slowproxy.SpeedDefinitionTest)')","[328, 637]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test56kbpsDown2mbpsUpWithDelay(net.intelie.slowproxy.SpeedDefinitionTest)')","[181, 490]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.intelie.slowproxy.SpeedDefinitionTest')","[160, 961]"
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56kbps:1500ms/2mbps:1ms')",[916]
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56k:200ms')",[939]
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56kbps/2mbps')",[824]
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56Mbps:2s')",[847]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test56kbps(net.intelie.slowproxy.SpeedDefinitionTest)')","[286, 595]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.intelie.slowproxy.OptionsTest')","[36, 755]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultipleHosts(net.intelie.slowproxy.OptionsTest)')","[120, 448]"
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56Mbps')",[801]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.intelie.slowproxy.DelayedOutputStreamTest')","[364, 657]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test56M2seconds(net.intelie.slowproxy.SpeedDefinitionTest)')","[244, 553]"
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56k')","[681, 705, 729, 893]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_56k_1234_blabla_5678(net.intelie.slowproxy.OptionsTest)')","[99, 427]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 345]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test56M(net.intelie.slowproxy.SpeedDefinitionTest)')","[202, 511]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_balance(net.intelie.slowproxy.OptionsTest)')","[78, 406]"
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56kbps:2s/2mbps:1ms')",[778]
+"('SpeedDefinition.java', 'net.intelie.slowproxy.SpeedDefinition', 'parse', '(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?(?:/(\\d+)([a-z,A-Z]*)(?:\\:(\\d+)([a-z,A-Z]*))?)?', '56kbps:2000ms/2mbps:1000ms')",[870]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNoSpeed(net.intelie.slowproxy.OptionsTest)')","[141, 469]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBufferSizeFull(net.intelie.slowproxy.SpeedDefinitionTest)')","[265, 574]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test56kbpsDown2mbpsUp(net.intelie.slowproxy.SpeedDefinitionTest)')","[223, 532]"

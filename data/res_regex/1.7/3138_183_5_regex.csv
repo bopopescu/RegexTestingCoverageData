@@ -1,0 +1,25 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGet(org.lahab.clucene.utils.ConfigurationTest)')","[181, 397]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConfigurationString(org.lahab.clucene.utils.ConfigurationTest)')","[244, 463]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.lahab.clucene.utils.ConfigurationTest')","[139, 1097]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGet(org.lahab.clucene.utils.ParametizerTest)')","[57, 287]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRedefine(org.lahab.clucene.utils.ParametizerTest)')","[99, 331]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""key1"": 1, ""key2"": true, ""compound"": {""x"": ""hoy"", ""more"":{}}, ""key3"": {}}')",[640]
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""key1"": 1, ""key2"": true, ""compound"": {""x"": ""hoy""}}')",[917]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConfigurationJSONObject(org.lahab.clucene.utils.ConfigurationTest)')","[265, 485]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""x"": ""hoy"", ""more"":{}}, ""key3"": {}}')",[675]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultParametizer(org.lahab.clucene.utils.ParametizerTest)')","[120, 353]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{}')",[608]
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""bool"": {""true"": false, ""false"": true}, ""int"":2, ""double"": 2.1, ""string"": ""bye""}')",[545]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.lahab.clucene.utils.ParametizerTest')","[36, 1074]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""x"": ""hoy""}}')","[817, 884, 953]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""true"": false, ""false"": true}, ""int"":2, ""double"": 2.1, ""string"": ""bye""}')",[578]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCompulsory(org.lahab.clucene.utils.ParametizerTest)')","[78, 309]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIsCompound(org.lahab.clucene.utils.ConfigurationTest)')","[160, 375]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetObj(org.lahab.clucene.utils.ConfigurationTest)')","[223, 441]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContainsKey(org.lahab.clucene.utils.ConfigurationTest)')","[202, 419]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{}}, ""key3"": {}}')",[713]
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""int"":2, ""double"": 2.1, ""string"": ""bye""}')",[515]
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""key1"": 1, ""key2"": 2, ""compound"": {""x"": ""hoy""}}')","[781, 849]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{}}')",[748]
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""key1"": 1, ""key2"": 2}')","[985, 1019, 1051]"

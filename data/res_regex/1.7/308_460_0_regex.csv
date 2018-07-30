@@ -1,0 +1,23 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ecse321.fall2014.group3.bomberman.test.database.DatabaseTest')","[76, 355]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ecse321.fall2014.group3.bomberman.test.PasswordValidationTest')","[177, 702]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testQueries(ecse321.fall2014.group3.bomberman.test.database.DatabaseTest)')","[97, 240]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(ecse321.fall2014.group3.bomberman.test.physics.SweepAndPruneAlgorithmTest)')","[57, 219]"
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'a1@ABCDC')",[473]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'aaaaaaaa')",[611]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', '!@#$%^&*()_')",[680]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'aA2@')",[588]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'aA#12345')",[450]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', '123456789')",[634]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'a1A^^^()(^^')",[519]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'ABCDCEDF')",[657]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLeaderboard(ecse321.fall2014.group3.bomberman.test.database.DatabaseTest)')","[118, 261]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ecse321.fall2014.group3.bomberman.test.world.tile.powerup.PowerUPTest')","[137, 381]"
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'aaaaa1A@')",[427]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'abc123A@')",[404]
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'abc123')",[542]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSerialize(ecse321.fall2014.group3.bomberman.test.world.tile.powerup.PowerUPTest)')","[158, 282]"
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', 'a1A@#$%^&*(')",[496]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(ecse321.fall2014.group3.bomberman.test.PasswordValidationTest)')","[198, 303]"
+"('App.java', 'ecse321.fall2014.group3.bomberman.App', 'validatePassword', '((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$&%!^*()-_=+]).{8,})', '')",[565]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ecse321.fall2014.group3.bomberman.test.physics.SweepAndPruneAlgorithmTest')","[36, 329]"

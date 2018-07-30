@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canCreateGetUpdateDeleteAdlsAccount(com.microsoft.azure.management.datalake.store.DataLakeStoreAccountOperationsTests)')","[57, 79, 99]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[191]
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'subscriptionId')","[327, 399]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.microsoft.azure.management.datalake.store.DataLakeStoreAccountOperationsTests')","[36, 422]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[145]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[237]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'resourceGroupName')","[282, 363]"

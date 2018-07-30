@@ -1,0 +1,38 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test5(com.sirma.itt.javacourse.reflection.greedyregex.GreedyRegExTest)')","[265, 746]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test8(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[515, 977]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[389, 851]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.reflection.ibanvalidator.IBANTest')","[36, 1024]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[368, 830]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSetOfIBANs2(com.sirma.itt.javacourse.reflection.ibanvalidator.IBANTest)')","[78, 578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(com.sirma.itt.javacourse.reflection.greedyregex.GreedyRegExTest)')","[181, 662]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', '')",[1073]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test3(com.sirma.itt.javacourse.reflection.greedyregex.GreedyRegExTest)')","[223, 704]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', '1.@s')",[1119]
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'Z.ad-w@sthg----.....')",[1280]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test6(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[473, 935]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test10(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[305, 767]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 't.@aa')",[1257]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test4(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[431, 893]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBulgarianIBAN1(com.sirma.itt.javacourse.reflection.ibanvalidator.IBANTest)')","[99, 599]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test11(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[326, 788]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'test@sirma.com')",[1188]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBulgarianIBAN2(com.sirma.itt.javacourse.reflection.ibanvalidator.IBANTest)')","[120, 620]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'test.t-s@sir-ma.com')",[1142]
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'Z')",[1326]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.reflection.greedyregex.GreedyRegExTest')","[160, 1050]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBulgarianIBAN3(com.sirma.itt.javacourse.reflection.ibanvalidator.IBANTest)')","[141, 641]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testForeignIBAN(com.sirma.itt.javacourse.reflection.ibanvalidator.IBANTest)')","[57, 557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test3(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[410, 872]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test5(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[452, 914]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'eee@cc.british.museum')",[1234]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest')","[284, 1348]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'ee@ZZZZZZZ')",[1303]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test4(com.sirma.itt.javacourse.reflection.greedyregex.GreedyRegExTest)')","[244, 725]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(com.sirma.itt.javacourse.reflection.greedyregex.GreedyRegExTest)')","[202, 683]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'eee@cc.british.mu*seum')",[1096]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test12(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[347, 809]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'eee@s-sirma.com')",[1211]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test9(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[536, 998]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test7(com.sirma.itt.javacourse.reflection.emailvalidator.EmailTest)')","[494, 956]"
+"('EmailValidator.java', 'com.sirma.itt.javacourse.reflection.emailvalidator.EmailValidator', 'validateEmail', '^[a-zA-Z]{1}[a-zA-Z0-9-.]+@[a-zA-Z]{1}[a-zA-Z0-9-.]+\\.[a-zA-Z]{2,}$', 'h1ello@sirma999.com')",[1165]

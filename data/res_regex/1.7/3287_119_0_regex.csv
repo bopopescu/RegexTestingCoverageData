@@ -1,0 +1,15 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfileNestedSteps(ca.jimr.gae.profiler.MiniProfilerTest)')","[99, 326]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShouldProfileNoRestrict(ca.jimr.gae.profiler.MiniProfilerFilterTest)')","[160, 368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShouldProfileEmailRestrict(ca.jimr.gae.profiler.MiniProfilerFilterTest)')","[223, 431]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ca.jimr.gae.profiler.MiniProfilerFilterTest')","[118, 659]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShouldProfileKitchenSink(ca.jimr.gae.profiler.MiniProfilerFilterTest)')","[181, 389]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetAppstatsDataForInvalidId(com.google.appengine.tools.appstats.MiniProfilerAppstatsTest)')","[263, 452]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfileNotStarted(ca.jimr.gae.profiler.MiniProfilerTest)')","[78, 305]"
+"('NamespaceManager.java', 'com.google.appengine.api.NamespaceManager', 'validateNamespace', '[0-9A-Za-z._-]{0,100}', '__appstats__')",[688]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProfileSingleStep(ca.jimr.gae.profiler.MiniProfilerTest)')","[57, 284]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ca.jimr.gae.profiler.MiniProfilerTest')","[36, 478]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShouldProfileURLRestrict(ca.jimr.gae.profiler.MiniProfilerFilterTest)')","[202, 410]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.google.appengine.tools.appstats.MiniProfilerAppstatsTest')","[242, 710]"
+"('NamespaceManager.java', 'com.google.appengine.api.NamespaceManager', 'validateNamespace', '[0-9A-Za-z._-]{0,100}', 'mini_profile')","[509, 540, 571, 602, 633]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShouldProfileAdminRestrict(ca.jimr.gae.profiler.MiniProfilerFilterTest)')","[139, 347]"

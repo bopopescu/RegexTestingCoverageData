@@ -1,0 +1,475 @@
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/responses/atom.xml')","[12652, 12680, 12823, 12851]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/tags/java/atom.xml')",[36284]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/tags/java/atom.xml')",[36230]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/2018/01/15/1516008985968.html')",[32729]
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1137982733000.xml.bak')","[3850, 3880]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/atom.xml')","[12430, 12456]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/tags/')",[33304]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/search.action?query=java')",[37446]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/authors/sbrown/atom.xml')","[25687, 25713]"
+"('ShortPermalinkProvider.java', 'net.sourceforge.pebble.permalink.ShortPermalinkProvider', 'isBlogEntryPermalink', '/\\d*.html', '/2004/01/1234567890123.html')","[1935, 1961]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/2007/07.html')",[35033]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/rdf.xml')","[11544, 11572, 11715, 11743]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories')","[18000, 18028, 18171, 18199]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/authors/sbrown/rdf.xml')","[24793, 24821, 24964, 24992]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...atom.xml?category=java')",[32283]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/2003/')","[17493, 17519]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories/category1/subcategory')","[19189, 19217, 19360, 19388]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/pages/sbrown.html')",[37007]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/files/directory/test.txt')",[34614]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://www.yahoo.com')",[30344]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/search.action?query=java')",[37419]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/pages/some-story.html')","[15990, 16016]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/images/myImage.jpg')","[14593, 14619, 29870, 29897]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/tags')",[33358]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/tags/')","[20995, 21021]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories/java/rss.xml')",[35872]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...feed.xml?category=java')",[31716]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/responses/rss.xml?entry=1202928360000')","[10876, 10904, 11047, 11075]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/2003/')","[17546, 17572]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/files/test.txt')",[34587]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/pages')","[16102, 16130, 16273, 16301]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...rss.xml')",[31365]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/1234567890123.html')","[133, 159]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://www.somedomain.com')","[30018, 30106, 30209, 30410, 30513, 30606, 30694, 30797, 30890, 31086, 31174, 31262, 32430, 32626, 32883, 33201, 33721, 34241, 34761, 34957, 35275, 35654, 35796, 36100, 36350, 36654, 36958, 37262]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/somerandompage.html')","[13986, 14012]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/tags/java/')",[33574]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/blogentries/1.html')",[34837]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2003/')","[17047, 17075, 17218, 17246]"
+"('FourDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.FourDigitFilenameFilter', 'accept', '\\d\\d\\d\\d\\z', 'images')","[2935, 2965, 3606, 3636, 4216, 4246, 4887, 4917, 5558, 5588, 6229, 6259, 6900, 6930, 7571, 7601, 8242, 8272]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/authors/sbrown/rdf.xml')","[25133, 25159]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077006.xml.bak')","[8486, 8516]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/categories/')",[33851]
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://www.javablogs.com/Welcome.action')",[38369]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/tags')","[21107, 21135, 21278, 21306]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...rss.xml?category=java')",[31500]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/2007/07.html')",[35006]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/someotherpage.html')","[398, 424, 1564, 1590, 2200, 2226]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/blogentries/1.html')",[34810]
+"('FourDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.FourDigitFilenameFilter', 'accept', '\\d\\d\\d\\d\\z', 'files')","[2691, 2721, 3362, 3392, 3972, 4002, 4643, 4673, 5314, 5344, 5985, 6015, 6656, 6686, 7327, 7357, 7998, 8028]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/about.html')","[27630, 27656]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories/category1/rss.xml')","[19584, 19612, 19755, 19783]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/atom.xml')","[12098, 12126, 12269, 12297]"
+"('TitlePermalinkProvider.java', 'net.sourceforge.pebble.permalink.TitlePermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/[\\w]*.html', '/someotherpage.html')","[1352, 1378]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/somerandompage.html')","[14145, 14171]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/tags/automated+unit+testing/atom.xml')","[23400, 23428, 23571, 23599]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories/category1/rdf.xml')","[19922, 19950, 20093, 20121]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/tags/automated+unit+testing/rdf.xml')","[23009, 23037, 23180, 23208]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/files/myFile.zip')","[14815, 14843, 14986, 15014]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/2003/')","[17387, 17413]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077002.xml')","[5863, 5893]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...atom.xml')",[32256]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/pages/authors/sbrown.html')",[37115]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories/category1/subcategory/')","[18680, 18708, 18851, 18879]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories')",[33905]
+"('TitlePermalinkProvider.java', 'net.sourceforge.pebble.permalink.TitlePermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/[\\w]*.html', '/2018/01/15/1516008985438.html')","[26463, 26491]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/files/test.txt')",[34560]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...feed.xml')",[31554]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/search.action?query=java')",[37473]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2003/11/24.html')","[15373, 15401]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/authors/sbrown')",[36865]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/authors/sbrown/rss.xml')","[24685, 24711]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/categories/category1/rdf.xml')","[20205, 20231]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/responses/atom.xml')","[13037, 13063]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...rdf.xml?category=java')",[32148]
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1137982733000.xml')","[3789, 3819]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/2007/07/01.html')",[35378]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/files/myFile.zip')","[14701, 14729, 14872, 14900]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/somerandompage.html')","[13703, 13731, 13874, 13902]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories/java')",[33986]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/tags/')","[20769, 20797, 20940, 20968]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/')",[32533]
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://javablogs.com/Welcome.action')",[38396]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/tags/java/')",[33601]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories/java/')",[34121]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/rss.xml')","[9768, 9796, 9939, 9967, 28889, 28918, 29066, 29095]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/pages/sbrown.html')",[37088]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/responses/rss.xml')","[10768, 10794]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://www.somedomain.com')","[37522, 37566, 37615, 37718, 37767, 37816, 37860, 37909, 37958, 38056, 38100, 38144, 38188, 38232, 38276, 38320, 38526, 38570, 38614]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/today.html')","[26241, 26267]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/tags/automated+unit+testing/atom.xml')","[23343, 23371, 23514, 23542]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/someotherpage.html')","[186, 212]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/viewFeeds.action/rss.xml')","[13206, 13234, 13377, 13405]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://www.somedomain.com/here/is/a/long/url/abcdefghijklmnopqrstuvwxyz012345678012345678901234567890123456789')",[30966]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/about.html')","[27245, 27273, 27416, 27444]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d', '/2004/01/01')","[928, 954]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/tags')",[33385]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/tags/java')",[33493]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/tags/automated unit testing')","[21785, 21811]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/images/myImage.jpg')","[14540, 14566, 29815, 29842]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/images/myImage.jpg')","[14314, 14342, 14485, 14513, 29581, 29610, 29758, 29787]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/atom.xml')","[11984, 12012, 12155, 12183]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/authors/sbrown/')",[36703]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/responses/rss.xml?entry=1202928360000')","[11269, 11295]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/authors/sbrown/atom.xml')","[25634, 25660]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/categories/category1/')","[18625, 18651]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/responses/atom.xml')",[35730]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/tags/java/rss.xml')",[36203]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/2004/01.html')","[292, 318, 1458, 1484, 2094, 2120]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/authors/sbrown/rss.xml')","[24738, 24764]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/authors/sbrown/')","[24131, 24157]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2007/07/01.html')","[35436, 35466]"
+"('TwoDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.TwoDigitFilenameFilter', 'accept', '\\d\\d\\z', '23')","[3728, 3758]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077005.xml')","[7876, 7906]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/2018/01/15/1516008985983.html')",[33013]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories')","[17943, 17971, 18114, 18142]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/search.action')",[37392]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/files')",[34452]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/files/')",[34371]
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077003.xml.bak')","[6473, 6503]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/pages/some-story.html')","[15884, 15910]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories/java/junit/atom.xml')",[36007]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/rdf.xml')","[11487, 11515, 11658, 11686]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories/category1/atom.xml')","[20374, 20402, 20545, 20573]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/categories/category1/rss.xml')","[19810, 19836]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isBlogEntryPermalink', '/[\\w-]*', '/2010/05/01/someotherpage.html')","[1193, 1219]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/categories/java/')",[34175]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/tags/automated unit testing')","[21445, 21473, 21616, 21644]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/images/myImage.jpg')","[14200, 14228, 14371, 14399, 29463, 29492, 29640, 29669]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/responses/rss.xml')","[10662, 10688]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2003/11.html')","[15202, 15230]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d', '/2004/01')","[716, 742]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/search.action?query=java')",[37500]
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/ViewHotBlogEntries.*', 'http://www.somedomain.com')","[37544, 37588, 37642, 37740, 37794, 37838, 37882, 37936, 37980, 38078, 38122, 38166, 38210, 38254, 38298, 38342, 38548, 38592, 38636]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/responses/atom.xml')","[12538, 12566, 12709, 12737]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/somerandompage.html')","[14092, 14118]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/pages/authors/sbrown.html')",[37196]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories/category1/atom.xml')","[20317, 20345, 20488, 20516]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/images/myImage.jpg')","[27684, 27711]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077006.xml')","[8547, 8577]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/tags/automated unit testing/')","[22392, 22418]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories/category1/rss.xml')","[19527, 19555, 19698, 19726]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/ViewHotBlogEntries.*', 'http://www.somedomain.com/here/is/a/long/url/abcdefghijklmnopqrstuvwxyz012345678012345678901234567890123456789')",[38034]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/authors/sbrown/rss.xml')","[24349, 24377, 24520, 24548]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/authors/sbrown/')","[24184, 24210]"
+"('FourDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.FourDigitFilenameFilter', 'accept', '\\d\\d\\d\\d\\z', 'theme')","[2630, 2660, 3301, 3331, 3911, 3941, 4582, 4612, 5253, 5283, 5924, 5954, 6595, 6625, 7266, 7296, 7937, 7967]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/files/directory/test.txt')",[34641]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/categories/')",[33824]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/blogentries/1.html')",[34864]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/')","[8774, 8802, 8945, 8973, 9328, 9356, 9499, 9527, 27859, 27888, 28036, 28065, 28433, 28462, 28610, 28639]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2018/01/15/1516008985438.html')","[26520, 26548]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/categories/java')",[34067]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/2007/07/01.html')","[35558, 35588]"
+"('FourDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.FourDigitFilenameFilter', 'accept', '\\d\\d\\d\\d\\z', 'categories.xml')","[2996, 3026, 4277, 4307, 4948, 4978, 5619, 5649, 6290, 6320, 6961, 6991, 7632, 7662, 8303, 8333]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...atom.xml?category=java')",[32364]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/')","[8660, 8688, 8831, 8859, 9214, 9242, 9385, 9413, 27741, 27770, 27918, 27947, 28315, 28344, 28492, 28521]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/tags/automated unit testing/')","[22003, 22031, 22174, 22202]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/files/myFile.zip')","[15094, 15120]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/pages')","[16159, 16187, 16330, 16358]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories/java/')",[34094]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '')","[663, 689, 1829, 1855, 2465, 2491]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/')","[8717, 8745, 8888, 8916, 9271, 9299, 9442, 9470, 27800, 27829, 27977, 28006, 28374, 28403, 28551, 28580]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/tags/java/atom.xml')",[36257]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/authors/sbrown')",[36892]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...feed.action?category=java')",[31878]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/responses/rss.xml')","[10715, 10741]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/atom.xml')","[12483, 12509]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/responses/atom.xml')","[12878, 12904]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/tags/java')",[33547]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/tags/automated unit testing/')","[22060, 22088, 22231, 22259]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/tags/automated+unit+testing/atom.xml')","[23736, 23762]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2018/01/15/1516008985126.html')","[15487, 15515]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/2007/07/01.html')","[35497, 35527]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://www.somedomain.com/here/is/a/long/url/abcdefghijklmnopqrstuvwxyz012345678012345678901234567890123456789')",[30939]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...rdf.xml')",[32013]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories/category1/rss.xml')","[19470, 19498, 19641, 19669]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/2007/07/01.html')",[35324]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/tags/automated unit testing')","[21891, 21917]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/files/')",[34344]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories/')",[33770]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/2018/01/15/1516008985968.html')",[32702]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/responses/atom.xml')","[12984, 13010]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/2007/07.html')",[35087]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2004/01/01/1234567890123.html')","[27, 53]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/tags/automated unit testing/')","[22339, 22365]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/categories/java')",[34040]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/tags/java/rss.xml')",[36149]
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/ViewHotBlogEntries.*', 'http://www.javablogs.com/ViewHotBlogEntries.action;jsessionid=MHDGMNPJGIHD')",[38504]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories/category1/subcategory/')","[18737, 18765, 18908, 18936]"
+"('FourDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.FourDigitFilenameFilter', 'accept', '\\d\\d\\d\\d\\z', 'indexes')","[2813, 2843, 3484, 3514, 4094, 4124, 4765, 4795, 5436, 5466, 6107, 6137, 6778, 6808, 7449, 7479, 8120, 8150]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', '0')",[38663]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/search.action')",[37311]
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/ViewHotBlogEntries.*', 'http://www.yahoo.com')","[2599, 8631, 37696]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/categories/java/')",[34148]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/tags')","[21390, 21416]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077002.xml.bak')","[5802, 5832]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/viewFeeds.action/rss.xml')","[13485, 13511]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/2004/01.html')","[557, 583, 1723, 1749, 2359, 2385]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/pages')","[16438, 16464]"
+"('ShortPermalinkProvider.java', 'net.sourceforge.pebble.permalink.ShortPermalinkProvider', 'isBlogEntryPermalink', '/\\d*.html', '/someotherpage.html')","[1988, 2014]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d', '/someotherpage')","[822, 848]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories/')","[17601, 17629, 17772, 17800]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/blogentries/1.html')","[26970, 26996]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/files/')",[34317]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...rss.xml')",[31311]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/tags/automated+unit+testing/rss.xml')","[22787, 22813]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/viewFeeds.action/rss.xml')","[13092, 13120, 13263, 13291]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories/category1/subcategory')","[19075, 19103, 19246, 19274]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/responses/rss.xml?entry=1202928360000')","[11216, 11242]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/pages/authors/sbrown.html')",[37169]
+"('TwoDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.TwoDigitFilenameFilter', 'accept', '\\d\\d\\z', '01')","[3667, 3697]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/rdf.xml')","[11430, 11458, 11601, 11629]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/tags/automated+unit+testing/atom.xml')","[23683, 23709]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2018/01/15/1516008985983.html')","[33105, 33135]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories/')","[17715, 17743, 17886, 17914]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://www.yahoo.com')",[30317]
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isBlogEntryPermalink', '/[\\w-]*', '/blog-entry-title')","[1140, 1166]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d', '')","[875, 901]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/tags')","[21050, 21078, 21221, 21249]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077000.xml.bak')","[3240, 3270]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isBlogEntryPermalink', '/[\\w-]*', '')","[1246, 1272]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/today.html')","[26294, 26320]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d', '/2004/01/01')","[769, 795]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://www.test.com')",[2518]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...rss.xml?category=java')",[31446]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/files')",[34398]
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://www.javablogs.com/Welcome.jspa')",[38423]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/authors/sbrown/rss.xml')",[36399]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/authors/sbrown/atom.xml')",[36534]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/blogentries/1.html')","[27023, 27049]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/blogentries/1.html')","[26917, 26943]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/authors/sbrown')",[36811]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://www.somedomain.com')","[30040, 30128, 30236, 30432, 30540, 30628, 30716, 30824, 30912, 31108, 31196, 31284, 32452, 32648, 32905, 33223, 33743, 34263, 34783, 34979, 35297, 35676, 35818, 36122, 36372, 36676, 36980, 37284]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories/')","[17658, 17686, 17829, 17857]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...atom.xml')",[32229]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/2003/11/24.html')","[15430, 15458]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories/category1/subcategory')","[19132, 19160, 19303, 19331]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...feed.action?category=java')",[31851]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories')","[18057, 18085, 18228, 18256]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/images/myImage.jpg')","[14646, 14672, 29925, 29952]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/atom.xml')","[12041, 12069, 12212, 12240]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...feed.action')",[31770]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/authors/sbrown/rss.xml')",[36480]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/rss.xml')","[10108, 10134, 29241, 29268]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...atom.xml?category=java')",[32337]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/somerandompage.html')","[13646, 13674, 13817, 13845]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/tags')",[33439]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/files/myFile.zip')","[14758, 14786, 14929, 14957]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/')",[32560]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/tags/automated+unit+testing/atom.xml')","[23457, 23485, 23628, 23656]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories/')",[33797]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/about.html')","[27524, 27550]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories/category1/')","[18285, 18313, 18456, 18484]"
+"('FourDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.FourDigitFilenameFilter', 'accept', '\\d\\d\\d\\d\\z', 'logs')","[2752, 2782, 3423, 3453, 4033, 4063, 4704, 4734, 5375, 5405, 6046, 6076, 6717, 6747, 7388, 7418, 8059, 8089]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/today.html')","[26135, 26161]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/authors/sbrown/')",[36757]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '')","[239, 265]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories/java/junit/rss.xml')",[35980]
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077004.xml.bak')","[7205, 7235]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077005.xml.bak')","[7815, 7845]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2007/07.html')","[35118, 35148]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/pages/')","[16939, 16965]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/rdf.xml')","[11929, 11955]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/categories/category1/atom.xml')","[20600, 20626]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/pages/some-story.html')","[15658, 15686, 15829, 15857]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...atom.xml')",[32202]
+"('TwoDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.TwoDigitFilenameFilter', 'accept', '\\d\\d\\z', '06')","[3057, 3087, 4338, 4368, 5009, 5039, 5680, 5710, 6351, 6381, 7022, 7052, 7693, 7723, 8364, 8394]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/')","[9159, 9185, 9713, 9739, 28258, 28285, 28832, 28859]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/categories')",[33959]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/tags')",[33412]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...rss.xml')",[31338]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/authors/sbrown/rss.xml')","[24406, 24434, 24577, 24605]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/pages/some-story.html')","[15544, 15572, 15715, 15743]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/today.html')","[25795, 25823, 25966, 25994]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/search.action')",[37365]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/2007/07.html')","[35179, 35209]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/2018/01/15/1516008985983.html')",[32986]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...rdf.xml?category=java')",[32094]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/blogentries/1.html')","[26691, 26719, 26862, 26890]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/2007/07.html')",[35060]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/tags/')",[33331]
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077003.xml')","[6534, 6564]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/2007/07/01.html')",[35405]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/authors/sbrown/atom.xml')","[25294, 25322, 25465, 25493]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/pages/')","[16660, 16688, 16831, 16859]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/tags/automated+unit+testing/rss.xml')","[22840, 22866]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/tags/automated unit testing')","[21502, 21530, 21673, 21701]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/images/myImage.jpg')","[14257, 14285, 14428, 14456, 29522, 29551, 29699, 29728]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/rss.xml')","[10267, 10293, 29406, 29433]"
+"('TitlePermalinkProvider.java', 'net.sourceforge.pebble.permalink.TitlePermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/[\\w]*.html', '')","[1405, 1431]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/authors/sbrown/')",[36730]
+"('TitlePermalinkProvider.java', 'net.sourceforge.pebble.permalink.TitlePermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/[\\w]*.html', '/2004/01/01/blog_entry_title.html')","[1299, 1325]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/responses/atom.xml')","[12595, 12623, 12766, 12794]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/2003/')","[17440, 17466]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/tags/java')",[33466]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/authors/sbrown/atom.xml')",[36507]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories/category1/atom.xml')","[20260, 20288, 20431, 20459]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/authors/sbrown/')","[24237, 24263]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/')","[9000, 9026, 9554, 9580, 28093, 28120, 28667, 28694]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/tags/')","[20712, 20740, 20883, 20911]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...feed.xml?category=java')",[31689]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2018/01/15/1516008985415.html')","[26349, 26377]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077004.xml')","[7144, 7174]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/categories/category1/')","[18342, 18370, 18513, 18541]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://www.javablogs.com/ViewHotBlogEntries.action;jsessionid=MHDGMNPJGIHD')",[38477]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories')",[33878]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...rdf.xml')",[31959]
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://www.yahoo.com')","[2572, 8604, 37669]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories/category1/rdf.xml')","[19979, 20007, 20150, 20178]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/tags/')",[33250]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...feed.action')",[31743]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/responses/rss.xml')","[10436, 10464, 10607, 10635]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/viewFeeds.action/rss.xml')","[13591, 13617]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/authors/sbrown/')","[23848, 23876, 24019, 24047]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/tags/automated+unit+testing/rss.xml')","[22561, 22589, 22732, 22760]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories/java/rss.xml')",[35845]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/somerandompage.html')","[14039, 14065]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories/java/junit/atom.xml')",[36034]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/tags/automated unit testing/')","[21946, 21974, 22117, 22145]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...rdf.xml?category=java')",[32121]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/about.html')","[27577, 27603]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...feed.xml')",[31608]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/authors/sbrown')",[36838]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...feed.action?category=java')",[31905]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/files/directory/test.txt')",[34668]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/authors/sbrown/rss.xml')","[24292, 24320, 24463, 24491]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/today.html')","[25909, 25937, 26080, 26108]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/authors/sbrown/rdf.xml')","[25186, 25212]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/tags/automated unit testing')","[21838, 21864]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/pages')","[16045, 16073, 16216, 16244]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/pages/')","[16546, 16574, 16717, 16745]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/2003/')","[17104, 17132, 17275, 17303]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/authors/sbrown/')","[23905, 23933, 24076, 24104]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...rss.xml')",[31392]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/responses/atom.xml')","[12931, 12957]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/tags/java/')",[33628]
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077001.xml.bak')","[4460, 4490, 5131, 5161]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/about.html')","[27188, 27216, 27359, 27387]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/viewFeeds.action/rss.xml')","[13149, 13177, 13320, 13348]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/tags/automated+unit+testing/rdf.xml')","[22895, 22923, 23066, 23094]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2018/01/15/1516008985968.html')","[32787, 32817]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/authors/sbrown/rdf.xml')","[24907, 24935, 25078, 25106]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://www.yahoo.com')",[30290]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...atom.xml?category=java')",[32310]
+"('TitlePermalinkProvider.java', 'net.sourceforge.pebble.permalink.TitlePermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/[\\w]*.html', '/2018/01/15/1516008985983.html')","[33044, 33074]"
+"('ShortPermalinkProvider.java', 'net.sourceforge.pebble.permalink.ShortPermalinkProvider', 'isBlogEntryPermalink', '/\\d*.html', '')","[2041, 2067]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/files/directory/test.txt')",[34695]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/viewFeeds.action/rss.xml')","[13432, 13458]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077000.xml')","[3179, 3209]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/somerandompage.html')","[13760, 13788, 13931, 13959]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/today.html')","[26188, 26214]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/authors/sbrown/rdf.xml')","[24850, 24878, 25021, 25049]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/categories')",[33932]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://www.somedomain.com')","[29974, 30062, 30155, 30366, 30459, 30562, 30650, 30743, 30846, 31042, 31130, 31218, 32386, 32582, 32839, 33157, 33677, 34197, 34717, 34913, 35231, 35610, 35752, 36056, 36306, 36610, 36914, 37218]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d', '')","[1087, 1113]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/atom.xml')","[12377, 12403]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/categories/category1/subcategory')","[19415, 19441]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/tags/automated+unit+testing/rss.xml')","[22447, 22475, 22618, 22646]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/authors/sbrown/rss.xml')","[24632, 24658]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/')","[9053, 9079, 9607, 9633, 28148, 28175, 28722, 28749]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/authors/sbrown/atom.xml')",[36588]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/tags/automated+unit+testing/rdf.xml')","[22952, 22980, 23123, 23151]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...feed.action?category=java')",[31932]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/responses/rss.xml')","[10322, 10350, 10493, 10521]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/blogentries/1.html')","[26634, 26662, 26805, 26833]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/responses/rss.xml?entry=1202928360000')","[11375, 11401]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d', '/someotherpage')","[1034, 1060]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/')","[9106, 9132, 9660, 9686, 28203, 28230, 28777, 28804]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/files')",[34479]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/2018/01/15/1516008985983.html')",[32959]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/authors/sbrown/rdf.xml')","[25239, 25265]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/search.action')",[37338]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://www.somedomain.com/here/is/a/long/url/abcdefghijklmnopqrstuvwxyz012345678012345678901234567890123456789')",[31020]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/')",[32479]
+"('FourDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.FourDigitFilenameFilter', 'accept', '\\d\\d\\d\\d\\z', '2006')","[2874, 2904, 3545, 3575, 4155, 4185, 4826, 4856, 5497, 5527, 6168, 6198, 6839, 6869, 7510, 7540, 8181, 8211]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...rss.xml?category=java')",[31473]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...feed.action')",[31824]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/2003/')","[17161, 17189, 17332, 17360]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/authors/sbrown/atom.xml')","[25351, 25379, 25522, 25550]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/2004/01/01/123456789012.html')","[80, 106]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/2007/07/01.html')",[35351]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/rdf.xml')","[11876, 11902]"
+"('BlogEntryFilenameFilter.java', 'net.sourceforge.pebble.dao.file.BlogEntryFilenameFilter', 'accept', '\\d+.xml\\z', '1150945077001.xml')","[4521, 4551, 5192, 5222]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...feed.xml?category=java')",[31635]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/someotherpage.html')","[610, 636, 1776, 1802, 2412, 2438]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/atom.xml')","[12324, 12350]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://www.somedomain.com/here/is/a/long/url/abcdefghijklmnopqrstuvwxyz012345678012345678901234567890123456789')",[30993]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', 'http://...rdf.xml')",[32040]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/tags')","[21164, 21192, 21335, 21363]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/viewFeeds.action/rss.xml')","[13538, 13564]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/files')",[34425]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...feed.xml')",[31581]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/tags/java/rss.xml')",[36176]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/tags/java')",[33520]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/rss.xml')","[9882, 9910, 10053, 10081, 29007, 29036, 29184, 29213]"
+"('ShortPermalinkProvider.java', 'net.sourceforge.pebble.permalink.ShortPermalinkProvider', 'isBlogEntryPermalink', '/\\d*.html', '/1234567890123.html')","[1882, 1908]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/authors/sbrown/atom.xml')","[25408, 25436, 25579, 25607]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/tags/automated+unit+testing/rss.xml')","[22504, 22532, 22675, 22703]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/responses/rss.xml')","[10379, 10407, 10550, 10578]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/pages/sbrown.html')",[37061]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories/category1/subcategory/')","[18794, 18822, 18965, 18993]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories/java/junit/rss.xml')",[35953]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/2004/01/01.html')","[504, 530, 1670, 1696, 2306, 2332]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/tags/java/')",[33655]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/rss.xml')","[10161, 10187, 29296, 29323]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/responses/rss.xml?entry=1202928360000')","[11322, 11348]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/pages/sbrown.html')",[37034]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/categories/category1/')","[18399, 18427, 18570, 18598]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...rss.xml?category=java')",[31419]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/authors/sbrown/')","[23791, 23819, 23962, 23990]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/responses/rss.xml')",[35703]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/responses/rss.xml?entry=1202928360000')","[10990, 11018, 11161, 11189]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/pages/some-story.html')","[15937, 15963]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/rss.xml')","[10214, 10240, 29351, 29378]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/ViewHotBlogEntries.*', '0')",[38690]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/about.html')","[27471, 27497]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/authors/sbrown/rss.xml')",[36453]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/tags/automated+unit+testing/rdf.xml')","[23288, 23314]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://www.yahoo.com')",[30263]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/rss.xml')","[9825, 9853, 9996, 10024, 28948, 28977, 29125, 29154]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/ViewHotBlogEntries.*', 'http://www.test.com')",[2545]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', 'http://...feed.action')",[31797]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/categories/java/atom.xml')",[35899]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/categories/category1/rdf.xml')","[19865, 19893, 20036, 20064]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/rdf.xml')","[11770, 11796]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/pages')","[16385, 16411]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/responses/rss.xml')","[10821, 10847]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/2004/01/01.html')","[345, 371, 1511, 1537, 2147, 2173]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/2003/11.html')","[15259, 15287]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/files/myFile.zip')","[15147, 15173]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/files/test.txt')",[34506]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '')","[451, 477, 1617, 1643, 2253, 2279]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/pages/')","[16603, 16631, 16774, 16802]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/pages/authors/sbrown.html')",[37142]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/blogentries/1.html')",[34891]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://www.somedomain.com')","[29996, 30084, 30182, 30388, 30486, 30584, 30672, 30770, 30868, 31064, 31152, 31240, 32408, 32604, 32861, 33179, 33699, 34219, 34739, 34935, 35253, 35632, 35774, 36078, 36328, 36632, 36936, 37240]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/authors/sbrown/')",[36784]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/authors/sbrown/atom.xml')","[25740, 25766]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://javablogs.com/Welcome.jspa')",[38450]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/pages/some-story.html')","[15601, 15629, 15772, 15800]"
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/today.html')","[25852, 25880, 26023, 26051]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...rdf.xml')",[31986]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/tags/')","[20655, 20683, 20826, 20854]"
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/about.html')","[27131, 27159, 27302, 27330]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories/java/atom.xml')",[35926]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/categories/category1/subcategory/')","[19020, 19046]"
+"('Latin1SeoPermalinkProvider.java', 'net.sourceforge.pebble.permalink.Latin1SeoPermalinkProvider', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d', '/2004/01')","[981, 1007]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/pages/')","[16992, 17018]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/tags\\/.*\\/.*.xml', '/authors/sbrown/atom.xml')",[36561]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/authors/sbrown/rss.xml')",[36426]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/2018/01/15/1516008985983.html')",[32932]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/files/myFile.zip')","[15041, 15067]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/tags/automated+unit+testing/rdf.xml')","[23235, 23261]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/2018/01/15/1516008985968.html')",[32675]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/')",[32506]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/pages/')","[16886, 16912]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...feed.xml')",[31527]
+"('TitlePermalinkProvider.java', 'net.sourceforge.pebble.permalink.TitlePermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/[\\w]*.html', '/2018/01/15/some_title.html')","[26406, 26434]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...atom.xml')",[32175]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isDayPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d.html', '/responses/rss.xml?entry=1202928360000')","[10933, 10961, 11104, 11132]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/tags\\/.*\\/.*xml', '/rdf.xml')","[11823, 11849]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/help\\/\\w*\\.html', '/blogentries/1.html')","[27076, 27102]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/categories/java')",[34013]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', 'http://...feed.xml?category=java')",[31662]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/files/test.txt')",[34533]
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/categories\\/.*\\/.*.xml', '/tags/')",[33277]
+"('DefaultPermalinkProvider.java', 'net.sourceforge.pebble.permalink.DefaultPermalinkProvider', 'isBlogEntryPermalink', '/\\d\\d\\d\\d/\\d\\d/\\d\\d/\\d*.html', '/blogentries/1.html')","[26577, 26605, 26748, 26776]"
+"('Referer.java', 'net.sourceforge.pebble.logging.Referer', 'setUrl', '.*javablogs.com/Welcome.*', 'http://www.somedomain.com/here/is/a/long/url/abcdefghijklmnopqrstuvwxyz012345678012345678901234567890123456789')",[38007]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/tags/automated unit testing')","[21559, 21587, 21730, 21758]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', '/files/')",[34290]
+"('TwoDigitFilenameFilter.java', 'net.sourceforge.pebble.dao.file.TwoDigitFilenameFilter', 'accept', '\\d\\d\\z', '22')","[3118, 3148, 4399, 4429, 5070, 5100, 5741, 5771, 6412, 6442, 7083, 7113, 7754, 7784, 8425, 8455]"
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/authors\\/.*\\/.*xml', '/pages')","[16491, 16517]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/responses\\/.*.xml', 'http://...rdf.xml?category=java')",[32067]
+"('UriTransformer.java', 'net.sourceforge.pebble.web.filter.UriTransformer', 'getUri', '\\/categories\\/.*\\/.*xml', '/tags/automated unit testing/')","[22286, 22312]"
+"('Request.java', 'net.sourceforge.pebble.logging.Request', 'setUrl', '\\/authors\\/.*\\/.*.xml', '/2018/01/15/1516008985968.html')",[32756]
+"('PermalinkProviderSupport.java', 'net.sourceforge.pebble.permalink.PermalinkProviderSupport', 'isMonthPermalink', '/\\d\\d\\d\\d/\\d\\d.html', '/2003/11.html')","[15316, 15344]"

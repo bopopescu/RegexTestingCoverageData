@@ -1,0 +1,5 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBasics(org.apache.http.benchmark.SmokeTest)')","[78, 99, 120, 161]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBasics(org.apache.http.benchmark.SmokeTest)')","[57, 141]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.http.benchmark.SmokeTest')","[182, 202, 223, 243]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.http.benchmark.SmokeTest')",[36]

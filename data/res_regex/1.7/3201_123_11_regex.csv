@@ -1,0 +1,1056 @@
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'SEL%FS%')","[73018, 106892]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'FIL%')",[101250]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'GBY%RS%')",[45315]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'SEL%GBY%')",[35589]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'SEL%GBY%RS%GBY%SEL%FS%')","[17345, 70093]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%SEL%')",[54353]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'FIL%SEL%')","[81044, 89930]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'FS%')","[16553, 83373]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%')",[64433]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'FIL%SEL%FS%')","[82491, 87710, 104412, 108016]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'SEL%')","[3136, 12931, 53813, 65265, 81416, 102823]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'GBY%SEL%FS%')","[14837, 25269, 68468, 75278]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'GBY%RS%GBY%SEL%')",[13516]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%SEL%GBY%RS%GBY%')",[63665]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'RS%')",[43177]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%FIL%SEL%')",[89090]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%')","[2346, 52860, 79270, 100177]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'SEL%')","[53693, 64881, 102640]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'GBY%RS%')",[58769]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%FIL%')",[101790]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[23829]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'FIL%')",[80243]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'SEL%GBY%RS%GBY%SEL%FS%')",[50357]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '18%')",[77935]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'FS%')","[50027, 98841]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'FIL%SEL%')",[97654]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%FIL%')","[79816, 90950]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%FIL%SEL%FS%')",[106272]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '487%', '24%')","[76375, 78520]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%SEL%GBY%RS%')",[32949]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'RS%')",[58955]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'GBY%')","[44507, 46261]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'SEL%GBY%')","[4677, 35049]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'GBY%')","[37943, 38492, 39637, 40177]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'SEL%GBY%RS%GBY%SEL%')",[64369]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'SEL%GBY%RS%')",[57839]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%', 'TS%')","[21857, 86010]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%FIL%SEL%')","[99702, 102579]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'FIL%SEL%')",[103250]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'RS%GBY%SEL%')",[67313]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'GBY%RS%GBY%SEL%FS%')",[24129]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'FS%')","[17015, 69768, 83625, 105094]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'GBY%RS%GBY%SEL%')","[51545, 64689]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'GBY%')","[19877, 20957, 32229, 35529]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'SEL%GBY%RS%GBY%SEL%FS%')",[49433]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'TS%FIL%')",[79938]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%SEL%GBY%RS%')",[59885]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'FIL%SEL%FS%')",[84003]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'GBY%')","[42877, 43417]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%SEL%GBY%RS%')",[59637]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'SEL%GBY%RS%GBY%SEL%')",[48192]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '18%487%24%')",[75855]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'GBY%SEL%')",[66865]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'SEL%GBY%RS%GBY%SEL%')",[29289]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '18%487%24%')",[76310]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'RS%')","[6940, 20117]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'SEL%')","[42517, 43597, 96502]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'GBY%RS%GBY%')",[22849]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%')",[66353]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'FS%')","[40537, 95662]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'SEL%')","[18857, 21017, 27249, 35709, 84630, 88790]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%FIL%SEL%FS%')",[95842]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'SEL%GBY%RS%GBY%SEL%')",[48582]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')","[15563, 25929]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'SEL%GBY%RS%GBY%SEL%FS%')",[73278]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'SEL%')","[54653, 67953, 104104]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%FIL%SEL%FS%')","[99522, 104970]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMapReduce(com.cloudera.companies.core.test.CompaniesEmbeddedCoreTestCaseTest)')","[235, 398]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '24%|260%|298%|458%|%|112%|45%|237%|114%|32%|140%|207%', '250%')","[1856, 77350]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'FIL%')",[86311]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%SEL%GBY%RS%GBY%SEL%')","[12411, 29709]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%SEL%GBY%RS%GBY%SEL%')","[14036, 28269]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'GBY%SEL%')","[12996, 65329]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'FIL%SEL%FS%')","[82743, 87950]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%SEL%')",[54473]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'RS%GBY%SEL%FS%')",[50687]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'FIL%SEL%')","[80858, 89570]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'SEL%GBY%RS%')",[22594]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'SEL%')","[37577, 38675, 39277, 40357, 93731, 95302]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'FS%')","[18401, 84381]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%FIL%SEL%')",[82098]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'SEL%GBY%RS%GBY%SEL%FS%')",[23763]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '18%250%')",[77220]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'SEL%GBY%')",[44941]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')","[51305, 69638]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'SEL%GBY%RS%GBY%SEL%FS%')",[26289]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'SEL%GBY%RS%GBY%SEL%')",[65137]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%SEL%GBY%RS%GBY%')",[46517]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%SEL%')",[43657]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'GBY%SEL%')","[12151, 29469]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%FIL%SEL%')",[104226]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'GBY%')","[44693, 46581]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'SEL%FS%')","[24369, 87170]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'FS%')","[23889, 86870]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'SEL%FS%')","[15233, 25629, 82680, 87890]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%SEL%')",[54233]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'GBY%RS%GBY%')","[8599, 31149, 60074]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '18%487%')",[77025]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'GBY%SEL%FS%')",[50159]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%')","[36969, 92368]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'FS%')","[68793, 104536]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'GBY%RS%GBY%')","[8919, 31449]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'SEL%FS%')","[14771, 25209, 68403, 75211, 82428, 87650, 104350, 107948]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'RS%GBY%SEL%FS%')","[14903, 25329, 68533]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'SEL%GBY%RS%GBY%')",[46773]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'RS%')",[41497]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%FIL%')",[97164]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%SEL%GBY%RS%GBY%')",[43117]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '487%', '18%487%24%')",[76505]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'SEL%FS%')","[51005, 69313, 99402, 104846]"
+"('PermissionParser.java', 'org.apache.hadoop.fs.permission.PermissionParser', '<init>', '^\\s*[+]?()([0-7]{3})\\s*$', '022')","[863, 75541, 75602, 108418, 108479, 108841, 108914, 108985, 109056, 109124, 109193, 109263, 109331, 109344, 109358, 109370, 109383]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'RS%GBY%SEL%')",[64241]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'RS%GBY%')",[61586]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'RS%GBY%')",[10839]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'GBY%SEL%')","[11761, 28749]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'FIL%SEL%FS%')",[88190]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'GBY%RS%GBY%SEL%FS%')",[42337]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%')",[67441]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'FIL%SEL%')","[81478, 102884]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%FIL%')",[101670]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%SEL%GBY%RS%')",[46197]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'SEL%')","[54533, 67569, 103921]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'RS%')",[57715]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'GBY%')","[19397, 20477, 30129, 34269]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%FIL%')",[86372]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%FIL%SEL%FS%')","[83814, 105280]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'GBY%RS%GBY%SEL%')",[47737]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'RS%GBY%SEL%FS%')","[37333, 39037]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%FIL%SEL%')",[103677]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', 'somedata.csv')",[1382]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'GBY%RS%')",[74547]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'GBY%RS%GBY%SEL%')","[37760, 39457]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')","[15101, 25509, 68728]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'SEL%GBY%RS%')",[45882]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%SEL%GBY%RS%GBY%SEL%')","[11631, 28629, 64049]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%SEL%GBY%RS%GBY%SEL%')",[14426]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'GBY%RS%')",[7759]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'SEL%GBY%RS%GBY%')","[8663, 31209, 60137]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'RS%GBY%SEL%FS%')",[49763]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'GBY%RS%GBY%SEL%FS%')",[16817]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'SEL%GBY%RS%GBY%SEL%')",[66289]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'SEL%FS%')","[49631, 98652]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'SEL%GBY%RS%GBY%SEL%FS%')",[18731]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'SEL%GBY%RS%GBY%SEL%')","[11956, 28929]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'RS%GBY%SEL%')",[66545]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'SEL%GBY%RS%')",[7066]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'GBY%RS%GBY%SEL%')",[68145]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'RS%')","[19937, 32529]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'SEL%GBY%')",[43477]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'GBY%RS%GBY%SEL%FS%')","[51185, 69508]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'RS%GBY%SEL%')","[51485, 64625]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'GBY%RS%GBY%SEL%')",[64305]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'GBY%RS%')",[33609]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'SEL%GBY%')",[34329]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'SEL%FS%')","[17543, 83940]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'RS%')","[6184, 20297, 33069, 56971, 74207]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'GBY%SEL%')",[47997]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'TS%SEL%GBY%')",[74139]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%FIL%')",[97408]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'SEL%FS%')","[71653, 106148]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'GBY%SEL%')","[13776, 28029]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[49961]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'GBY%SEL%FS%')",[68923]
+"('KerberosName.java', 'org.apache.hadoop.security.authentication.util.KerberosName', '<init>', '([^/@]*)(/([^/@]*))?@([^/@]*)', 'pwang7')",[463]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'RS%GBY%SEL%')",[68081]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'FS%')","[72043, 106334]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'RS%GBY%SEL%')","[13061, 65393]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '487%', '487%24%')","[76440, 78585]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'TS%FIL%SEL%')",[107812]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'RS%GBY%')",[62216]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[73343]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'SEL%GBY%RS%GBY%SEL%')",[48972]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testHive(com.cloudera.companies.core.test.CompaniesEmbeddedHiveTestCaseTest)')","[76, 96, 116, 336]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%')",[13581]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'GBY%RS%GBY%SEL%FS%')",[26229]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'RS%GBY%')","[9175, 31989]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'FIL%SEL%')",[103433]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'SEL%GBY%')",[34509]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%')","[3630, 3831, 4032, 4233, 8269, 11101, 14497, 82166, 91137, 92555, 94044]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '18%')",[77740]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'GBY%RS%')",[58521]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'FIL%SEL%')",[103982]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'GBY%RS%GBY%SEL%FS%')",[71848]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'RS%GBY%SEL%FS%')",[73148]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%FS%')",[72823]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'GBY%SEL%')",[67633]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'SEL%GBY%RS%GBY%SEL%')",[65905]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%FIL%SEL%FS%')","[82806, 88010]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'RS%')",[58707]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'FS%')","[37150, 38857, 93487, 95062]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'RS%GBY%SEL%')",[42637]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%FIL%SEL%')",[89810]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%SEL%GBY%RS%')",[34209]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'RS%GBY%SEL%')",[29889]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[24249]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'GBY%')","[44879, 46901]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'SEL%GBY%RS%')",[41617]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'GBY%RS%GBY%')","[10583, 30849]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'GBY%SEL%FS%')","[18071, 24849]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'SEL%GBY%RS%GBY%SEL%FS%')",[16883]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'GBY%RS%GBY%SEL%')",[65073]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc%')","[91539, 92957, 94458]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'GBY%RS%GBY%')",[46709]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'FIL%')",[97347]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'FIL%SEL%')",[88850]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'SEL%')","[3258, 13321, 81602]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'SEL%')","[53453, 64113, 102274]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'GBY%SEL%FS%')","[51065, 69378]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'SEL%GBY%RS%')",[59079]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[16949]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%')","[52978, 100295]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'SEL%GBY%RS%GBY%')","[8983, 31509]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'RS%GBY%SEL%FS%')",[16289]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'GBY%')","[41317, 41737]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'FS%')","[70223, 105342]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%FIL%SEL%')",[103128]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[71068]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%')","[2286, 21617, 79210, 85770]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'RS%GBY%')",[62531]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%SEL%GBY%RS%')",[32709]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%SEL%GBY%RS%GBY%')",[11031]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'SEL%GBY%RS%')",[45378]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'FIL%')",[101370]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'GBY%RS%GBY%')",[10263]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'GBY%SEL%FS%')","[15299, 25689]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'GBY%RS%GBY%')",[32349]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%')",[67825]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'FIL%SEL%FS%')",[105714]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%SEL%')",[44323]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%FIL%SEL%FS%')",[83562]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc%')","[6121, 91740, 93158, 94665]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%FIL%SEL%FS%')",[105528]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'RS%GBY%')",[31689]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'GBY%RS%GBY%SEL%')",[48517]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'SEL%')","[22158, 23042, 86434]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'SEL%GBY%RS%')","[38370, 40057]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'FIL%SEL%FS%')",[83499]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'SEL%')","[51365, 52445, 53573, 64497, 99582, 102457]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'SEL%')","[2831, 12086, 29409, 36429, 80982, 89870]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'FIL%SEL%FS%')",[105466]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'GBY%RS%GBY%')",[30249]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'SEL%GBY%RS%GBY%SEL%')","[11566, 28569, 63985]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'SEL%GBY%RS%GBY%SEL%')",[14361]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'SEL%')","[44018, 47542, 97592]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')","[16025, 26769]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%FIL%SEL%FS%')",[86810]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'RS%')",[46008]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'GBY%')","[22281, 22721]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'RS%GBY%SEL%FS%')","[15365, 25749]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'GBY%RS%GBY%')","[38065, 39757]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'FIL%')",[96682]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'SEL%GBY%RS%GBY%SEL%')",[68209]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'FS%')","[71588, 106086]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'RS%')","[20177, 32769]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'FIL%')","[85650, 91010]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'SEL%GBY%RS%GBY%')",[31809]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'SEL%GBY%RS%GBY%SEL%')",[30009]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%FIL%')",[80304]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%SEL%GBY%RS%GBY%SEL%')","[13256, 65585]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%FIL%')",[91070]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%')","[43837, 96922]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'RS%GBY%SEL%')",[23172]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'SEL%GBY%RS%')",[32649]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%SEL%GBY%RS%')",[22657]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'TS%')","[73473, 107146]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'SEL%GBY%RS%GBY%SEL%')","[37821, 39517]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'GBY%')","[54957, 60263]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%SEL%GBY%RS%GBY%')",[32469]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'GBY%RS%GBY%SEL%')","[13906, 28149]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'GBY%SEL%')",[66097]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'GBY%SEL%FS%')",[72173]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'GBY%RS%GBY%SEL%')",[66609]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'RS%GBY%SEL%FS%')","[15827, 26589]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%SEL%GBY%')",[56177]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'GBY%SEL%FS%')",[49697]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'RS%GBY%SEL%')",[13451]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'RS%GBY%')",[61901]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[50423]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'FIL%')","[80365, 85290, 90410]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'SEL%GBY%RS%GBY%SEL%FS%')","[15035, 25449, 68663]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'GBY%RS%GBY%')","[9239, 32049]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%')",[49037]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'FS%')","[49565, 98589]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%')",[13646]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%FIL%SEL%')","[80734, 89450, 102213, 107611]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '250%|512%|259%|7%', '18%487%24%')",[76050]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'SEL%')","[44384, 48712, 98150]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'FS%')","[15629, 26409, 82869, 88310]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%FIL%SEL%')","[81106, 89990]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%SEL%GBY%')",[22405]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'SEL%GBY%RS%')",[59327]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'GBY%RS%GBY%SEL%FS%')",[40777]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%')","[2046, 21917, 36849, 52624, 73408, 78970, 86070, 92248, 99941, 107081]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'SEL%GBY%RS%GBY%SEL%FS%')","[51245, 69573]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'SEL%GBY%RS%GBY%SEL%FS%')",[50819]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'FIL%')","[99762, 100890]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%FIL%SEL%')",[86558]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'FIL%SEL%FS%')",[98967]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'SEL%GBY%')",[55018]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%SEL%GBY%')",[43537]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'RS%')",[45252]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'GBY%SEL%FS%')",[24429]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%SEL%')",[54113]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%FIL%SEL%FS%')",[106024]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'GBY%RS%GBY%SEL%')",[27429]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'SEL%FS%')","[23949, 86930]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'RS%GBY%SEL%FS%')",[42277]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'SEL%GBY%')",[56848]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%FIL%SEL%FS%')",[87290]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'GBY%RS%GBY%')",[47029]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%', 'FIL%')",[85470]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'GBY%')","[56421, 62783]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'GBY%RS%GBY%SEL%')",[42697]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'RS%')",[7696]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'SEL%GBY%')",[56299]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'GBY%RS%GBY%SEL%FS%')",[71393]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'GBY%RS%GBY%')",[47349]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%FIL%SEL%FS%')",[99282]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'RS%GBY%')",[60956]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%SEL%GBY%RS%')","[38431, 40117]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'RS%')",[45756]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'RS%GBY%SEL%')","[37699, 39397]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'TS%SEL%GBY%RS%')",[7129]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%')","[92008, 93426, 94941]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'SEL%GBY%RS%GBY%SEL%FS%')","[18269, 25029]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'SEL%FS%')","[70743, 105652]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[26349]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'SEL%GBY%')",[41797]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%FIL%SEL%FS%')",[104722]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '487%', '487%')","[77090, 78910]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%SEL%')",[53993]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%SEL%GBY%')",[34569]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'GBY%')","[5235, 9815, 55506, 61208]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'RS%')","[38248, 39937]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'GBY%SEL%FS%')",[42217]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'RS%')","[7192, 19997]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'RS%GBY%SEL%FS%')",[16751]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'GBY%RS%GBY%SEL%FS%')",[23697]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '250%|512%|259%|7%', '487%24%')","[75985, 78260]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'FS%')","[26829, 88550]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'RS%GBY%SEL%FS%')",[18599]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'FS%')","[49103, 98337]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%SEL%GBY%RS%GBY%')",[47477]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'SEL%FS%')","[18005, 24789, 84192, 87410]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'SEL%GBY%')",[35229]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '250%|512%|259%|7%', '250%')","[1791, 77285]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeFieldDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc%')","[6053, 91606, 93024, 94527]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%FIL%')","[93975, 95542]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'SEL%GBY%RS%GBY%')",[22913]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'GBY%SEL%FS%')",[49235]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'GBY%')","[56787, 63413]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'FIL%')",[107344]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'RS%GBY%SEL%')","[11436, 28449, 63857]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'SEL%GBY%RS%')","[6310, 33189, 57095, 74343]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%SEL%')",[53513]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%SEL%GBY%RS%GBY%SEL%')",[30069]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'GBY%RS%GBY%SEL%')",[67761]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'RS%GBY%SEL%FS%')",[68988]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'SEL%GBY%RS%GBY%')",[32409]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%FIL%SEL%')",[97902]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'RS%GBY%SEL%')",[27729]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'GBY%RS%GBY%SEL%FS%')",[24549]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMapReduce(com.cloudera.companies.core.test.CompaniesEmbeddedCoreTestCaseTest)')","[255, 275, 295]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'RS%GBY%SEL%')",[67697]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'SEL%')","[19337, 21497, 29769, 36549, 85110, 90050]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'FIL%SEL%')",[97840]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'GBY%RS%GBY%SEL%')","[13126, 65457]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'GBY%RS%')",[45819]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'SEL%GBY%RS%GBY%')",[62027]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%')","[2106, 36909, 79030, 92308]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'GBY%RS%GBY%')",[31749]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'RS%GBY%SEL%FS%')","[17213, 69963]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFileSystem(com.cloudera.companies.core.test.CompaniesEmbeddedCoreTestCaseTest)')","[175, 195, 215, 377]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'SEL%GBY%RS%GBY%')",[63287]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'SEL%GBY%')","[5297, 55567]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%')",[65969]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%SEL%GBY%RS%GBY%SEL%')",[12866]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%FS%')",[17807]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'SEL%GBY%RS%GBY%')",[61712]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%SEL%GBY%RS%GBY%')","[9047, 31569]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'SEL%GBY%RS%')",[43297]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'GBY%')","[55872, 61838]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'SEL%GBY%RS%')",[34149]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%SEL%GBY%RS%')",[45945]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'RS%')","[52025, 57467]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'SEL%GBY%RS%GBY%SEL%')",[27849]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '487%', '18%250%')",[77675]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%FIL%SEL%')","[81540, 102945]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'GBY%RS%GBY%SEL%')",[67377]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'FS%')","[16091, 83121]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '24%')","[76180, 78390]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'SEL%GBY%')",[74072]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')","[18335, 25089]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%')","[91874, 93292, 94803]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '487%24%')","[76245, 78455]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%SEL%GBY%RS%GBY%')","[51965, 60830]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%')","[3764, 3965, 4166, 4367, 8407, 11241, 14639, 82302, 91338, 92756, 94251]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'FIL%')","[79633, 90650]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'FS%')","[75345, 108152]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'GBY%SEL%FS%')","[17147, 69898]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%SEL%')",[44445]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'GBY%RS%GBY%SEL%FS%')",[49367]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'SEL%GBY%RS%')",[58831]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '487%')","[76960, 78845]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'SEL%GBY%RS%GBY%SEL%')",[27489]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'SEL%GBY%')",[44569]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%SEL%GBY%RS%GBY%')","[38187, 39877]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'SEL%GBY%RS%GBY%SEL%')",[42757]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'GBY%RS%GBY%SEL%')",[14296]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'GBY%RS%')",[57777]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%')",[48257]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'SEL%GBY%')",[55933]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')","[17411, 70158]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%FIL%SEL%')",[97716]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '24%|260%|298%|458%|%|112%|45%|237%|114%|32%|140%|207%', '18%487%')",[76895]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%FIL%SEL%FS%')",[88730]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'SEL%GBY%RS%')",[46134]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'SEL%GBY%RS%GBY%SEL%FS%')",[24609]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%FIL%SEL%')",[81726]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'FS%')","[25989, 88070]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'SEL%GBY%RS%GBY%SEL%FS%')",[69118]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'GBY%RS%')",[41557]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'RS%GBY%SEL%')",[48842]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[72433]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'GBY%')","[74005, 74813]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%FIL%')",[102030]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'SEL%GBY%RS%GBY%SEL%FS%')",[40837]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'SEL%GBY%RS%')",[8137]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%FIL%SEL%FS%')",[84570]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'FIL%SEL%FS%')",[86747]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%')","[43957, 97042]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'GBY%')","[56238, 62468]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%')","[2406, 79330]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%FIL%')",[90830]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFileSystem(com.cloudera.companies.core.test.CompaniesEmbeddedCoreTestCaseTest)')","[155, 357]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'GBY%RS%')",[32589]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%SEL%GBY%')",[44817]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'SEL%')","[19097, 21257, 27609, 35829, 84870, 88970]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%')",[66673]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%FIL%')","[99822, 100950]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'SEL%GBY%RS%GBY%SEL%')","[12346, 29649]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'SEL%GBY%RS%GBY%SEL%')","[13971, 28209]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'FIL%')","[80121, 101130]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[18797]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%')","[53214, 100531]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'SEL%GBY%RS%GBY%')",[62972]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%')","[91405, 92823, 94320]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%SEL%GBY%RS%')",[8200]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'FIL%SEL%')",[90110]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%SEL%GBY%')","[38614, 40297]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'RS%')",[33549]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%SEL%GBY%RS%')",[58397]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%SEL%')",[36369]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%SEL%')",[35889]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'TS%SEL%')",[73737]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'FIL%SEL%')","[93792, 95362]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%SEL%GBY%')",[35649]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'GBY%RS%')","[38309, 39997]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'GBY%SEL%FS%')",[73083]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeFieldDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc%')","[91673, 93091, 94596]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'GBY%RS%GBY%SEL%')",[66993]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%SEL%GBY%')",[56726]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%FIL%SEL%')","[80920, 89630]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'SEL%')","[2953, 12476, 19037, 21197, 81168, 84810]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%FIL%SEL%FS%')",[98526]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'GBY%RS%GBY%')",[62909]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'GBY%SEL%FS%')",[26949]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'SEL%GBY%RS%GBY%')",[46453]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%SEL%GBY%')",[34389]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'RS%GBY%')",[9495]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'GBY%SEL%FS%')",[18533]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'GBY%RS%')","[6247, 33129, 57033, 74275]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'SEL%GBY%RS%GBY%SEL%')",[12801]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%FIL%SEL%FS%')","[93670, 95242]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'GBY%SEL%FS%')",[26109]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%')","[43777, 96862]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'FS%')","[72953, 106830]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'RS%GBY%SEL%')",[47672]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'GBY%RS%GBY%SEL%')",[27789]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%SEL%GBY%RS%')",[45441]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'GBY%RS%GBY%')",[61649]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%FIL%')",[90350]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'GBY%RS%GBY%')",[63224]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'GBY%')","[4987, 9431, 19577, 20657]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'SEL%FS%')","[70288, 105404]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'GBY%RS%GBY%SEL%FS%')",[49829]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'GBY%RS%GBY%SEL%')",[41137]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'RS%')","[7444, 57963]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'RS%')",[59203]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'FIL%SEL%FS%')",[88670]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%SEL%GBY%RS%GBY%')",[10391]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'FIL%SEL%FS%')",[98463]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%SEL%GBY%')",[55079]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'RS%GBY%')",[41377]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '24%|260%|298%|458%|%|112%|45%|237%|114%|32%|140%|207%', '18%')",[77870]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'GBY%RS%GBY%SEL%FS%')","[18203, 24969]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.cloudera.companies.core.test.CompaniesEmbeddedHiveTestCaseTest')",[36]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'GBY%SEL%')",[68017]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'SEL%FS%')","[50093, 98904]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'RS%GBY%')","[10519, 30789]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%SEL%')","[38736, 40417]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'FIL%SEL%FS%')","[93609, 95182]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'RS%GBY%')",[10199]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'GBY%RS%GBY%')",[62279]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%FIL%SEL%')",[81354]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'RS%GBY%')",[30489]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%')","[22037, 37089, 86190, 92488]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%SEL%GBY%')","[4925, 35469]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%SEL%GBY%RS%GBY%SEL%')",[42817]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'FIL%SEL%')",[103799]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'GBY%RS%')",[59265]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'GBY%SEL%FS%')",[71263]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'SEL%GBY%RS%')",[74615]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'FIL%')",[100770]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'SEL%FS%')","[17081, 69833, 83688, 105156]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%SEL%GBY%RS%GBY%SEL%')","[12021, 28989]"
+"('MetaStoreUtils.java', 'org.apache.hadoop.hive.metastore.MetaStoreUtils', 'validateName', '[\\w_]+', 'col1')","[668, 1127, 1529]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'RS%')","[7948, 20057, 33009]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'RS%')",[74479]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'SEL%GBY%RS%GBY%SEL%FS%')",[27129]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'SEL%GBY%')",[5049]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%')","[52919, 100236]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'FIL%SEL%')",[98212]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'FIL%SEL%')",[104165]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'SEL%GBY%RS%GBY%SEL%FS%')",[42397]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'FIL%')",[101970]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'SEL%GBY%RS%')",[7822]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'RS%GBY%')",[63476]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'GBY%RS%GBY%SEL%')",[48907]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'FIL%SEL%FS%')",[98715]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'SEL%GBY%RS%GBY%SEL%FS%')","[37455, 39157]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%')","[51665, 64817]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%SEL%GBY%')",[45189]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'SEL%GBY%RS%GBY%')","[51905, 60767]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'FIL%')",[97469]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'FIL%')","[80487, 85590]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'SEL%FS%')","[72108, 106396]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'FIL%SEL%')",[103616]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%')",[63350]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'RS%GBY%')",[22785]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[71523]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'SEL%GBY%RS%')",[33669]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%FIL%SEL%FS%')",[105776]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeFieldDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%')","[91941, 93359, 94872]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%SEL%GBY%')",[45003]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'FIL%')","[85410, 90290]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'GBY%')","[56055, 62153]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%SEL%GBY%RS%GBY%')","[10711, 30969]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%SEL%GBY%RS%GBY%')","[9367, 32169]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'GBY%SEL%FS%')",[16685]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%', 'RS%')",[20237]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'RS%GBY%SEL%FS%')",[24489]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%FIL%SEL%FS%')",[96442]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'GBY%SEL%FS%')",[71718]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'GBY%SEL%')","[51425, 64561]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'GBY%')","[31629, 35169]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'GBY%SEL%FS%')",[16223]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'FIL%SEL%')","[99642, 102518]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'GBY%RS%GBY%SEL%FS%')",[16355]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'GBY%RS%')","[52085, 57529]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'FIL%')",[101850]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%SEL%')","[2648, 36129, 53393, 73605]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'GBY%RS%GBY%')",[30549]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'FIL%SEL%')",[102701]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%SEL%GBY%RS%GBY%SEL%')",[23367]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'GBY%SEL%FS%')",[50621]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'FS%')","[50489, 99093]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHive(com.cloudera.companies.core.test.CompaniesEmbeddedHiveTestCaseTest)')","[56, 316]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'SEL%FS%')","[40597, 95722]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'GBY%SEL%')",[64945]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[16487]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'SEL%GBY%RS%GBY%')",[47093]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%FIL%SEL%')",[90170]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%FIL%')",[101910]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[42457]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'GBY%RS%GBY%SEL%FS%')",[73213]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'FIL%SEL%FS%')",[87230]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'FIL%')",[101730]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'RS%GBY%SEL%FS%')","[18137, 24909]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'SEL%GBY%RS%')",[59575]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%FS%')",[71458]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'SEL%')","[3014, 12541, 18917, 21077, 81230, 84690]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%FIL%SEL%')","[93853, 95422]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%FIL%')",[97286]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.cloudera.companies.core.test.CompaniesEmbeddedCoreTestCaseTest')",[135]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'SEL%GBY%')","[5669, 34689]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'SEL%')","[54053, 66033, 103189]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'RS%GBY%')",[63161]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'SEL%GBY%RS%GBY%')",[47413]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'FIL%')","[79755, 90890]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'SEL%GBY%RS%GBY%')",[10327]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'GBY%SEL%')",[41017]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'GBY%RS%GBY%')","[51845, 60704]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'GBY%SEL%')",[12606]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'GBY%RS%GBY%SEL%FS%')",[70938]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'GBY%')","[4429, 8471, 19757, 20837, 31029, 34809, 54774, 59948, 73804, 74748]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'GBY%RS%GBY%SEL%FS%')","[15431, 25809]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'RS%GBY%SEL%')","[11826, 28809]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'RS%GBY%SEL%')",[65777]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'RS%GBY%SEL%FS%')",[49301]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%FIL%SEL%')",[103494]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%SEL%GBY%')",[35289]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '250%|512%|259%|7%', '18%487%')",[76765]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%')",[67889]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'SEL%FS%')","[23499, 86684]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[24669]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%SEL%')",[54593]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'GBY%RS%')",[34089]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'RS%GBY%')",[62846]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeFieldDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%')","[3697, 3898, 4099, 4300, 8338, 11171, 14568, 82234, 91204, 92622, 94113]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'RS%GBY%SEL%')",[12671]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'FIL%')",[101490]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%SEL%GBY%RS%')",[7381]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'GBY%RS%GBY%SEL%')",[48127]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'FIL%SEL%')",[102335]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%')","[2466, 21677, 36789, 79390, 85830, 92188]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'GBY%SEL%')",[47607]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%FIL%')","[79694, 90710]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'SEL%FS%')","[75412, 108220]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%FIL%')",[101430]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'FIL%')",[96082]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'RS%GBY%SEL%')","[13841, 28089]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'RS%GBY%SEL%')","[12216, 29529]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%SEL%GBY%')",[56360]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'GBY%SEL%')",[23107]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'RS%GBY%SEL%FS%')",[17675]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'GBY%RS%')",[45567]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'RS%GBY%')","[9879, 61271]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '18%250%')",[77545]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'SEL%FS%')","[26889, 88610]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'SEL%GBY%')","[4491, 34869, 54835, 73871]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'RS%GBY%SEL%FS%')",[72693]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'GBY%SEL%FS%')",[17609]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%')",[47867]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'SEL%GBY%RS%')","[6814, 33909]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'FIL%SEL%')","[80672, 89390, 102152, 107544]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'FIL%')",[97225]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%SEL%GBY%RS%GBY%SEL%')","[37882, 39577]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'RS%')",[59451]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'FIL%SEL%')","[81850, 89210]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'SEL%GBY%RS%GBY%')","[38126, 39817]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'FIL%SEL%FS%')",[106706]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'GBY%RS%GBY%SEL%')","[11501, 28509, 63921]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'FS%')","[15167, 25569, 82617, 87830]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'GBY%RS%GBY%')",[10903]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%FIL%')",[97530]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'FIL%')","[85170, 90230]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'GBY%SEL%FS%')","[37272, 38977]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%SEL%GBY%')",[55445]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'FIL%SEL%FS%')",[83247]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'SEL%GBY%RS%GBY%')",[63602]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%FIL%SEL%FS%')",[88250]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'SEL%GBY%')",[55384]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'RS%GBY%SEL%')",[65009]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%')",[67505]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'SEL%GBY%RS%GBY%SEL%FS%')",[49895]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'SEL%')","[2709, 11696, 28689, 36189, 80796, 89510]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'SEL%GBY%')","[4863, 35409]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%')",[66737]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'GBY%SEL%')",[65713]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'SEL%GBY%RS%GBY%SEL%FS%')",[70548]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'FIL%SEL%')",[103067]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%')","[43717, 96802]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'GBY%RS%')",[58273]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[40897]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'RS%GBY%')",[42937]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'FIL%SEL%FS%')","[99462, 104908]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'SEL%FS%')","[16157, 83184]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%SEL%')",[41977]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'GBY%SEL%FS%')","[15761, 26529]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%SEL%GBY%RS%GBY%')",[61775]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.cloudera.companies.core.test.CompaniesEmbeddedCoreTestCaseTest')","[109404, 109424, 109445, 109465]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'GBY%RS%GBY%SEL%FS%')",[72303]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '250%|512%|259%|7%', '487%')","[76700, 78715]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%SEL%GBY%RS%GBY%SEL%')",[41257]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'GBY%RS%GBY%SEL%FS%')",[18665]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'RS%GBY%SEL%')",[14231]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%')","[52565, 52742, 99882, 100059]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'SEL%')","[44140, 47932, 97778]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%SEL%')",[36609]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'FS%')","[24309, 87110]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'GBY%RS%')",[22531]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'FS%')","[72498, 106582]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'SEL%')","[29049, 36309, 89690]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '250%|512%|259%|7%', '18%')",[77805]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%')","[53037, 100354]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'GBY%')","[4801, 9111, 31929, 35349]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'GBY%')","[5607, 10455, 19517, 20597, 30729, 34629]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%SEL%GBY%')",[56543]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'GBY%RS%GBY%')",[63539]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'FS%')","[14705, 25149, 68338, 75144, 82365, 87590, 104288, 107880]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'GBY%SEL%FS%')",[40657]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'SEL%FS%')","[50555, 99156]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'SEL%GBY%RS%')",[45630]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'SEL%GBY%RS%GBY%')",[61082]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'GBY%RS%GBY%')",[41437]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%SEL%GBY%RS%GBY%')",[62090]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '487%', '18%')",[78000]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%FIL%')",[80548]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'GBY%SEL%FS%')",[75479]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'GBY%RS%GBY%SEL%FS%')","[17279, 70028]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%SEL%GBY%')",[55811]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%SEL%GBY%RS%')",[45693]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%SEL%GBY%RS%GBY%SEL%FS%')","[37516, 39217]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'FIL%SEL%FS%')",[99219]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%SEL%')",[3563]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '18%487%')",[76635]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%FIL%SEL%FS%')",[107016]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%SEL%GBY%RS%')",[33729]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%FIL%SEL%FS%')",[106768]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'RS%')","[6688, 33789]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'RS%GBY%SEL%')",[66929]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'FIL%SEL%')",[89030]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'GBY%RS%')","[6499, 33369]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[27189]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%SEL%GBY%RS%')",[59141]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'TS%SEL%GBY%RS%')",[74683]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'GBY%SEL%')",[27669]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'FIL%')","[79511, 85530, 90530, 100650, 107212]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'SEL%GBY%RS%GBY%SEL%')",[47802]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%SEL%GBY%RS%GBY%')",[46837]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'FIL%')",[97103]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%')",[63035]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'FS%')","[23433, 86621]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'SEL%GBY%RS%GBY%')",[60452]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'GBY%RS%GBY%SEL%FS%')",[27069]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'TS%FIL%SEL%FS%')",[83310]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'FIL%SEL%')",[95962]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'SEL%GBY%')",[22343]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '24%|260%|298%|458%|%|112%|45%|237%|114%|32%|140%|207%', '487%')","[76830, 78780]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'SEL%FS%')","[72563, 106644]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%FS%')",[72368]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%FIL%')",[101070]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%SEL%GBY%RS%')",[58645]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'FS%')","[17939, 24729, 84129, 87350]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '24%|260%|298%|458%|%|112%|45%|237%|114%|32%|140%|207%', '18%250%')",[77415]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'FS%')","[71133, 105838]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'SEL%FS%')","[37211, 38917, 93548, 95122]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%SEL%GBY%RS%GBY%SEL%')",[27909]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'GBY%SEL%')",[27309]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'GBY%RS%GBY%SEL%')",[29229]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'RS%GBY%')",[46965]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'FIL%SEL%')",[96562]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%FIL%SEL%')",[104043]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'RS%GBY%SEL%FS%')",[26169]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%SEL%GBY%')",[44631]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'GBY%SEL%')",[42577]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%SEL%')",[53753]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%FIL%SEL%')",[102762]
+"('MetaStoreUtils.java', 'org.apache.hadoop.hive.metastore.MetaStoreUtils', 'validateName', '[\\w_]+', 'somedata')","[521, 594, 801, 921, 980, 1053, 1259, 1319, 1455, 1661, 75660, 108536, 108595]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'SEL%GBY%RS%')","[7570, 58087]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%FIL%SEL%FS%')",[106520]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'SEL%GBY%')",[5483]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'RS%')",[57219]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%FIL%SEL%')",[88910]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '250%|512%|259%|7%', '24%')","[75920, 78195]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'FIL%SEL%FS%')",[84507]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%FIL%')",[96142]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'FIL%SEL%FS%')",[106458]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '487%24%')","[75790, 78130]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%SEL%')",[35769]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'RS%')","[20417, 34029]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'SEL%GBY%RS%GBY%SEL%')",[23302]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%FIL%SEL%FS%')",[84066]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%FIL%SEL%')",[103311]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'SEL%GBY%RS%GBY%')",[9623]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'FIL%SEL%FS%')",[106954]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%FIL%SEL%')",[102396]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'TS%')","[38797, 40477, 95002, 95602]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'GBY%RS%GBY%SEL%')","[11891, 28869]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'RS%')","[8011, 20357]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'SEL%FS%')","[16619, 83436]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'GBY%RS%GBY%')",[61964]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%FIL%SEL%')",[103860]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'RS%GBY%')",[46325]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%FIL%SEL%FS%')",[87050]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'FS%')","[42097, 96262]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%FIL%SEL%')",[98274]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%SEL%')","[3441, 36009]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[17873]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%')","[53273, 100590]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[50885]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'FIL%SEL%FS%')","[83751, 105218]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'SEL%GBY%RS%GBY%SEL%FS%')",[71003]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'SEL%')","[3380, 13711, 18977, 21137, 27969, 35949, 81788, 84750, 89150]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%SEL%GBY%RS%')",[59389]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'SEL%')","[2587, 11306, 19217, 21377, 28329, 36069, 53333, 63729, 73539, 74879, 80610, 84990, 89330, 102091, 107477]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%')",[48647]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'SEL%GBY%RS%')","[6562, 33429]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'TS%')","[53155, 100472]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%SEL%')",[44079]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%')",[62720]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'GBY%RS%GBY%SEL%FS%')",[17741]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'GBY%RS%')",[7255]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'SEL%GBY%RS%GBY%')",[43057]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'FIL%SEL%')",[81292]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'FIL%SEL%FS%')",[106210]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%SEL%GBY%')","[52385, 55262]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'GBY%RS%')",[8074]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'TS%FIL%SEL%FS%')",[108356]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'SEL%GBY%RS%GBY%SEL%FS%')",[24189]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'GBY%RS%GBY%SEL%FS%')",[72758]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%FS%')",[71913]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'SEL%GBY%RS%')",[59823]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'RS%GBY%')",[60326]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%SEL%GBY%')",[5917]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'GBY%SEL%')",[48387]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'GBY%RS%')",[46071]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'RS%GBY%')",[30189]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'SEL%GBY%RS%')",[57343]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'SEL%')","[54293, 66801, 103555]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'SEL%FS%')","[68858, 104598]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%SEL%GBY%RS%')","[6373, 33249, 57157, 74411]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'SEL%')","[73671, 75011, 107678]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%')","[42037, 96202]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'GBY%RS%GBY%SEL%FS%')","[14969, 25389, 68598]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'TS%SEL%GBY%')",[5111]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'GBY%SEL%FS%')",[70353]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'GBY%RS%')",[59761]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'RS%GBY%SEL%FS%')",[50225]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'SEL%GBY%RS%GBY%')","[9303, 32109]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'SEL%GBY%RS%GBY%')","[10647, 30909]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'SEL%GBY%RS%GBY%')",[62342]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'GBY%RS%')","[7507, 58025]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'GBY%RS%GBY%')",[60389]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'GBY%RS%GBY%')",[62594]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'SEL%GBY%RS%')",[7318]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'RS%GBY%')","[38004, 39697]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'FIL%SEL%')",[81664]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%SEL%')","[2892, 36489]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%SEL%')",[3319]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'FIL%SEL%FS%')",[95782]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%SEL%GBY%RS%GBY%')",[30669]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'FIL%SEL%')",[98026]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'RS%GBY%')","[8535, 31089, 60011]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%')","[52801, 100118]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeFieldDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%')","[91271, 92689, 94182]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'SEL%GBY%')",[5855]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'SEL%GBY%')",[55750]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'FIL%')",[101010]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'SEL%GBY%RS%GBY%SEL%')","[13191, 65521]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'GBY%RS%GBY%SEL%FS%')","[37394, 39097]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%FIL%')",[80060]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'RS%GBY%SEL%')",[48062]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'RS%')",[22468]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'TS%FIL%')",[107410]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'SEL%GBY%RS%GBY%')",[62657]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'GBY%RS%GBY%SEL%')",[12736]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'GBY%SEL%')",[64177]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%FIL%SEL%FS%')",[99030]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'FIL%SEL%FS%')",[104660]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'GBY%RS%GBY%SEL%')",[65841]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'FS%')","[17477, 83877]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'SEL%FS%')","[71198, 105900]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'GBY%SEL%')",[13386]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'TS%SEL%GBY%RS%GBY%')",[9687]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'RS%')","[6436, 33309]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'SEL%FS%')","[15695, 26469, 82932, 88370]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'GBY%RS%GBY%')",[61019]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%SEL%GBY%RS%GBY%SEL%')",[27549]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc%org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc%')","[91807, 93225, 94734]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'SEL%')","[3502, 14101, 19277, 21437, 81974, 85050]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'SEL%GBY%RS%GBY%')",[30309]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'GBY%')","[5421, 10135]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'GBY%')","[45065, 47221]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%')","[53096, 100413]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%SEL%')",[54713]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%')","[52683, 100000]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'FIL%')","[79877, 85350]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'GBY%SEL%')","[11371, 28389, 63793, 74945]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'GBY%RS%GBY%SEL%')",[66225]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'GBY%RS%GBY%SEL%FS%')","[15893, 26649]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'GBY%SEL%FS%')",[23565]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'GBY%')","[5793, 10775, 19817, 20897]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%SEL%GBY%RS%')","[6625, 33489]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%SEL%GBY%')","[5359, 55628]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%SEL%GBY%')","[4739, 35109]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'RS%GBY%')",[47285]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%SEL%GBY%RS%GBY%')",[22977]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'GBY%')","[19637, 20717, 30429, 34449]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'SEL%GBY%RS%GBY%SEL%')","[51605, 64753]"
+"('MetaStoreUtils.java', 'org.apache.hadoop.hive.metastore.MetaStoreUtils', 'validateName', '[\\w_]+', 'col2')","[742, 1201, 1603]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'TS%')","[21797, 36729, 85950, 92128]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%SEL%GBY%RS%GBY%')","[8727, 31269, 60200]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'SEL%FS%')","[26049, 88130]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%SEL%')",[22219]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'SEL%GBY%RS%GBY%')",[10967]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'SEL%')","[54413, 67185, 103738]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '250%')","[1726, 77155]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'RS%GBY%SEL%')",[41077]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'GBY%RS%')",[57281]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'GBY%SEL%')",[29829]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'GBY%RS%GBY%')","[9943, 61334]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'RS%')",[59699]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'FIL%')","[93914, 95482]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'RS%GBY%SEL%FS%')",[24069]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'GBY%SEL%FS%')",[72628]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%SEL%GBY%RS%')",[58893]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%SEL%GBY%RS%GBY%')",[61145]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'SEL%GBY%RS%GBY%SEL%')",[41197]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%', 'SEL%')","[19157, 21317, 84930]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%SEL%GBY%RS%')","[6877, 33969]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'SEL%GBY%RS%GBY%SEL%FS%')",[16421]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'GBY%SEL%')","[37638, 39337]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%FIL%SEL%FS%')","[82554, 87770, 104474, 108084]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%SEL%GBY%RS%')",[57901]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'FIL%')",[101610]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'GBY%SEL%')",[29109]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'RS%')",[58211]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'RS%GBY%SEL%FS%')",[27009]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'GBY%RS%GBY%SEL%FS%')",[69053]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%FIL%SEL%')",[96022]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'FIL%SEL%')",[89750]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'SEL%FS%')","[42157, 96322]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'GBY%RS%GBY%SEL%')",[29949]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'RS%GBY%SEL%FS%')",[70873]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'TS%')","[2226, 21737, 79150, 85890]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%SEL%GBY%')",[41857]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'SEL%GBY%RS%GBY%')","[10007, 61397]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'SEL%GBY%RS%GBY%SEL%')",[67057]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'SEL%GBY%RS%')","[52145, 57591]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'GBY%SEL%')",[66481]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%SEL%GBY%RS%GBY%')",[31869]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%')",[62405]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%SEL%GBY%')","[4553, 34929, 54896, 73938]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'RS%')",[58459]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%SEL%GBY%RS%')","[52205, 57653]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'SEL%FS%')","[18467, 84444]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'TS%SEL%')",[3075]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'GBY%RS%')",[32829]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%FIL%')",[96742]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%FIL%')",[101310]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'FIL%SEL%FS%')",[96382]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'RS%GBY%')","[51785, 60641]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'GBY%RS%')",[7003]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'FIL%')",[90770]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%SEL%GBY%RS%GBY%SEL%')",[68273]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'GBY%RS%')",[59513]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'SEL%')","[40957, 41917, 95902]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'RS%GBY%SEL%')",[48452]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%')","[43897, 96982]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%FIL%')","[80182, 101190]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%FIL%SEL%')",[96622]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%SEL%GBY%RS%GBY%')",[60515]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'GBY%RS%GBY%SEL%FS%')",[50753]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'RS%GBY%')","[8855, 31389]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'SEL%GBY%')","[52325, 55201]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'TS%SEL%GBY%RS%')",[43357]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'GBY%SEL%')",[14166]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'FIL%SEL%')",[86496]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%SEL%GBY%RS%GBY%')",[30369]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'FIL%SEL%FS%')",[108288]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'FIL%SEL%')",[82036]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'RS%GBY%SEL%FS%')",[70418]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'GBY%')","[55689, 61523]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%SEL%')","[3197, 53873]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVF%', 'RS%GBY%')",[32289]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'GBY%')","[5173, 9751, 19457, 20537]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'FIL%SEL%FS%')","[82995, 88430]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'FIL%SEL%FS%')","[84255, 87470]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'GBY%SEL%')",[67249]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'FIL%SEL%FS%')",[105962]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[70613]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%', 'GBY%')","[19697, 20777]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '222%|93%', '250%')","[1921, 77480]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'GBY%')","[55323, 60893]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'GBY%')","[4615, 8791, 31329, 34989]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'GBY%RS%GBY%')",[46389]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'GBY%SEL%')",[48777]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%FIL%SEL%FS%')","[84318, 87530]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'RS%GBY%SEL%FS%')",[71328]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'FS%')","[50945, 69248, 99342, 104784]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%FIL%SEL%FS%')",[98778]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'RS%GBY%SEL%FS%')",[72238]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%')","[2166, 37029, 79090, 92428]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'RS%GBY%')",[46645]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'FS%')","[69703, 105032]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'GBY%SEL%FS%')",[70808]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%', 'TS%FIL%')","[79572, 90590, 100710, 107278]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*UNION%', 'SEL%GBY%')",[45127]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'GBY%')","[51725, 52265, 55140, 60578]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'FS%')","[70678, 105590]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'GBY%RS%GBY%SEL%')","[12281, 29589]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%SEL%', 'TS%SEL%GBY%')",[56909]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FS%', 'TS%SEL%GBY%RS%GBY%SEL%')",[65201]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'GBY%RS%GBY%SEL%')",[23237]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'SEL%GBY%RS%')",[32889]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*MAPJOIN%', 'SEL%GBY%')",[56482]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'GBY%SEL%FS%')",[24009]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '24%')","[75725, 78065]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'TS%')","[22097, 86250]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'TS%SEL%')","[2770, 36249]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'FIL%SEL%FS%')",[86990]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'org.apache.hadoop.hive.ql.plan.ExprNodeColumnDesc%', 'org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc%')","[5985, 91472, 92890, 94389]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'GBY%RS%')","[6751, 33849]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%FIL%SEL%')",[98088]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'RS%GBY%SEL%FS%')",[40717]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'TS%SEL%GBY%')",[55994]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'TS%SEL%GBY%RS%GBY%SEL%')",[29349]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'SEL%')","[54173, 66417, 103372]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%FIL%SEL%')","[81912, 89270]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LIM%', 'RS%GBY%SEL%')",[29169]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[49499]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%FIL%')",[100830]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%SEL%GBY%RS%GBY%')","[10071, 61460]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'SEL%GBY%')",[56665]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'TS%SEL%')",[44201]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'TS%SEL%')","[52505, 53633]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SCR%', 'SEL%GBY%RS%GBY%SEL%FS%')","[15497, 25869]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'GBY%RS%')",[59017]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'RS%GBY%SEL%')",[27369]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'GBY%RS%GBY%SEL%FS%')",[50291]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.cloudera.companies.core.test.CompaniesEmbeddedHiveTestCaseTest')","[108644, 108692, 108741, 108789]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'FIL%', 'TS%')","[21557, 36669, 85710, 92068]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'SEL%GBY%RS%')",[58583]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(FIL%RS%JOIN%)|(FIL%RS%MAPJOIN%)', 'RS%GBY%SEL%FS%')",[23631]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[71978]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*RS%', 'RS%GBY%SEL%FS%')","[51125, 69443]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%')",[67121]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '381%', '487%')","[76570, 78650]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'TS%SEL%GBY%RS%GBY%')",[47157]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'TS%FIL%SEL%FS%')","[83058, 88490]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%SEL%GBY%RS%')",[7885]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'SEL%GBY%RS%')",[58335]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%SEL%GBY%RS%')",[57405]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%SEL%GBY%')","[5731, 34749]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '24%|260%|298%|458%|%|112%|45%|237%|114%|32%|140%|207%', '24%')","[76115, 78325]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%', 'TS%SEL%GBY%RS%')","[7633, 58149]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'SEL%GBY%')",[56116]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*RS%', 'RS%GBY%SEL%')",[66161]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*UNION%', 'SEL%FS%')","[49169, 98400]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*MAPJOIN%', 'TS%FIL%')",[101550]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*RS%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[69183]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'GBY%SEL%')",[75077]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%', 'TS%FIL%')","[80426, 90470]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%', 'SEL%GBY%RS%GBY%')",[30609]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'SEL%GBY%')",[44755]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'SEL%')","[53933, 65649, 103006]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%.*FS%', 'FIL%SEL%')",[107745]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '487%', '250%')","[1986, 77610]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'TS%SEL%GBY%RS%GBY%SEL%FS%')",[72888]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'GBY%RS%')",[43237]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'LVJ%', 'TS%')","[2526, 21977, 79450, 86130]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'TS%.*UNION%', 'SEL%')","[44262, 48322, 97964]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%RS%GBY%', 'TS%SEL%GBY%RS%')",[41677]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*UNION%', 'RS%')",[45504]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UDTF%', 'SEL%GBY%RS%GBY%SEL%FS%')","[15959, 26709]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%)|(TS%FIL%FIL%)', 'SEL%GBY%')","[38553, 40237]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'MAPJOIN%.*MAPJOIN%', 'GBY%')","[56604, 63098]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'UNION%.*RS%', 'GBY%RS%GBY%SEL%FS%')",[70483]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'SEL%', 'GBY%RS%GBY%')",[9559]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', '(TS%FIL%FIL%|TS%FIL%)', 'GBY%RS%GBY%')",[42997]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'JOIN%|MAPJOIN%', 'TS%SEL%GBY%')",[5545]
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'GBY%', 'FIL%')","[79999, 85230]"
+"('RuleRegExp.java', 'org.apache.hadoop.hive.ql.lib.RuleRegExp', 'cost', 'RS%.*MAPJOIN%', 'RS%GBY%SEL%FS%')",[71783]

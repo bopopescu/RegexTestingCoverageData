@@ -1,0 +1,58 @@
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((W|w)ith(.+))\\)', 'A (with B)')",[951]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((F|f)eat(\\. |\\.| |uring )(.+))\\)', 'A')",[790]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'slash.metamusic.util.ImageResizerTest')","[174, 2170]"
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CE5)')",[1549]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CD 2) (disc 3)')",[2101]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (disc 2)')",[1043]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResizeJpg(slash.metamusic.util.ImageResizerTest)')","[194, 403]"
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CD 2)(disc 3)')",[1641]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRelativize(slash.metamusic.util.FilesTest)')","[155, 381]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (A|a|U|u)nd )|&)(.+)', 'A and B')",[583]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((F|f)eat(\\. |\\.| |uring )(.+))\\)', 'A (With B)')",[974]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((W|w)ith(.+))\\)', 'A')",[813]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((F|f)eat(\\. |\\.| |uring )(.+))\\)', 'A (Featuring B)')",[905]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((W|w)ith(.+))\\)', 'A (With B)')",[997]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (F|f)eat(\\. |\\.| |uring ))(.+))', 'A featuring B')","[652, 744]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (F|f)eat(\\. |\\.| |uring ))(.+))', 'A and B')",[560]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (disc 2)(disc 3)')",[1595]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParseTrack(slash.metamusic.util.ContributorHelperTest)')","[78, 337]"
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (disc2)')",[1825]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (F|f)eat(\\. |\\.| |uring ))(.+))', 'A featuring B, C')",[767]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParseArtist(slash.metamusic.util.ContributorHelperTest)')","[57, 315]"
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (cd 2)')",[1273]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'slash.metamusic.util.ContributorHelperTest')","[36, 2239]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((F|f)eat(\\. |\\.| |uring )(.+))\\)', 'A (Feat. B)')",[859]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CD)')",[1503]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFormatContributors(slash.metamusic.util.ContributorHelperTest)')","[99, 359]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((F|f)eat(\\. |\\.| |uring )(.+))\\)', 'A (with B)')",[928]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (Disc 2)')",[1181]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'slash.metamusic.util.FilesTest')","[135, 2193]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((F|f)eat(\\. |\\.| |uring )(.+))\\)', 'A (featuring B)')",[882]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'Text (disc 2)')",[1733]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (F|f)eat(\\. |\\.| |uring ))(.+))', 'A')","[514, 698]"
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CD2) (disc3)')",[2147]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParseDiscIndex(slash.metamusic.util.DiscIndexHelperTest)')","[273, 469]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRemoveDiscIndex(slash.metamusic.util.DiscIndexHelperTest)')","[293, 491]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (A|a|U|u)nd )|&)(.+)', 'A')","[537, 721]"
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (Cd12345)')",[1457]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text [Disc 3]')",[1779]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (cd 2)')",[1917]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (Cd2)')",[1319]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CD2)')",[1365]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'slash.metamusic.util.DiscIndexHelperTest')","[253, 2216]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (F|f)eat(\\. |\\.| |uring ))(.+))', 'A Featuring B')",[675]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (disc2)')",[1135]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (Cd12345)')",[2009]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 116]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (F|f)eat(\\. |\\.| |uring ))(.+))', 'A feat. B')",[606]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (cD 2)')",[1411]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (dISc 2)')",[1227]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'teSt (Disc 2)')",[1871]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (disc 2) (disc 3)')",[2055]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CD2)(disc3)')",[1687]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'parseDiscIndex', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text [disc 2]')",[1089]
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseArtist', '(.+)(( (F|f)eat(\\. |\\.| |uring ))(.+))', 'A Feat. B')",[629]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResizeGifAsJpg(slash.metamusic.util.ImageResizerTest)')","[214, 425]"
+"('ContributorHelper.java', 'slash.metamusic.util.ContributorHelper', 'parseTrack', '(.+)(\\((F|f)eat(\\. |\\.| |uring )(.+))\\)', 'A (feat. B)')",[836]
+"('DiscIndexHelper.java', 'slash.metamusic.util.DiscIndexHelper', 'removeDiscIndexPostfix', '(.+?)((\\(|\\[)([d|D][i|I][s|S][c|C]|[c|C][d|D]).*?(\\d+)(\\)|\\]))(.*+)', 'text (CD2)')",[1963]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriters(slash.metamusic.util.ImageResizerTest)')","[234, 447]"

@@ -1,0 +1,611 @@
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 0 0')",[91077]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'equals')","[55242, 55800, 56358, 56916, 57467, 58011, 58555, 59099, 59643, 60187, 60731, 61275, 61826, 62384, 62942, 63500, 64051, 64602, 65153, 65697, 66248, 66799, 67448, 68202]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '3번 선수정보가 3 1 8로 입력된다')",[82592]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100395, 105563]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 2 2 3로 입력된다')",[94745]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 A 1 B로 입력된다')",[76956]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100485, 105653]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 1 2로 입력된다')","[75685, 87952]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '총 선수 수를 입력하시오'"")","[99425, 102742, 104104]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 0 0로 입력된다')",[90610]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LoggedWriter.class')","[2015, 39701]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '총원으로 1가 입력된다')",[74183]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '3 0'"")",[101133]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '2번선수 정보를 입력하시오'(Scenario: 기본 예제)"")","[33783, 33809, 37492]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[774, 1600, 2513, 3420, 4322, 5148, 6055, 6957, 7783, 8696, 9609, 10516, 38850, 39416, 40043, 40664, 41280, 41846, 42467, 43083, 43649, 44276, 44903, 45524]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '총원으로 101가 입력된다')",[73509]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '1번선수 정보를 입력하시오'"")","[99965, 103772, 104644]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '총원으로 5가 입력된다')",[71471]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '101')",[73931]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 0로 입력된다')",[93382]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '5 1 4'"")",[102231]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 1로 입력된다')",[91743]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '6번 선수정보가 6 0로 입력된다')",[81183]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101463]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '5번 선수정보가 5 1 3로 입력된다')",[79866]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 A 1 B로 입력된다')",[77186]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '5번 선수정보가 5 1 3로 입력된다')",[79912]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'registerNatives')","[55442, 56000, 56558, 57116, 57662, 58206, 58750, 59294, 59838, 60382, 60926, 61470, 62026, 62584, 63142, 63700, 64246, 64802, 65348, 65892, 66448, 66994, 67718, 68472]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 2 2 3로 입력된다')",[94469]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 1 | invalid |)"")","[32294, 32324, 36779, 36804, 92543, 92646]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '5번선수 정보를 입력하시오'"")",[101862]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 2 2로 입력된다')",[88971]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '총원으로 101가 입력된다')",[73233]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '2 1 3'"")",[100734]
+"('FormatterFactory.java', 'cucumber.runtime.formatter.FormatterFactory', 'create', '([^:]+):(.*)', 'html:target/cucumber')",[174]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '5번선수 정보를 입력하시오'"")",[102042]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 2 2 3로 입력된다')",[94653]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 2 2로 입력된다')",[89017]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 5 | 5 1 3 | valid |')","[30333, 80431, 80534]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '-1')",[72935]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105074]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 1 2로 입력된다')","[75869, 88136]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100605, 105773]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '입력은 valid하다')","[69801, 70797, 71793]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 1 1')",[84468]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 6 | 6 0 | invalid |)"")","[30566, 30596, 35979, 36004, 81845, 81948]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 100 | valid |')","[28948, 70995, 71098]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '3번선수 정보를 입력하시오'"")",[100914]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 3 2 3 4로 입력된다')",[97149]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 3 2 4 4 | invalid |)"")","[33362, 33392, 37279, 37304, 99324, 99395]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 1')",[92440]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '그 입력 선수정보는 invalid하다')","[77554, 78917, 81643, 83006, 84369, 87095, 89615, 90978, 92341, 96430, 99155]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '5번선수 정보를 입력하시오'(Scenario: 기본 예제)"")","[34089, 34115, 37630]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '3 0'"")",[101253]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'wait')","[55122, 55162, 55202, 55680, 55720, 55760, 56238, 56278, 56318, 56796, 56836, 56876, 57350, 57389, 57428, 57894, 57933, 57972, 58438, 58477, 58516, 58982, 59021, 59060, 59526, 59565, 59604, 60070, 60109, 60148, 60614, 60653, 60692, 61158, 61197, 61236, 61706, 61746, 61786, 62264, 62304, 62344, 62822, 62862, 62902, 63380, 63420, 63460, 63934, 63973, 64012, 64482, 64522, 64562, 65036, 65075, 65114, 65580, 65619, 65658, 66128, 66168, 66208, 66682, 66721, 66760, 67286, 67340, 67394, 68040, 68094, 68148]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 valid하다(| 1 | 1 1 2 | valid |)')","[29868, 29898, 31800, 31830, 35654, 36554]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '총 선수 수를 입력하시오'"")","[99455, 102772, 104134]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103432]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'pop()')","[24415, 26625, 26973, 27169, 27365, 27561, 27757]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'OptimalTeamSelector.class')","[18842, 51224]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '2 1 3'"")",[100644]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '5번선수 정보를 입력하시오'"")",[101952]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario Outline: 싫어하는 선수가 한 라인에 두번 나올 수 없다')",[32669]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '3번 선수정보가 3 1 8로 입력된다')",[82638]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 1 2 | valid |)"")","[29750, 29780, 31682, 31712, 35579, 35604, 36479, 36504, 76393, 76496]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 1 -1')",[38488]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '3 0')","[68828, 69075, 101592]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 1로 입력된다(| 1 | 1 1 | invalid |)')","[32353, 32383, 36829]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '5'(Scenario: 선수정보에 오류가 있을 경우)"")","[34594, 34620, 37883]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 2 2 3로 입력된다')",[94423]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'notifyAll')","[55522, 56080, 56638, 57196, 57740, 58284, 58828, 59372, 59916, 60460, 61004, 61548, 62106, 62664, 63222, 63780, 64324, 64882, 65426, 65970, 66528, 67072, 67826, 68580]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TeamMaker.class')","[19755, 51851]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.oddpoet.cucumber.sample.component.InputValidatorTest')","[28461, 38514]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '총원으로 5가 입력된다')",[71517]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '1 1 2'"")","[100305, 105473]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '5번선수 정보를 입력하시오'"")",[102072]
+"('Utils.java', 'cucumber.runtime.Utils', 'toURL', '^(file|http|https):.*', 'target/cucumber/')","[212, 249]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '4 2 2 3'"")",[101712]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 0 0 | invalid |')","[32061, 91129, 91232]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 A 1 B로 입력된다')",[77094]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '총원으로 1가 입력된다')",[74413]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 2 3 4로 입력된다')",[85134]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100455, 105623]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 1 2로 입력된다(| 1 | 1 1 2 | valid |)')","[29809, 29839, 31741, 31771, 35629, 36529]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'testsupport')","[3830, 40944]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'getInputReader')","[55042, 55600, 56158, 56716, 57272, 57816, 58360, 58904, 59448, 59992, 60536, 61080, 61626, 62184, 62742, 63300, 63856, 64402, 64958, 65502, 66048, 66604, 67178, 67932]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 1 1로 입력된다(| 1 | 1 1 1 | invalid |)')","[31081, 31111, 36229]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '6번 선수정보가 6 0로 입력된다')",[81275]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.oddpoet.cucumber.sample.component.TeamMakerTest')","[28606, 105934]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '4번선수 정보를 입력하시오'(Scenario: 기본 예제)"")","[33987, 34013, 37584]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[364, 1185, 2098, 3010, 3912, 4733, 5645, 6547, 7368, 8281, 9194, 10106, 11008, 11829, 12741, 13643, 14464, 15376, 16278, 17099, 18012, 18925, 19838, 20751, 21664, 22576, 23478, 38570, 39131, 39758, 40384, 41000, 41561, 42187, 42803, 43364, 43991, 44618, 45244, 45860, 46421, 47047, 47663, 48224, 48850, 49466, 50027, 50654, 51281, 51908, 52535, 53162, 53788, 54404]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario: 선수정보에 오류가 있을 경우')","[34518, 105826, 105869]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '-10'"")",[102982]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 valid하다(| 1 | 1 2 2 3 | valid |)')","[32868, 32898, 37054]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 1 1로 입력된다')",[83955]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 0 0로 입력된다(| 1 | 1 0 0 | invalid |)')","[32149, 32179, 36729]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '총원으로 100가 입력된다')",[70429]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '입력은 valid하다')","[69847, 70843, 71839]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '5'"")","[99665, 104344]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '총원으로 100가 입력된다')",[70291]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 3 | 3 1 8 | invalid |)"")","[30770, 30800, 36079, 36104, 83208, 83311]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 2 2로 입력된다')",[89063]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '1 1 2'"")","[100155, 105323]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '-10')",[103442]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'component')","[10926, 23396, 45804, 54348]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '그 입력 선수정보는 valid하다')","[76099, 80188, 85640, 88366, 93612, 94975, 97701]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'step')","[26742, 26780, 26818, 26856, 27014, 27052, 27210, 27248, 27406, 27444, 27602, 27640, 27798, 27874, 27912, 27950, 27988, 28026, 28102, 28140, 28178, 28216, 28254, 28292, 28330]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'feature')","[24456, 26666]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TeamCreateService.class')","[21581, 53105]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '총원으로 100가 입력된다')",[70199]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '5'"")","[99725, 104404]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Given 총원으로 2가 입력된다(| 2 | valid |)')","[28832, 28862, 35129, 35154, 70050, 70153]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 2 3 3로 입력된다')",[95924]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 1 1 1 | invalid |)')","[31140, 31170, 36254]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100425, 105593]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_fail_case(net.oddpoet.cucumber.sample.component.InputDataReaderTest)')","[28667, 35083]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '-10'(Scenario: 총 선수 수에 오류가 있을 경우)"")","[34316, 34342, 37745]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103222]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: 'A 1 B'"")",[104894]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 시스템 출력: '총 선수 수를 입력하시오'(Scenario: 선수정보에 오류가 있을 경우)"")","[34543, 34569, 37837, 37860, 105847, 105890]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario Outline: 선수번호의 범위는 (1~총원)이어야 한다')",[29669]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '4 2 2 3'"")",[101652]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 1로 입력된다')",[91973]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '총원으로 -1가 입력된다')",[72283]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'push(meta)')","[24336, 26546, 26894, 27090, 27286, 27482, 27678]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103312]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 5 | 5 1 3 | valid |)"")","[30362, 30392, 35879, 35904, 80482, 80585]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '-10'"")",[103012]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '입력은 valid하다')","[69755, 70751, 71747]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '총원으로 101가 입력된다')",[73325]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 2 | valid |')","[28803, 69999, 70102]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '총원으로 5가 입력된다')",[71379]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103282]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '2번선수 정보를 입력하시오'(Scenario: 선수정보에 오류가 있을 경우)"")","[34849, 34875, 37998]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""총원이 '5'이고"")","[75455, 76818, 78181, 79544, 80907, 82270, 83633, 84996, 86359, 87722, 88879, 90242, 91605, 92968, 94331, 95694, 97057, 98419]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '5번선수 정보를 입력하시오'"")",[101922]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 2 3 3 | invalid |)"")","[32954, 32984, 37079, 37104, 96632, 96735]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '총원으로 5가 입력된다')",[71241]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'model')","[6465, 16196, 42747, 49410]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '5 1 4'"")",[102291]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '~')",[38070]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '1 1 2'"")","[100245, 105413]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '입력은 invalid하다')","[72743, 73739, 74735]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '3'"")",[103592]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 1 2로 입력된다')","[75547, 87814]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_no_error(net.oddpoet.cucumber.sample.component.InputDataReaderTest)')","[28688, 35104]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '3'"")",[103502]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 2 3 4로 입력된다')",[85226]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '5 1 4'"")",[102321]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '3'"")",[103532]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 1 2 3')",[38235]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 1 2로 입력된다')","[75593, 87860]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '3 0'(Scenario: 기본 예제)"")","[33936, 33962, 37561]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '1번선수 정보를 입력하시오'"")","[99995, 103802, 104674]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 0 1 1 | invalid |)"")","[30158, 30188, 35779, 35804, 79119, 79222]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ResultWriter.class')","[17929, 50597]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 0 | valid |')","[32469, 93855, 93958]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 2 2 3로 입력된다(| 1 | 1 2 2 3 | valid |)')","[32809, 32839, 37029]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '2 1 3'"")",[100794]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 2 1 2 | invalid |')","[31401, 87246, 87349]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcucumber\\E', 'cucumber')","[1020, 1849, 2762, 3666, 4568, 5397, 6301, 7203, 8032, 8945, 9858, 10762, 11664, 12493, 13397, 14299, 15128, 16032, 16934, 17763, 18676, 19589, 20502, 21415, 22328, 23232, 24134, 39018, 39587, 40214, 40832, 41448, 42017, 42635, 43251, 43820, 44447, 45074, 45692, 46308, 46877, 47495, 48111, 48680, 49298, 49914, 50483, 51110, 51737, 52364, 52991, 53618, 54236, 54852]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '2 1 3'"")",[100704]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Feature: 대화형 팀매칭 시스템')",[33531]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'hashCode')","[55322, 55880, 56438, 56996, 57545, 58089, 58633, 59177, 59721, 60265, 60809, 61353, 61906, 62464, 63022, 63580, 64129, 64682, 65231, 65775, 66328, 66877, 67556, 68310]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 3 2 4 4로 입력된다')",[98741]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'App.class')","[24298, 54964]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 1로 입력된다')",[91881]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '그 입력 선수정보는 invalid하다')","[77600, 78963, 81689, 83052, 84415, 87141, 89661, 91024, 92387, 96476, 99201]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '6번 선수정보가 6 0로 입력된다')",[81321]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '4 2 2 3'(Scenario: 기본 예제)"")","[34038, 34064, 37607]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 2 1 2로 입력된다')",[86727]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '3번 선수정보가 3 1 8로 입력된다')",[82454]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '총 선수 수를 입력하시오'"")","[99545, 102862, 104224]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '5')","[68664, 68952, 71939, 100125, 104804]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 valid하다(| 5 | 5 1 3 | valid |)')","[30480, 30510, 35954]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '1번선수 정보를 입력하시오'(Scenario: 기본 예제)"")","[33681, 33707, 37446]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '총원으로 1가 입력된다')",[74367]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '3번선수 정보를 입력하시오'"")",[100884]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '5 1 4'(Scenario: 기본 예제)"")","[34140, 34166, 37653]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '선수1이_2를_싫어하면_선수2_기준으로도_1은_공존할수_없는_선수다(net.oddpoet.cucumber.sample.model.InputDataTest)')","[28442, 34915]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: 'A 1 B'"")",[104924]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '1번선수 정보를 입력하시오'(Scenario: 선수정보에 오류가 있을 경우)"")","[34645, 34671, 37906]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 1 1 | invalid |')","[30993, 84520, 84623]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 2 1 2로 입력된다(| 1 | 1 2 1 2 | invalid |)')","[31489, 31519, 36429]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 0 1 1로 입력된다')",[78273]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '총원으로 101가 입력된다')",[73279]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 2 2로 입력된다')",[89201]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '5번 선수정보가 5 1 3로 입력된다')",[79728]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '5'"")","[99695, 104374]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '3 0'"")",[101163]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '그 입력 선수정보는 invalid하다')","[77462, 78825, 81551, 82914, 84277, 87003, 89523, 90886, 92249, 96338, 99063]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 0로 입력된다(| 1 | 1 0 | valid |)')","[32557, 32587, 36929]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q1872_270\\E', '1872_270')","[610, 1434, 2347, 3256, 4158, 4982, 5891, 6793, 7617, 8530, 9443, 10352, 11254, 12078, 12987, 13889, 14713, 15622, 16524, 17348, 18261, 19174, 20087, 21000, 21913, 22822, 23724, 38738, 39302, 39929, 40552, 41168, 41732, 42355, 42971, 43535, 44162, 44789, 45412, 46028, 46592, 47215, 47831, 48395, 49018, 49634, 50198, 50825, 51452, 52079, 52706, 53333, 53956, 54572]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '1')","[38118, 74927]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 2 2 3로 입력된다')",[94515]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '5 1 3')",[80379]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '3번선수 정보를 입력하시오'"")",[100974]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 0 0 | invalid |)"")","[32090, 32120, 36679, 36704, 91180, 91283]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '총원으로 1가 입력된다')",[74505]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '그 입력 선수정보는 valid하다')","[76007, 80096, 85548, 88274, 93520, 94883, 97609]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""총원이 '5'이고"")","[75271, 76634, 77997, 79360, 80723, 82086, 83449, 84812, 86175, 87538, 88695, 90058, 91421, 92784, 94147, 95510, 96873, 98235]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[692, 1517, 2430, 3338, 4240, 5065, 5973, 6875, 7700, 8613, 9526, 10434, 11336, 12161, 13069, 13971, 14796, 15704, 16606, 17431, 18344, 19257, 20170, 21083, 21996, 22904, 23806, 38794, 39359, 39986, 40608, 41224, 41789, 42411, 43027, 43592, 44219, 44846, 45468, 46084, 46649, 47271, 47887, 48452, 49074, 49690, 50255, 50882, 51509, 52136, 52763, 53390, 54012, 54628]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '3 0'"")",[101343]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '5번 선수정보가 5 1 3로 입력된다')",[79682]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""총원이 '5'이고"")","[75501, 76864, 78227, 79590, 80953, 82316, 83679, 85042, 86405, 87768, 88925, 90288, 91651, 93014, 94377, 95740, 97103, 98465]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""총원이 '5'이고"")","[75409, 76772, 78135, 79498, 80861, 82224, 83587, 84950, 86313, 87676, 88833, 90196, 91559, 92922, 94285, 95648, 97011, 98373]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '1번선수 정보를 입력하시오'"")","[100115, 103922, 104794]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '그 입력 선수정보는 valid하다')","[76145, 80234, 85686, 88412, 93658, 95021, 97747]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: 'A 1 B'"")",[104864]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 2 1 2로 입력된다')",[86681]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '총원으로 101가 입력된다')",[73187]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 6 | 6 0 | invalid |)')","[30684, 30714, 36054]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '3번 선수정보가 3 1 8로 입력된다')",[82546]
+"('PathWithLines.java', 'cucumber.runtime.PathWithLines', '<init>', '^([\\w\\W]*?):([\\d:]+)$', 'classpath:features')",[282]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '6번 선수정보가 6 0로 입력된다')",[81137]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 1 | invalid |')","[32265, 92492, 92595]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101493]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '3'"")",[103682]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '입력은 invalid하다')","[72881, 73877, 74873]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', 'A 1 B')","[38396, 77653, 105293]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 1로 입력된다')",[91835]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 5 | valid |')","[29093, 71991, 72094]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '싫어하는_선수가_중복으로_나와서는_안된다(net.oddpoet.cucumber.sample.component.InputValidatorTest)')","[28545, 34999]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105104]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 2 2 3 | valid |')","[32721, 95218, 95321]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '입력은 valid하다')","[69663, 70659, 71655]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 3번 선수정보가 3 1 8로 입력된다(| 3 | 3 1 8 | invalid |)')","[30829, 30859, 36129]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'InputDataReaderTest.class')","[10024, 45188]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 2 1 2로 입력된다')",[86635]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 2 3 3로 입력된다')",[95786]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 3 2 3 4로 입력된다')",[97379]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '1번선수 정보를 입력하시오'"")","[100055, 103862, 104734]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 0 0로 입력된다')",[90426]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '2 1 3'"")",[100764]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | A 1 B | invalid |')","[29925, 77705, 77808]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Given 총원으로 101가 입력된다(| 101 | invalid |)')","[29412, 29442, 35429, 35454, 74034, 74137]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 2 1 2로 입력된다')",[86543]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '1번선수 정보를 입력하시오'"")","[100025, 103832, 104704]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '3번선수 정보를 입력하시오'"")",[101094]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '2 1 3'"")",[100674]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 0 1 1로 입력된다')",[78549]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 시스템 출력: '총 선수 수를 입력하시오'(Scenario: 기본 예제)"")","[33579, 33605, 37377, 37400, 102641, 102712]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 1 0 0 | invalid |)')","[32208, 32238, 36754]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '총원으로 2가 입력된다')",[69295]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'notify')","[55482, 56040, 56598, 57156, 57701, 58245, 58789, 59333, 59877, 60421, 60965, 61509, 62066, 62624, 63182, 63740, 64285, 64842, 65387, 65931, 66488, 67033, 67772, 68526]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'InputValidator.class')","[20668, 52478]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 2 2 2')",[38258]
+"('FormatterFactory.java', 'cucumber.runtime.formatter.FormatterFactory', 'create', '([^:]+):(.*)', 'json:target/cucumber.json')",[66]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'InputOutputFactoryBean.class')","[12659, 46991]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '총원으로 2가 입력된다')",[69387]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 1 1로 입력된다')",[84001]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '2 1 3')","[68746, 69034, 101103]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'examples')","[24608, 25064, 25520, 25862, 26280]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '총_선수_수는_숫자이어야_한다(net.oddpoet.cucumber.sample.component.InputValidatorTest)')","[28482, 34936]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '-10'"")",[103192]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 valid하다(| 1 | 1 2 3 4 | valid |)')","[31344, 31374, 36354]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '3 0'"")",[101223]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '팀 구성 결과를 출력한다')",[102381]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '총원으로 2가 입력된다')",[69249]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 0 0로 입력된다')",[90656]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 A 1 B로 입력된다')",[76910]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 1 1로 입력된다')",[83909]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 0 1 1로 입력된다')",[78365]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 3 | 3 1 8 | invalid |')","[30741, 83157, 83260]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '2 1 3'(Scenario: 기본 예제)"")","[33834, 33860, 37515]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: 'A 1 B'"")",[104954]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'outline_step')","[24532, 24570, 24950, 24988, 25026, 25406, 25444, 25482, 25748, 25786, 25824, 26166, 26204, 26242]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 0 1 1로 입력된다')",[78503]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario Outline: 선수는 자기 자신을 싫어할 수 없다')",[30941]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '입력은 invalid하다')","[72697, 73693, 74689]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '싫어하는선수수와_싫어하는_선수ID_목록의_수가_일치해야한다(net.oddpoet.cucumber.sample.component.InputValidatorTest)')","[28524, 34978]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 1로 입력된다')",[92019]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 2 3 4로 입력된다')",[85272]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '그 입력 선수정보는 valid하다')","[76191, 80280, 85732, 88458, 93704, 95067, 97793]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '총 선수 수를 입력하시오'"")","[99635, 102952, 104314]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 0로 입력된다')",[93152]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 A 1 B로 입력된다')",[77140]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 3 | 3 1 8 | invalid |)')","[30888, 30918, 36154]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '입력은 invalid하다')","[72835, 73831, 74827]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 0 1 1로 입력된다')",[78319]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 6번 선수정보가 6 0로 입력된다(| 6 | 6 0 | invalid |)')","[30625, 30655, 36029]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 2 3 3로 입력된다')",[95970]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario: 기본 예제')","[33554, 102606, 102677]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 2 3 3로 입력된다')",[96108]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'getOutputWriter')","[55003, 55561, 56119, 56677, 57234, 57778, 58322, 58866, 59410, 59954, 60498, 61042, 61587, 62145, 62703, 63261, 63818, 64363, 64920, 65464, 66009, 66566, 67125, 67879]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'InputDataReader.class')","[22494, 53732]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'getClass')","[55362, 55920, 56478, 57036, 57584, 58128, 58672, 59216, 59760, 60304, 60848, 61392, 61946, 62504, 63062, 63620, 64168, 64722, 65270, 65814, 66368, 66916, 67610, 68364]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 3 2 4 4로 입력된다')",[98603]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 3 2 4 4 | invalid |')","[33333, 99289, 99360]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 3 2 3 4로 입력된다')",[97287]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101433]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '5'"")","[99785, 104464]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 3 1 2 3')",[38350]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '4 2 2 3'"")",[101742]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '1 1 2'"")","[100275, 105443]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 2 2 3로 입력된다')",[94607]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 1 2 | valid |')","[29721, 31653, 76342, 76445]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""총원이 '5'이고"")","[75363, 76726, 78089, 79452, 80815, 82178, 83541, 84904, 86267, 87630, 88787, 90150, 91513, 92876, 94239, 95602, 96965, 98327]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 2 3 4로 입력된다')",[85410]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 입력은 valid하다(| 5 | valid |)')","[29181, 29211, 35329]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '그 입력 선수정보는 invalid하다')","[77508, 78871, 81597, 82960, 84323, 87049, 89569, 90932, 92295, 96384, 99109]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '3 0'"")",[101313]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '총원으로 100가 입력된다')",[70383]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario Outline: 싫어하는 선수 수와 선수번호 갯수는 일치해야한다')",[31601]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 0')",[93803]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '6번 선수정보가 6 0로 입력된다')",[81045]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '총원으로 100가 입력된다')",[70245]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '총원으로 -1가 입력된다')",[72329]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '입력은 invalid하다')","[72789, 73785, 74781]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 3 2 4 4로 입력된다')",[98787]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 valid하다(| 1 | 1 3 2 3 4 | valid |)')","[33276, 33306, 37254]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 3 2 3')",[38212]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '그 입력 선수정보는 valid하다')","[76053, 80142, 85594, 88320, 93566, 94929, 97655]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 2 2')",[89714]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '그 입력 선수정보는 valid하다')","[75961, 80050, 85502, 88228, 93474, 94837, 97563]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '0 1 1')","[38419, 79016]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 3 2 3 4로 입력된다')",[97425]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '그 입력 선수정보는 invalid하다')","[77416, 78779, 81505, 82868, 84231, 86957, 89477, 90840, 92203, 96292, 99017]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 2 3 3로 입력된다(| 1 | 1 2 3 3 | invalid |)')","[33013, 33043, 37129]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '-20')",[38166]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 2 3 4로 입력된다')",[85180]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '총원으로 -1가 입력된다')",[72191]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '팀 구성 결과를 출력한다')",[102561]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105224]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103372]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 2 3 3로 입력된다')",[95832]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105194]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 1 2 1 2 | invalid |)')","[31548, 31578, 36454]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105164]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '5 1 4')","[68910, 69157, 102570]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '총원으로 -1가 입력된다')",[72237]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '총원으로 2가 입력된다')",[69433]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '팀 구성 결과를 출력한다')",[102501]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 3 2 4 4')",[99253]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '3'"")",[103472]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '1번선수 정보를 입력하시오'"")","[100085, 103892, 104764]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '총원으로 1가 입력된다')",[74459]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '팀 구성 결과를 출력한다')",[102351]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '입력은 invalid하다')","[72605, 73601, 74597]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '팀 구성 결과를 출력한다')",[102411]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '1 1 2'"")","[100185, 105353]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101553]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[446, 1268, 2181, 3092, 3994, 4816, 5727, 6629, 7451, 8364, 9277, 10188, 11090, 11912, 12823, 13725, 14547, 15458, 16360, 17182, 18095, 19008, 19921, 20834, 21747, 22658, 23560, 38626, 39188, 39815, 40440, 41056, 41618, 42243, 42859, 43421, 44048, 44675, 45300, 45916, 46478, 47103, 47719, 48281, 48906, 49522, 50084, 50711, 51338, 51965, 52592, 53219, 53844, 54460]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(net.oddpoet.cucumber.sample.component.TeamMakerTest)')","[28627, 35062]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '-10'"")",[103162]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '총 선수 수를 다시 입력하시오'(Scenario: 총 선수 수에 오류가 있을 경우)"")","[34367, 34393, 37768]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '입력은 valid하다')","[69571, 70567, 71563]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '팀 구성 결과를 출력한다')",[102471]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '총원으로 2가 입력된다')",[69479]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '3 0 0')",[68787]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'InputDataTest.class')","[5563, 42131]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 0 0로 입력된다')",[90518]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', 'A')","[38022, 68622]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 0로 입력된다')",[93198]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '4 2 2 3'"")",[101682]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '1 1 2'(Scenario: 기본 예제)"")","[33732, 33758, 37469]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Feature: 입력값의 검증')",[28728]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '1번선수 정보를 입력하시오'(Scenario: 총 선수 수에 오류가 있을 경우)"")","[34469, 34495, 37814]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 5번 선수정보가 5 1 3로 입력된다(| 5 | 5 1 3 | valid |)')","[30421, 30451, 35929]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'eof')","[26508, 28368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 0 1 1로 입력된다(| 1 | 0 1 1 | invalid |)')","[30217, 30247, 35829]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MockBaseTest.class')","[2928, 40328]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 3 2 3 4로 입력된다')",[97471]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 3 2 3 2')",[38281]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '선수정보_선수번호는_1보다_크거나_같고_총선수_수보다_작거나_같다(net.oddpoet.cucumber.sample.component.InputValidatorTest)')","[28587, 35041]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '5번선수 정보를 입력하시오'"")",[101982]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '100')",[70943]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 A 1 B로 입력된다(| 1 | A 1 B | invalid |)')","[30013, 30043, 35729]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 3 2 3 4로 입력된다')",[97195]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 1 2로 입력된다')","[75823, 88090]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '3번 선수정보가 3 1 8로 입력된다')",[82362]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100545, 105713]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 2 3 4로 입력된다')",[85318]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '총원으로 1가 입력된다')",[74229]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 3 2 4 4로 입력된다')",[98833]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '총원으로 2가 입력된다')",[69341]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 0로 입력된다')",[93244]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '총원으로 5가 입력된다')",[71287]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '총원으로 -1가 입력된다')",[72467]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '2')",[69947]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '그 입력 선수정보는 invalid하다')","[77278, 78641, 81367, 82730, 84093, 86819, 89339, 90702, 92065, 96154, 98879]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""총원이 '5'이고"")","[75225, 76588, 77951, 79314, 80677, 82040, 83403, 84766, 86129, 87492, 88649, 90012, 91375, 92738, 94101, 95464, 96827, 98189]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 3 2 3 4 | valid |)"")","[33158, 33188, 37179, 37204, 97994, 98097]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 3 2 4 4로 입력된다')",[98511]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 3 2 3 4 | valid |')","[33129, 97943, 98046]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105284]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 1로 입력된다')",[91697]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '3'"")",[103562]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 0 1')",[38189]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 1로 입력된다')",[91789]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '-10'"")",[103072]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: 'A 1 B'"")",[104984]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 1로 입력된다')",[91927]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 0 1 1로 입력된다')",[78595]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.oddpoet.cucumber.sample.component.InputDataReaderTest')","[28646, 105804]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '총원으로 -1가 입력된다')",[72421]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101373]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Given 총원으로 -1가 입력된다(| -1 | invalid |)')","[29267, 29297, 35354, 35379, 73038, 73141]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '-10'"")",[103042]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '3번선수 정보를 입력하시오'"")",[101004]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 2 3 3로 입력된다')",[96016]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 2 1 2로 입력된다')",[86589]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 2 3 3로 입력된다')",[95878]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 3 2 3 4로 입력된다')",[97333]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""시스템 출력: '총 선수 수를 입력하시오'"")","[99515, 102832, 104194]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '5'"")","[99815, 104494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 입력은 invalid하다(| -1 | invalid |)')","[29326, 29356, 35404]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsample\\E', 'sample')","[1102, 1932, 2845, 3748, 4650, 5480, 6383, 7285, 8115, 9028, 9941, 10844, 11746, 12576, 13479, 14381, 15211, 16114, 17016, 17846, 18759, 19672, 20585, 21498, 22411, 23314, 24216, 39074, 39644, 40271, 40888, 41504, 42074, 42691, 43307, 43877, 44504, 45131, 45748, 46364, 46934, 47551, 48167, 48737, 49354, 49970, 50540, 51167, 51794, 52421, 53048, 53675, 54292, 54908]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[528, 1351, 2264, 3174, 4076, 4899, 5809, 6711, 7534, 8447, 9360, 10270, 11172, 11995, 12905, 13807, 14630, 15540, 16442, 17265, 18178, 19091, 20004, 20917, 21830, 22740, 23642, 38682, 39245, 39872, 40496, 41112, 41675, 42299, 42915, 43478, 44105, 44732, 45356, 45972, 46535, 47159, 47775, 48338, 48962, 49578, 50141, 50768, 51395, 52022, 52649, 53276, 53900, 54516]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '총_선수_수는_2보다_커야한다(net.oddpoet.cucumber.sample.component.InputValidatorTest)')","[28503, 34957]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '3')","[38094, 103932]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 입력은 invalid하다(| 101 | invalid |)')","[29471, 29501, 35479]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 2 1 2로 입력된다')",[86773]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '6번 선수정보가 6 0로 입력된다')",[80999]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105134]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '총원으로 100가 입력된다')",[70337]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'examples_table')","[24646, 24684, 24722, 24760, 24798, 24836, 24874, 25102, 25140, 25178, 25216, 25254, 25292, 25330, 25558, 25596, 25634, 25672, 25900, 25938, 25976, 26014, 26052, 26090, 26318, 26356, 26394, 26432, 26470]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '입력은 invalid하다')","[72559, 73555, 74551]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '1 1 2'"")","[100335, 105503]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '1 1 2'"")","[100365, 105533]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'clone')","[55402, 55960, 56518, 57076, 57623, 58167, 58711, 59255, 59799, 60343, 60887, 61431, 61986, 62544, 63102, 63660, 64207, 64762, 65309, 65853, 66408, 66955, 67664, 68418]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 1 1로 입력된다')",[83863]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 1 2 2 | invalid |)')","[32004, 32034, 36654]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | A 1 B | invalid |)')","[30072, 30102, 35754]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '입력은 valid하다')","[69893, 70889, 71885]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 0 1 1로 입력된다')",[78411]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 1 2')","[38304, 68705, 68993, 76290, 88557, 100614, 105782]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '5'(Scenario: 기본 예제)"")","[33630, 33656, 37423]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101523]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '입력은 invalid하다')","[72651, 73647, 74643]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '2 1 3'"")",[100854]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 0로 입력된다')",[93290]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 2 3 4 | valid |')","[31197, 85883, 85986]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'scenario_outline')","[24494, 24912, 25368, 25710, 26128]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'io')","[13561, 47607]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '3'"")",[103652]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: 'A 1 B'"")",[104834]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 0로 입력된다')",[93336]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '총 선수 수를 입력하시오'"")","[99605, 102922, 104284]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '3'(Scenario: 총 선수 수에 오류가 있을 경우)"")","[34418, 34444, 37791]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103252]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '3 0'"")",[101193]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '3'"")",[103622]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '+')",[38046]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103402]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '그 입력 선수정보는 valid하다')","[76237, 80326, 85778, 88504, 93750, 95113, 97839]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '총원으로 1가 입력된다')",[74275]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 1 2로 입력된다')","[75777, 88044]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '5'"")","[99845, 104524]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 0로 입력된다')",[93106]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '-10'"")",[103132]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 2 3 3')",[96529]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '5번선수 정보를 입력하시오'"")",[102012]
+"('Utils.java', 'cucumber.runtime.Utils', 'toURL', '^(file|http|https):.*', 'target/cucumber.json/')","[104, 141]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '총 선수 수를 입력하시오'"")","[99575, 102892, 104254]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '팀 구성 결과를 출력한다')",[102441]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 2 2 3')","[38373, 95166]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '5번 선수정보가 5 1 3로 입력된다')",[79958]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 A 1 B로 입력된다')",[77232]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '총 선수 수를 다시 입력하시오'"")",[103342]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Given 총원으로 100가 입력된다(| 100 | valid |)')","[28977, 29007, 35204, 35229, 71046, 71149]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '5번선수 정보를 입력하시오'"")",[101892]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '4 2 2 3'"")",[101772]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 2 3 3로 입력된다')",[96062]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 입력은 valid하다(| 2 | valid |)')","[28891, 28921, 35179]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 2 2 3로 입력된다')",[94699]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '3 1 8')",[83105]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[11418, 12244, 13151, 14053, 14879, 15786, 16688, 17514, 18427, 19340, 20253, 21166, 22079, 22986, 23888, 46140, 46706, 47327, 47943, 48509, 49130, 49746, 50312, 50939, 51566, 52193, 52820, 53447, 54068, 54684]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '6 0')",[81742]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 3 2 3 4')",[97891]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Examples: ')","[28776, 29694, 30966, 31626, 32694]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '3번 선수정보가 3 1 8로 입력된다')",[82684]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '4 2 2 3'"")",[101622]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 2 2로 입력된다')",[89155]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '6번 선수정보가 6 0로 입력된다')",[81091]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '그 입력 선수정보는 invalid하다')","[77370, 78733, 81459, 82822, 84185, 86911, 89431, 90794, 92157, 96246, 98971]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 0 | valid |)"")","[32498, 32528, 36879, 36904, 93906, 94009]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 1 1로 입력된다')",[84047]
+"('FormatterFactory.java', 'cucumber.runtime.formatter.FormatterFactory', 'create', '([^:]+):(.*)', 'pretty')",[33]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '5'"")","[99755, 104434]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 2 2로 입력된다')",[89247]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '총원으로 100가 입력된다')",[70475]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'InputValidatorTest.class')","[8198, 43934]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 2 2 3로 입력된다')",[94561]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '4 2 2 3'"")",[101802]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""총원이 '5'이고"")","[75317, 76680, 78043, 79406, 80769, 82132, 83495, 84858, 86221, 87584, 88741, 90104, 91467, 92830, 94193, 95556, 96919, 98281]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qnet\\E', 'net')","[856, 1683, 2596, 3502, 4404, 5231, 6137, 7039, 7866, 8779, 9692, 10598, 11500, 12327, 13233, 14135, 14962, 15868, 16770, 17597, 18510, 19423, 20336, 21249, 22162, 23068, 23970, 38906, 39473, 40100, 40720, 41336, 41903, 42523, 43139, 43706, 44333, 44960, 45580, 46196, 46763, 47383, 47999, 48566, 49186, 49802, 50369, 50996, 51623, 52250, 52877, 53504, 54124, 54740]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 3 2 4 4로 입력된다')",[98695]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 3 2 4 4로 입력된다(| 1 | 1 3 2 4 4 | invalid |)')","[33421, 33451, 37329]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 2 3 3 | invalid |')","[32925, 96581, 96684]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 3 2 3 4로 입력된다')",[97241]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'scenario')","[26704, 27836, 28064]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.oddpoet.cucumber.sample.testsupport.MockBaseTest')","[28385, 34894]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 2 3 4')",[85831]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '총원으로 -1가 입력된다')",[72375]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '4 2 2 3'"")",[101832]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '5번 선수정보가 5 1 3로 입력된다')",[79774]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '입력은 valid하다')","[69617, 70613, 71609]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '3번선수 정보를 입력하시오'"")",[101064]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '5 1 4'"")",[102261]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 입력은 invalid하다(| 1 | invalid |)')","[29616, 29646, 35554]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 1 1 | invalid |)"")","[31022, 31052, 36179, 36204, 84571, 84674]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| -1 | invalid |')","[29238, 72987, 73090]"
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 2 1 2')","[38327, 87194]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 1 1 | invalid |)')","[32412, 32442, 36854]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101583]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100515, 105683]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 1 1 2로 입력된다')","[75731, 87998]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'tag')","[24377, 26587]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '팀 구성 결과를 출력한다')",[102531]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 A 1 B로 입력된다')",[77048]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Given 총원으로 1가 입력된다(| 1 | invalid |)')","[29557, 29587, 35504, 35529, 75030, 75133]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 2 1 2 | invalid |)"")","[31430, 31460, 36379, 36404, 87297, 87400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 입력은 valid하다(| 100 | valid |)')","[29036, 29066, 35254]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 101 | invalid |')","[29383, 73983, 74086]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 2 1 2로 입력된다')",[86497]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '총원으로 -1가 입력된다')",[72513]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 3 2 3 4로 입력된다(| 1 | 1 3 2 3 4 | valid |)')","[33217, 33247, 37229]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '총원으로 2가 입력된다')",[69203]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Given 총원으로 5가 입력된다(| 5 | valid |)')","[29122, 29152, 35279, 35304, 72042, 72145]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '3번 선수정보가 3 1 8로 입력된다')",[82500]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 2 1 2로 입력된다')",[86451]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 2 3 4 | valid |)"")","[31226, 31256, 36279, 36304, 85934, 86037]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '1 1 2'"")","[100215, 105383]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""사용자 입력: '3 0'"")",[101283]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 2 3 4로 입력된다(| 1 | 1 2 3 4 | valid |)')","[31285, 31315, 36329]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 1 1로 입력된다')",[83771]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: '5'"")","[99875, 104554]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', ""사용자 입력: '-10'"")",[103102]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 2 2 3 | valid |)"")","[32750, 32780, 36979, 37004, 95269, 95372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 시스템 출력: '총 선수 수를 입력하시오'(Scenario: 총 선수 수에 오류가 있을 경우)"")","[34265, 34291, 37699, 37722, 104003, 104074]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '4번선수 정보를 입력하시오'"")",[101403]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '2번선수 정보를 입력하시오'"")","[100575, 105743]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '총 선수 수를 입력하시오'"")","[99485, 102802, 104164]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qoddpoet\\E', 'oddpoet')","[938, 1766, 2679, 3584, 4486, 5314, 6219, 7121, 7949, 8862, 9775, 10680, 11582, 12410, 13315, 14217, 15045, 15950, 16852, 17680, 18593, 19506, 20419, 21332, 22245, 23150, 24052, 38962, 39530, 40157, 40776, 41392, 41960, 42579, 43195, 43763, 44390, 45017, 45636, 46252, 46820, 47439, 48055, 48623, 49242, 49858, 50426, 51053, 51680, 52307, 52934, 53561, 54180, 54796]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 0 0로 입력된다')",[90472]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | 1 2 2 | invalid |)"")","[31886, 31916, 36579, 36604, 89817, 89920]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '1번 선수정보가 1 2 2로 입력된다')",[89293]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '4 2 2 3')","[68869, 69116, 102081]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: '2 1 3'"")",[100824]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '총원으로 100가 입력된다')",[70521]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 1 3 2 4 4 | invalid |)')","[33480, 33510, 37354]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '3번 선수정보가 3 1 8로 입력된다')",[82408]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: '1 1 2'(Scenario: 선수정보에 오류가 있을 경우)"")","[34798, 34824, 37975]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 1 1로 입력된다')",[83817]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '1번 선수정보가 0 1 1로 입력된다')",[78457]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'features.CucumberTests')",[28707]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'comment')","[26935, 27131, 27327, 27523, 27719]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 A 1 B로 입력된다')",[77002]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 1 2 3 3 | invalid |)')","[33072, 33102, 37154]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '총원으로 101가 입력된다')",[73417]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'toString')","[55282, 55840, 56398, 56956, 57506, 58050, 58594, 59138, 59682, 60226, 60770, 61314, 61866, 62424, 62982, 63540, 64090, 64642, 65192, 65736, 66288, 66838, 67502, 68256]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '그 입력 선수정보는 invalid하다')","[77324, 78687, 81413, 82776, 84139, 86865, 89385, 90748, 92111, 96200, 98925]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""총원이 '5'이고"")","[75179, 76542, 77905, 79268, 80631, 81994, 83357, 84720, 86083, 87446, 88603, 89966, 91329, 92692, 94055, 95418, 96781, 98143]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '그 입력 선수정보는 valid하다')","[75915, 80004, 85456, 88182, 93428, 94791, 97517]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 3 2 4 4로 입력된다')",[98557]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", ""사용자 입력: '5 1 4'"")",[102201]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""시스템 출력: '1번선수 정보를 다시 입력하시오'"")",[105254]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '1 1 0')",[38442]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 1 2 2 | invalid |')","[31857, 89766, 89869]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""When 사용자 입력: 'A 1 B'(Scenario: 선수정보에 오류가 있을 경우)"")","[34696, 34722, 37929]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '입력은 valid하다')","[69709, 70705, 71701]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '3번선수 정보를 입력하시오'(Scenario: 기본 예제)"")","[33885, 33911, 37538]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '총원으로 101가 입력된다')",[73371]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '6번 선수정보가 6 0로 입력된다')",[81229]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '총원으로 5가 입력된다')",[71333]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '5번 선수정보가 5 1 3로 입력된다')",[79636]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[28402]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '총원으로 5가 입력된다')",[71425]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'When 1번 선수정보가 1 2 2로 입력된다(| 1 | 1 2 2 | invalid |)')","[31945, 31975, 36629]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 2 3 4로 입력된다')",[85088]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '총원으로 101가 입력된다')",[73463]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""사용자 입력: '5 1 4'"")",[102111]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', ""사용자 입력: 'A 1 B'"")",[105044]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 0 0로 입력된다')",[90334]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Then 시스템 출력: '1번선수 정보를 다시 입력하시오'(Scenario: 선수정보에 오류가 있을 경우)"")","[34747, 34773, 37952]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", '1번 선수정보가 1 2 3 4로 입력된다')",[85364]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.oddpoet.cucumber.sample.model.InputDataTest')","[28421, 105912]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 3 2 4 4로 입력된다')",[98649]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 0로 입력된다')",[93060]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '총원으로 5가 입력된다')",[71195]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TeamMakerTest.class')","[9111, 44561]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 valid하다(| 1 | 1 0 | valid |)')","[32616, 32646, 36954]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '자기자신을_싫어할_수_없다(net.oddpoet.cucumber.sample.component.InputValidatorTest)')","[28566, 35020]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 그 입력 선수정보는 invalid하다(| 1 | 0 1 1 | invalid |)')","[30276, 30306, 35854]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', ""시스템 출력: '3번선수 정보를 입력하시오'"")",[101034]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'InputData.class')","[15294, 48794]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '1번 선수정보가 1 2 2로 입력된다')",[89109]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | 0 1 1 | invalid |')","[30129, 79068, 79171]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""사용자 입력: '5 1 4'"")",[102171]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 1 | invalid |')","[29528, 74979, 75082]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'finalize')","[55082, 55640, 56198, 56756, 57311, 57855, 58399, 58943, 59487, 60031, 60575, 61119, 61666, 62224, 62782, 63340, 63895, 64442, 64997, 65541, 66088, 66643, 67232, 67986]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""사용자 입력: '5 1 4'"")",[102141]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isNumeric', '\\d+', '0')",[38142]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^입력은 (.+)하다$', '5번 선수정보가 5 1 3로 입력된다')",[79820]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', ""시스템 출력: '1번선수 정보를 입력하시오'"")","[99905, 103712, 104584]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^팀 구성 결과를 출력한다$', '총원으로 2가 입력된다')",[69525]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| 6 | 6 0 | invalid |')","[30537, 81794, 81897]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', ""Given 총원이 '5'이고(| 1 | A 1 B | invalid |)"")","[29954, 29984, 35679, 35704, 77756, 77859]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^총원이 '(\\d+)'이고$"", ""사용자 입력: 'A 1 B'"")",[105014]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^총원으로 (.+)가 입력된다$', '1번 선수정보가 1 0 0로 입력된다')",[90564]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', '1번 선수정보가 1 0 0로 입력된다')",[90380]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^그 입력 선수정보는 (.+)하다$', ""시스템 출력: '1번선수 정보를 입력하시오'"")","[99935, 103742, 104614]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario Outline: 유효한 선수 총원')",[28751]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^시스템 출력: '(.+)'$"", '총원으로 1가 입력된다')",[74321]
+"('InputValidator.java', 'net.oddpoet.cucumber.sample.component.InputValidator', 'isValidPlayerInfo', '[\\d ]+', '4 1 1')",[38465]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", '1번 선수정보가 1 1 2로 입력된다')","[75639, 87906]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', ""^사용자 입력: '(.+)'$"", ""시스템 출력: '3번선수 정보를 입력하시오'"")",[100944]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario: 총 선수 수에 오류가 있을 경우')","[34240, 103968, 104039]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)번 선수정보가 (.+)로 입력된다$', '1번 선수정보가 1 1 1로 입력된다')",[83725]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Then 팀 구성 결과를 출력한다(Scenario: 기본 예제)')","[34191, 34217, 37676]"

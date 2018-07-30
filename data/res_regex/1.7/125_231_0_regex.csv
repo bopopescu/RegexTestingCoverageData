@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'edu.upc.eetac.dsa.beeter.MyResourceTest')",[36]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/myresource')",[236]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetIt(edu.upc.eetac.dsa.beeter.MyResourceTest)')","[78, 99, 120, 161]"
+"('Authorized.java', 'edu.upc.eetac.dsa.beeter.auth.Authorized', 'isAuthorized', 'myresource', 'myresource')",[282]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetIt(edu.upc.eetac.dsa.beeter.MyResourceTest)')","[57, 141]"
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '2.3.22')",[188]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'edu.upc.eetac.dsa.beeter.MyResourceTest')","[303, 323, 344, 364]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/myresource')",[260]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/myresource')",[212]

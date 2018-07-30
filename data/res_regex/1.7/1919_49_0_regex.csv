@@ -1,0 +1,68 @@
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', '123')",[1785]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/users')",[1662]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'alicePostsTweetToTimeline(users.actions.PostTest)')","[702, 1367]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/myresource/id')",[2175]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'cannotFollowInvalidUser(users.actions.FollowTest)')","[515, 1325]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/users')",[1614]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getUsers(users.main.UsersResourceTest)')","[78, 99, 120, 1180]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/myresource/id')",[2151]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'users.actions.ReadTest')",[887]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'shouldNotOutputTweets(users.actions.ReadTest)')","[992, 1490]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myapp/users')",[1565]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'shouldNotOutputTweets(users.actions.ReadTest)')","[1013, 1034, 1055]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'users.main.UsersResourceTest')","[1979, 2003, 2028, 2052]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'shouldOutputTweets(users.actions.ReadTest)')","[929, 950, 971, 1469]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'sonyaFollowsAlice(users.actions.FollowTest)')","[452, 473, 494, 1304]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'users.actions.FollowTest')",[410]
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '2.3.3')",[1540]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myapp/myresource')",[2273]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'alicePostsTweetToTimeline(users.actions.PostTest)')","[723, 744, 765, 1387]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'shouldOutputTweets(users.actions.ReadTest)')","[908, 1449]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/users(/)?', '/users')",[1710]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetIt(users.main.MyResourceTest)')","[328, 1263]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/users')",[1638]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'users.actions.PostTest')","[2591, 2615, 2640, 2664]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/users/123')",[1809]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'users')",[1590]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'userDoesNotExistNoTweets(users.actions.ReadTest)')","[1076, 1511]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'users.actions.ReadTest')","[2783, 2803, 2824, 2844]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'users.main.MyResourceTest')",[223]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'displayCharlieWall(users.actions.WallTest)')","[826, 847, 868, 1428]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'users/123')",[1760]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/users/123')",[1857]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'users.actions.FollowTest')","[2493, 2517, 2542, 2566]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'cannotFollowInvalidUser(users.actions.FollowTest)')","[536, 557, 578]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myapp/myresource/id')",[2077]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'aliceFollowsSonya(users.actions.FollowTest)')","[620, 641, 662]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/users(/)?', '/users/123')",[1905]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getUsers(users.main.UsersResourceTest)')","[57, 1160]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/.*)?', '/users')",[1686]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sonyaFollowsAlice(users.actions.FollowTest)')","[431, 1284]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getUserById(users.main.UsersResourceTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getUsingPathParam(users.main.MyResourceTest)')","[244, 1222]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'users.actions.WallTest')","[2689, 2713, 2738, 2762]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/.*)?', '/myresource/id')",[2223]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/myresource')",[2346]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'id')",[2127]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/([0-9]*)(/)?', '/123')",[1954]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/users/123')",[1833]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myresource/id')",[2102]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/myresource/id')",[2199]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getUsingPathParam(users.main.MyResourceTest)')","[265, 286, 307, 1242]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getUserById(users.main.UsersResourceTest)')","[141, 1201]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'users.main.UsersResourceTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'users.main.MyResourceTest')","[2395, 2419, 2444, 2468]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myresource')",[2298]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'aliceFollowsSonya(users.actions.FollowTest)')","[599, 1346]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/.*)?', '/users/123')",[1881]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'users.actions.PostTest')",[681]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'displayCharlieWall(users.actions.WallTest)')","[805, 1408]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'myapp/users/123')",[1735]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/myresource(/)?', '/myresource')",[2370]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'userDoesNotExistNoTweets(users.actions.ReadTest)')","[1097, 1118, 1139]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/([^/]+?)(/)?', '/id')",[2248]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/users(/.*)?', '/users/123')",[1929]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/myresource')",[2322]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'users.actions.WallTest')",[784]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetIt(users.main.MyResourceTest)')","[349, 370, 391]"

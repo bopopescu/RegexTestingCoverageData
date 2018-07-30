@@ -1,0 +1,44 @@
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al.kutepov')",[492]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al_kutepov')",[612]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'alkutepov')","[312, 372, 792, 852, 912, 972, 1032, 1152, 1212, 1272, 1512, 1572, 1632, 1812, 1872, 1932, 1992, 2052, 2112, 2173, 2237, 2303, 2369, 2435, 2501, 2567]"
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al..kutepov')",[1752]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', '12345')",[252]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'a.ru')",[222]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'message.gateway.ws.ValidatorTest')","[36, 2622]"
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al__kutepov')",[1722]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'g.m-a_il.com')","[1002, 1122]"
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'g.m.a.il.com')",[1062]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al_.kutepov')",[1392]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al.ku.te.pov')",[732]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'g.mail.com')",[822]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al&kutepov')",[1692]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'g#mail..com')",[2142]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail.com')","[282, 342, 462, 522, 582, 642, 702, 762, 2204, 2270, 2336, 2402, 2468, 2534, 2600]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessIsCorrect(message.gateway.ws.ValidatorTest)')","[78, 141]"
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail.com.')",[1542]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al-kutepov')",[552]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail.com12345')",[2022]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'g_mail.com')",[942]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'g-mail.com')",[882]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail.com-')",[1602]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al--kutepov')",[1782]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'g#mail.com')",[2082]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', '-kutepov')",[1482]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al kutepov')",[1332]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail..com')",[1842]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail-com')",[1242]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al.ku-te_pov')","[672, 1092]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidateEmailAddress(message.gateway.ws.ValidatorTest)')","[57, 120]"
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'ALKutepov12345')",[432]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessExceptions(message.gateway.ws.ValidatorTest)')","[99, 162]"
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'al-.kutepov')",[1362]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail_.com')",[1962]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail')",[1182]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', '.kutepov')",[1422]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', '12345gmail.com')",[402]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', '_kutepov')",[1452]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail-.com')",[1902]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail.com_')",[1662]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*$', 'a')",[192]
+"('Validator.java', 'message.gateway.ws.Validator', 'validateEmailAddress', '^[a-zA-Z0-9]+(([.]|-|_){1}[a-zA-Z0-9]+)*([.]{1}[a-zA-Z]+)+$', 'gmail_com')",[1302]

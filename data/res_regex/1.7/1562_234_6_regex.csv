@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'batchAccountListAsyncTest(com.microsoft.azure.management.batch.BatchAccountOperationsTests)')","[99, 165, 679]"
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'subscriptionId')","[409, 481, 587, 659, 765, 837]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[277]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.microsoft.azure.management.batch.BatchAccountOperationsTests')","[36, 860]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[231]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canCRUDBatchAccount(com.microsoft.azure.management.batch.BatchAccountOperationsTests)')","[57, 121, 185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'resourceGroupName')","[366, 445, 544, 623, 722, 801]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[323]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canCreateBatchAccountWithApplication(com.microsoft.azure.management.batch.BatchAccountOperationsTests)')","[78, 143, 501]"

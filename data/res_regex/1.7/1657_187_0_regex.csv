@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByColumnListHandler(com.ehome.test.dbutils.DBUtilsTest)')","[120, 351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'updateData(com.ehome.test.dbutils.DBUtilsTest)')","[204, 435]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByMapHandler(com.ehome.test.dbutils.DBUtilsTest)')","[78, 309]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ehome.test.dbutils.DBUtilsTest')","[36, 520]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByScalarHandler(com.ehome.test.dbutils.DBUtilsTest)')","[162, 393]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByBeanListHandler(com.ehome.test.dbutils.DBUtilsTest)')","[246, 477]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByArrayListHandler(com.ehome.test.dbutils.DBUtilsTest)')","[183, 414]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByBeanHandler(com.ehome.test.dbutils.DBUtilsTest)')","[141, 372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByArrayHandler(com.ehome.test.dbutils.DBUtilsTest)')","[57, 288]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'insertData(com.ehome.test.dbutils.DBUtilsTest)')","[225, 456]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getDataByMapListHandler(com.ehome.test.dbutils.DBUtilsTest)')","[99, 330]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'deleteData(com.ehome.test.dbutils.DBUtilsTest)')","[267, 498]"

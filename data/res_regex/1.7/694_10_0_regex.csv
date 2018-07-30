@@ -1,0 +1,47 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHeaderRegex(regexp.HeaderSplitTest)')","[362, 774]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtractSubjectFromTriple(regexp.NTripleTest)')","[137, 606]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.ViafFilterTest')","[156, 1137]"
+"('NTripleTest.java', 'regexp.NTripleTest', 'testExtractSubjectFromTriple', '^\\s*<([^>]+)>.*', '<http://worldcat.org/entity/work/id/100050217> <http://schema.org/pagination> ""10-16"" .')",[997]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.MultiUriTest')","[421, 1530]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testObvious(regexp.SimpleTest)')","[259, 690]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.HeaderSplitTest')","[341, 1478]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.PatternTest')","[381, 1504]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripHash(regexp.SimpleTest)')","[280, 711]"
+"('XmlTest.java', 'regexp.XmlTest', 'testGetTypeAttribute', '<Identity type=""(\\w+).*', '<Identity type=""personal""><creationtime>Thu Oct 16 17:49:20 2014 UTC</creationtime><pnkey>viaf-10000075</pnkey><audLevel><min><level>0.00</level><title>Kye moñ ki si ka čip /</title></min><avg><level>0.00</level></avg><max><level>0.00</level><title>Kye moñ ki si ka čip /</title></max></audLevel><authorityInfo><viafid>10000075</viafid><x400><rawName><suba>Hak-Kil Kim</suba></rawName></x400></authorityInfo><nameInfo type=""personal""><rawName><suba>Kim, Hak-Kil</suba></rawName><languages count=""1""><lang code=""kor"" count=""1""/></languages><dates><date byCount=""1"" byScaled=""0.00"" count=""1"" scaled=""0.00"">1990</date></dates><totalHoldings>1</totalHoldings><workCount>1</workCount><recordCount>1</recordCount><relators><relator code=""edt"" count=""1""><oclcnum count=""1"">ocn468815900</oclcnum></relator></relators></nameInfo><by><citation ident=""newwork468815900""><holdings>1</holdings><numEditions>1</numEditions><oclcnum>ocn468815900</oclcnum><recordType>book</recordType><languages count=""1""><lang code=""kor"" count=""1"" /></languages><date>1990</date><dates different=""1"" first=""1990"" last=""1990"" /><title>Kye moñ ki si ka čip</title></citation><oclcNums>ocn468815900</oclcNums></by></Identity>')",[927]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'delta')",[1272]
+"('NTripleTest.java', 'regexp.NTripleTest', 'testExtractSubjectFromTriple', '^\\s*<([^>]+)>.*', '<http://worldcat.org/entity/work/id/100050217> <http://schema.org/workExample> <http://www.worldcat.org/oclc/5145556792> .')",[1019]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.NTripleTest')","[116, 1067]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'theta')",[1316]
+"('ViafFilterTest.java', 'regexp.ViafFilterTest', 'testMatchViaf', '^VIAF:[0-9]+$', 'VIAF:12345')",[1089]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testChangeMiddle(regexp.SimpleTest)')","[301, 732]"
+"('GetSubjectTest.java', 'regexp.GetSubjectTest', 'testGetSubject', '^\\s*<([^>]+)>.*', '<http://experiment.worldcat.org/entity/work/data/246638439#Person/na_ss_a\x85shild> <http://schema.org/name> ""NÃ¦ss, Ã\x85shild."" .\n')",[1555]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.GetSubjectTest')","[482, 1581]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.XmlTest')","[76, 953]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReverseKey(regexp.ViafFilterTest)')","[177, 627]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'iota')",[1382]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetTypeAttribute(regexp.XmlTest)')","[97, 585]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDeUnicode(odds.OddballTest)')","[57, 564]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'odds.OddballTest')","[36, 905]"
+"('NTripleTest.java', 'regexp.NTripleTest', 'testExtractSubjectFromTriple', '^\\s*<([^>]+)>.*', '<http://worldcat.org/entity/work/id/100050217> <http://schema.org/datePublished> ""1999"" .')",[975]
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'eta')",[1338]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMatchViaf(regexp.ViafFilterTest)')","[219, 669]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'lambda')",[1426]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFindWordsOr(regexp.SimpleTest)')","[322, 753]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testObvious', '.*test of the.*', 'this is a test of the emergency broadcast system')","[1161, 1184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.SimpleTest')","[238, 1452]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'beta')",[1228]
+"('ViafFilterTest.java', 'regexp.ViafFilterTest', 'testMatchViaf', '^VIAF:[0-9]+$', 'FAST:12345')",[1111]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFindViaf(regexp.ViafFilterTest)')","[198, 648]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'alpha')",[1206]
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'epsilon')",[1294]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp.MultiSplitTest')","[522, 1603]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'gamma')",[1250]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFindMulti(regexp.MultiUriTest)')","[463, 837]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSplitMulti(regexp.MultiSplitTest)')","[543, 879]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetSubject(regexp.GetSubjectTest)')","[503, 858]"
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'kappa')",[1404]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReplacement(regexp.MultiUriTest)')","[442, 816]"
+"('NTripleTest.java', 'regexp.NTripleTest', 'testExtractSubjectFromTriple', '^\\s*<([^>]+)>.*', '""larry"" <http://schema.org/isPartOf> <http://worldcat.org/issn/1064-7449#7_1_2> .')",[1041]
+"('SimpleTest.java', 'regexp.SimpleTest', 'testFindWordsOr', 'ep.*|gamma', 'zeta')",[1360]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtractPattern(regexp.PatternTest)')","[402, 795]"

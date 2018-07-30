@@ -1,0 +1,25 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseAndFormatDoubledMetric(com.company.log2graphite.AccessMetricTest)')","[282, 658]"
+"('Reader.java', 'com.company.log2graphite.core.Reader', 'openStream', '^s3://.*', './src/test/resources/access.log.gz')","[852, 877]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parse1(com.company.log2graphite.ParserTest)')","[158, 553]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'integrityTest1(com.company.log2graphite.Log2GraphiteTest)')","[57, 490]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parse3(com.company.log2graphite.ParserTest)')","[200, 595]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNoRequiredField(com.company.log2graphite.AccessMetricParserTest)')","[469, 826]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parsePropertiesWithException3(com.company.log2graphite.AccessMetricParserTest)')","[427, 784]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parse2(com.company.log2graphite.ParserTest)')","[179, 574]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'multiplyMetrics(com.company.log2graphite.AccessMetricHashMapTest)')","[118, 532]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.company.log2graphite.AccessMetricTest')",[219]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.company.log2graphite.AccessMetricHashMapTest')",[97]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseAndFormat(com.company.log2graphite.AccessMetricTest)')","[303, 679]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'integrityTest2(com.company.log2graphite.Log2GraphiteTest)')","[78, 511]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse(com.company.log2graphite.AccessMetricParserTest)')","[448, 805]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Reader.java', 'com.company.log2graphite.core.Reader', 'openStream', '^.*gz$', './src/test/resources/access.log.gz')","[903, 928]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMetricParseLimitedMetrics1(com.company.log2graphite.AccessMetricParserTest)')","[343, 700]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseWithException2(com.company.log2graphite.AccessMetricTest)')","[261, 637]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseWithException1(com.company.log2graphite.AccessMetricTest)')","[240, 616]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.company.log2graphite.ParserTest')",[137]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMetricParseLimitedMetrics2(com.company.log2graphite.AccessMetricParserTest)')","[364, 721]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.company.log2graphite.AccessMetricParserTest')",[322]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parsePropertiesWithException2(com.company.log2graphite.AccessMetricParserTest)')","[406, 763]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.company.log2graphite.Log2GraphiteTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parsePropertiesWithException1(com.company.log2graphite.AccessMetricParserTest)')","[385, 742]"

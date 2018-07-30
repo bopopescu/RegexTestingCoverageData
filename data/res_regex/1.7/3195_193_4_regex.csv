@@ -1,0 +1,33 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q3195_193\\E', '3195_193')","[997, 1562, 2182, 2794, 3406, 4018, 4630, 5242]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'OpenSocialAPI$1.class')",[3814]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ServiceProviderAPI.class')",[5038]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nl.surfnet.mujina.controllers.tests.SpRestAPITest')",[36]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1150, 1718, 2335]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qnl\\E', 'nl')","[1201, 1770, 2386, 2998, 3610, 4222, 4834, 5446]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CommonAPI.class')",[5650]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[5790]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qmujina-sp\\E', 'mujina-sp')","[1048, 1614, 2233, 2845, 3457, 4069, 4681]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.0.*xsd.*', '')","[201, 240, 517, 556]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSSOUrlRedirect(nl.surfnet.mujina.controllers.tests.SpRestAPITest)')","[78, 99, 120, 161]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[5720]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nl.surfnet.mujina.controllers.tests.SpRestAPITest')","[5929, 5949, 5970, 5990]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'ISO10126PADDING')",[5908]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')",[5849]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcontrollers\\E', 'controllers')","[1354, 1926, 2539, 3151, 3763, 4375, 4987, 5599]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[844, 1406, 2029, 2641, 3253, 3865, 4477, 5089]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.0.*xsd.*', 'http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.0.xsd')","[438, 477, 754, 793]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[895, 1458, 2080, 2692, 3304, 3916, 4528, 5140]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[2947, 3559, 4171, 4783, 5395]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'OpenSocialAPI.class')",[3202]
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security.*', '')","[359, 398, 675, 714]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security\\.xsd.*', '')","[280, 319, 596, 635]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SpRestAPITest.class')",[1978]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qmujina-common\\E', 'mujina-common')",[5293]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'tests')",[2590]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1099, 1666, 2284, 2896, 3508, 4120, 4732, 5344]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[946, 1510, 2131, 2743, 3355, 3967, 4579, 5191]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qsurfnet\\E', 'surfnet')","[1252, 1822, 2437, 3049, 3661, 4273, 4885, 5497]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSSOUrlRedirect(nl.surfnet.mujina.controllers.tests.SpRestAPITest)')","[57, 141]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ApiSettings.class')",[4426]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qmujina\\E', 'mujina')","[1303, 1874, 2488, 3100, 3712, 4324, 4936, 5548]"

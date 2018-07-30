@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'findAnnotationMultipleActionNameGiven(org.apache.struts2.tiles.StrutsTilesAnnotationProcessorTest)')","[99, 228]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'findAnnotationMultipleActionNotFound(org.apache.struts2.tiles.StrutsTilesAnnotationProcessorTest)')","[57, 184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'findAnnotationMultipleActionNameNull(org.apache.struts2.tiles.StrutsTilesAnnotationProcessorTest)')","[78, 206]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'findAnnotationSingleAction(org.apache.struts2.tiles.StrutsTilesAnnotationProcessorTest)')","[141, 272]"
+"('Expression.java', 'org.apache.tiles.Expression', 'createExpressionFromDescribedExpression', '[a-zA-Z0-9]+:.+', 'list-attr-expr')","[428, 455]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Expression.java', 'org.apache.tiles.Expression', 'createExpressionFromDescribedExpression', '[a-zA-Z0-9]+:.+', 'templ*')","[321, 347]"
+"('Expression.java', 'org.apache.tiles.Expression', 'createExpressionFromDescribedExpression', '[a-zA-Z0-9]+:.+', 'lang:expr')","[374, 400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'buildDefiniton(org.apache.struts2.tiles.StrutsTilesAnnotationProcessorTest)')","[162, 294]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.tiles.StrutsTilesAnnotationProcessorTest')","[36, 478]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'buildDefinitonAllEmpty(org.apache.struts2.tiles.StrutsTilesAnnotationProcessorTest)')","[120, 250]"

@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetFields(com.mitchz.apps.meimei.parser.Page.MeiMeiPageTest)')","[78, 162]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.mitchz.apps.meimei.parser.processor.MeimeiProcessorTest')","[97, 263]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetCrawlFile(com.mitchz.apps.meimei.parser.Page.MeiMeiPageTest)')","[57, 140]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testProcess(com.mitchz.apps.meimei.parser.processor.MeimeiProcessorTest)')","[118, 184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.mitchz.apps.meimei.parser.Page.MeiMeiPageTest')","[36, 211]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('HtmlProcessor.java', 'com.mitchz.apps.meimei.common.parser.processor.HtmlProcessor$1', 'accept', '^[a-zA-Z0-9\\$_]*?[^-\\d]?\\.{1}html{1}$', 'MeimeiProcessorTest.class')",[240]

@@ -1,0 +1,18 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'chinese(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[141, 335]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'spanish1(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[204, 401]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangTest')","[36, 622]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'mixed(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[120, 313]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'spanish2(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[225, 423]"
+"('OmnilangLexer.java', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangLexer$OmniLexerToken', 'split', '[\\p{Z}\\s]+', 'They do like\nJames.')",[574]
+"('OmnilangLexer.java', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangLexer$OmniLexerToken', 'split', '[\\p{Z}\\s]+', 'first sentence !!... second sentence')",[498]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'newline(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[183, 379]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'twoSentences(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[162, 357]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'abbr1(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[99, 291]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'whitespaces1(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[78, 269]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'brackets1(org.daisy.pipeline.nlp.lexing.omni.OmnilangTest)')","[57, 247]"
+"('OmnilangLexer.java', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangLexer$OmniLexerToken', 'split', '[\\p{Z}\\s]+', 'J.J.R. Tolkien')",[473]
+"('OmnilangLexer.java', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangLexer$OmniLexerToken', 'split', '[\\p{Z}\\s]+', '我喜欢中国。我喜欢英语了。')",[523]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('OmnilangLexer.java', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangLexer$OmniLexerToken', 'split', '[\\p{Z}\\s]+', 'first sentence. ¿Second sentence?')",[599]
+"('OmnilangLexer.java', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangLexer$OmniLexerToken', 'split', '[\\p{Z}\\s]+', 'Bracket example (this is not a sentence!), after.')",[448]
+"('OmnilangLexer.java', 'org.daisy.pipeline.nlp.lexing.omni.OmnilangLexer$OmniLexerToken', 'split', '[\\p{Z}\\s]+', 'first sentence! Second sentence')",[548]

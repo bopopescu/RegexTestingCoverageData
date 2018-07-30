@@ -1,0 +1,45 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testScore(dk.statsbiblioteket.percipio.BrainTest)')",[416]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetSize(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[83]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{3}', '001')","[502, 849]"
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '999044.html')","[750, 1097]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConcat(org.opf_labs.fmts.fidget.TikaResourceHelperTest)')",[250]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLearn(dk.statsbiblioteket.percipio.BrainTest)')",[478]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.opf_labs.fmts.fidget.OldTikaSigTesterTest')","[1629, 1649, 1670, 1690]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.opf_labs.fmts.fidget.mimeinfo.MimeInfoUtilsTest')","[1456, 1479, 1503, 1526]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPercipioParser(org.opf_labs.fmts.fidget.mimeinfo.MimeInfoUtilsTest)')",[354]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{3}', '999')","[550, 897]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.opf_labs.fmts.corpora.govdocs.GovDocsTest')","[1268, 1291, 1315, 1338]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRelearn(dk.statsbiblioteket.percipio.BrainTest)')",[457]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '062576.html')","[650, 997]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetCoreUrl(org.opf_labs.fmts.fidget.TikaResourceHelperTest)')",[208]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '000002.a')","[575, 922]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStreamsFromFiles(org.opf_labs.fmts.fidget.TikaResourceHelperTest)')",[292]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '999999.pdf')","[825, 1172]"
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '062669.gif')","[675, 1022]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStreamsFromUrls(org.opf_labs.fmts.fidget.TikaResourceHelperTest)')",[313]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'dk.statsbiblioteket.percipio.BrainTest')","[1547, 1567, 1588, 1608]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCount(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[146]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCoreUrl(org.opf_labs.fmts.fidget.TikaResourceHelperTest)')",[188]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCountZip(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[167]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '000001.txt')","[625, 972]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetNullDir(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTikaSigTesterFileBoolean(org.opf_labs.fmts.fidget.OldTikaSigTesterTest)')",[375]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCountDir(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[62]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '062554.kml')","[700, 1047]"
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '\\d{3}\\.zip', '062.zip')",[1220]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPercipioParser(org.opf_labs.fmts.fidget.mimeinfo.MimeInfoUtilsTest)')",[334]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '999028.csv')","[800, 1147]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCustomUrls(org.opf_labs.fmts.fidget.TikaResourceHelperTest)')",[229]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '000003.longextension')","[600, 947]"
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '999997.html')","[775, 1122]"
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{6}\\.?.*', '062099.pdf')","[725, 1072]"
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '^\\d{3}', '062')","[526, 873]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetNotDir(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[125]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsZip(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[104]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetNullDir(org.opf_labs.fmts.corpora.govdocs.GovDocsTest)')",[21]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTikaSigTesterFileBoolean(org.opf_labs.fmts.fidget.OldTikaSigTesterTest)')",[395]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '\\d{3}\\.zip', '999.zip')",[1196]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testScore(dk.statsbiblioteket.percipio.BrainTest)')",[436]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetVanillaUrls(org.opf_labs.fmts.fidget.TikaResourceHelperTest)')",[271]
+"('RegexFileFilter.java', 'org.apache.commons.io.filefilter.RegexFileFilter', 'accept', '\\d{3}\\.zip', '001.zip')",[1244]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.opf_labs.fmts.fidget.TikaResourceHelperTest')","[1362, 1385, 1409, 1432]"

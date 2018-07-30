@@ -1,0 +1,47 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListSupportedTypes(org.apache.tika.cli.TikaCLITest)')","[267, 582]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=val')","[995, 1996]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTextOutput(org.apache.tika.cli.TikaCLITest)')","[351, 666]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-tika-msoffice-embedded;format=comp_obj')","[1653, 2682]"
+"('MimeTypes.java', 'org.apache.tika.mime.MimeTypes', 'getMimeType', '^rdf$', 'alice.cli.test')","[2945, 2978, 3079, 3112, 3543, 3575, 3673, 3705, 3806, 3839, 3940, 3973, 4113, 4146, 4247, 4280, 4420, 4453, 4554, 4587, 4727, 4760, 4861, 4894, 5034, 5067, 5168, 5201, 5341, 5374, 5475, 5508]"
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/$', 'subdir/foo.txt')",[3407]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-itanium')","[1324, 2339]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-Gnumeric-spreadsheet')","[1042, 2045]"
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/.*\\.app/_CodeSignature/$', 'subdir/foo.txt')",[3279]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.apache.tika.cli.TikaCLITest')","[36, 5569]"
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/.*\\.app/ResourceRules\\.plist$', 'subdir/foo.txt')",[3375]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe64')","[1230, 2241]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=topic')","[760, 948, 1751, 1947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDetectOutput(org.apache.tika.cli.TikaCLITest)')","[204, 519]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHTMLOutput(org.apache.tika.cli.TikaCLITest)')","[330, 645]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testJsonMetadataOutput(org.apache.tika.cli.TikaCLITest)')","[162, 477]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateProfile(org.apache.tika.cli.TikaCLITest)')","[246, 561]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testXMLOutput(org.apache.tika.cli.TikaCLITest)')","[309, 624]"
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/.*\\.app/$', 'subdir/foo.txt')",[3183]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListParsers(org.apache.tika.cli.TikaCLITest)')","[141, 456]"
+"('CharsetUtils.java', 'org.apache.tika.utils.CharsetUtils', 'forName', '[ \\""]*([^ >,;\\""]+).*', 'UTF-8')","[3151, 4012, 4319, 4626, 4933, 5240, 5547]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'audio/ogg; codecs=opus')",[2804]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-arm7')","[1512, 2535]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMetadataOutput(org.apache.tika.cli.TikaCLITest)')","[288, 603]"
+"('MimeTypes.java', 'org.apache.tika.mime.MimeTypes', 'getMimeType', '^owl$', 'alice.cli.test')","[2878, 2911, 3012, 3045, 3478, 3510, 3608, 3640, 3739, 3772, 3873, 3906, 4046, 4079, 4180, 4213, 4353, 4386, 4487, 4520, 4660, 4693, 4794, 4827, 4967, 5000, 5101, 5134, 5274, 5307, 5408, 5441]"
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/.*\\.app/_CodeSignature/CodeResources$', 'subdir/foo.txt')",[3311]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultiValuedMetadata(org.apache.tika.cli.TikaCLITest)')","[183, 498]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testZipWithSubdirs(org.apache.tika.cli.TikaCLITest)')","[120, 435]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe32')","[1136, 2143]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'audio/ogg; codecs=speex')",[2844]
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/.*\\.app/Info\\.plist$', 'subdir/foo.txt')",[3215]
+"('CharsetUtils.java', 'org.apache.tika.utils.CharsetUtils', 'forName', '[ \\""]*([^ >,;\\""]+).*', 'ISO-8859-1')",[3445]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=concept')","[901, 1898]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe')","[1089, 1183, 1277, 1371, 1465, 1559, 2094, 2192, 2290, 2388, 2486, 2584]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?is)\\s*(charset\\s*=\\s*[^\\c;\\s]+)\\s*;\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*', 'application/application/x-java-pack200')",[2764]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/application/x-java-pack200')",[2723]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=task')","[807, 854, 1800, 1849]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-tika-msoffice-embedded;format=ole10_native')","[1606, 2633]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListMetModels(org.apache.tika.cli.TikaCLITest)')","[225, 540]"
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/.*\\.app/CodeResources$', 'subdir/foo.txt')",[3343]
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/x-msdownload;format=pe-armLE')","[1418, 2437]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLanguageOutput(org.apache.tika.cli.TikaCLITest)')","[99, 414]"
+"('ZipContainerDetector.java', 'org.apache.tika.parser.pkg.ZipContainerDetector', 'detectIpa', '^Payload/.*\\.app/PkgInfo$', 'subdir/foo.txt')",[3247]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtract(org.apache.tika.cli.TikaCLITest)')","[78, 393]"
+"('MediaType.java', 'org.apache.tika.mime.MediaType', 'parse', '(?s)\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*/\\s*([^\\c\\(\\)<>@,;:\\\\""/\\[\\]\\?=\\s]+)\\s*($|;.*)', 'application/dita+xml;format=map')","[713, 1702]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListParserDetail(org.apache.tika.cli.TikaCLITest)')","[57, 372]"

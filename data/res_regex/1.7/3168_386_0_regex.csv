@@ -1,0 +1,196 @@
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'iiric')",[3666]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesGroup1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1116, 1136, 1156]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEscape2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[716, 736, 756]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', '')",[3252]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesMixed2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[236, 256, 276]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id dq d', 'iddqd')",[7346]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcl?i?p', 'ip')",[4494]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'iddqd')","[6840, 6886]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesStarAndPlus2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[56, 2297]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[id]a', 'da')",[6472]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'idclipclipclip')",[6242]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idsp*is*popd', '')",[5322]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesWithPlusOperator2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1436, 1456, 1476]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesMaybe2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[376, 2401]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'rc')",[3942]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcl?i?p', 'idcp')",[4310]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'iirc')",[3758]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesStarAndPlus2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[76, 96, 116, 2317]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idclip|idkfa|idspispopd', 'idclip')",[8680]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'iic')",[3804]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', 'asb')",[8220]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'idspispopd')",[6334]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesParentheses1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[876, 896, 916]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idclip|idkfa|idspispopd', '')",[8910]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id dq d', 'id dq d')",[7300]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '')",[8404]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa', 'idchoppers')",[4724]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'iddqd', 'idkfa')",[6702]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEscape4(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1756, 1776, 1796]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', 'dirlandaa')",[8312]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id+spis*popd', 'idspisidspispopd')",[9048]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id+spis*popd', 'ididspisspispopd')",[8956]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'a(fa?)*ik', 'afafaik')",[3344]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesUnion1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[2056, 2842]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id(spis)+popd', 'idspisspispopd')",[5506]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idc(l+i)*p', 'idclip')",[5644]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesUnion2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[2156, 2176, 2196]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idc(l+i)*p', 'idcilip')",[5736]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idclip|idkfa|idspispopd', 'idspispopd')",[8772]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idbehold*a', 'a')",[4908]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa|iddqd', 'iddqd')",[8496]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[id]a', 'ia')",[6426]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesSimpleEqualityCorrectly2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1196, 1216, 1236]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'idfa')",[7024]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idbehold*a', 'idbeholdddda')",[4862]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEscape4(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1736, 2758]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk?fa', 'idfa')",[4034]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesSimpleEqualityCorrectly3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1336, 2653]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTildeEscapedAutomatically(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1816, 2779]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', 'cybererdemerdemon')",[3206]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'idkidkfa')",[7162]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'iriririi')",[3850]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa', 'idfa')",[4678]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesWithPlusOperator1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1256, 2632]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id+spis*popd', 'spispopd')",[9002]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id+spis*popd', 'idddspisssspopd')",[9094]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', '')",[3988]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'clipclipclip')",[6104]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa', 'idkfa')",[4586]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idc(l+i)*p', '')",[5920]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '0123456789')",[8358]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcl?i?p', 'idl')",[4402]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcl?i?p', 'idc')",[4356]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[aeiouyäö][bcdfghjklmnpqrstvwxyz]', 'aw')",[7714]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'a(fa?)*ik', 'afffaffaik')",[3390]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa', 'iddqd')",[4632]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id(spis)+popd', 'idpopd')",[5552]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesWithPlusOperator2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1416, 2674]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesMaybe1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[296, 2380]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesGroup2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1496, 2695]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'clip')",[6058]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'idclip')",[6196]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesSimpleEqualityCorrectly1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[476, 496, 516]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPeriod2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1996, 2016, 2036]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[id]a', 'a')",[6564]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idbehold*a', 'idbeholda')",[5000]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesParentheses2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[936, 2548]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idc(l+i)*p', 'idciiiiip')",[5782]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesGroup1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1096, 2590]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesParentheses2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[956, 976, 996]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'dqd')",[5966]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '-1')",[8128]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcl?i?p', '')",[4540]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'irrr')",[3896]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'fa')",[7208]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesSimpleEqualityCorrectly1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[456, 2422]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'iddqd', 'idspispopd')",[6748]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcl?i?p', 'idcclp')",[4448]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'dqddqddqd')",[6012]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEscape3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1656, 2737]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk?fa', 'fa')",[4172]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', 'cybberdemmmooon')",[3068]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesMaybe1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[316, 336, 356]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[id]a', 'ida')",[6518]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesSimpleEqualityCorrectly2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1176, 2611]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '-512')",[7990]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEscape1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[776, 2506]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', 'cyerdeon')",[2930]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'iririric')",[3712]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesGroup3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1596, 1616, 1636]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[aeiouyäö][bcdfghjklmnpqrstvwxyz]', 'es')",[7760]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesUnion1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[2076, 2096, 2116]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesParentheses3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1016, 2569]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesMixed2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[216, 2359]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[aeiouyäö][bcdfghjklmnpqrstvwxyz]', 'b')",[7898]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'ic')",[3574]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id(spis)+popd', 'idspissspopd')",[5460]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesWithPlusOperator1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1276, 1296, 1316]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idbehold*a', 'dddddda')",[4954]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'a(fa?)*ik', '')",[3528]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id(spis)+popd', '')",[5598]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'iddqddqd')",[6288]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk?fa', '')",[4218]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesMixed1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[136, 2338]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcl?i?p', 'idclip')",[4264]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesStarOperation1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[536, 2443]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk?fa', 'idkkfa')",[4126]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPeriod2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1976, 2821]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcho+ppe+rs', 'idchoppers')",[7438]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'a(fa?)*ik', 'afaik')",[3298]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '-0')",[8266]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesUnion2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[2136, 2863]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcho+ppe+rs', 'idcpprs')",[7530]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'i(ir*c)+', 'i')",[3620]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id+spis*popd', 'idspipopd')",[9140]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', 'cybcyberdemon')",[2976]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesParentheses1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[856, 2527]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesStarOperation1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[556, 576, 596]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idc(l+i)*p', 'idcllllllillllp')",[5828]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesParentheses3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1036, 1056, 1076]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idsp*is*popd', 'idspppipopd')",[5184]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa|iddqd', 'idkfa')",[8450]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', '')",[6380]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idsp*is*popd', 'idspppppisssspopd')",[5092]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'dfka')",[7116]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '0')",[8174]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idsp*is*popd', 'popd')",[5276]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk?fa', 'idkfa')",[4080]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[aeiouyäö][bcdfghjklmnpqrstvwxyz]', 'äx')",[7806]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcho+ppe+rs', 'idchoooppeeeeeers')",[7484]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa', '')",[4770]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[aeiouyäö][bcdfghjklmnpqrstvwxyz]', 'aebc')",[7852]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id(spis)+popd', 'idspispopd')",[5368]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idbehold*a', '')",[5046]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesStarOperation2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[616, 2464]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcho+ppe+rs', '')",[7668]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'iddqd', 'iddqd')",[6656]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'idkfa')",[6932]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa|iddqd', 'iddfa')",[8588]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesSimpleEqualityCorrectly3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1356, 1376, 1396]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id(spis)+popd', 'id(spis)popd')",[5414]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', '')",[7254]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idbehold*a', 'idbehola')",[4816]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idclip|idkfa|idspispopd', 'idclipidkfaidspispopd')",[8864]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesMaybe2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[396, 416, 436]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'idkkkfa')",[6978]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '42')",[8036]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[aeiouyäö][bcdfghjklmnpqrstvwxyz]', '')",[7944]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesStarAndPlus1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[2216, 2884]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idc(l+i)*p', 'idclllip')",[5874]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesMixed1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[156, 176, 196]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa|iddqd', '')",[8634]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTildeEscapedAutomatically(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1836, 1856, 1876]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', 'cyerdemon')",[3114]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', 'cyberdemon')",[3160]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idclip|idkfa|idspispopd', 'idkfa')",[8726]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'a(fa?)*ik', 'aik')",[3436]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcho+ppe+rs', 'idkfa')",[7622]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id+spis*popd', '')",[9232]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'iddqd', '')",[6794]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEscape2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[696, 2485]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id*(dqd|clip)+', 'iddqd')",[6150]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '[id]a', '')",[6610]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest')","[9253, 9273, 9294, 9314]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPeriod1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1896, 2800]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idclip|idkfa|idspispopd', 'idcla')",[8818]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id dq d', '')",[7392]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatchesGroup3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1576, 2716]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'id+spis*popd', 'ispipopd')",[9186]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesStarAndPlus1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[2236, 2256, 2276]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEscape1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[796, 816, 836]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idsp*is*popd', 'isspopd')",[5230]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idkfa|iddqd', 'idkfa|iddqd')",[8542]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', '(-?[123456789][0123456789]*|0)', '7')",[8082]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesGroup2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1516, 1536, 1556]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'a(fa?)*ik', 'afik')",[3482]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idsp*is*popd', 'idsiopd')",[5138]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idc(l+i)*p', 'idcp')",[5690]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEscape3(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1676, 1696, 1716]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idcho+ppe+rs', 'idchoidchoidchoppeppeppers')",[7576]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatchesStarOperation2(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[636, 656, 676]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPeriod1(fi.helsinki.cs.kviiri.pattern.MyPatternTest)')","[1916, 1936, 1956]"
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'cyb*erdem*o+n', 'cybbbberden')",[3022]
+"('MyPatternTest.java', 'fi.helsinki.cs.kviiri.pattern.MyPatternTest', 'matchesCorrectly', 'idk+fa', 'idkfq')",[7070]

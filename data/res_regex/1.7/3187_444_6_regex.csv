@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeserialization(com.fasterxml.clustermate.json.TestBasicTypes)')","[135, 223]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.fasterxml.clustermate.json.TestObjectMapper')","[36, 274]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.fasterxml.clustermate.json.TestBasicTypes')","[95, 297]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSerialization(com.fasterxml.clustermate.json.TestBasicTypes)')","[115, 201]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNodeState(com.fasterxml.clustermate.json.TestObjectMapper)')","[56, 157]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClusterStatusResponse(com.fasterxml.clustermate.json.TestObjectMapper)')","[76, 179]"

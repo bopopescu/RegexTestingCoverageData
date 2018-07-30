@@ -1,0 +1,7 @@
+"('AzureLocationResolver.java', 'brooklyn.location.azure.AzureLocationResolver', 'newLocationFromString', '(azure)(?::(.*))?$', 'azure:myregion')","[790, 836, 882, 928, 971]"
+"('JcloudsVersion.java', 'org.jclouds.JcloudsVersion', '<init>', '(\\d+)\\.(\\d+)\\.(\\d+)(?:-(alpha|beta|rc)\\.(\\d+)|-SNAPSHOT)?', '1.8.0')",[701]
+"('XmlMethodSelector.java', 'org.testng.internal.XmlMethodSelector', 'isMemberOf', 'Acceptance', 'Live')","[113, 150, 332, 367, 536, 568]"
+"('XmlMethodSelector.java', 'org.testng.internal.XmlMethodSelector', 'isMemberOf', 'Integration', 'Live')","[38, 75, 261, 296, 471, 503]"
+"('XmlMethodSelector.java', 'org.testng.internal.XmlMethodSelector', 'isMemberOf', 'Live', 'Live')","[188, 225, 403, 438, 601, 633]"
+"('AbstractLocationResolver.java', 'brooklyn.location.basic.AbstractLocationResolver$SpecParser', 'parse', '(single|SINGLE)(:)?(\\((.*)\\))?$', 'single')",[1016]
+"('AzureLocationResolver.java', 'brooklyn.location.azure.AzureLocationResolver', 'newLocationFromString', '(azure)(?::(.*))?$', 'azure')",[744]

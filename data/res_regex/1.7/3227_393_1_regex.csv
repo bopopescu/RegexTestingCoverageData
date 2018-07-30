@@ -1,0 +1,42 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.gatein.management.api.PathTemplateFilterTest')","[263, 1573]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterExclusion(org.gatein.management.api.PathTemplateFilterTest)')","[473, 1017]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSubAddress(org.gatein.management.api.PathAddressTest)')","[120, 687]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo:!foo-bar,foobar')",[1458]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddressCopy(org.gatein.management.api.PathAddressTest)')","[57, 621]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.gatein.management.api.PathAddressTest')","[36, 1176]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterNoMatch(org.gatein.management.api.PathTemplateFilterTest)')","[410, 951]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAllowEmptyListOnParse(org.gatein.management.api.PathTemplateFilterTest)')","[389, 929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNoTemplateWithExclusion(org.gatein.management.api.PathTemplateFilterTest)')","[599, 1149]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'bar:foo')",[1249]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCurrentAddress(org.gatein.management.api.PathAddressIteratorTest)')","[223, 775]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo : !foo-bar, foobar')",[1504]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPathAddressEquals(org.gatein.management.api.PathAddressTest)')","[78, 643]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilter(org.gatein.management.api.PathTemplateFilterTest)')","[536, 1083]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'bar:!foo')",[1295]
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo:bar,foobar')",[1527]
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'no-path-template')",[1366]
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo-bar:foobar')",[1318]
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'template:!first,!second')",[1342]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.gatein.management.api.PathAddressIteratorTest')","[160, 1203]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterWildcard(org.gatein.management.api.PathTemplateFilterTest)')","[578, 1127]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterMultiple(org.gatein.management.api.PathTemplateFilterTest)')","[431, 973]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo:foo-bar,foobar')",[1412]
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo : foo-bar')",[1481]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterMultipleNoMatch(org.gatein.management.api.PathTemplateFilterTest)')","[452, 995]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterMultipleExclusion(org.gatein.management.api.PathTemplateFilterTest)')","[284, 819]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmptyPathIterator(org.gatein.management.api.PathAddressIteratorTest)')","[202, 753]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterExclusionPriority(org.gatein.management.api.PathTemplateFilterTest)')","[515, 1061]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo:!bar')",[1435]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPathIterator(org.gatein.management.api.PathAddressIteratorTest)')","[244, 797]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParser(org.gatein.management.api.PathTemplateFilterTest)')","[557, 1105]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPathAddressString(org.gatein.management.api.PathAddressTest)')","[99, 665]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAllowNullsOnParse(org.gatein.management.api.PathTemplateFilterTest)')","[347, 885]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'foo:bar')","[1226, 1272, 1389]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPathAddressSlashes(org.gatein.management.api.PathAddressTest)')","[141, 709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultipleExclusions(org.gatein.management.api.PathTemplateFilterTest)')","[368, 907]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNoPathTemplateOnParse(org.gatein.management.api.PathTemplateFilterTest)')","[494, 1039]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParserWithSemicolon(org.gatein.management.api.PathTemplateFilterTest)')","[305, 841]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterNoTemplate(org.gatein.management.api.PathTemplateFilterTest)')","[326, 863]"
+"('PathTemplateFilter.java', 'org.gatein.management.api.PathTemplateFilter', 'parse', '\\s*([\\w\\.-]*)\\s*:\\s*(!)?([^!]*)', 'bar:!foo,barfoo')",[1550]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOriginalAddress(org.gatein.management.api.PathAddressIteratorTest)')","[181, 731]"

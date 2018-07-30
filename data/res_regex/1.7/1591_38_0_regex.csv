@@ -1,0 +1,47 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.MessagePackTest')","[529, 1979]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.HeaderTest')","[36, 1229]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.NumberingUtilTest')","[685, 2179]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.BcdTest')","[198, 1353]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.StringUtilsTest')","[412, 1829]"
+"('StringUtils.java', 'jp.sourceforge.reflex.util.StringUtils', 'isAlphanumeric', '^[0-9a-zA-Z]*$', 'ABC.123')",[1595]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.ZipUtilTest')","[763, 2273]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.NumberingUtilTest)')","[705, 1161]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHash(jp.sourceforge.reflex.HashTest)')","[179, 888]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddQueryParam(jp.sourceforge.reflex.HeaderTest)')","[78, 825]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.StringUtilsTest)')","[432, 1014]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.VariousTypesTest)')","[744, 1182]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.HashTest')","[158, 1327]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.MessagePackMapperTest')","[373, 1503]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.ConsistentHashTest)')","[588, 1098]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.FieldMapperCloneTest)')","[354, 972]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.FieldMapperCloneTest')","[334, 1453]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHex(jp.sourceforge.reflex.BinaryTest)')","[259, 930]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.MessagePackTest)')","[549, 1077]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.XMLJSONSerializeTest)')","[471, 1035]"
+"('StringUtils.java', 'jp.sourceforge.reflex.util.StringUtils', 'isAlphanumeric', '^[0-9a-zA-Z]*$', 'ABC123')",[1549]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.ConsistentHashTest')","[568, 2029]"
+"('DateUtil.java', 'jp.sourceforge.reflex.util.DateUtil', 'isRange', '([0-1][0-9]|[2][0-3]):[0-5][0-9]', '19:30')",[1252]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.JSONArrayTest')","[490, 1929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.DateUtilTest)')","[139, 867]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBcd(jp.sourceforge.reflex.BcdTest)')","[219, 909]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.LTSVUtilTest')","[646, 2129]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.SerializeDeserializeTest)')","[315, 951]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRemoveQueryParam(jp.sourceforge.reflex.HeaderTest)')","[57, 804]"
+"('StringUtils.java', 'jp.sourceforge.reflex.util.StringUtils', 'isAlphanumeric', '^[0-9a-zA-Z]*$', 'あいう')",[1641]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCookieDate(jp.sourceforge.reflex.HeaderTest)')","[99, 846]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.LTSVUtilTest)')","[666, 1140]"
+"('StringUtils.java', 'jp.sourceforge.reflex.util.StringUtils', 'isAlphanumeric', '^[0-9a-zA-Z]*$', '.')",[1779]
+"('StringUtils.java', 'jp.sourceforge.reflex.util.StringUtils', 'isAlphanumeric', '^[0-9a-zA-Z]*$', 'ABC-123')",[1733]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.SerializeDeserializeTest')","[295, 1403]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.DateUtilTest')","[118, 1301]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.WebXmlReadTest')","[607, 2079]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.BinaryTest')","[238, 2251]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.VariousTypesTest')","[724, 2229]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'jp.sourceforge.reflex.XMLJSONSerializeTest')","[451, 1879]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.MessagePackMapperTest)')","[393, 993]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.ZipUtilTest)')","[783, 1203]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 276]"
+"('DateUtil.java', 'jp.sourceforge.reflex.util.DateUtil', 'isRange', '([0-1][0-9]|[2][0-3]):[0-5][0-9]', '19:40')",[1275]
+"('StringUtils.java', 'jp.sourceforge.reflex.util.StringUtils', 'isAlphanumeric', '^[0-9a-zA-Z]*$', 'z')",[1687]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.WebXmlReadTest)')","[627, 1119]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(jp.sourceforge.reflex.JSONArrayTest)')","[510, 1056]"

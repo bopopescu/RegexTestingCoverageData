@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.farata.lang.invoke.core.WeakReferenceMemoizationTest')","[76, 608]"
+"('ReflectiveMultimethodsCollector.java', 'com.farata.lang.invoke.util.ReflectiveMultimethodsCollector', '_collect', 'visit', 'visit')","[308, 332, 356, 380, 404, 429, 454, 479, 505, 530, 556]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInterfaces(com.farata.lang.invoke.core.InheritanceDistanceTest)')","[179, 284]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testArrays(com.farata.lang.invoke.core.InheritanceDistanceTest)')","[158, 263]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testComplexInheritance(com.farata.lang.invoke.core.ReflectiveMultimethodsCollectorTest)')","[57, 200]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.farata.lang.invoke.core.ReflectiveMultimethodsCollectorTest')","[36, 582]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.farata.lang.invoke.core.InheritanceDistanceTest')","[116, 630]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPrimitives(com.farata.lang.invoke.core.InheritanceDistanceTest)')","[137, 242]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConcurrentAccess(com.farata.lang.invoke.core.WeakReferenceMemoizationTest)')","[97, 221]"

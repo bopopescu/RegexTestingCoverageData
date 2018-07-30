@@ -1,0 +1,12 @@
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^.*$', '')",[372]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^(?=.*\\d)(?=.*[a-z]).{8,255}', 'nopas01')",[306]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^(?=.*\\d)(?=.*[a-z]).{8,255}', 'thisisnotapassword')",[204]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '', 'DoNotMatchThisString')","[339, 438]"
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]{0,4}[a-z0-9])?"", 'gurumaiagmail.com')",[68]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]{0,4}[a-z0-9])?"", 'gurumaia@gmail.com')",[136]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^(?=.*\\d)(?=.*[a-z]).{8,255}', 'ThisIsAPassword0!')",[272]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^\\d.*$', 'DoNotMatchThisString')",[405]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^.*$', 'MatchThisString')",[504]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^.+$', '')",[471]
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', '^(?=.*\\d)(?=.*[a-z]).{8,255}', '')","[170, 238]"
+"('Validator.java', 'com.partyplanner.util.Validator', 'validateStringWithRegex', ""[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]{0,4}[a-z0-9])?"", '')","[34, 102]"

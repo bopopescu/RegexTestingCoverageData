@@ -1,0 +1,39 @@
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy3', 'untrusted-proxy')",[2366]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy2', '140.211.11.130')","[312, 728, 962, 1404]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'another-internal-proxy', 'proxy1')",[1248]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy2', 'proxy2')","[130, 546, 1170, 2236]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '127\\.0\\.0\\.1', '140.211.11.130')",[1300]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.10', '140.211.11.130')","[234, 650, 884]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.10', 'proxy2')","[52, 468, 2158]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy2', 'untrusted-proxy')",[2340]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.10', 'not-allowed-internal-proxy')",[2080]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.10', 'untrusted-proxy')",[2262]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.11', 'proxy1')","[182, 598]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\..*', '192.168.0.10')",[1040]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy1', '140.211.11.130')","[286, 702, 936, 1378]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.10', '192.168.0.11')","[390, 806]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'another-internal-proxy', 'proxy2')",[1118]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '127\\.0\\.0\\.1', '192.168.0.10')",[1014]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '169\\.254\\.\\d{1,3}\\.\\d{1,3}', '140.211.11.130')","[1560, 1716, 1872, 2028]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\..*', 'proxy1')",[1222]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\..*', '140.211.11.130')",[1326]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.10', 'proxy1')","[156, 572]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.\\d{1,3}\\.\\d{1,3}', '192.168.0.10')","[1482, 1638, 1794, 1950]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.11', 'untrusted-proxy')",[2288]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.11', 'proxy2')","[78, 494, 2184]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy3', '140.211.11.130')","[338, 754, 988, 1430]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy1', 'untrusted-proxy')",[2314]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy1', 'proxy2')","[104, 520, 1144, 2210]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.11', '192.168.0.11')","[416, 832]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'another-internal-proxy', '140.211.11.130')",[1352]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\..*', 'proxy2')",[1092]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '127\\.0\\.0\\.1', 'proxy1')",[1196]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', 'proxy1', 'proxy1')","[208, 624, 1274]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.\\d{1,3}\\.\\d{1,3}', '140.211.11.130')","[1534, 1690, 1846, 2002]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '10\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}', '140.211.11.130')","[1508, 1664, 1820, 1976]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '127\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}', '140.211.11.130')","[1586, 1742, 1898, 2054]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '10\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}', '192.168.0.10')","[1456, 1612, 1768, 1924]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.10', '192.168.0.10')","[26, 364, 442, 780, 858, 2132, 2392]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.11', '140.211.11.130')","[260, 676, 910]"
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '127\\.0\\.0\\.1', 'proxy2')",[1066]
+"('RemoteIpValve.java', 'org.apache.catalina.valves.RemoteIpValve', 'matchesOne', '192\\.168\\.0\\.11', 'not-allowed-internal-proxy')",[2106]

@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('PlatformDependent.java', 'io.netty.util.internal.PlatformDependent', 'isRoot0', '^(?:0|[1-9][0-9]*)$', '1000')",[307]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCommandNullPointerException(it.jnrpe.test.JnrpeParamTest)')","[78, 185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testThrowRuntimeException(it.jnrpe.test.JnrpeParamTest)')","[141, 251]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCommandReturnNull(it.jnrpe.test.JnrpeParamTest)')","[57, 163]"
+"('SystemPropertyUtil.java', 'io.netty.util.internal.SystemPropertyUtil', 'getInt', '-?[0-9]+', '64')",[364]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadCommand(it.jnrpe.test.JnrpeParamTest)')","[120, 229]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'it.jnrpe.test.JnrpeParamTest')","[36, 387]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNullProviders(it.jnrpe.test.JnrpeParamTest)')","[99, 207]"

@@ -1,0 +1,36 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_serialization(org.gridkit.zerormi.RmiChannelPipeTest)')","[123, 574, 617, 660]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fail_on_non_serializable2(org.gridkit.zerormi.RmiChannelPipeTest)')","[223, 832, 875, 918]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'check_PingServerXX(org.gridkit.zerormi.SmartRmiMarshalerTest)')","[1797, 2664, 2707, 2750]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_serialization(org.gridkit.zerormi.RmiChannelPipeTest)')",[98]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'check_PingServerA(org.gridkit.zerormi.SmartRmiMarshalerTest)')","[1597, 2148, 2191, 2234]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.zerormi.RmiChannelPipeTest')",[23]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'check_PingUnserver(org.gridkit.zerormi.SmartRmiMarshalerTest)')","[1847, 2793, 2836, 2879, 2903, 2927]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_serialization(org.gridkit.zerormi.SmartRmiMarshalerTest)')",[1522]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'check_PingServerB(org.gridkit.zerormi.SmartRmiMarshalerTest)')",[1622]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.zerormi.zlog.PrintStreamLogTest')",[1118]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fail_on_non_serializable(org.gridkit.zerormi.RmiChannelPipeTest)')","[173, 703, 746, 789]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'simple_test(org.gridkit.zerormi.RmiChannelPipeTest)')",[48]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_executor1(org.gridkit.zerormi.RemotingHubTest)')","[3000, 3143, 3186, 3229, 3272, 3315, 3358]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.zerormi.RemotingHubTest')",[2950]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'check_PingServerC(org.gridkit.zerormi.SmartRmiMarshalerTest)')",[1672]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_auto_export(org.gridkit.zerormi.RmiChannelPipeTest)')","[273, 961, 1004, 1047, 1071, 1095]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'check_PingServerXX(org.gridkit.zerormi.SmartRmiMarshalerTest)')",[1772]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'print_log(org.gridkit.zerormi.zlog.PrintStreamLogTest)')",[1143]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'simple_test(org.gridkit.zerormi.RmiChannelPipeTest)')","[73, 316, 359, 402, 445, 488, 531]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_executor2(org.gridkit.zerormi.RemotingHubTest)')","[3050, 3401, 3444, 3487]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'transitive_proxy_test(org.gridkit.zerormi.RemotingHubTest)')",[3075]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'print_log(org.gridkit.zerormi.zlog.PrintStreamLogTest)')","[1168, 1211, 1254, 1297, 1340, 1383, 1426, 1450, 1474]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'check_PingServerB(org.gridkit.zerormi.SmartRmiMarshalerTest)')","[1647, 2277, 2320, 2363]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_serialization(org.gridkit.zerormi.SmartRmiMarshalerTest)')","[1547, 1890, 1933, 1976, 2019, 2062, 2105]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_auto_export(org.gridkit.zerormi.RmiChannelPipeTest)')",[248]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'check_PingServerA(org.gridkit.zerormi.SmartRmiMarshalerTest)')",[1572]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'check_PingServerC(org.gridkit.zerormi.SmartRmiMarshalerTest)')","[1697, 2406, 2449, 2492]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_executor2(org.gridkit.zerormi.RemotingHubTest)')",[3025]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'transitive_proxy_test(org.gridkit.zerormi.RemotingHubTest)')","[3100, 3530, 3573, 3616, 3640, 3664]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.zerormi.SmartRmiMarshalerTest')",[1497]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fail_on_non_serializable(org.gridkit.zerormi.RmiChannelPipeTest)')",[148]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fail_on_non_serializable2(org.gridkit.zerormi.RmiChannelPipeTest)')",[198]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'check_PingServerX(org.gridkit.zerormi.SmartRmiMarshalerTest)')","[1747, 2535, 2578, 2621]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_executor1(org.gridkit.zerormi.RemotingHubTest)')",[2975]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'check_PingServerX(org.gridkit.zerormi.SmartRmiMarshalerTest)')",[1722]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'check_PingUnserver(org.gridkit.zerormi.SmartRmiMarshalerTest)')",[1822]

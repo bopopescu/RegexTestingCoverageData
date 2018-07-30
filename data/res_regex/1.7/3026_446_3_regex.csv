@@ -1,0 +1,4 @@
+"('FormatterFactory.java', 'cucumber.formatter.FormatterFactory', 'create', '([^:]+):(.*)', 'html:target/cucumber')",[52]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'initializationError(se.waymark.rentit.RunCukesTest)')",[134]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'se.waymark.rentit.RunCukesTest')","[17, 109]"
+"('PathWithLines.java', 'cucumber.runtime.PathWithLines', '<init>', '^([\\w\\W]*?):([\\d:]+)$', 'classpath:se/waymark/rentit')",[87]

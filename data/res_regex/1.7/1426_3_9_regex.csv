@@ -1,0 +1,130 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloat3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1565, 3690]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDouble3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[830, 2920]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test {""putCallback"":true}')",[4363]
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', 'valueTypeFor', '.+\\.RTYP.*', 'test')",[5019]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloat5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1607, 3734]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBREnumToVEnum5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1502, 3624]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString8(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[391, 2480]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShort4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1166, 3272]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'timestampOf1(org.epics.pvmanager.jca.DataUtilsTest)')","[2128, 4240]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test')","[4291, 4485, 4971]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByte1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[683, 2766]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBREnumToVEnum2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1439, 3558]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'honorZeroPrecision2(org.epics.pvmanager.jca.JCAZeroPrecisionTest)')","[78, 2172]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShort3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1145, 3250]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVString1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[998, 3096]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShort5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1187, 3294]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString2(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[265, 2348]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVString3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1250, 3360]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVIntArray3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[515, 2590]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShort2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1124, 3228]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test.NAME$ {""longString"":true}')",[4797]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.jca.JCAVTypeAdapterSetTest')","[452, 4947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'payloadConvert2(org.epics.pvmanager.jca.JCARTYPTest)')","[1983, 4108]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVStringArray2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1649, 3778]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString1(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[244, 2326]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVString5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1292, 3404]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVInt3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[620, 2700]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVString2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1019, 3118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'honorZeroPrecision1(org.epics.pvmanager.jca.JCAZeroPrecisionTest)')","[57, 2150]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test {""putCallback"":false}')",[4387]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByteArray2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[914, 3008]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'toString2(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[223, 2304]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test')","[4315, 4509, 4995]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'toBytes1(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[433, 2524]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString4(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[307, 2392]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVInt5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[662, 2744]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByteArray1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[893, 2986]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDoubleArray3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1355, 3470]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new1(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[118, 2194]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloat1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1523, 3646]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBREnumToVEnum1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1418, 3536]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDouble5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[872, 2964]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVIntArray2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[494, 2568]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test$')",[4629]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBREnumToVEnum3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1460, 3580]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByteArray5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[977, 3074]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShortArray4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1796, 3932]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVInt2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[599, 2678]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'dataTypeRequired3(org.epics.pvmanager.jca.JCARTYPTest)')","[2046, 4174]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloatArray4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1901, 4042]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test.NAME$ {""longString"":false}')",[4821]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.jca.JCAChannelHandlerTest')","[97, 4920]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test.NAME$ {""putCallback"":true}')",[4893]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShort1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1103, 3206]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test.$')",[4677]
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test.RTYP')","[5067, 5139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'isTimeValid1(org.epics.pvmanager.jca.DataUtilsTest)')","[2086, 4196]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test {""putCallback"":false}')",[4411]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShortArray5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1817, 3954]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDouble2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[809, 2898]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test {""longString"":true}')",[4725]
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test {""putCallback"":fase}')",[4436]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVIntArray1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[473, 2546]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloatArray1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1838, 3976]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVString4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1271, 3382]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test {""longString"":true}')",[4749]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVString5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1082, 3184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDoubleArray1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1313, 3426]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test {""putCallback"":fase}')",[4461]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShortArray2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1754, 3888]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVString4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1061, 3162]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test.NAME')",[4605]
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test.NAME')",[4581]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVIntArray4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[536, 2612]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVIntArray5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[557, 2634]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVString2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1229, 3338]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test.$')",[4701]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVInt1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[578, 2656]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test.RTYP')","[5043, 5115]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloatArray5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1922, 4064]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDoubleArray4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1376, 3492]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVString3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1040, 3140]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloat2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1544, 3668]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test {""putCallback"":true}')",[4339]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString5(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[328, 2414]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString7(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[370, 2458]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDoubleArray2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1334, 3448]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString3(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[286, 2370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRIntToVInt4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[641, 2722]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVStringArray1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1628, 3756]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByte3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[725, 2810]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVStringArray4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1691, 3822]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test.NAME$ {""longString"":false}')",[4845]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVStringArray5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1712, 3844]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new3(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[160, 2238]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'dataTypeRequired1(org.epics.pvmanager.jca.JCARTYPTest)')","[2004, 4130]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString6(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[349, 2436]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByteArray3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[935, 3030]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByteArray4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[956, 3052]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDouble4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[851, 2942]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloat4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1586, 3712]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShortArray3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1775, 3910]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloatArray2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1859, 3998]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDouble1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[788, 2876]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRFloatToVFloatArray3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1880, 4020]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByte2(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[704, 2788]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'toString1(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[202, 2282]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longString9(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[412, 2502]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBREnumToVEnum4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1481, 3602]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.jca.JCARTYPTest')","[1941, 5166]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', 'valueTypeFor', '.+\\.RTYP.*', 'test.RTYPE')",[5091]
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test.NAME$')",[4533]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRShortToVShortArray1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1733, 3866]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVStringArray3(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1670, 3800]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test.NAME$ {""longString"":true}')",[4773]
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test$')",[4653]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new4(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[181, 2260]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.jca.DataUtilsTest')","[2065, 5189]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByte4(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[746, 2832]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'isTimeValid2(org.epics.pvmanager.jca.DataUtilsTest)')","[2107, 4218]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '.+\\..*\\$.*', 'test.NAME$ {""putCallback"":true}')",[4869]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new2(org.epics.pvmanager.jca.JCAChannelHandlerTest)')","[139, 2216]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRDoubleToVDoubleArray5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1397, 3514]"
+"('JCAChannelHandler.java', 'org.epics.pvmanager.jca.JCAChannelHandler', '<init>', '(.*) (\\{.*\\})', 'test.NAME$')",[4557]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.jca.JCAZeroPrecisionTest')","[36, 4267]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'payloadConvert1(org.epics.pvmanager.jca.JCARTYPTest)')","[1962, 4086]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'dataTypeRequired2(org.epics.pvmanager.jca.JCARTYPTest)')","[2025, 4152]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRStringToVString1(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[1208, 3316]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'DBRByteToVByte5(org.epics.pvmanager.jca.JCAVTypeAdapterSetTest)')","[767, 2854]"

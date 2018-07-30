@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'veryLongLoggerName(org.slf4j.impl.AndroidLoggerFactoryTest)')","[78, 248]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'emptyLoggerNames(org.slf4j.impl.AndroidLoggerFactoryTest)')","[141, 314]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'loggerNameWithOneCharPackage(org.slf4j.impl.AndroidLoggerFactoryTest)')","[162, 336]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'longLoggerName(org.slf4j.impl.AndroidLoggerFactoryTest)')","[57, 226]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'oneWordLoggerName(org.slf4j.impl.AndroidLoggerFactoryTest)')","[120, 292]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'simpleLoggerName(org.slf4j.impl.AndroidLoggerFactoryTest)')","[183, 358]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'weirdLoggerNames(org.slf4j.impl.AndroidLoggerFactoryTest)')","[204, 380]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.slf4j.impl.AndroidLoggerFactoryTest')","[36, 403]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shortLoggerNames(org.slf4j.impl.AndroidLoggerFactoryTest)')","[99, 270]"

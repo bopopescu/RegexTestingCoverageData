@@ -1,0 +1,63 @@
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_token=""access%20token""')","[2813, 3020, 3227, 3434]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLongMessage(net.oauth.client.StreamTest)')","[56, 810]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.signature.PkcsTest')","[432, 3725]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPreemptive(net.oauth.client.httpclient4.OAuthSchemeTest)')","[254, 986]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGzip(net.oauth.client.OAuthClientTest)')","[155, 898]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.signature.OAuthSignatureMethodTest')","[491, 3776]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[1691]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCertificate(net.oauth.signature.PkcsTest)')","[452, 1162]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testVersionRange(net.oauth.OAuthValidatorTest)')","[630, 1316]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[1563]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDecodeFlexible(net.oauth.OAuthTest)')","[729, 1404]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.client.StreamTest')","[36, 1499]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_consumer_key=""consumer%20key""')","[2836, 3043, 3250, 3457]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_nonce=""654381867510063""')",[3319]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDecodeStandard(net.oauth.OAuthTest)')","[709, 1382]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_nonce=""654381758695156""')",[3112]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadBodyAsString(net.oauth.client.StreamTest)')","[76, 832]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '\\s*(\\w*)\\s+(.*)', 'OAuth realm=""Narnia"", oauth_token=""access%20token"", oauth_consumer_key=""consumer%20key"", oauth_signature_method=""HMAC-SHA1"", oauth_timestamp=""1515738098"", oauth_nonce=""654381758695156"", oauth_version=""1.0"", oauth_signature=""hPbEsX2zWd9obWYhDFPYFrQs4Zc%3D""')",[2974]
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '\\s*(\\w*)\\s+(.*)', 'OAuth oauth_token=""t""')","[1718, 1773, 1829, 1885, 1941, 1996, 2051, 2107, 2163, 2219, 2274, 2329, 2385, 2441, 2497, 2553, 2609, 2665]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.OAuthMessageTest')","[768, 3901]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSignVerifyX509Pem(net.oauth.signature.RSA_SHA1SignatureTest)')","[413, 1140]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '\\s*(\\w*)\\s+(.*)', 'OAuth realm=""Narnia"", oauth_token=""access%20token"", oauth_consumer_key=""consumer%20key"", oauth_signature_method=""HMAC-SHA1"", oauth_timestamp=""1515738098"", oauth_nonce=""654381876283080"", oauth_version=""1.0"", oauth_signature=""x1vvzA1YzbfWkthjrGWCX5SzhXk%3D""')",[3388]
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_nonce=""654381647799540""')",[2905]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpload(net.oauth.client.OAuthClientTest)')","[215, 964]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDuplicateParameters(net.oauth.OAuthValidatorTest)')","[590, 1272]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRedirect(net.oauth.client.OAuthClientTest)')","[175, 920]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSignVerifyDer(net.oauth.signature.RSA_SHA1SignatureTest)')","[313, 1030]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.client.httpclient4.OAuthSchemeTest')","[234, 3623]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSign(net.oauth.signature.OAuthSignatureMethodTest)')","[511, 1206]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSignVerifyX509Jce(net.oauth.signature.RSA_SHA1SignatureTest)')","[393, 1118]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_signature=""cqZDEpDwKKql%2B4kBlkBA8V9bldc%3D""')",[3365]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.client.OAuthClientTest')","[115, 2744]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEncode(net.oauth.OAuthTest)')","[749, 1426]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_token=""t""')","[1745, 1801, 1857, 1913, 1969, 2023, 2079, 2135, 2191, 2247, 2301, 2357, 2413, 2469, 2525, 2581, 2637, 2693]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAccess(net.oauth.client.OAuthClientTest)')","[195, 942]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.OAuthValidatorTest')","[570, 3827]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_timestamp=""1515738098""')","[2882, 3089, 3296, 3503]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'realm=""Narnia""')","[2790, 2997, 3204, 3411]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSignVerifyPem(net.oauth.signature.RSA_SHA1SignatureTest)')","[353, 1074]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSignVerifyX509Der(net.oauth.signature.RSA_SHA1SignatureTest)')","[373, 1096]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '\\s*(\\w*)\\s+(.*)', 'OAuth realm=""Narnia"", oauth_token=""access%20token"", oauth_consumer_key=""consumer%20key"", oauth_signature_method=""HMAC-SHA1"", oauth_timestamp=""1515738098"", oauth_nonce=""654381647799540"", oauth_version=""1.0"", oauth_signature=""Z0FvWEDHSWypQrv%2FIAitInlM3pg%3D""')",[2767]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvokeMessage(net.oauth.client.OAuthClientTest)')","[135, 876]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAuthorizationHeader(net.oauth.OAuthMessageTest)')","[788, 1448]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.OAuthTest')","[669, 3878]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_version=""1.0""')","[2928, 3135, 3342, 3549]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.oauth.signature.RSA_SHA1SignatureTest')","[293, 3674]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExcerptInputStream(net.oauth.client.StreamTest)')","[96, 854]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSignVerifyJce(net.oauth.signature.RSA_SHA1SignatureTest)')","[333, 1052]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '\\s*(\\w*)\\s+(.*)', 'OAuth realm=""Narnia"", oauth_token=""access%20token"", oauth_consumer_key=""consumer%20key"", oauth_signature_method=""HMAC-SHA1"", oauth_timestamp=""1515738098"", oauth_nonce=""654381867510063"", oauth_version=""1.0"", oauth_signature=""cqZDEpDwKKql%2B4kBlkBA8V9bldc%3D""')",[3181]
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_signature=""x1vvzA1YzbfWkthjrGWCX5SzhXk%3D""')",[3572]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTimeRange(net.oauth.OAuthValidatorTest)')","[610, 1294]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDecodeFormCornerCases(net.oauth.OAuthTest)')","[689, 1360]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_signature=""Z0FvWEDHSWypQrv%2FIAitInlM3pg%3D""')",[2951]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPublicKey(net.oauth.signature.PkcsTest)')","[472, 1184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNonceUsed(net.oauth.OAuthValidatorTest)')","[650, 1338]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_signature=""hPbEsX2zWd9obWYhDFPYFrQs4Zc%3D""')",[3158]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[1627]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetBaseString(net.oauth.signature.OAuthSignatureMethodTest)')","[531, 1228]"
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_nonce=""654381876283080""')",[3526]
+"('OAuthMessage.java', 'net.oauth.OAuthMessage', 'decodeAuthorization', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_signature_method=""HMAC-SHA1""')","[2859, 3066, 3273, 3480]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChallenge(net.oauth.client.httpclient4.OAuthSchemeTest)')","[274, 1008]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNormalizeParameters(net.oauth.signature.OAuthSignatureMethodTest)')","[551, 1250]"

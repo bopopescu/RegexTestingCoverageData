@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('SemanticPropUtil.java', 'eu.stratosphere.api.java.functions.SemanticPropUtil', 'readFieldSetFromString', '(\\s*(\\d+\\s*,\\s*)*(\\d+\\s*))', '0')","[284, 341, 398, 455, 541, 600, 659, 718]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTranslationPlainEdgesWithForkedBroadcastVariable(eu.stratosphere.spargel.java.SpargelTranslationTest)')","[57, 161]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.spargel.java.SpargelCompilerTest')","[97, 741]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.spargel.java.SpargelTranslationTest')","[36, 482]"
+"('SemanticPropUtil.java', 'eu.stratosphere.api.java.functions.SemanticPropUtil', 'readConstantSet', '(\\s*(((\\s*(\\d+\\s*,\\s*)*(\\d+\\s*))|(\\s*(\\d+)\\s*->((\\s*(\\d+\\s*,\\s*)*(\\d+\\s*))|(\\*))))\\s*;\\s*)*(((\\s*(\\d+\\s*,\\s*)*(\\d+\\s*))|(\\s*(\\d+)\\s*->((\\s*(\\d+\\s*,\\s*)*(\\d+\\s*))|(\\*))))\\s*))', '0')","[255, 312, 369, 426, 511, 570, 629, 688]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSpargelCompilerWithBroadcastVariable(eu.stratosphere.spargel.java.SpargelCompilerTest)')","[139, 227]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSpargelCompiler(eu.stratosphere.spargel.java.SpargelCompilerTest)')","[118, 205]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTranslationPlainEdges(eu.stratosphere.spargel.java.SpargelTranslationTest)')","[78, 183]"

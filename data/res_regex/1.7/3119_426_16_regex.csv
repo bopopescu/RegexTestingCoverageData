@@ -1,0 +1,25 @@
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.version')",[3081]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 35, 699, 1594]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.whirr.service.hdp.hadoop.unit.HDPDryRunTest')","[6783, 6803, 6824, 6844]"
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.private-key-file')",[3003]
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.instance-templates')",[2925]
+"('TemplateBuilderImpl.java', 'org.jclouds.compute.domain.internal.TemplateBuilderImpl$7', 'apply', '10.04', '11.04')","[3550, 3591, 4131, 4172, 5936, 5979, 6545, 6588]"
+"('JcloudsVersion.java', 'org.jclouds.JcloudsVersion', '<init>', '(\\d+)\\.(\\d+)\\.(\\d+)(?:-(alpha|beta|rc)\\.(\\d+)|-SNAPSHOT)?', '1.5.1')",[3176]
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.hadoop.install-function')",[2977]
+"('TemplateBuilderImpl.java', 'org.jclouds.compute.domain.internal.TemplateBuilderImpl$7', 'apply', '10.04', '12.04')","[3716, 3757, 4297, 4338, 6110, 6153, 6719, 6762]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.whirr.service.hdp.hadoop.unit.HDPDryRunTest')","[56, 77, 455, 834, 969, 1332, 1739, 1909, 2353]"
+"('TemplateBuilderImpl.java', 'org.jclouds.compute.domain.internal.TemplateBuilderImpl$7', 'apply', '10.04', '9.10')","[3384, 3425, 3965, 4006, 4546, 4587, 4855, 4908, 5171, 5223, 5486, 5538, 5761, 5805, 6371, 6414]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBootstrapAndConfigure(org.apache.whirr.service.hdp.hadoop.unit.HDPDryRunTest)')","[125, 149, 173, 221, 245, 269, 310, 370, 400, 430, 511, 539, 567, 623, 651, 679, 755, 783, 811, 890, 918, 946, 1021, 1047, 1073, 1125, 1151, 1177, 1241, 1273, 1305, 1392, 1422, 1452, 1512, 1542, 1572, 1654, 1684, 1714, 1809, 1844, 1879, 1975, 2008, 2041, 2107, 2140, 2173, 2247, 2284, 2321, 2423, 2458, 2493, 2573, 2613, 2653, 2737, 2779, 2821]"
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.provider')",[2847]
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.identity')",[3029]
+"('TemplateBuilderImpl.java', 'org.jclouds.compute.domain.internal.TemplateBuilderImpl$7', 'apply', '10.04', '')","[3218, 3259, 3799, 3840, 4380, 4421, 4641, 4694, 4961, 5013, 5276, 5328, 5583, 5627, 6197, 6240]"
+"('TemplateBuilderImpl.java', 'org.jclouds.compute.domain.internal.TemplateBuilderImpl$7', 'apply', '10.04', '10.10')","[3467, 3508, 4048, 4089, 5849, 5892, 6458, 6501]"
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.hadoop.configure-function')",[2951]
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.max-startup-retries')",[3107]
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.cluster-name')",[2873]
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.state-store')",[2899]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBootstrapAndConfigure(org.apache.whirr.service.hdp.hadoop.unit.HDPDryRunTest)')","[101, 197, 290, 340, 483, 595, 727, 862, 995, 1099, 1209, 1362, 1482, 1624, 1774, 1942, 2074, 2210, 2388, 2533, 2695]"
+"('TemplateBuilderImpl.java', 'org.jclouds.compute.domain.internal.TemplateBuilderImpl$7', 'apply', '10.04', '11.10')","[3633, 3674, 4214, 4255, 6023, 6066, 6632, 6675]"
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.cluster-user')",[3133]
+"('TemplateBuilderImpl.java', 'org.jclouds.compute.domain.internal.TemplateBuilderImpl$7', 'apply', '10.04', '8.04')","[3301, 3342, 3882, 3923, 4463, 4504, 4748, 4801, 5066, 5118, 5381, 5433, 5672, 5716, 6284, 6327]"
+"('ClusterSpec.java', 'org.apache.whirr.ClusterSpec', '<init>', '^\\Qwhirr.firewall-rules\\E(?:\\.(.+))?$', 'whirr.credential')",[3055]

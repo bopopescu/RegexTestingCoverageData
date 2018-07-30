@@ -1,0 +1,24 @@
+"('DefaultArtifact.java', 'org.apache.maven.artifact.DefaultArtifact', 'setBaseVersionInternal', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '6.7.3')",[773]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeatureWithConfigFile(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[391, 743]"
+"('DefaultArtifact.java', 'org.apache.maven.artifact.DefaultArtifact', 'setBaseVersionInternal', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '1.10.4-SNAPSHOT')","[834, 894, 949]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeatureWithDescription(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[223, 567]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAlreadyWrapped(org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest)')","[183, 545]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJarDependency(org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest)')","[120, 479]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmptyFeatures(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[244, 589]"
+"('DefaultArtifact.java', 'org.apache.maven.artifact.DefaultArtifact', 'setBaseVersionInternal', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '1.11.1-SNAPSHOT')",[803]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest')","[36, 976]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateFeature(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[307, 655]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeature(org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest)')","[78, 435]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBundle(org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest)')","[162, 523]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPomDependency(org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest)')","[141, 501]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.opennms.maven.plugins.karaf.FeatureBuilderTest')","[202, 999]"
+"('DefaultArtifact.java', 'org.apache.maven.artifact.DefaultArtifact', 'setBaseVersionInternal', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '1.0')",[864]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeatureDependency(org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest)')","[57, 413]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateVersionedFeature(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[286, 633]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeatureWithFeatureDependency(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[328, 677]"
+"('MavenUtil.java', 'org.opennms.maven.plugins.karaf.MavenUtil', 'mvnToArtifact', '(?:wrap\\:)?mvn:([^/ ]+)/([^/ ]+)/([^/ ]*)(/([^/ ]+)(/([^/ ]+))?)?', 'mvn:org.opennms.core.test-api/org.opennms.core.test-api.lib/1.10.4-SNAPSHOT')",[919]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeatureWithDetails(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[370, 721]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeatureWithConfig(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[349, 699]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFeatureWithBundleDependency(org.opennms.maven.plugins.karaf.FeatureBuilderTest)')","[265, 611]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBundleDependency(org.opennms.maven.plugins.karaf.GenerateFeaturesXmlMojoTest)')","[99, 457]"

@@ -1,0 +1,27 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addsDaoForEntityIfAvailableInAppContext(org.synyx.hades.extensions.beans.GenericDaoPropertyEditorRegistrarUnitTest)')",[458]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'convertsPlainIdTypeCorrectly(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[166]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testname(org.synyx.hades.extensions.web.PageableArgumentResolverUnitTest)')",[125]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'convertsEntityToIdCorrectly(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[208]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'returnsIdForPlainEntity(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[187]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'rejectsInvalidlyMappedPageables(org.synyx.hades.extensions.web.PageableArgumentResolverUnitTest)')",[21]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'assertDefaults(org.synyx.hades.extensions.web.PageableArgumentResolverUnitTest)')",[83]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'returnsNullIdIfEntityHasNone(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[229]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'rejectsInvalidQualifiers(org.synyx.hades.extensions.web.PageableArgumentResolverUnitTest)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'resetsValueToNullAfterEmptyStringConversion(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[292]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'matchFailsIfNoDaoAvailable(org.synyx.hades.extensions.conversion.GenericDaoConverterUnitTest)')",[354]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest')","[886, 906, 927, 947]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'assertOverridesDefaults(org.synyx.hades.extensions.web.PageableArgumentResolverUnitTest)')",[104]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'convertsStringToUserCorrectly(org.synyx.hades.extensions.conversion.GenericDaoConverterUnitTest)')",[417]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.synyx.hades.extensions.web.PageableArgumentResolverUnitTest')","[503, 526, 550, 573]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'matchFailsIfNoIntermediateConversionIsPossible(org.synyx.hades.extensions.conversion.GenericDaoConverterUnitTest)')",[396]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'rejectsInvalidlyMappedPageables(org.synyx.hades.extensions.web.PageableArgumentResolverUnitTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'doesNotAddDaoAtAllIfNoDaosFound(org.synyx.hades.extensions.beans.GenericDaoPropertyEditorRegistrarUnitTest)')",[479]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.synyx.hades.extensions.beans.GenericDaoPropertyEditorRegistrarUnitTest')","[804, 824, 845, 865]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'matchesIfConversionInBetweenIsPossible(org.synyx.hades.extensions.conversion.GenericDaoConverterUnitTest)')",[375]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'matchFailsIfNoDaoAvailable(org.synyx.hades.extensions.conversion.GenericDaoConverterUnitTest)')",[334]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.synyx.hades.extensions.conversion.GenericDaoConverterUnitTest')","[626, 678, 731, 783]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'returnsNullIdIfNoEntitySet(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[271]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'usesCustomEditorIfConfigured(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[250]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'resetsValueToNullAfterNullStringConversion(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[313]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addsDaoForEntityIfAvailableInAppContext(org.synyx.hades.extensions.beans.GenericDaoPropertyEditorRegistrarUnitTest)')",[438]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'convertsPlainIdTypeCorrectly(org.synyx.hades.extensions.beans.DomainClassPropertyEditorUnitTest)')",[146]

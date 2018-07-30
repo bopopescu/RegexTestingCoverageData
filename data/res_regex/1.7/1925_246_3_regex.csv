@@ -1,0 +1,51 @@
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'java.lang.Object')","[1546, 1623, 1740, 1857, 1974, 2091, 2208, 2325, 2442]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.transport.UDPTransport.class')",[2556]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceiveList(org.jtestplatform.common.transport.TransportHelperTest)')","[534, 1057]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSend(org.jtestplatform.common.transport.TransportHelperTest)')","[618, 1145]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.transport.UDPTransportTest')","[326, 1395]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.transport.TransportHelperTest')","[408, 2690]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParse(org.jtestplatform.common.TestNameTest)')","[225, 793]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSend(org.jtestplatform.common.transport.MultiThreadTransportHelperTest$SendMethodTest)')","[124, 748]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testToString(org.jtestplatform.common.TestNameTest)')","[246, 815]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceive_corruptedMessage(org.jtestplatform.common.transport.UDPTransportTest)')","[368, 903]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.GetFrameworkTests.class')",[2402]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.GetTestFrameworks.class')",[1700]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.transport.MultiThreadTransportHelperTest$SendMethodTest')","[101, 1287]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreate(org.jtestplatform.common.TestNameTest)')","[267, 837]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceive(org.jtestplatform.common.transport.UDPTransportTest)')","[389, 925]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSendInt(org.jtestplatform.common.transport.TransportHelperTest)')","[555, 1079]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.Message.class')",[1506]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSendRequest(org.jtestplatform.common.transport.TransportHelperTest)')","[471, 991]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.transport.MultiThreadTransportHelperTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceive(org.jtestplatform.common.transport.MultiThreadTransportHelperTest$ReceiveMethodTest)')","[80, 725]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'verifyAllMessagesInMessageData(org.jtestplatform.common.transport.TransportHelperTest)')","[492, 1013]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.transport.TransportFactory.class')",[2519]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.transport.TransportHelper.class')",[2630]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClientAndServer(org.jtestplatform.common.transport.UDPClientServerTest)')","[307, 859]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.FrameworkTests.class')",[1817]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.ConfigUtils.class')",[1432]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.TestResult.class')",[1583]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.transport.Transport.class')",[2667]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.TestFrameworks.class')",[2285]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSend(org.jtestplatform.common.transport.UDPTransportTest)')","[347, 881]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.RunTest.class')",[2168]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceiveInt_wrongValue(org.jtestplatform.common.transport.TransportHelperTest)')","[513, 1035]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'org.jtestplatform.common.message.Message')","[1663, 1780, 1897, 2014, 2131, 2248, 2365, 2482]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceiveBoolean(org.jtestplatform.common.transport.TransportHelperTest)')","[660, 1189]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSendList(org.jtestplatform.common.transport.TransportHelperTest)')","[597, 1123]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateMessage(org.jtestplatform.common.transport.TransportHelperTest)')","[702, 1233]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSendBoolean(org.jtestplatform.common.transport.TransportHelperTest)')","[639, 1167]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSendRequest(org.jtestplatform.common.transport.MultiThreadTransportHelperTest$SendRequestMethodTest)')","[168, 771]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 185]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.Shutdown.class')",[2051]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.transport.MultiThreadTransportHelperTest$SendRequestMethodTest')","[145, 1314]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceiveBoolean_wrongValue(org.jtestplatform.common.transport.TransportHelperTest)')","[576, 1101]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.message.ErrorMessage.class')",[1934]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceiveInt(org.jtestplatform.common.transport.TransportHelperTest)')","[450, 969]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.transport.TransportException.class')",[2593]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceive_ErrorMessage(org.jtestplatform.common.transport.TransportHelperTest)')","[429, 947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.transport.UDPClientServerTest')","[286, 1368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReceive(org.jtestplatform.common.transport.TransportHelperTest)')","[681, 1211]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.TestNameTest')","[204, 1341]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jtestplatform.common.transport.MultiThreadTransportHelperTest$ReceiveMethodTest')","[57, 1260]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', 'org\\.jtestplatform\\.common\\.message.*', 'org.jtestplatform.common.TestName.class')",[1469]

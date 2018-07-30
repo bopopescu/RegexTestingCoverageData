@@ -1,0 +1,15 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_GetProductsByCategoryIdTag(org.broadleafcommerce.core.web.catalog.taglib.GetProductsByCategoryIdTagTest)')","[56, 194]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilterTest')","[153, 705]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Breadcrumb(org.broadleafcommerce.core.web.catalog.taglib.CategoryBreadcrumbTagTest)')","[134, 236]"
+"('SpringTemporaryRedirectOverrideFilter.java', 'org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilter', 'isUrlMatch', 'category/temp.*', 'stellar/test/tester')",[637]
+"('SpringTemporaryRedirectOverrideFilter.java', 'org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilter', 'isUrlMatch', 'stellar/test/tester', 'stellar/test/tester')",[683]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_categoryTag(org.broadleafcommerce.core.web.catalog.taglib.CategoryTagTest)')","[95, 215]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.broadleafcommerce.core.web.catalog.taglib.GetProductsByCategoryIdTagTest')","[36, 307]"
+"('SpringTemporaryRedirectOverrideFilter.java', 'org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilter', 'isUrlMatch', 'category/temp.*', 'category/temp/mytest')",[591]
+"('SpringTemporaryRedirectOverrideFilter.java', 'org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilter', 'isUrlMatch', 'another/small/test', 'nonsense/category/temp/mytest')",[545]
+"('SpringTemporaryRedirectOverrideFilter.java', 'org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilter', 'isUrlMatch', 'category/temp.*', 'nonsense/category/temp/mytest')",[453]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.broadleafcommerce.core.web.catalog.taglib.CategoryBreadcrumbTagTest')","[114, 407]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFilter(org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilterTest)')","[173, 257]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.broadleafcommerce.core.web.catalog.taglib.CategoryTagTest')","[75, 357]"
+"('SpringTemporaryRedirectOverrideFilter.java', 'org.broadleafcommerce.core.web.SpringTemporaryRedirectOverrideFilter', 'isUrlMatch', 'stellar/test/tester', 'nonsense/category/temp/mytest')",[499]

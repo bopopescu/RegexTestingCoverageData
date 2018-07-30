@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'settingTestForCustom(cn.hutool.setting.test.SettingTest)')","[160, 270]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'settingTest(cn.hutool.setting.test.SettingTest)')","[118, 226]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.hutool.setting.test.PropsTest')","[36, 417]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.hutool.setting.test.SettingTest')","[97, 560]"
+"('FileUtil.java', 'cn.hutool.core.io.FileUtil', 'isAbsolutePath', '^[a-zA-Z]:/.*', 'test.setting')","[446, 474, 506, 537]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'propTestForAbsPAth(cn.hutool.setting.test.PropsTest)')","[57, 182]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'propTest(cn.hutool.setting.test.PropsTest)')","[78, 204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'settingTestForAbsPath(cn.hutool.setting.test.SettingTest)')","[139, 248]"
+"('FileUtil.java', 'cn.hutool.core.io.FileUtil', 'isAbsolutePath', '^[a-zA-Z]:/.*', 'test.properties')","[299, 327, 359, 390]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

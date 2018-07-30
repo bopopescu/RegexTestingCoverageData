@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDownloadComics(mdettlaff.comics.service.ComicsServiceTest)')","[57, 141]"
+"('ComicsService.java', 'mdettlaff.comics.service.ComicsService', 'getContentTypeByUrl', '.*\\....$', 'http://www.dilbert.com/dyn/str_strip/000000000/00000000/0000000/100000/60000/9000/900/169992/169992.strip.print.gif')","[244, 271]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDownloadComics(mdettlaff.comics.service.ComicsServiceTest)')","[78, 99, 120, 161]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'mdettlaff.comics.service.ComicsServiceTest')","[292, 312, 333, 353]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'mdettlaff.comics.service.ComicsServiceTest')",[36]
+"('ComicsService.java', 'mdettlaff.comics.service.ComicsService', 'getContentTypeByUrl', '.*\\....$', 'http://imgs.xkcd.com/comics/epsilon_and_zeta.png')","[189, 216]"

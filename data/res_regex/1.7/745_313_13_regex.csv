@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseValidEvents(com.stratio.ingestion.sink.druid.EventParserTest)')","[99, 247]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseInvalidEvents(com.stratio.ingestion.sink.druid.EventParserTest)')","[78, 225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'buildWithNoValidList(com.stratio.ingestion.sink.druid.AggregatorsHelperTest)')","[181, 313]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'buildWithValidList(com.stratio.ingestion.sink.druid.AggregatorsHelperTest)')","[160, 291]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'buildWithEmptyList(com.stratio.ingestion.sink.druid.AggregatorsHelperTest)')","[139, 269]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.stratio.ingestion.sink.druid.AggregatorsHelperTest')","[118, 363]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.stratio.ingestion.sink.druid.EventParserTest')","[36, 340]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseEmptyEvents(com.stratio.ingestion.sink.druid.EventParserTest)')","[57, 203]"

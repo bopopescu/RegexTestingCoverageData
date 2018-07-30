@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'stringBuilderTest(com.nogoon.examples.mail.HeaderTest)')","[57, 120]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'from(com.nogoon.examples.mail.HeaderTest)')","[99, 162]"
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getHeaderMap', '^(.*):(.*)$', 'ABCD1:')","[348, 394]"
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getHeaderMap', '^(.*):(.*)$', 'BCD: asdfasdfasd\n asdfasdfasd\n asdfasdfasd')",[325]
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getActorMap', '(.*)<(.*)>', 'kyungtaak@gmail.com')",[440]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getHeaderMap', '^(.*):(.*)$', 'BCD: asdfasdfasd')",[208]
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getHeaderMap', '^(.*):(.*)$', ' asdfasdfasd')","[254, 277]"
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getHeaderMap', '^(.*):(.*)$', 'ABC: dabcdf')","[185, 231]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parserTest(com.nogoon.examples.mail.HeaderTest)')","[78, 141]"
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getHeaderMap', '^(.*):(.*)$', 'ABCD: sdf asdfasdfasd ')","[300, 371]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nogoon.examples.mail.HeaderTest')","[36, 462]"
+"('HeaderTest.java', 'com.nogoon.examples.mail.HeaderTest', 'getActorMap', '(.*)<(.*)>', '노희재 <kyungtaak@gmail.com>')",[417]

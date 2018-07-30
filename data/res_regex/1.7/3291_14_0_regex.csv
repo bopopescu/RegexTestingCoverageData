@@ -1,0 +1,55 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetDaysSince2000(org.esa.beam.meris.icol.LandsatUtilsTest)')","[303, 992]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/landaero/')",[1684]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testKernelJai(org.esa.beam.meris.icol.CoeffWTest)')","[517, 1202]"
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'NORTH')",[2172]
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/case1/')",[1728]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSelectIzaUpperIndex(org.esa.beam.meris.icol.AerosolScatteringFuntionsTest)')","[89, 782]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetDayOfYear(org.esa.beam.meris.icol.LandsatUtilsTest)')","[339, 1034]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetFFTOutputAsComplexNumbers(org.esa.beam.meris.icol.ConvolutionTest)')","[214, 908]"
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'DISPLAY_RIGHT')",[2284]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetData(org.esa.beam.meris.icol.FresnelReflectionCoefficientTest)')","[698, 1334]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/lv2conf/lv2conf.41.08.prd')",[1772]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMyDFT(org.esa.beam.meris.icol.ConvolutionTest)')","[196, 887]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/case1/case1.60.04.prd')",[1508]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRR(org.esa.beam.meris.icol.CoeffWTest)')","[481, 1160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadFourierAerosol(org.esa.beam.meris.icol.AerosolScatteringFuntionsTest)')","[53, 740]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.esa.beam.meris.icol.LandsatProductReaderPluginTest')","[356, 2370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAerosolTranmittance(org.esa.beam.meris.icol.AerosolScatteringFuntionsTest)')","[35, 719]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.esa.beam.meris.icol.FresnelReflectionCoefficientTest')","[677, 2447]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFormatNames(org.esa.beam.meris.icol.LandsatProductReaderPluginTest)')","[410, 1097]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/atmosphere/atmosphere.32.04.prd')",[1596]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetDecimalGmt(org.esa.beam.meris.icol.LandsatUtilsTest)')","[321, 1013]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.esa.beam.meris.icol.graphgen.GraphGenTest')","[553, 2424]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/lv2conf/')",[1860]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateInstance(org.esa.beam.meris.icol.LandsatProductReaderPluginTest)')","[392, 1076]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.esa.beam.meris.icol.ConvolutionTest')","[142, 1420]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test2(org.esa.beam.meris.icol.graphgen.GraphGenTest)')","[595, 1246]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.esa.beam.meris.icol.CoeffWTest')","[445, 2397]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/meris_l2_config.xml')",[1816]
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/')",[1904]
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'OTHER')","[2004, 2060]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[534]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetSunZenith(org.esa.beam.meris.icol.LandsatUtilsTest)')","[267, 950]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadMerisL2AuxdataForLandsat(org.esa.beam.meris.icol.LandsatUtilsTest)')","[249, 929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.esa.beam.meris.icol.AerosolScatteringFuntionsTest')","[17, 1377]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddComplexConjugates(org.esa.beam.meris.icol.ConvolutionTest)')","[160, 845]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test5(org.esa.beam.meris.icol.graphgen.GraphGenTest)')","[658, 1312]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/atmosphere/')",[1640]
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/cloud/cloud.40.03.prd')",[1948]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadKernelOffNadir(org.esa.beam.meris.icol.CoeffWTest)')","[499, 1181]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/cloud/')",[1552]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAerosolPhase(org.esa.beam.meris.icol.AerosolScatteringFuntionsTest)')","[125, 824]"
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'EAST')",[2116]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSelectIzaNearest(org.esa.beam.meris.icol.AerosolScatteringFuntionsTest)')","[107, 803]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test1(org.esa.beam.meris.icol.graphgen.GraphGenTest)')","[574, 1224]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSplitComplexToFloatArray(org.esa.beam.meris.icol.ConvolutionTest)')","[178, 866]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAerosol(org.esa.beam.meris.icol.AerosolScatteringFuntionsTest)')","[71, 761]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetInputTypes(org.esa.beam.meris.icol.LandsatProductReaderPluginTest)')","[374, 1055]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test4(org.esa.beam.meris.icol.graphgen.GraphGenTest)')","[637, 1290]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetSunAzimuth(org.esa.beam.meris.icol.LandsatUtilsTest)')","[285, 971]"
+"('ResourceScanner.java', 'org.esa.beam.util.ResourceScanner', 'collectMatchingUrls', '.*', '/landaero/landaero.42.02.prd')",[1464]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetDescrition(org.esa.beam.meris.icol.LandsatProductReaderPluginTest)')","[428, 1118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.esa.beam.meris.icol.LandsatUtilsTest')","[231, 2327]"
+"('DirectionAlongMeridian.java', 'org.geotools.referencing.cs.DirectionAlongMeridian', 'parse', '(\\p{Graph}+)\\s+along\\s+([\\-\\p{Digit}\\.]+)\\s*(deg|°)\\s*(\\p{Graph}+)?', 'COLUMN_POSITIVE')",[2228]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFR(org.esa.beam.meris.icol.CoeffWTest)')","[463, 1139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test3(org.esa.beam.meris.icol.graphgen.GraphGenTest)')","[616, 1268]"

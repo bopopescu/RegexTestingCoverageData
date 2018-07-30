@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContentTypeJpg(org.apache.struts2.dispatcher.ChartResultTest)')","[56, 158]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContentTypePng(org.apache.struts2.dispatcher.ChartResultTest)')","[76, 180]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.dispatcher.ChartResultTest')","[36, 777]"
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1892_22/plugins/jfreechart/target/classes/struts-plugin.xml')","[354, 454, 554, 654, 754]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChartNotSet(org.apache.struts2.dispatcher.ChartResultTest)')","[96, 202]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChartWithOGNLProperties(org.apache.struts2.dispatcher.ChartResultTest)')","[116, 224]"
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1892_22/core/target/classes/struts-default.xml')","[300, 404, 504, 604, 704]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChart(org.apache.struts2.dispatcher.ChartResultTest)')","[136, 246]"

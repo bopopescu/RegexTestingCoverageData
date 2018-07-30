@@ -1,0 +1,96 @@
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '7083560000013710910')",[3404]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B5266092201416174^FATEHI/SUALEH^16042010000000000000000000000000000567001000?\n;5266092201416174=16042010000056700100?')",[3840]
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B4181887684889366^FATEHI/SUALEH^1502101072560000000000019000000?;4181887684889366=150210100190007256?')",[2810]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B5391285197433215^FATEHI/SUALEH             ^1701101000001540000000154000000?;5391285197433215=17011010000015400000?')",[1674]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'us.fatehi.test.magnetictrack.bankcard.Track2Test')","[36, 1109]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track1FormatB3(us.fatehi.test.magnetictrack.bankcard.Track1FormatBTest)')","[490, 886]"
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', 'B5266092201416174^FATEHI/SUALEH^16042010000000000000000000000000000567001000')",[1134]
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B455618692574^FATEHI/SUALEH             ^888809010299211?;455618692574=888809010299211?')",[3274]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B5266092201416174^FATEHI/SUALEH^16042010000000000000000000000000000567001000?')",[3739]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^6(?:011|5[0-9]{2})[0-9]{3,}$', '6035320294113574')","[2450, 2656]"
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B4181887684889366^FATEHI/SUALEH^1605101097670000000000120000000?;4181887684889366=160510101200009767?')",[1494]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackI(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[326, 754]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '6011460477609366')","[1932, 2112]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '5266092201416174')","[959, 1057, 1184, 3789, 3890, 3990]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'us.fatehi.test.magnetictrack.bankcard.Track1FormatBNoSentinelTest')","[97, 1236]"
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B5350290149345177^FATEHI/SUALEH^16042010000000000000000000000000000567001000?;5350290149345177=16042010000056700100?')",[1364]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^5[1-5][0-9]{5,}$|^(222[1-9]|2[3-6][0-9][0-9]|27[0-1][0-9]|2720)[0-9]{12}$', '5350290149345177')","[1340, 1442]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^5[1-5][0-9]{5,}$|^(222[1-9]|2[3-6][0-9][0-9]|27[0-1][0-9]|2720)[0-9]{12}$', '5266092201416174')","[984, 1082, 1209, 3814, 3915, 4015]"
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B379580832431161^ /                        ^1508121140165241?;379580832431161=150812114016524100000?+6202408082356005=15046200000010000000000004976?')",[3042]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackF(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[263, 688]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B4181887684889366^FATEHI/SUALEH^1605101097670000000000120000000?;4181887684889366=160510101200009767?')",[1648]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackE(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[242, 666]"
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B6011460477609366^FATEHI/SUALEH             ^15101011000606818102?;6011460477609366=15101011000606818102?')",[2086]
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B6035320294113574^FATEHI/SUALEH^491210100316000000?;6035320294113574=491210110000316?')",[2708]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B5266092201416174^FATEHI/SUALEH^16042010000000000000000000000000000567001000?;5266092201416174=16042010000056700100?')",[3940]
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B5391285197433215^FATEHI/SUALEH             ^1701101000001540000000154000000?;5391285197433215=17011010000015400000?')",[1776]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '5350290149345177')","[1314, 1416]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B7083560000013710910^MICHAELS OPEN VALUE CARD  ^8551?;7083560000013710910=8551?')",[3610]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track1FormatB1(us.fatehi.test.magnetictrack.bankcard.Track1FormatBNoSentinelTest)')","[118, 556]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track2__1(us.fatehi.test.magnetictrack.bankcard.Track2Test)')","[57, 512]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '5391285197433215')","[1700, 1802]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '6035320294113574')","[2320, 2526]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^5[1-5][0-9]{5,}$|^(222[1-9]|2[3-6][0-9][0-9]|27[0-1][0-9]|2720)[0-9]{12}$', '5391285197433215')","[1752, 1854]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackD(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[221, 644]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^5[1-5][0-9]{5,}$|^(222[1-9]|2[3-6][0-9][0-9]|27[0-1][0-9]|2720)[0-9]{12}$', '6011460477609366')","[1984, 2164]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B4181887684889366^FATEHI/SUALEH^1502101072560000000000019000000?;4181887684889366=150210100190007256?')",[2888]
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B7083560000013710910^MICHAELS OPEN VALUE CARD  ^8551?;7083560000013710910=8551?')",[3584]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B5350290149345177^FATEHI/SUALEH^16042010000000000000000000000000000567001000?;5350290149345177=16042010000056700100?')",[1262]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackA(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[158, 578]"
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B379580832431161^ /                        ^1508121140165241?;379580832431161=150812114016524100000?+6202408082356005=15046200000010000000000004976?')",[2914]
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B455618692574^FATEHI/SUALEH             ^888809010299211?;455618692574=888809010299211?')",[3352]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^6(?:011|5[0-9]{2})[0-9]{3,}$', '6011460477609366')","[2062, 2242]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '7083560000013710910')",[3430]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B6011460477609366^FATEHI/SUALEH             ^15101011000606818102?;6011460477609366=15101011000606818102?')",[1906]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackJ(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[347, 776]"
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B5266092201416174^FATEHI/SUALEH^16042010000000000000000000000000000567001000?;5266092201416174=16042010000056700100?')",[1007]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B455618692574^FATEHI/SUALEH             ^888809010299211?;455618692574=888809010299211?')",[3198]
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B379580832431161^ /                        ^1508121140165241?;379580832431161=150812114016524100000?+6202408082356005=15046200000010000000000004976?')",[3172]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track3__2(us.fatehi.test.magnetictrack.bankcard.Track3Test)')","[408, 820]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B5391285197433215^FATEHI/SUALEH             ^1701101000001540000000154000000?;5391285197433215=17011010000015400000?')",[1880]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^5[1-5][0-9]{5,}$|^(222[1-9]|2[3-6][0-9][0-9]|27[0-1][0-9]|2720)[0-9]{12}$', '379580832431161')","[2992, 3120]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^5[1-5][0-9]{5,}$|^(222[1-9]|2[3-6][0-9][0-9]|27[0-1][0-9]|2720)[0-9]{12}$', '6035320294113574')","[2372, 2578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track1FormatB2(us.fatehi.test.magnetictrack.bankcard.Track1FormatBTest)')","[469, 864]"
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B6035320294113574^FATEHI/SUALEH^491210100316000000?;6035320294113574=491210110000316?')",[2500]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B7083560000013710910^MICHAELS OPEN VALUE CARD  ^8551?;7083560000013710910=8551?')",[3378]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackG(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[284, 710]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackB(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[179, 600]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^3[47][0-9]{5,}$', '7083560000013710910')",[3482]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackC(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[200, 622]"
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', ';5266092201416174=16042010000056700100?')",[909]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^5[1-5][0-9]{5,}$|^(222[1-9]|2[3-6][0-9][0-9]|27[0-1][0-9]|2720)[0-9]{12}$', '7083560000013710910')",[3456]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^3(?:0[0-5]|[68][0-9])[0-9]{4,}$', '6011460477609366')","[2036, 2216]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track2__2(us.fatehi.test.magnetictrack.bankcard.Track2Test)')","[78, 534]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '5391285197433215')","[1726, 1828]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^3[47][0-9]{5,}$', '6035320294113574')","[2398, 2604]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '379580832431161')","[2940, 3068]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '+6202408082356005=15046200000010000000000004976?')",[3662]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^(?:2131|1800|35[0-9]{3})[0-9]{3,}$', '6035320294113574')","[2476, 2682]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track3__1(us.fatehi.test.magnetictrack.bankcard.Track3Test)')","[387, 798]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B378578692630345^ /                        ^1508121140165241?;378578692630345=150812114016524100000?+6202408082356005=15046200000010000000000004976?')",[3687]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^6(?:011|5[0-9]{2})[0-9]{3,}$', '7083560000013710910')",[3534]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B6035320294113574^FATEHI/SUALEH^491210100316000000?;6035320294113574=491210110000316?')",[2294]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '6035320294113574')","[2346, 2552]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'us.fatehi.test.magnetictrack.bankcard.ManyTest')","[137, 3637]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^3(?:0[0-5]|[68][0-9])[0-9]{4,}$', '7083560000013710910')",[3508]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '5266092201416174')","[934, 1032, 1159, 3764, 3865, 3965]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'track1FormatB1(us.fatehi.test.magnetictrack.bankcard.Track1FormatBTest)')","[448, 842]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B5350290149345177^FATEHI/SUALEH^16042010000000000000000000000000000567001000?;5350290149345177=16042010000056700100?')",[1468]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'us.fatehi.test.magnetictrack.bankcard.Track1FormatBTest')","[427, 4038]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '455618692574')","[3224, 3300]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^(?:2131|1800|35[0-9]{3})[0-9]{3,}$', '7083560000013710910')",[3560]
+"('Track2.java', 'us.fatehi.magnetictrack.bankcard.Track2', 'from', '.*[\\t\\n\\r ]?(;([0-9]{1,19})=([0-9]{4})([0-9]{3})(.*)\\?).*', '%B4181887684889366^FATEHI/SUALEH^1605101097670000000000120000000?;4181887684889366=160510101200009767?')",[1570]
+"('Track1FormatB.java', 'us.fatehi.magnetictrack.bankcard.Track1FormatB', 'from', '(%?([A-Z])([0-9]{1,19})\\^([^\\^]{2,26})\\^([0-9]{4}|\\^)([0-9]{3}|\\^)?([^\\?]+)?\\??)[\t\n\r ]{0,2}.*', '%B4181887684889366^FATEHI/SUALEH^1502101072560000000000019000000?;4181887684889366=150210100190007256?')",[2734]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^3[47][0-9]{5,}$', '379580832431161')","[3018, 3146]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '4181887684889366')","[1520, 1596, 2760, 2836]"
+"('Track3.java', 'us.fatehi.magnetictrack.bankcard.Track3', 'from', '.*?[\t\n\r ]{0,2}(\\+(.*)\\?)', '%B6011460477609366^FATEHI/SUALEH             ^15101011000606818102?;6011460477609366=15101011000606818102?')",[2268]
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '4181887684889366')","[1546, 1622, 2786, 2862]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'us.fatehi.test.magnetictrack.bankcard.Track3Test')","[366, 3714]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '379580832431161')","[2966, 3094]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'trackH(us.fatehi.test.magnetictrack.bankcard.ManyTest)')","[305, 732]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^3(?:0[0-5]|[68][0-9])[0-9]{4,}$', '6035320294113574')","[2424, 2630]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^unknown$', '5350290149345177')","[1288, 1390]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '6011460477609366')","[1958, 2138]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^4[0-9]{6,}$', '455618692574')","[3250, 3326]"
+"('CardBrand.java', 'us.fatehi.creditcardnumber.CardBrand', 'from', '^3[47][0-9]{5,}$', '6011460477609366')","[2010, 2190]"

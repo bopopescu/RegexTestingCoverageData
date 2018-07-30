@@ -1,0 +1,44 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDelete(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[309, 476]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LoginUserDaoImpl.class')",[19276]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'User.class')","[4176, 21957]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'service')","[2704, 14751]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserServiceImpl.class')",[11671]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q367_398\\E', '367_398')","[692, 1398, 2164, 2920, 3626, 4396, 5162, 5918, 6624, 7394, 8160, 8916, 9622, 10392, 11111, 11895, 12675, 13445, 14211, 14967, 15673, 16443, 17213, 17932, 18716, 19496, 20262, 21110, 22265]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LoginUser.class')","[4946, 23112]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[638, 1343, 2110, 2866, 3571, 4341, 5108, 5864, 6569, 7339, 8106, 8862, 9567, 10337, 11055, 11839, 12620, 13390, 14157, 14913, 15618, 16388, 17158, 17876, 18660, 19441, 20208, 21033, 22188]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qin\\E', 'in')","[1070, 1783, 2542, 3298, 4011, 4781, 5540, 6296, 7009, 7779, 8538, 9294, 10007, 10777, 11503, 12287, 13060, 13830, 14589, 15345, 16058, 16828, 17598, 18324, 19108, 19881, 20640, 21649, 22804]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[908, 1618, 2380, 3136, 3846, 4616, 5378, 6134, 6844, 7614, 8376, 9132, 9842, 10612, 11335, 12119, 12895, 13665, 14427, 15183, 15893, 16663, 17433, 18156, 18940, 19716, 20478, 21418, 22573]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[584, 1288, 2056, 2812, 3516, 4286, 5054, 5810, 6514, 7284, 8052, 8808, 9512, 10282, 10999, 11783, 12565, 13335, 14103, 14859, 15563, 16333, 17103, 17820, 18604, 19386, 20154, 20956, 22111]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[3082, 3791, 4561, 5324, 6080, 6789, 7559, 8322, 9078, 9787, 10557, 11279, 12063, 12840, 13610, 14373, 15129, 15838, 16608, 17378, 18100, 18884, 19661, 20424, 21341, 22496]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LoginUserDao.class')",[16993]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserServiceTest.class')",[1948]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qspring\\E', 'spring')","[1016, 1728, 2488, 3244, 3956, 4726, 5486, 6242, 6954, 7724, 8484, 9240, 9952, 10722, 11447, 12231, 13005, 13775, 14535, 15291, 16003, 16773, 17543, 18268, 19052, 19826, 20586, 21572, 22727]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFind(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[78, 99, 120, 413]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserService.class')",[10172]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zhjq.spring.in.action.chapter5.service.UserServiceTest')",[36]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qzhjq\\E', 'zhjq')","[962, 1673, 2434, 3190, 3901, 4671, 5432, 6188, 6899, 7669, 8430, 9186, 9897, 10667, 11391, 12175, 12950, 13720, 14481, 15237, 15948, 16718, 17488, 18212, 18996, 19771, 20532, 21495, 22650]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zhjq.spring.in.action.chapter5.service.UserServiceTest')","[23133, 23153, 23174, 23194]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qdomain\\E', 'domain')","[21880, 23035]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSave(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[141, 434]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')","[13225, 20046]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSave(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[162, 183, 204]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QSpringTest\\E', 'SpringTest')","[746, 1453, 2218, 2974, 3681, 4451, 5216, 5972, 6679, 7449, 8214, 8970, 9677, 10447, 11167, 11951, 12730, 13500, 14265, 15021, 15728, 16498, 17268, 17988, 18772, 19551, 20316, 21187, 22342]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qchapter5\\E', 'chapter5')","[1178, 1893, 2650, 3406, 4121, 4891, 5648, 6404, 7119, 7889, 8646, 9402, 10117, 10887, 11615, 12399, 13170, 13940, 14697, 15453, 16168, 16938, 17708, 18436, 19220, 19991, 20748, 21803, 22958]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'FileController.class')",[7944]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'domain')",[5702]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MainController.class')",[7174]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[800, 1508, 2272, 3028, 3736, 4506, 5270, 6026, 6734, 7504, 8268, 9024, 9732, 10502, 11223, 12007, 12785, 13555, 14319, 15075, 15783, 16553, 17323, 18044, 18828, 19606, 20370, 21264, 22419]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFind(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[57, 393]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[854, 1563, 2326]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUpdate(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[246, 267, 288]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[530, 1233, 2002, 2758, 3461, 4231, 5000, 5756, 6459, 7229, 7998, 8754, 9457, 10227, 10943, 11727, 12510, 13280, 14049, 14805, 15508, 16278, 17048, 17764, 18548, 19331, 20100, 20879, 22034]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDao.class')",[16223]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LoginUserService.class')",[13995]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDelete(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[330, 351, 372]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'controller')",[8700]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpdate(com.zhjq.spring.in.action.chapter5.service.UserServiceTest)')","[225, 455]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'dao')",[20802]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qaction\\E', 'action')","[1124, 1838, 2596, 3352, 4066, 4836, 5594, 6350, 7064, 7834, 8592, 9348, 10062, 10832, 11559, 12343, 13115, 13885, 14643, 15399, 16113, 16883, 17653, 18380, 19164, 19936, 20694, 21726, 22881]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LoginUserServiceImpl.class')",[12455]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoImpl.class')",[18492]

@@ -1,0 +1,66 @@
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[2470, 3086, 3702, 4318, 4934, 5550, 6166, 6782, 7398, 7966, 8585]"
+"('FileFilterUtil.java', 'ch.qos.logback.core.rolling.helper.FileFilterUtil$3', 'accept', 'ht_server-2018-01-13.log', 'pwang7')","[113, 169]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.server.service.TestBase')","[9118, 9138, 9159, 9179]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetServerList(com.server.service.TestZKManager)')","[1415, 1436, 1457]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreateNode(com.server.service.TestCuratorFramework)')","[247, 268, 289, 1534]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetServerList(com.server.service.TestZKManager)')","[1394, 1887]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.server.service.TestBase')",[1493]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDelete(com.server.service.TestCuratorFramework)')","[499, 520, 541]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetNodes(com.server.service.TestCuratorTools)')","[833, 1701]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetRootNode(com.server.service.TestCuratorTools)')","[581, 1618]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestZKManager.class')",[6334]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNodeExist(com.server.service.TestCuratorFramework)')","[394, 1576]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetRootNode(com.server.service.TestCuratorTools)')","[602, 623, 644, 1638]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConnectZookeeper(com.server.service.TestZookeeperCurator)')","[1144, 1165, 1186, 1804]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qservice\\E', 'service')","[2582, 3198, 3814, 4430, 5046, 5662, 6278, 6894, 7510, 8080, 8697]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.server.service.TestZookeeperCurator')","[8954, 8974, 8995, 9015]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDeleteNode(com.server.service.TestCuratorTools)')","[770, 791, 812]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q795_17\\E', '795_17')","[2246, 2862, 3478, 4094, 4710, 5326, 5942, 6558, 7174, 7738, 8361]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.server.service.TestCuratorFramework')",[205]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetIPList(com.server.service.TestZKManager)')","[1331, 1352, 1373]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetListChildren(com.server.service.TestCuratorFramework)')","[331, 352, 373]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNodeExist(com.server.service.TestCuratorTools)')","[665, 1659]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestCuratorFramework.class')",[2638]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTest(com.server.service.TestMyService)')","[1041, 1062, 1083, 1763]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspringmvc-zookeeper-client\\E', 'springmvc-zookeeper-client')","[2302, 2918, 3534, 4150, 4766, 5382, 5998, 6614, 7230, 7795, 8417]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestZookeeperCurator.class')",[4486]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.server.service.TestCuratorTools')","[8872, 8892, 8913, 8933]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.server.service.TestZKManager')","[9036, 9056, 9077, 9097]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'initializationError(com.server.service.TestBase)')",[1928]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestBase.class')",[5102]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.server.service.TestZKManager')",[1205]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyService.class')",[6950]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')",[8753]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTest(com.server.service.TestMyService)')","[1020, 1743]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetIPList(com.server.service.TestZKManager)')","[1310, 1866]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetListChildren(com.server.service.TestCuratorFramework)')","[310, 1555]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[2414, 3030, 3646, 4262, 4878, 5494, 6110]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[2134, 2750, 3366, 3982, 4598, 5214, 5830, 6446, 7062, 7624, 8249]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[2078, 2694, 3310, 3926, 4542, 5158, 5774, 6390, 7006, 7567, 8193]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDeleteNode(com.server.service.TestCuratorTools)')","[749, 1680]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAddNodes(com.server.service.TestCuratorTools)')","[917, 1722]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyServiceImpl.class')",[8137]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestCuratorTools.class')",[3254]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConnectZookeeper(com.server.service.TestZookeeperCurator)')","[1123, 1784]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[186, 1474]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'initializationError(com.server.service.TestBase)')",[1908]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.server.service.TestMyService')",[999]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetNodes(com.server.service.TestCuratorTools)')","[854, 875, 896]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDelete(com.server.service.TestCuratorFramework)')","[478, 1597]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[6726, 7342, 7909, 8529]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateNode(com.server.service.TestCuratorFramework)')","[226, 1514]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestMyService.class')",[3870]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.server.service.TestMyService')","[8778, 8802, 8827, 8851]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNodeExist(com.server.service.TestCuratorTools)')","[686, 707, 728]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.server.service.TestZookeeperCurator')",[1102]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[2190, 2806, 3422, 4038, 4654, 5270, 5886, 6502, 7118, 7681, 8305]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAddNodes(com.server.service.TestCuratorTools)')","[938, 959, 980]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.server.service.TestCuratorFramework')","[1952, 1975, 1999, 2022]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CreateClientExample.class')",[5718]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.server.service.TestCuratorTools')",[560]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRegister(com.server.service.TestZKManager)')","[1226, 1825]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[2358, 2974, 3590, 4206, 4822, 5438, 6054, 6670, 7286, 7852, 8473]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qserver\\E', 'server')","[2526, 3142, 3758, 4374, 4990, 5606, 6222, 6838, 7454, 8023, 8641]"
+"('FileSize.java', 'ch.qos.logback.core.util.FileSize', 'valueOf', '([0-9]+)\\s*(|kb|mb|gb)s?', '50MB')",[56]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRegister(com.server.service.TestZKManager)')","[1247, 1268, 1289, 1845]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNodeExist(com.server.service.TestCuratorFramework)')","[415, 436, 457]"

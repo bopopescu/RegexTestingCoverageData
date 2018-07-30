@@ -1,0 +1,575 @@
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpAllTracedMessagesAsXml')","[64248, 68231]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setCollisionAvoidanceFactor')","[89830, 96298]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getExchangesCompleted')","[5789, 5845, 9079, 9136, 13643, 13701, 21432, 21489, 103993, 104054, 109363, 109425, 113007, 113070, 118051, 118115, 122156, 122219, 126628, 126690, 133734, 133794, 140710, 140771, 147064, 147126, 153400, 153461]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowExchangeId')","[74361, 74427, 83913, 83980]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowHeaders')","[74887, 74954, 84447, 84515]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getExchangesFailed')","[5900, 5956, 9192, 9249, 13758, 13816, 21545, 21602, 104114, 104175, 109486, 109548, 113132, 113195, 118178, 118242, 122281, 122344, 126751, 126813, 133853, 133913, 140831, 140892, 147187, 147249, 153521, 153582]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'aggregate')","[57762, 57865, 57968, 58071]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getBacklogTracer')","[61488, 61554]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'choice')",[53898]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'transacted')","[50702, 50805]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowProperties')","[75348, 75414, 84915, 84982]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getUseCollisionAvoidance')","[90028, 90094, 96499, 96566]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpRoutesAsXml')","[2953, 18884]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'addOrUpdateRoutesFromXml')","[3008, 18940]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setMaximumRedeliveries')","[88514, 94962]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLogHandled')","[91344, 91410, 97835, 97902]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLoad01')","[1619, 1675, 17526, 17583, 130518, 130578, 137440, 137501, 144355, 144417, 150735, 150796]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTraceInterceptors')","[70150, 70217, 79839, 79907]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRoute')","[24839, 24900, 26838, 26900, 32969, 33027, 101570, 101631, 106777, 106839, 129566, 129626, 136472, 136533, 156297, 156357, 158263, 158324]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isSuspended')","[26716, 26777, 28746, 28808, 30120, 30183, 32275, 32337, 34753, 34811, 36390, 36449, 158143, 158203, 160140, 160201, 161369, 161431, 162822, 162883]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLabel')","[41174, 41226]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setRetryAttemptedLogLevel')","[91212, 91279, 97701, 97769]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'User-Agent')",[171009]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getInterceptStrategies')","[41792, 41844]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTimeUnit')","[4619, 20467]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'process')",[57607]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'init')","[7787, 11113, 12024, 25869, 27885, 33948, 37065, 38913, 65299, 78507, 94433, 106171, 111577, 115257, 116264, 135876, 142888, 157310, 159293, 165547, 169868]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Cache-Control')",[171151]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMeanProcessingTime')","[6455, 6511, 9757, 9814, 14333, 14391, 22110, 22167, 104719, 104780, 110101, 110163, 113757, 113820, 118813, 118877, 122906, 122969, 127366, 127428, 134448, 134508, 141436, 141497, 147802, 147864, 154126, 154187]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'end')",[57556]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'processRef')",[50908]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'createChildProcessor')",[44419]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setBeanId')",[37901]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'doTry')",[47406]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getErrorHandler')","[94564, 94630]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Content-Type')",[171926]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'init')","[7843, 11170, 12082, 25930, 27947, 34006, 37134, 38982, 65365, 78573, 94499, 106232, 111639, 115320, 116328, 135936, 142949, 157370, 159354, 165614, 169927]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setEnabled')","[65036, 65103, 68898, 68966, 78375, 78442, 87988, 88056]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'requestStringBody')","[2786, 18714]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'processRef')",[50856]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRedeliveries')","[6122, 6178, 9418, 9475, 13988, 14046, 21771, 21828, 104356, 104417, 109732, 109794, 113382, 113445, 118432, 118496, 122531, 122594, 126997, 127059, 134091, 134151, 141073, 141134, 147433, 147495, 153763, 153824]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMinProcessingTime')","[6344, 6400, 9644, 9701, 14218, 14276, 21997, 22054, 104598, 104659, 109978, 110040, 113632, 113695, 118686, 118750, 122781, 122844, 127243, 127305, 134329, 134389, 141315, 141376, 147679, 147741, 154005, 154066]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTraceExceptions')","[70546, 70613, 80241, 80309]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTotalRoutes')","[2453, 2509, 18375, 18432]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowBreadCrumb')","[74229, 74296, 83779, 83847]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getProperties')","[3620, 3676, 19563, 19620]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'enrichRef')",[52401]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setNotificationSender')","[71929, 71996, 78837, 78905]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isSupportSuspension')","[25506, 25567, 27516, 27578, 29370, 29433, 31537, 31599, 33603, 33661, 35688, 35747, 156953, 157013, 158930, 158991, 160631, 160693, 162096, 162157]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'content-type')",[170938]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFirstExchangeFailureExchangeId')","[7676, 7732, 11000, 11057, 15598, 15656, 23353, 23410, 106050, 106111, 111454, 111516, 115132, 115195, 120210, 120274, 124281, 124344, 128719, 128781, 135757, 135817, 142767, 142828, 149155, 149217, 155457, 155518]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpRouteAsXml')","[130935, 137864, 144786, 151159]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'markRollbackOnly')",[49569]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterMaxChars')","[78111, 87720]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'delay')","[59925, 60028, 60131]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'idempotentConsumer')","[46839, 46942, 47045]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'threads')","[53949, 54052, 54155, 54258]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowNode')","[75874, 75941, 85449, 85517]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'inOnly')","[45140, 45243, 45346, 45449, 45552, 45655]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'placeholder')",[41895]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'completedExchange')","[5290, 8571, 12837, 103449, 108810, 112445, 117161, 133199, 140166]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setKeepAliveTime')","[165212, 165280, 168510, 168579]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'endChoice')",[46633]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getConsumer')","[156059, 156119]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setExchangePattern')",[43646]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'addInterceptStrategy')",[41689]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'split')","[54979, 55082, 55185]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setShutdownNowOnTimeout')","[2174, 18091]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getUri')","[40553, 40605]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setRemoveOnDump')","[62145, 62212, 66096, 66164]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLogLevel')","[69953, 70019, 79639, 79706]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDestination')","[101145, 101206, 124780, 124842]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setLogLevel')","[70282, 79973]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setUseCollisionAvoidance')","[90159, 96632]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'removeFaultHeader')",[51886]
+"('DefaultManagementNameStrategy.java', 'org.apache.camel.impl.DefaultManagementNameStrategy', 'resolveManagementName', '.*#\\w+#.*', 'camel-1')",[121]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTimeout')","[4955, 5011, 20809, 20866]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'purge')","[32797, 35162, 164878, 168171]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTraceInterceptors')","[70084, 79772]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setRemoveOnDump')","[62079, 66029]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTracing')","[4787, 20638, 132779, 139739, 146323, 152671]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'requestBodyAndHeaders')","[1064, 17074]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getProcessor')","[100903, 100964, 101024, 101085, 107023, 107085]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowOutHeaders')","[75150, 84714]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setEndpoint')",[40397]
+"('ThreadHelper.java', 'org.apache.camel.util.concurrent.ThreadHelper', 'resolveThreadName', '.*#\\w+#.*', 'Camel (camel-1) thread #0 - ManagementLoadTask')",[169108]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowRouteId')","[76795, 86384]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isSupportRedelivery')","[93909, 93975, 100306, 100373]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getCorePoolSize')","[164013, 164080, 167293, 167361]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'removeHeaders')","[51680, 51783]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getExternalRedeliveries')","[6233, 6289, 9531, 9588, 14103, 14161, 21884, 21941, 104477, 104538, 109855, 109917, 113507, 113570, 118559, 118623, 122656, 122719, 127120, 127182, 134210, 134270, 141194, 141255, 147556, 147618, 153884, 153945]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'sendBodyAndHeaders')","[898, 16905]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'loop')","[53589, 53692, 53795]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'createEndpoint')","[509, 16509]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setDelayPattern')","[93186, 93253, 99705, 99773]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Host')",[171716]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'sort')","[56114, 56217, 56320]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpTracedMessages')","[63855, 67832]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'description')",[61268]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'createOutputsProcessor')",[44316]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLastExchangeCompletedExchangeId')","[7010, 7066, 10322, 10379, 14908, 14966, 22675, 22732, 105324, 105385, 110716, 110778, 114382, 114445, 119448, 119512, 123531, 123594, 127981, 128043, 135043, 135103, 142041, 142102, 148417, 148479, 154731, 154792]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getThreadPool')","[165946, 166013]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'equals')","[131649, 138590]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowExchangePattern')","[76203, 76270, 85783, 85851]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setBodyMaxChars')","[62474, 62541, 66430, 66498]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'CamelCxfMessage')",[171293]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'log')","[54619, 54722, 54825, 54928]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'filter')","[56423, 56526, 56629, 56732]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'endDoTry')",[46788]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'resume')","[4064, 19902, 26353, 28377, 29745, 31906, 34408, 36039, 129209, 149646, 157786, 159777, 161000, 162459]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getUriOrRef')","[41277, 41329]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFaultHeader')",[51526]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFailuresHandled')","[6011, 6067, 9305, 9362, 13873, 13931, 21658, 21715, 104235, 104296, 109609, 109671, 113257, 113320, 118305, 118369, 122406, 122469, 126874, 126936, 133972, 134032, 140952, 141013, 147310, 147372, 153642, 153703]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowExchangeId')","[74558, 74625, 84113, 84181]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'breadcrumbId')",[171222]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'policy')","[53331, 53434]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowOutHeaders')","[75019, 75085, 84581, 84648]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLastExchangeFailureExchangeId')","[7454, 7510, 10774, 10831, 15368, 15426, 23127, 23184, 105808, 105869, 111208, 111270, 114882, 114945, 119956, 120020, 124031, 124094, 128473, 128535, 135519, 135579, 142525, 142586, 148909, 148971, 155215, 155276]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'log')","[54567, 54670, 54773, 54876]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'increment')","[8287, 11622, 11967, 106716, 112131, 115820, 116201, 136412, 143433]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isRemoveOnDump')","[61948, 62014, 65896, 65963]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'endDoTry')",[46736]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'resume')","[4120, 19959, 26414, 28439, 29808, 31968, 34466, 36098, 129269, 149707, 157846, 159838, 161062, 162520]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFaultHeader')",[51474]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getPattern')","[39932, 39984]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'rollback')","[49775, 49878]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setDestination')","[101327, 101389, 124965, 125028]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'addRoutes')",[59770]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLogExhausted')","[92660, 92726, 99171, 99238]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getEnabled')","[64708, 64774, 72192, 72258, 81711, 81778]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'toF')",[45037]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'pollEnrich')","[52504, 52607, 52710, 52813]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFirstExchangeFailureTimestamp')","[7565, 7621, 10887, 10944, 15483, 15541, 23240, 23297, 105929, 105990, 111331, 111393, 115007, 115070, 120083, 120147, 124156, 124219, 128596, 128658, 135638, 135698, 142646, 142707, 149032, 149094, 155336, 155397]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getStartedRoutes')","[2564, 2620, 18488, 18545]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'routeId')",[44110]
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Host')",[171080]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'reset')","[4453, 7954, 11283, 12197, 12548, 16001, 20298, 23749, 106353, 111762, 115445, 116455, 116842, 120655, 124719, 129150, 132601, 136055, 139558, 143070, 146139, 149586, 152490, 155881]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isShutdown')","[166079, 166146, 168985, 169053]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setLogLevel')","[70348, 70415, 80040, 80108]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dynamicRouter')","[48590, 48693]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Pragma')",[171364]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowOutBody')","[73505, 83044]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterMaxChars')","[78177, 78244, 87787, 87855]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'choice')",[53846]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'transacted')","[50650, 50753]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'onCompletion')",[44007]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'resetTypeConversionCounters')","[24779, 31107]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setId')",[60285]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'addOrUpdateRoutesFromXml')","[3064, 18997]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpRoutesStatsAsXml')","[3119, 19053]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowOutHeaders')","[75216, 75283, 84781, 84849]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setLogExhausted')","[92857, 92924, 99371, 99439]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTraceOutExchanges')","[70744, 70811, 80442, 80510]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setPattern')","[40087, 40140]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLastExchangeCompletedTimestamp')","[6899, 6955, 10209, 10266, 14793, 14851, 22562, 22619, 105203, 105264, 110593, 110655, 114257, 114320, 119321, 119385, 123406, 123469, 127858, 127920, 134924, 134984, 141920, 141981, 148294, 148356, 154610, 154671]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMaximumCacheSize')","[32394, 32452, 34869, 34928]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setBacklogSize')","[61750, 65695]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setOtherAttributes')",[53175]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'resetTraceCounter')","[63724, 67699]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDefinition')","[102963, 103024, 108316, 108378]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'threads')","[54001, 54104, 54207, 54310]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'start')","[3842, 19676, 26111, 28131, 29495, 31660, 34178, 35805, 102479, 107824, 121092, 125581, 131946, 138892, 145462, 151824, 157548, 159535, 160754, 162217]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setDelayPattern')","[93120, 99638]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Pragma')",[171576]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setOutHeader')","[51268, 51371]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setDestination')","[101266, 124903]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpTracedMessages')","[63921, 67899]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getId')","[61165, 61217, 102600, 102661, 107947, 108009, 165813, 165880, 168850, 168918]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'sample')","[48848, 48951, 49054]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setHeader')","[51114, 51217]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'onTimer')","[1286, 16057, 130161, 137077, 143494]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'resetTraceCounter')","[63790, 67766]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'to')","[58792, 58895, 58998, 59101, 59204, 59307, 59410, 59513, 59616, 59719]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'start')","[3898, 19733, 26172, 28193, 29558, 31722, 34236, 35864, 102540, 107886, 121155, 125643, 132006, 138953, 145524, 151885, 157608, 159596, 160816, 162278]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'shutdown')","[131351, 131470, 138287, 138408, 145216, 145339, 151582, 151703]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getResetTimestamp')","[8009, 8065, 11339, 11396, 11679, 11737, 12255, 12314, 15713, 15771, 23466, 23523, 106413, 106474, 111823, 111885, 115507, 115570, 115883, 115947, 116519, 116584, 120337, 120401, 124406, 124469, 128842, 128904, 136114, 136174, 143130, 143191, 149278, 149340, 155578, 155639]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setRetriesExhaustedLogLevel')","[90817, 97300]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setRedeliveryDelay')","[88843, 95296]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'sendBody')","[787, 16792]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTraceBodySize')","[71665, 81377]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'throwException')",[55443]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowException')","[76466, 86050]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setShutdownNowOnTimeout')","[2230, 2287, 18148, 18206]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getKeepAliveTime')","[164146, 164213, 167428, 167496]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setOutHeader')","[51320, 51423]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setRef')",[41018]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setProperty')","[3398, 19337, 54361, 54464]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'enrichRef')",[52453]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterBreadCrumbLength')","[77124, 86718]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'markRollbackOnly')",[49517]
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'SOAPAction')",[171506]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'removeProperty')",[60234]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTraceFilter')","[64379, 64445, 68364, 68431]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowNode')","[75808, 85382]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowRouteId')","[76664, 76730, 86251, 86318]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'wrapProcessor')",[44728]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLargestPoolSize')","[164279, 164346, 167563, 167631]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isCustomId')","[60700, 60752]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'pattern')",[39881]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTraceFilter')","[64510, 68497]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getAttemptCounter')","[24234, 24295, 30553, 30615]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowRouteId')","[76861, 76928, 86451, 86519]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'wrapProcessor')",[44676]
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'breadcrumbId')",[171891]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isJmxTraceNotifications')","[71205, 71271, 80910, 80977]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpRouteAsXml')","[130875, 137803, 144724, 151098]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'pattern')",[39829]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setLogContinued')","[92462, 98970]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setBody')","[58122, 58225]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'restart')","[1231, 17244]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'toString')",[40243]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'stop')","[4175, 20015, 26474, 28500, 29870, 32029, 34523, 36156, 55803, 102842, 108193, 121342, 125827, 132184, 132303, 132422, 139134, 139255, 139376, 145708, 145831, 145954, 152066, 152187, 152308, 157905, 159898, 161123, 162580]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'resolveEndpoint')",[40864]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setLogHandled')","[92199, 92266, 98703, 98771]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setCorePoolSize')","[165011, 165079, 168306, 168375]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'requestBody')","[953, 16961]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'aop')",[46479]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTraceCounter')","[63593, 63659, 67566, 67633]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'recipientList')","[47509, 47612, 47715, 47818]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getPoolSize')","[164545, 164612, 167833, 167901]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'removeEndpoints')","[454, 16453]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isSupportTransactions')","[94171, 94237, 100572, 100639]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setCollisionAvoidancePercent')","[93449, 99839]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getComponentName')","[36791, 36860, 37618, 37688]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReportIncident(org.apache.camel.example.reportincident.ReportIncidentRoutesTest)')","[57, 78]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLogRetryStackTrace')","[91804, 91870, 98302, 98369]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLastExchangeFailureTimestamp')","[7343, 7399, 10661, 10718, 15253, 15311, 23014, 23071, 105687, 105748, 111085, 111147, 114757, 114820, 119829, 119893, 123906, 123969, 128350, 128412, 135400, 135460, 142404, 142465, 148786, 148848, 155094, 155155]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setRetriesExhaustedLogLevel')","[90883, 90950, 97367, 97435]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setInheritErrorHandler')",[53019]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'idempotentConsumer')","[46891, 46994, 47097]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowProperties')","[75545, 75612, 85115, 85183]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'removeHeaders')","[51732, 51835]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'sendBodyAndHeaders')","[842, 16848]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'loop')","[53537, 53640, 53743]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFirstExchangeCompletedTimestamp')","[7121, 7177, 10435, 10492, 15023, 15081, 22788, 22845, 105445, 105506, 110839, 110901, 114507, 114570, 119575, 119639, 123656, 123719, 128104, 128166, 135162, 135222, 142162, 142223, 148540, 148602, 154852, 154913]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getInflightExchanges')","[1397, 1453, 17300, 17357, 130280, 130340, 137198, 137259, 144109, 144171, 150493, 150554, 156178, 156238, 161612, 161673]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTracing')","[4843, 4900, 20695, 20753, 132839, 132900, 139800, 139862, 146385, 146448, 152732, 152794]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getEndpointRegistry')","[32509, 32567]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'resequence')","[49157, 49260]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setJmxTraceNotifications')","[71336, 81043]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'convertBodyTo')","[52041, 52144]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'enrich')","[52195, 52298, 170717]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isInheritErrorHandler')","[44779, 44831]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'loadBalance')","[47148, 47251]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'beanRef')","[42462, 42565]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isShutdownNowOnTimeout')","[2063, 2119, 17978, 18035]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setLogName')","[69493, 79305]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'resequence')","[49105, 49208]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDeltaProcessingTime')","[6788, 6844, 10096, 10153, 14678, 14736, 22449, 22506, 105082, 105143, 110470, 110532, 114132, 114195, 119194, 119258, 123281, 123344, 127735, 127797, 134805, 134865, 141799, 141860, 148171, 148233, 154489, 154550]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'convertBodyTo')","[51989, 52092]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'aop')",[46427]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isDeadLetterChannel')","[93778, 93844, 100173, 100240]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterBreadCrumbLength')","[77190, 77257, 86785, 86853]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'unmarshal')","[42616, 42719, 42822, 42925]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setMaximumRedeliveryDelay')","[90554, 90621, 97033, 97101]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setJmxTraceNotifications')","[71402, 71469, 81110, 81178]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTaskQueueRemainingCapacity')","[163614, 163681, 166888, 166956]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setLogStackTrace')","[69295, 79104, 91606, 98101]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'end')",[57504]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'validate')","[58328, 58431, 58534]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowBodyType')","[73242, 73309, 82777, 82845]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setLogRetryStackTrace')","[91935, 98435]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'routingSlip')","[47921, 48024, 48127, 48230, 48333, 48436, 48539]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTracePattern')","[63264, 63330, 67232, 67299]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'wireTap')","[49981, 50084, 50187, 50290, 50393, 50496, 50599]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'pipeline')","[46015, 46118, 46221, 46324]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowBodyType')","[73045, 73111, 82577, 82644]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'routeId')",[44058]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRouteContext')","[93318, 93384]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'loadBalance')","[47200, 47303]"
+"('ThreadHelper.java', 'org.apache.camel.util.concurrent.ThreadHelper', 'resolveThreadName', '.*#\\w+#.*', 'Camel (camel-1) thread #1 - ShutdownTask')",[171969]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'pollEnrich')","[52556, 52659, 52762, 52865]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'addOutput')",[44470]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'increment')","[8231, 11565, 11909, 106655, 112069, 115757, 116137, 136352, 143372]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setOtherAttributes')","[53227, 53280]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isBodyIncludeFiles')","[62935, 63001, 66898, 66965]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'User-Agent')",[171611]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'rollback')","[49723, 49826]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'findComponents')","[1952, 17865]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'addRoutes')",[59822]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpRouteStatsAsXml')","[131113, 138045, 144970, 151340]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getCollisionAvoidanceFactor')","[89699, 89765, 96165, 96232]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'markRollbackOnlyLast')",[49620]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'toF')",[44985]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'suspend')","[4286, 20128, 26595, 28623, 29995, 32152, 34638, 36273, 129328, 129447, 149767, 149888, 158024, 160019, 161246, 162701]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'CamelCxfMessage')",[171786]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpTracedMessagesAsXml')","[64052, 68032]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'attribute')",[58689]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTraceInterceptors')","[72323, 72389, 81844, 81911]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLogStackTrace')","[69164, 69230, 78971, 79038, 91475, 91541, 97968, 98035]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMaximumRedeliveries')","[88383, 88449, 94829, 94896]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'sendStringBody')","[2731, 18658]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'findComponents')","[2008, 17922]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMaxProcessingTime')","[6566, 6622, 9870, 9927, 14448, 14506, 22223, 22280, 104840, 104901, 110224, 110286, 113882, 113945, 118940, 119004, 123031, 123094, 127489, 127551, 134567, 134627, 141557, 141618, 147925, 147987, 154247, 154308]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRetriesExhaustedLogLevel')","[90686, 90752, 97167, 97234]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'idOrCreate')",[60649]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setBackOffMultiplier')","[89238, 89305, 95697, 95765]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'inheritErrorHandler')",[44213]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'removeHeader')",[51629]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setKeepAliveTime')","[165145, 168442]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowOutBody')","[73374, 73440, 82911, 82978]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'throttle')","[49363, 49466]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getProcessorId')","[102116, 102177, 107455, 107517, 120967, 121030, 125458, 125520]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isSingleton')","[38228, 38297, 39188, 39258, 169283, 169342, 170222, 170282]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLastProcessingTime')","[6677, 6733, 9983, 10040, 14563, 14621, 22336, 22393, 104961, 105022, 110347, 110409, 114007, 114070, 119067, 119131, 123156, 123219, 127612, 127674, 134686, 134746, 141678, 141739, 148048, 148110, 154368, 154429]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTaskQueueSize')","[163348, 163415, 166618, 166686]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'reset')","[4397, 7898, 11226, 12139, 12489, 15943, 20241, 23692, 106292, 111700, 115382, 116391, 116777, 120591, 124656, 129088, 132541, 135995, 139497, 143009, 146077, 149524, 152429, 155820]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setBodyIncludeFiles')","[63066, 67031]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTraceBodySize')","[71731, 71798, 81444, 81512]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setLogName')","[69559, 69626, 79372, 79440]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'throwException')",[55391]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowException')","[76532, 76599, 86117, 86185]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpRoutesAsXml')","[2897, 18827]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Cache-Control')",[171541]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getContext')","[3731, 3787, 25990, 26051, 28008, 28070, 34063, 34121, 65430, 65496, 78638, 78704, 102358, 102419, 107701, 107763, 131827, 131887, 138771, 138832, 157429, 157489, 159414, 159475, 165680, 165747]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setRef')","[41070, 41123]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setMaximumRedeliveryDelay')","[90488, 96966]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowOutBodyType')","[73900, 73967, 83445, 83513]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setHeader')","[51062, 51165]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'onTimer')","[1342, 16114, 130221, 137138, 143556]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowBodyType')","[73176, 82710]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'to')","[58740, 58843, 58946, 59049, 59152, 59255, 59358, 59461, 59564, 59667]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setDescription')",[60441]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setCollisionAvoidanceFactor')","[89896, 89963, 96365, 96433]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'pipeline')","[46067, 46170, 46273, 46376]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getEndpointUri')","[38365, 38434, 39327, 39397, 129685, 129745, 136593, 136654, 143617, 143679, 150009, 150070, 155940, 156000, 161491, 161552, 169400, 169459, 170341, 170401]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowOutBodyType')","[73834, 83378]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTimeout')","[3286, 3343, 19223, 19281]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getBackOffMultiplier')","[89041, 89107, 95497, 95564]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterMaxChars')","[77980, 78046, 87587, 87654]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFaultBody')",[51011]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTraceExceptions')","[72454, 72520, 81977, 82044]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setDescription')","[60493, 60546]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getOtherAttributes')","[44882, 44934]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowBreadCrumb')","[74032, 74098, 83579, 83646]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setThrowExceptionOnFailure')",[100843]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'completedExchange')","[5234, 8514, 12779, 103388, 108748, 112382, 117097, 133139, 140105]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isBodyIncludeStreams')","[62606, 62672, 66564, 66631]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowShortExchangeId')","[77519, 77586, 87119, 87187]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setBodyIncludeStreams')","[62803, 62870, 66764, 66832]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setBackOffMultiplier')","[89172, 95630]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setDestinationUri')","[71073, 71140, 80776, 80844]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'endChoice')",[46685]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'onException')","[43749, 43852]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'addInterceptStrategy')",[41741]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'split')","[55031, 55134, 55237]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowBody')","[72913, 72980, 82443, 82511]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'stop')","[4231, 20072, 26535, 28562, 29933, 32091, 34581, 36215, 55855, 102903, 108255, 121405, 125889, 132244, 132363, 132482, 139195, 139316, 139437, 145770, 145893, 146016, 152127, 152248, 152369, 157965, 159959, 161185, 162641]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setRetryAttemptedLogLevel')","[91146, 97634]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getSource')","[32624, 32682, 34986, 35045]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpAllTracedMessagesAsXml')","[64314, 68298]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTraceExceptions')","[70480, 80174]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'inOut')","[43028, 43131, 43234, 43337, 43440, 43543]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'requestBody')","[1009, 17018]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setMaximumPoolSize')","[165413, 165481, 168714, 168783]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'recipientList')","[47457, 47560, 47663, 47766]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'delay')","[59873, 59976, 60079]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setDestinationUri')","[71007, 80709]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'inOnly')","[45088, 45191, 45294, 45397, 45500, 45603]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'hasCustomIdAssigned')",[61011]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTraceOutExchanges')","[70678, 80375]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'multicast')","[45758, 45861, 45964]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'policy')","[53383, 53486]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDestinationUri')","[70876, 70942, 80576, 80643]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'getProperty')","[3565, 19507]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setLogContinued')","[92528, 92595, 99037, 99105]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setLogHandled')","[92133, 98636]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'restart')","[1175, 17187]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'toString')",[40191]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'requestStringBody')","[2842, 18771]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'hasCustomIdAssigned')",[60959]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getThreadPoolProfileId')","[163215, 163282, 166483, 166551]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'multicast')","[45706, 45809, 45912]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterNodeLength')","[77782, 87386]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setNotificationSender')","[71863, 78770]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setDataFormat')","[37962, 38023]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getProperty')","[3509, 19450]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setLogExhausted')","[92791, 99304]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'removeEndpoints')","[398, 16396]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTraceOutExchanges')","[72585, 72651, 82110, 82177]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getHitCounter')","[24476, 24537, 30799, 30861]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpAllTracedMessages')","[64117, 68098]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getCompletedTaskCount')","[163880, 163947, 167158, 167226]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setEnabled')","[64970, 68831, 78309, 87921]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'clearOutput')",[44573]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'createOutputsProcessor')",[44264]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isOutputSupported')","[41586, 41638]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'equals')","[131589, 138529]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'createProcessor')",[40967]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'bean')","[41998, 42101, 42204, 42307]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setBodyMaxChars')","[62408, 66363]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowNode')","[75677, 75743, 85249, 85316]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setEndpoint')","[40449, 40502]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'unmarshal')","[42668, 42771, 42874, 42977]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMessageExchangePattern')","[101449, 101510, 125089, 125151]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDelayPattern')","[92989, 93055, 99505, 99572]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setLogStackTrace')","[69361, 69428, 79171, 79239, 91672, 91739, 98168, 98236]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLoad15')","[1841, 1897, 17752, 17809, 130756, 130816, 137682, 137743, 144601, 144663, 150977, 151038]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'routingSlip')","[47869, 47972, 48075, 48178, 48281, 48384, 48487]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'createEndpoint')","[565, 16566]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getIndex')","[57401, 57453, 103084, 103145, 108439, 108501, 121467, 121530, 125950, 126012]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'wireTap')","[49929, 50032, 50135, 50238, 50341, 50444, 50547]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getUseJpa')","[72061, 72127, 81578, 81645]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'beanRef')","[42410, 42513]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTraceFilter')","[64576, 64643, 68564, 68632]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setUseExponentialBackOff')","[89567, 89634, 96031, 96099]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowBreadCrumb')","[74163, 83712]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'inOut')","[43080, 43183, 43286, 43389, 43492, 43595]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'pollEnrichRef')",[52916]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'marshal')","[56783, 56886, 56989, 57092]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowBody')","[72847, 82376]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setRoute')","[25263, 25325, 27269, 27332, 33372, 33431, 101994, 102056, 107331, 107394, 156714, 156775, 158687, 158749]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getExchangesTotal')","[8120, 8176, 11452, 11509, 11794, 11852, 12372, 12431, 15828, 15886, 23579, 23636, 106534, 106595, 111946, 112008, 115632, 115695, 116010, 116074, 116648, 116713, 120464, 120528, 124531, 124594, 128965, 129027, 136233, 136293, 143251, 143312, 149401, 149463, 155699, 155760]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpStatsAsXml')","[5623, 8910, 13471, 21263, 103812, 109179, 112820, 117861, 121969, 126444, 133556, 140529, 146880, 153219]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setMaximumPoolSize')","[165346, 168646]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setBacklogSize')","[61816, 61883, 65762, 65830]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'pollEnrichRef')",[52968]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setRedeliveryDelay')","[88909, 88976, 95363, 95431]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTimeUnit')","[4508, 4564, 20354, 20411]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'failedExchange')","[5401, 8684, 12952, 103570, 108933, 112570, 117288, 133318, 140287]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getServiceType')","[25385, 25446, 27393, 27455, 29245, 29308, 31414, 31476, 33488, 33546, 35571, 35630, 156834, 156894, 158809, 158870, 160508, 160570, 161975, 162036]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterShowOutBody')","[73571, 73638, 83111, 83179]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRouteId')","[25081, 25142, 27084, 27146, 29120, 29183, 31291, 31353, 33199, 33257, 35454, 35513, 101812, 101873, 107146, 107208, 120842, 120905, 125335, 125397, 130042, 130102, 136956, 137017, 143986, 144048, 150372, 150433, 156535, 156595, 158505, 158566, 160385, 160447, 161854, 161915, 162949, 163016, 166213, 166281]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setStatisticsEnabled')","[5066, 8343, 12605, 13124, 20922, 23930, 30244, 103205, 108562, 112193, 116905, 117478, 121592, 126073, 132959, 139922, 146509, 152854]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'onCompletion')",[43955]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'resetTypeConversionCounters')","[24718, 31045]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'bean')","[42050, 42153, 42256, 42359]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setMaximumRedeliveries')","[88580, 88647, 95029, 95097]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setId')","[60337, 60390]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRedeliveryDelay')","[88712, 88778, 95163, 95230]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowBody')","[72716, 72782, 82243, 82310]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpRoutesStatsAsXml')","[3175, 19110]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getCollisionAvoidancePercent')","[93647, 93713, 100040, 100107]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setBody')","[58174, 58277]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'inheritErrorHandler')",[44161]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'removeHeader')",[51577]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getErrorHandlerBuilder')","[88121, 88187]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLogName')","[69691, 69757, 79506, 79573]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'requestBodyAndHeaders')","[1120, 17131]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'throttle')","[49311, 49414]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setCollisionAvoidancePercent')","[93515, 93582, 99906, 99974]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dynamicRouter')","[48642, 48745]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'sort')","[56062, 56165, 56268]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'suspend')","[4342, 20185, 26656, 28685, 30058, 32214, 34696, 36332, 129388, 129507, 149828, 149949, 158084, 160080, 161308, 162762]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getInstance')","[25748, 25809, 27762, 27824, 28870, 28933, 33833, 33891, 36928, 36997, 37340, 37410, 38639, 38708, 38776, 38845, 102237, 102298, 107578, 107640, 157191, 157251, 159172, 159233, 169634, 169693, 169751, 169810, 170103, 170163]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'failedExchange')","[5345, 8627, 12894, 103509, 108871, 112507, 117224, 133258, 140226]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpTracedMessagesAsXml')","[63986, 67965]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'attribute')",[58637]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'transform')","[55649, 55752]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getSize')","[32854, 32912, 35220, 35279]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'sendStringBody')","[2675, 18601]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTracePattern')","[63461, 63528, 67432, 67500]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'idOrCreate')",[60597]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getEndpoint')","[38091, 38160, 40294, 40346, 169166, 169225]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isTaskQueueEmpty')","[163481, 163548, 166753, 166821]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'process')",[57659]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterBreadCrumbLength')","[76993, 77059, 86585, 86652]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'transform')","[55597, 55700]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setStatisticsEnabled')","[5122, 5179, 8400, 8458, 12663, 12722, 13182, 13241, 20979, 21037, 23991, 24053, 30306, 30369, 103266, 103328, 108624, 108687, 112256, 112320, 116969, 117034, 117542, 117607, 121655, 121719, 126135, 126198, 133019, 133080, 139983, 140045, 146571, 146634, 152915, 152977]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTracePattern')","[63395, 67365]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'createChildProcessor')",[44367]
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Accept')",[170867]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'doTry')",[47354]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setProperty')","[3454, 19394, 54413, 54516]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'connection')",[171856]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getManagementName')","[287, 343, 16283, 16340]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMissCounter')","[24355, 24416, 30676, 30738]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Server')",[171751]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpRouteStatsAsXml')","[131173, 138106, 145032, 151401]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMaximumPoolSize')","[164412, 164479, 167698, 167766]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTracer')","[69822, 69888]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTotalProcessingTime')","[5456, 5512, 8740, 8797, 13298, 13356, 21093, 21150, 103630, 103691, 108994, 109056, 112632, 112695, 117670, 117734, 121781, 121844, 126259, 126321, 133377, 133437, 140347, 140408, 146695, 146757, 153037, 153098]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'removeProperty')",[60182]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setTimeUnit')","[4675, 4732, 20524, 20582]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getState')","[3953, 4009, 19789, 19846, 26232, 26293, 28254, 28316, 29620, 29683, 31783, 31845, 34293, 34351, 35922, 35981, 37202, 37271, 37757, 37827, 39050, 39119, 39605, 39675, 102721, 102782, 108070, 108132, 121217, 121280, 125704, 125766, 132065, 132125, 139013, 139074, 145585, 145647, 151945, 152006, 157667, 157727, 159656, 159717, 160877, 160939, 162338, 162399, 169985, 170044, 170579, 170639]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'sendBody')","[731, 16735]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowShortExchangeId')","[77453, 87052]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setBodyIncludeStreams')","[62737, 66697]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'onException')","[43801, 43904]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDescription')","[61371, 61423, 132660, 132720, 139618, 139679, 146200, 146262, 152550, 152611]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'remove')","[131292, 138227, 145155, 151522]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getCamelId')","[620, 676, 16622, 16679, 24960, 25021, 26961, 27023, 28995, 29058, 31168, 31230, 33084, 33142, 35337, 35396, 36654, 36723, 37479, 37549, 38502, 38571, 39466, 39536, 88252, 88318, 94696, 94763, 101691, 101752, 106900, 106962, 120717, 120780, 125212, 125274, 129804, 129864, 136714, 136775, 143740, 143802, 150130, 150191, 156416, 156476, 158384, 158445, 160262, 160324, 161733, 161794, 169517, 169576, 170460, 170520]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowHeaders')","[74821, 84380]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setTimeout')","[3230, 19166]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'clear')","[65168, 69032]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTaskCount')","[164678, 164745, 167968, 168036]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFaultBody')",[50959]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setCustomId')","[60855, 60908]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isDeadLetterUseOriginalMessage')","[94040, 94106, 100439, 100506]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getShortName')","[39726, 39778]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTracing')","[1508, 1564, 17413, 17470, 130399, 130459, 137319, 137380, 144232, 144294, 150614, 150675]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'markRollbackOnlyLast')",[49672]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLogContinued')","[92331, 92397, 98837, 98904]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'clear')","[65234, 69099]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setUseExponentialBackOff')","[89501, 95964]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setUseCollisionAvoidance')","[90225, 90292, 96699, 96767]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'removeFaultHeader')",[51938]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setCustomId')",[60803]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRoutePolicyList')","[129923, 129983, 136835, 136896, 143863, 143925, 150251, 150312]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'purge')","[32739, 35103, 164811, 168103]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'placeholder')",[41947]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setLogRetryStackTrace')","[92001, 92068, 98502, 98570]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setPattern')",[40035]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'updateRouteFromXml')","[130994, 137924, 144847, 151219]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'remove')","[131232, 138166, 145093, 151461]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRef')","[41380, 41432]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'updateRouteFromXml')","[131054, 137985, 144909, 151280]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowProperties')","[75479, 85048]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setExchangePattern')",[43698]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRegistry')","[23809, 23870]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowExchangePattern')","[76006, 76072, 85583, 85650]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getOutputs')","[41483, 41535]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'marshal')","[56835, 56938, 57041, 57144]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getUptime')","[176, 232, 16170, 16227]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowOutBodyType')","[73703, 73769, 83245, 83312]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'dumpAllTracedMessages')","[64183, 68165]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getTraceBodySize')","[71534, 71600, 81244, 81311]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getParent')","[55494, 55546]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getBodyMaxChars')","[62277, 62343, 66230, 66297]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getUseExponentialBackOff')","[89370, 89436, 95831, 95898]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'clearOutput')",[44625]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getActiveCount')","[163747, 163814, 167023, 167091]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getLoad05')","[1730, 1786, 17639, 17696, 130637, 130697, 137561, 137622, 144478, 144540, 150856, 150917]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'createProcessor')",[40915]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'endParent')",[46582]
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Accept')",[171821]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isStatisticsEnabled')","[5678, 5734, 8966, 9023, 13009, 13067, 13528, 13586, 21319, 21376, 24113, 24174, 30430, 30492, 103872, 103933, 109240, 109302, 112882, 112945, 117351, 117415, 117924, 117988, 122031, 122094, 126505, 126567, 133615, 133675, 140589, 140650, 146941, 147003, 153279, 153340]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(?i)(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'connection')",[171435]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'sample')","[48796, 48899, 49002]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowException')","[76335, 76401, 85917, 85984]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getCamelVersion')","[2342, 2398, 18262, 18319]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getMaximumRedeliveryDelay')","[90357, 90423, 96833, 96900]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setFormatterNodeLength')","[77848, 77915, 87453, 87521]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'endParent')",[46530]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'shutdown')","[131411, 131530, 138348, 138469, 145278, 145401, 151643, 151764]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'filter')","[56371, 56474, 56577, 56680]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'hashCode')","[131708, 138650]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setBodyIncludeFiles')","[63132, 63199, 67098, 67166]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getRetryAttemptedLogLevel')","[91015, 91081, 97501, 97568]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowHeaders')","[74690, 74756, 84247, 84314]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowExchangeId')","[74492, 84046]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDescriptionText')","[61062, 61114]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.apache.camel.example.reportincident.ReportIncidentRoutesTest')","[36, 171991]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterShowShortExchangeId')","[77322, 77388, 86919, 86986]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getBacklogSize')","[61619, 61685, 65562, 65629]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'description')",[61320]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getService')","[25627, 25688, 27639, 27701, 33718, 33776, 157072, 157132, 159051, 159112]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'hashCode')","[131768, 138711]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getSourceId')","[163082, 163149, 166348, 166416]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isAbstract')","[55288, 55340]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setFormatterShowExchangePattern')","[76137, 85716]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'addOutput')",[44522]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'resolveEndpoint')",[40812]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getDeadLetterChannelEndpointUri')","[94302, 94368, 100705, 100772]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setInheritErrorHandler')","[53071, 53124]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFormatterNodeLength')","[77651, 77717, 87253, 87320]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'enrich')","[52247, 52350, 170796]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'validate')","[58380, 58483, 58586]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getComponent')","[36517, 36586]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'id')","[57247, 57350]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setRoute')","[25202, 27207, 33314, 101933, 107269, 156654, 158626]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setCorePoolSize')","[164944, 168238]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setParent')","[55958, 56011]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isSetter', 'set[A-Z].*', 'setUri')","[40708, 40761]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'dumpStatsAsXml')","[5567, 8853, 13413, 21206, 103751, 109117, 112757, 117797, 121906, 126382, 133496, 140468, 146818, 153158]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'Content-Length')",[171681]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFailedCounter')","[24597, 24658, 30922, 30984]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'isEnabled')","[64839, 64905, 68698, 68765]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'getFirstExchangeCompletedExchangeId')","[7232, 7288, 10548, 10605, 15138, 15196, 22901, 22958, 105566, 105627, 110962, 111024, 114632, 114695, 119702, 119766, 123781, 123844, 128227, 128289, 135281, 135341, 142283, 142344, 148663, 148725, 154973, 155034]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'aggregate')","[57710, 57813, 57916, 58019]"
+"('DefaultHeaderFilterStrategy.java', 'org.apache.camel.impl.DefaultHeaderFilterStrategy', 'doFiltering', '(Camel|org\\.apache\\.camel)[\\.|a-z|A-z|0-9]*', 'SOAPAction')",[171646]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'id')","[57195, 57298]"
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setParent')",[55906]
+"('IntrospectionSupport.java', 'org.apache.camel.util.IntrospectionSupport', 'isGetter', '(get|is)[A-Z].*', 'setUri')",[40656]

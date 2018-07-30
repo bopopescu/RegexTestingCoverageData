@@ -1,0 +1,32 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWebSocketSending(org.wisdom.engine.server.DispatcherTest)')","[99, 621]"
+"('RequestHeader.java', 'org.wisdom.api.http.RequestHeader', 'getLocaleList', '([a-zA-Z]+(-[a-zA-Z]+)?(-[a-zA-Z]+)?)(;q=(.*))?', 'en-gb;q=0.8')",[1193]
+"('RequestHeader.java', 'org.wisdom.api.http.RequestHeader', 'getLocaleList', '([a-zA-Z]+(-[a-zA-Z]+)?(-[a-zA-Z]+)?)(;q=(.*))?', 'da')",[1169]
+"('SystemPropertyUtil.java', 'io.netty.util.internal.SystemPropertyUtil', 'getInt', '-?[0-9]+', '64')",[1064]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPath(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[387, 863]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMediaType(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[324, 797]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWebSocketDispatching(org.wisdom.engine.server.DispatcherTest)')","[78, 599]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMethod(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[534, 1017]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testServerStartSequence(org.wisdom.engine.server.DispatcherTest)')","[57, 577]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.wisdom.engine.server.DispatcherTest')","[36, 1091]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInternalError(org.wisdom.engine.server.WisdomServerTest)')","[181, 687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCookies(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[471, 951]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWebSocketWithMultiClients(org.wisdom.engine.server.DispatcherTest)')","[120, 643]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRemoteAddress(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[492, 973]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEncodingLanguageAndCharset(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[429, 907]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUri(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[345, 819]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testKeyManagerFactory(org.wisdom.engine.ssl.FakeKeyStoreTest)')","[242, 731]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOk(org.wisdom.engine.server.WisdomServerTest)')","[160, 665]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParameter(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[282, 753]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.wisdom.engine.server.WisdomServerTest')","[139, 1118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.wisdom.engine.wrapper.RequestFromNettyTest')","[261, 1240]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParameterMultipleValues(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[555, 1039]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAccepts(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[303, 775]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHost(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[366, 841]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.wisdom.engine.ssl.FakeKeyStoreTest')","[221, 1145]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testServerStartSequence(org.wisdom.engine.server.WisdomServerTest)')","[202, 709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHeaders(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[450, 929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLanguageOrder(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[513, 995]"
+"('RequestHeader.java', 'org.wisdom.api.http.RequestHeader', 'getLocaleList', '([a-zA-Z]+(-[a-zA-Z]+)?(-[a-zA-Z]+)?)(;q=(.*))?', 'en;q=0.7')",[1217]
+"('PlatformDependent.java', 'io.netty.util.internal.PlatformDependent', 'isRoot0', '^(?:0|[1-9][0-9]*)$', '33657')",[1051]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContentType(org.wisdom.engine.wrapper.RequestFromNettyTest)')","[408, 885]"

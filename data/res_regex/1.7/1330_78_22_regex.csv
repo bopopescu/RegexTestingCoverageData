@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStartInstance(org.apache.stratos.mock.iaas.test.MockIaasServiceTest)')","[57, 121]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.stratos.mock.iaas.test.MockIaasServiceTest')","[36, 367]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetInstances(org.apache.stratos.mock.iaas.test.MockIaasServiceTest)')","[99, 165]"
+"('ActiveMQConnectionMetaData.java', 'org.apache.activemq.ActiveMQConnectionMetaData', '<clinit>', '(\\d+)\\.(\\d+).*', '5.10.0')",[214]
+"('StreamDefinition.java', 'org.wso2.carbon.databridge.commons.StreamDefinition', '<init>', '^\\d+\\.\\d+\\.\\d+$', '1.0.0')","[247, 279, 312, 344]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTerminateInstance(org.apache.stratos.mock.iaas.test.MockIaasServiceTest)')","[78, 143]"

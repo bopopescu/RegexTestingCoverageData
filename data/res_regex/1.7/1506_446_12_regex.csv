@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.maven.settings.validation.DefaultSettingsValidatorTest')","[75, 423]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.maven.settings.building.DefaultSettingsBuilderFactoryTest')","[36, 400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateRepository(org.apache.maven.settings.validation.DefaultSettingsValidatorTest)')","[95, 239]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateUniqueRepositoryId(org.apache.maven.settings.validation.DefaultSettingsValidatorTest)')","[135, 283]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateMirror(org.apache.maven.settings.validation.DefaultSettingsValidatorTest)')","[115, 261]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidate(org.apache.maven.settings.validation.DefaultSettingsValidatorTest)')","[195, 349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateUniqueProfileId(org.apache.maven.settings.validation.DefaultSettingsValidatorTest)')","[155, 305]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCompleteWiring(org.apache.maven.settings.building.DefaultSettingsBuilderFactoryTest)')","[56, 217]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateUniqueServerId(org.apache.maven.settings.validation.DefaultSettingsValidatorTest)')","[175, 327]"

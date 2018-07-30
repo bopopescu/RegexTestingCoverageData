@@ -1,0 +1,33 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'xx(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[78, 99, 120, 833]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquals(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[246, 267, 288]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '2012-07-31T12:00:00Z')",[1252]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'net.runal.emulate.com.microsoft.system.DateTimeTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetTime(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[498, 519, 540]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '0001-01-01T00:00:00Z')",[1202]
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '0001-01-02T09:00:00.0000000+0900')",[1102]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testValueOf(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[666, 687, 708]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '2018-01-16T02:07:38.4381235-0800')",[1327]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString_0args(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[393, 917]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValueOf(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[645, 980]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '1970-01-01T00:00:00Z')","[1052, 1177]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '0001-01-01T16:00:00.0000000-0800')",[1127]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[225, 875]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetTicks(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[729, 1001]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '2018-01-16T10:07:38.4382358Z')",[1277]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString_TimeZone(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[309, 896]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '9999-12-31T23:59:59.9999999Z')",[1227]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToString_TimeZone(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testToString_0args(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'xx(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[57, 813]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'net.runal.emulate.com.microsoft.system.DateTimeTest')","[1348, 1368, 1389, 1409]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetTicks(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[750, 771, 792]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCompareTo(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[141, 854]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '1970-02-29T00:00:00Z')",[1027]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetTime(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[561, 959]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCompareTo(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[162, 183, 204]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '2018-01-16T10:07:38.4172358Z')",[1152]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '0001-01-02T00:00:00.0000000Z')",[1077]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetTime(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetTime(net.runal.emulate.com.microsoft.system.DateTimeTest)')","[477, 938]"
+"('DateTime.java', 'net.runal.emulate.com.microsoft.system.DateTime', 'valueOf', '(\\d\\d\\d\\d)-(\\d\\d)-(\\d\\d)T(\\d\\d):(\\d\\d):(\\d\\d)(.(\\d{1,7}))?(Z|(([+-])(\\d\\d))(\\d\\d))', '2018-01-16T19:07:38.4381459+0900')",[1302]

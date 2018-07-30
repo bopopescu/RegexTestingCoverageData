@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'jhc.redsniff.AlertsErrorPageTest')","[644, 1374]"
+"('Platform.java', 'org.openqa.selenium.Platform', '<init>', '^(\\d+)\\.(\\d+).*', '4.4.0-66-generic')","[38, 76, 114, 152, 190, 228, 266, 304, 342, 380, 418, 456, 494, 532, 570, 608]"
+"('ByFinder.java', 'jhc.redsniff.webdriver.finders.ByFinder', 'locatorFor', '^By\\.(\\w+)\\: (.*?)$', 'By.wicketPath: //w{exception}')",[1347]
+"('ByFinder.java', 'jhc.redsniff.webdriver.finders.ByFinder', 'locatorFor', '^By\\.(\\w+)\\: (.*?)$', 'By.cssSelector: span.feedbackPanelERROR')","[931, 1007]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'jhc.redsniff.wicket.ByWicketPathTest')","[684, 1397]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConvertFormatPath(jhc.redsniff.wicket.ByWicketPathTest)')","[705, 749]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'complainsAndShowsErrorPageStackTraceWhenErrorPageFoundWhileLookingForSomethingElse(jhc.redsniff.AlertsErrorPageTest)')","[665, 727]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[625]
+"('ByFinder.java', 'jhc.redsniff.webdriver.finders.ByFinder', 'locatorFor', '^By\\.(\\w+)\\: (.*?)$', 'By.tagName: h1')","[786, 823, 859, 895, 1084, 1121, 1157, 1193, 1307]"
+"('ByFinder.java', 'jhc.redsniff.webdriver.finders.ByFinder', 'locatorFor', '^By\\.(\\w+)\\: (.*?)$', 'By.cssSelector: .feedbackContainer , .feedbackPanel')","[971, 1047]"
+"('ByFinder.java', 'jhc.redsniff.webdriver.finders.ByFinder', 'locatorFor', '^By\\.(\\w+)\\: (.*?)$', 'By.tagName: h2')","[1230, 1267]"

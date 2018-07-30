@@ -1,0 +1,28 @@
+"('AcceptType.java', 'org.apache.olingo.commons.api.format.AcceptType', '<init>', '\\A(?:0(?:\\.\\d{0,3})?)|(?:1(?:\\.0{0,3})?)\\Z', '0.0001')",[1192]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'acceptTypes(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[183, 601]"
+"('AcceptType.java', 'org.apache.olingo.commons.api.format.AcceptType', '<init>', '\\A(?:0(?:\\.\\d{0,3})?)|(?:1(?:\\.0{0,3})?)\\Z', '0.1')","[925, 1021, 1093]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'singleAcceptType(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[267, 685]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'wildcardError(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[225, 643]"
+"('AcceptType.java', 'org.apache.olingo.commons.api.format.AcceptType', '<init>', '\\A(?:0(?:\\.\\d{0,3})?)|(?:1(?:\\.0{0,3})?)\\Z', '0.2')","[877, 949, 1117, 1216, 1240, 1264, 1288, 1312]"
+"('AcceptType.java', 'org.apache.olingo.commons.api.format.AcceptType', '<init>', '\\A(?:0(?:\\.\\d{0,3})?)|(?:1(?:\\.0{0,3})?)\\Z', 'z')",[1142]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'abbreviationsNotAllowed(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[99, 517]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'withQParameter(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[141, 559]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'charsetUtf8(org.apache.olingo.commons.api.format.ContentTypeTest)')","[370, 769]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'wildcard(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[57, 475]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'toContentTypeString(org.apache.olingo.commons.api.format.ContentTypeTest)')","[433, 832]"
+"('AcceptType.java', 'org.apache.olingo.commons.api.format.AcceptType', '<init>', '\\A(?:0(?:\\.\\d{0,3})?)|(?:1(?:\\.0{0,3})?)\\Z', '0.3')","[901, 973, 997, 1045, 1069]"
+"('AcceptType.java', 'org.apache.olingo.commons.api.format.AcceptType', '<init>', '\\A(?:0(?:\\.\\d{0,3})?)|(?:1(?:\\.0{0,3})?)\\Z', '42')",[1167]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'formatErrors(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[246, 664]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createAndModify(org.apache.olingo.commons.api.format.ContentTypeTest)')","[328, 727]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createWithParameter(org.apache.olingo.commons.api.format.ContentTypeTest)')","[412, 811]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'trailingSemicolon(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[162, 580]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.apache.olingo.commons.api.format.AcceptTypeTest')","[36, 1338]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createFail(org.apache.olingo.commons.api.format.ContentTypeTest)')","[454, 853]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.apache.olingo.commons.api.format.ContentTypeTest')","[307, 1360]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parameterErrors(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[120, 538]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'fromContentType(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[288, 706]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'wrongQParameter(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[204, 622]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'wildcardSubtype(org.apache.olingo.commons.api.format.AcceptTypeTest)')","[78, 496]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'create(org.apache.olingo.commons.api.format.ContentTypeTest)')","[349, 748]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parse(org.apache.olingo.commons.api.format.ContentTypeTest)')","[391, 790]"

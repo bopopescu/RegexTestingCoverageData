@@ -1,0 +1,72 @@
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$,;/?:"")","[2703, 2738]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'email')","[5092, 8617, 13161]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'creationDate')","[4982, 8507, 13051]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tokenTest(com.cahue.resources.UserServiceTest)')","[1060, 1232]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[839]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'addCarsTest(com.cahue.resources.CarsJerseyTest)')","[919, 1144]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'btAddress')",[9072]
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'accuracy')",[8918]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[1428]
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'fromString', '\\s*([^\\s/=;""]+)/([^\\s/=;""]+)\\s*(;.*)?', 'application/json; charset=UTF-8')","[4741, 8355, 10832, 12899]"
+"('UserAuthenticationService.java', 'com.cahue.auth.UserAuthenticationService', 'validateToken', '.+\\|iweco\\|\\d+\\|.+', 'A89B1F9B-5F37-4859-B85A-8233992E9EB0|iweco|1|1515966181957')",[11112]
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'setType', '[\\w!#$&.+\\-\\^_]+|[*]', 'application')","[2805, 2972, 3945, 4776, 6664, 7543, 8391, 9141, 10020, 10868, 11208, 12087, 12935]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'car')",[8830]
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'googleUser')","[5004, 8529, 13073]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', '-_.*')","[2419, 2454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.cahue.PlacesTest')","[858, 2289]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/cars')","[5308, 5380]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.cahue.resources.UserServiceTest')","[1018, 11139]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validatePathForPut', '^__.*__$', 'ParkingSpot')",[8808]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(com.cahue.resources.UserServiceTest)')","[1039, 1210]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'color')",[9050]
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'latitude')",[8896]
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'fromString', '\\s*([^\\s/=;""]+)/([^\\s/=;""]+)\\s*(;.*)?', 'application/x-www-form-urlencoded; charset=UTF-8')","[2938, 6629, 9106, 11173]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'spot')",[9028]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')",[3454]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'marshall(com.cahue.resources.DevicesTest)')","[999, 1188]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'placesTest(com.cahue.PlacesTest)')","[879, 1122]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;=+/?"")","[2561, 2596]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'matchesToken', '[\\p{ASCII}&&[^\\p{Cntrl} ;/=\\[\\]\\(\\)\\<\\>\\@\\,\\:\\""\\?\\=]]+', 'UTF-8')","[2905, 3106, 6802, 9279, 11346]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'user')","[5114, 5224, 8639, 8749, 11050, 13183, 13293]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'PKCS5PADDING')","[5498, 5596, 5690, 5788, 5882, 5980, 6076, 6176, 6272, 6372, 6468, 6568]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'facebookUser')","[5048, 8573, 13117]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'fromString', '\\s*([^\\s/=;""]+)/([^\\s/=;""]+)\\s*(;.*)?', 'application/json; charset=utf-8')","[3911, 7508, 9985, 12052]"
+"('NamespaceManager.java', 'com.google.appengine.api.NamespaceManager', 'validateNamespace', '[0-9A-Za-z._-]{0,100}', 'AUTH_TOKENS_MEMCACHE')","[5260, 8786, 11087, 13330, 13363]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'setParameter', '[\\p{ASCII}&&[^\\p{Cntrl} ;/=\\[\\]\\(\\)\\<\\>\\@\\,\\:\\""\\?\\=]]+', 'charset')","[2872, 3040, 4013, 4846, 6734, 7613, 8463, 9211, 10090, 10940, 11278, 12157, 13007]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.cahue.resources.CarsTest')","[1079, 13386]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validatePathForPut', '^__.*__$', 'User')","[4960, 5136, 8485, 8661, 8940, 10962, 13029, 13205]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validatePathForPut', '^__.*__$', 'Car')",[8962]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[1554, 1680, 1800, 1920, 2028, 2136, 3224, 3342, 3566, 3678, 3778, 3878, 4165, 4283, 4395, 4507, 4607, 4707, 6922, 7042, 7144, 7246, 7360, 7474, 7768, 7888, 7990, 8092, 8206, 8320, 9399, 9519, 9621, 9723, 9837, 9951, 10245, 10365, 10467, 10569, 10683, 10797, 11466, 11586, 11688, 11790, 11904, 12018, 12312, 12432, 12534, 12636, 12750, 12864]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validatePathForPut', '^__.*__$', 'Device')","[5158, 8683, 10984, 13227]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'fromString', '\\s*([^\\s/=;""]+)/([^\\s/=;""]+)\\s*(;.*)?', 'application/x-www-form-urlencoded')",[2771]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/cars(/)?', '/cars')","[5332, 5404]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'name')",[9006]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'ECB')","[5643, 5739, 5835, 5931, 6224, 6322, 6420, 6518]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.cahue.resources.SpotsTest')","[938, 13432]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'expirationDate')","[5202, 8727, 11028, 13271]"
+"('NamespaceManager.java', 'com.google.appengine.api.NamespaceManager', 'validateNamespace', '[0-9A-Za-z._-]{0,100}', 'ObjectifyCache')","[70, 140, 201, 262, 332, 402, 472, 542, 612, 682, 752, 822, 2199, 2262]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'lastModified')",[8984]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(com.cahue.resources.SpotsTest)')","[959, 1166]"
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/cars')","[5284, 5356]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validatePathForPut', '^__.*__$', 'AuthToken')","[5180, 8705, 11006, 13249]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[1370]
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validatePathForPut', '^__.*__$', 'GoogleUser')","[5070, 8595, 13139]"
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '2.3.16')",[2320]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[1491, 1617, 1740, 1860, 1974, 2082, 3165, 3283, 3510, 3622, 3728, 3828, 4106, 4224, 4339, 4451, 4557, 4657, 6862, 6982, 7093, 7195, 7303, 7417, 7708, 7828, 7939, 8041, 8149, 8263, 9339, 9459, 9570, 9672, 9780, 9894, 10185, 10305, 10416, 10518, 10626, 10740, 11406, 11526, 11637, 11739, 11847, 11961, 12252, 12372, 12483, 12585, 12693, 12807]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'refreshToken')","[5026, 8551, 13095]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')",[3398]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[1312]
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'longitude')",[8874]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'addCarsTest(com.cahue.resources.CarsTest)')","[1100, 1254]"
+"('LocalDatastoreService.java', 'com.google.appengine.api.datastore.dev.LocalDatastoreService', 'validateAndProcessProperty', '^__.*__$', 'time')",[8852]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.cahue.resources.CarsJerseyTest')","[898, 13409]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64', 'ECB')","[5451, 5547, 6028, 6126]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.cahue.resources.DevicesTest')","[978, 6595]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'setSubType', '[\\w!#$&.+\\-\\^_]+|[*]', 'json')","[3979, 4811, 7578, 8427, 10055, 10904, 12122, 12971]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""=&-_.!~*'()@:$,;/?:"")","[2352, 2383]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'setSubType', '[\\w!#$&.+\\-\\^_]+|[*]', 'x-www-form-urlencoded')","[2839, 3006, 6699, 9176, 11243]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'():$&,;="")","[2632, 2667]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'matchesToken', '[\\p{ASCII}&&[^\\p{Cntrl} ;/=\\[\\]\\(\\)\\<\\>\\@\\,\\:\\""\\?\\=]]+', 'POST')","[3073, 6768, 9245, 11312]"
+"('HttpMediaType.java', 'com.google.api.client.http.HttpMediaType', 'matchesToken', '[\\p{ASCII}&&[^\\p{Cntrl} ;/=\\[\\]\\(\\)\\<\\>\\@\\,\\:\\""\\?\\=]]+', 'GET')","[4047, 7648, 10125, 12192]"
+"('NamespaceManager.java', 'com.google.appengine.api.NamespaceManager', 'validateNamespace', '[0-9A-Za-z._-]{0,100}', '_ah_')","[4889, 4938]"
+"('PercentEscaper.java', 'com.google.api.client.util.escape.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;="")","[2490, 2525]"

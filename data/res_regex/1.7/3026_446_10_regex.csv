@@ -1,0 +1,30 @@
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}.[0-9]{2}', '1.10')",[717]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}', '12')",[189]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{2}:[0-9]{2}:[0-9]{2}', '0:0:00')",[333]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{10,12}', '7654328765')",[357]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{2}-[a-zA-Z]{3}', '35-Aug')",[261]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}.[0-9]{2}', '11.10')",[741]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}', '0')",[549]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleSplit(desi.tools.utility.bill.TestSplit)')","[97, 141]"
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}.[0-9]{2}', '0.10')",[693]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}', '10')",[597]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{10,12}', '765432876')",[429]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[APO]', 'A')",[453]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(desi.tools.utility.bill.TestPattern)')","[57, 119]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'desi.tools.utility.bill.TestSplit')","[76, 815]"
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}', '100')",[621]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{2}:[0-9]{2}:[0-9]{2}', '00:00:00')",[309]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'desi.tools.utility.bill.TestPattern')","[36, 792]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{2}-[a-zA-Z]{3}', '02-Aug')",[237]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}', '103')",[213]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{2}-[a-zA-Z]{3}', '05-Jul')",[285]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{10,12}', '917654328765')",[381]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}.[0-9]{2}', '111.10')",[765]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[APO]', 'O')",[501]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}', '1')","[165, 573]"
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{10,12}', '9176543287651')",[405]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[APO]', 'OO')",[525]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}', '10000')",[645]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[APO]', 'P')",[477]
+"('TestPattern.java', 'desi.tools.utility.bill.TestPattern', 'result', '[0-9]{1,3}.[0-9]{2}', '0.00')",[669]

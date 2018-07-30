@@ -1,0 +1,49 @@
+"('HLSController.java', 'net.sourceforge.subsonic.controller.HLSController', 'parseBitRate', '(\\d+)(@(\\d+)x(\\d+))?', '1000@300')",[431]
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/..\\bar/../foo')","[1543, 1569]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?50[\\.\\- ].*', '50 years')","[2073, 2099]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '')","[801, 827]"
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=0-1')",[52]
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=0-499')",[104]
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=9500-')",[156]
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '15 Step')","[2126, 2152]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/../foo')","[1278, 1304]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '01 - kokos')","[1702, 1728]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/foo..')","[1066, 1092]"
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=-100-500')",[256]
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/foo/..')","[1172, 1198]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?2[\\.\\- ].*', '01')","[2550, 2576, 2603, 2629, 2656, 2682, 2709, 2735]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?99[\\.\\- ].*', '99.- kokos')","[1861, 1887]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '../music/foo')","[1225, 1251]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music\\foo\\..')","[1384, 1410]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '')","[1596, 1622]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '01-kokos')","[1755, 1781]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '\\music\\foo.mp3')","[642, 668]"
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=500-999')",[130]
+"('HLSController.java', 'net.sourceforge.subsonic.controller.HLSController', 'parseBitRate', '(\\d+)(@(\\d+)x(\\d+))?', '1000@300x400ZZ')",[456]
+"('HLSController.java', 'net.sourceforge.subsonic.controller.HLSController', 'parseBitRate', '(\\d+)(@(\\d+)x(\\d+))?', '1000@400x300')",[381]
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music\\../foo')","[1490, 1516]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?49[\\.\\- ].*', '49ers')","[2285, 2311]"
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=0-0')",[26]
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes')",[206]
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=a-b')",[231]
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=200-100')",[331]
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?99[\\.\\- ].*', '99 - kokos')","[1808, 1834]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/foo.../')","[1119, 1145]"
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=100-100')",[78]
+"('HLSController.java', 'net.sourceforge.subsonic.controller.HLSController', 'parseBitRate', '(\\d+)(@(\\d+)x(\\d+))?', '1000')",[356]
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=-500')",[281]
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?2[\\.\\- ].*', '01 kokos')","[1914, 1940]"
+"('HLSController.java', 'net.sourceforge.subsonic.controller.HLSController', 'parseBitRate', '(\\d+)(@(\\d+)x(\\d+))?', 'asdfl')",[406]
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?2[\\.\\- ].*', '1 kokos')","[1967, 1993]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '50 years')","[2020, 2046]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '..\\music/foo')","[1437, 1463]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', 'foo.mp3')","[854, 880]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '49ers')","[2232, 2258]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '01')","[2338, 2364, 2391, 2417, 2444, 2470, 2497, 2523]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/foo..mp3')","[1013, 1039]"
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?15[\\.\\- ].*', '15 Step')","[2179, 2205]"
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', 'bytes=500-600,601-999')",[306]
+"('MetaDataParser.java', 'net.sourceforge.subsonic.service.metadata.MetaDataParser', 'removeTrackNumberFromTitle', '0?1[\\.\\- ].*', '01 kokos')","[1649, 1675]"
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/../bar/../foo')","[1331, 1357]"
+"('StringUtil.java', 'net.sourceforge.subsonic.util.StringUtil', 'parseRange', 'bytes=(\\d+)-(\\d*)', '')",[181]
+"('SecurityService.java', 'net.sourceforge.subsonic.service.SecurityService', 'isFileInFolder', '.*(/|\\\\)\\.\\.(/|\\\\|$).*', '/music/foo.mp3')","[483, 509, 536, 562, 589, 615, 695, 721, 748, 774, 907, 933, 960, 986]"

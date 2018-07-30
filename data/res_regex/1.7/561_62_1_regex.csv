@@ -1,0 +1,26 @@
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'client')","[493, 676, 859, 1042, 1256, 1391, 1638]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'asmsupport')","[467, 650, 833, 1016, 1229, 1364, 1502, 1611]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.wensiqun.asmsupport.client.operations.ObjectSampleTest)')","[97, 301]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.wensiqun.asmsupport.client.operations.ObjectSampleTest')","[76, 755]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.wensiqun.asmsupport.client.operations.ArraySampleTest')","[36, 572]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'BoolSampleGenerated')",[1094]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.wensiqun.asmsupport.client.operations.BoolSampleTest)')","[177, 345]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.wensiqun.asmsupport.client.operations.NumberSampleTest')","[116, 938]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'NumberSampleGenerated')",[911]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.wensiqun.asmsupport.client.DummyModifyTest')","[196, 1148]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'cn')","[415, 598, 781, 964, 1175, 1310, 1446, 1557]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'test')","[519, 702, 885, 1068]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'wensiqun')","[441, 624, 807, 990, 1202, 1337, 1474, 1584]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.wensiqun.asmsupport.client.DummyModifyTest)')","[217, 367]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.wensiqun.asmsupport.client.DummyTest)')","[257, 389]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.wensiqun.asmsupport.client.DummyTest')","[236, 1688]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ObjectSampleGenerated')",[728]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'clientExceptedEnum')",[1530]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ExceptedAbstractClass')",[1418]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ArraySampleGenerated')",[545]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ExceptedDummy')",[1665]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.wensiqun.asmsupport.client.operations.ArraySampleTest)')","[57, 279]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.wensiqun.asmsupport.client.operations.BoolSampleTest')","[156, 1121]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ExceptedInterface')",[1283]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.wensiqun.asmsupport.client.operations.NumberSampleTest)')","[137, 323]"

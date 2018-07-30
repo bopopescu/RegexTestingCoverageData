@@ -1,0 +1,22 @@
+"('GelfAppender.java', 'org.graylog2.log4j2.GelfAppender', 'isFQDN', '([0-9a-f]{1,4}:){7}([0-9a-f]){1,4}', 'host.example.com')",[812]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldNotAddExceptionToFullMessage(org.graylog2.log4j2.GelfAppenderThrowableTest)')","[57, 308]"
+"('GelfAppender.java', 'org.graylog2.log4j2.GelfAppender', 'isFQDN', '[:0-9a-f]*(\\d{1,3}\\.){3}(\\d{1,3})', 'bn16-147.dcs.mcnc.org')",[598]
+"('SystemPropertyUtil.java', 'io.netty.util.internal.SystemPropertyUtil', 'getInt', '-?[0-9]+', '64')",[692]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMarker(org.graylog2.log4j2.GelfAppenderTest)')","[286, 528]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldAppendExceptionClassAndMessage(org.graylog2.log4j2.GelfAppenderThrowableTest)')","[162, 418]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIsFqdn(org.graylog2.log4j2.GelfAppenderTest)')","[265, 506]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testThreadContext(org.graylog2.log4j2.GelfAppenderTest)')","[244, 484]"
+"('GelfAppender.java', 'org.graylog2.log4j2.GelfAppender', 'isFQDN', '([0-9a-f]{1,4}:){7}([0-9a-f]){1,4}', 'bn16-147.dcs.mcnc.org')",[641]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.graylog2.log4j2.GelfAppenderTest')","[181, 835]"
+"('GelfAppender.java', 'org.graylog2.log4j2.GelfAppender', 'isFQDN', '[:0-9a-f]*(\\d{1,3}\\.){3}(\\d{1,3})', 'host.example.com')",[788]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldNotAppendExceptionInformationIfNotRequested(org.graylog2.log4j2.GelfAppenderThrowableTest)')","[120, 374]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldAppendStacktraceWithCauses(org.graylog2.log4j2.GelfAppenderThrowableTest)')","[141, 396]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testException(org.graylog2.log4j2.GelfAppenderTest)')","[202, 440]"
+"('GelfAppender.java', 'org.graylog2.log4j2.GelfAppender', 'isFQDN', '[:0-9a-f]*(\\d{1,3}\\.){3}(\\d{1,3})', '2001:db8:122:344::192.0.2.33')",[764]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLog(org.graylog2.log4j2.GelfAppenderTest)')","[223, 462]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldNotFailIfNoExceptionAvailable(org.graylog2.log4j2.GelfAppenderThrowableTest)')","[99, 352]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.graylog2.log4j2.GelfAppenderThrowableTest')","[36, 555]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldAppendStacktraceWithoutCauses(org.graylog2.log4j2.GelfAppenderThrowableTest)')","[78, 330]"
+"('GelfAppender.java', 'org.graylog2.log4j2.GelfAppender', 'isFQDN', '[:0-9a-f]*(\\d{1,3}\\.){3}(\\d{1,3})', '::ffff:0:10.0.0.3')",[740]
+"('GelfAppender.java', 'org.graylog2.log4j2.GelfAppender', 'isFQDN', '[:0-9a-f]*(\\d{1,3}\\.){3}(\\d{1,3})', '123.123.56.53')",[716]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'thisTestIsBrokenAndShouldNotBeRun(com.manning.ch02.LogAnalyzerTest)')","[80, 285]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'oneMoreTest(com.manning.ch02.SampleOfRunningMultipleTests)')","[239, 423]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fileNameWithCorrectSuffixInLowercaseIsConsideredValid(com.manning.ch02.LogAnalyzerTest)')","[149, 354]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'emptyFileNameResultsInExceptionBeingThrown(com.manning.ch02.LogAnalyzerTest)')","[126, 331]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.manning.ch02.SampleOfRunningMultipleTests')","[193, 496]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'anotherTest(com.manning.ch02.SampleOfRunningMultipleTests)')","[216, 400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.manning.ch02.MyTestSuite')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'thisIsTheFirstTest(com.manning.ch02.SampleOfRunningMultipleTests)')","[262, 446]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.manning.ch02.LogAnalyzerTest')","[57, 473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'exceptionForEmptyFileNameMakesSense(com.manning.ch02.LogAnalyzerTest)')","[172, 377]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fileNameWithCorrectSuffixInUppercaseIsConsideredValid(com.manning.ch02.LogAnalyzerTest)')","[103, 308]"

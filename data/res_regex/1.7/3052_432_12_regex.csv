@@ -1,0 +1,23 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'collections_reducers(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'simple_case(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[78, 99, 120, 852]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'simple_case(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[57, 832]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.nuunframework.universalvisitor.UniversalVisitorTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.nuunframework.universalvisitor.api.MapReduceTest')","[1143, 1163, 1184, 1204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.nuunframework.universalvisitor.UniversalVisitorTest')","[1061, 1081, 1102, 1122]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.nuunframework.universalvisitor.api.MapReduceTest)')","[748, 1020]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'mutator_mapper(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[477, 957]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'multiple_reducer(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[666, 687, 708]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'issue1(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[225, 894]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'checkLevel(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[561, 978]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'collections_reducers(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[393, 936]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'checkLevel(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'issue2(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[309, 915]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'multiple_reducer(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[645, 999]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nullity_case(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.nuunframework.universalvisitor.api.MapReduceTest)')","[769, 790, 811, 1040]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'issue2(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.nuunframework.universalvisitor.api.MapReduceTest')",[727]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'issue1(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nullity_case(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[141, 873]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'mutator_mapper(org.nuunframework.universalvisitor.UniversalVisitorTest)')","[498, 519, 540]"

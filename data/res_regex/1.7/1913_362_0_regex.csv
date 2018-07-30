@@ -1,0 +1,31 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParametersInvalid(com.visma.tdd.StringCalculatorTest)')","[57, 184]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,2,1000')",[1005]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '1')","[574, 599]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '2,x')","[345, 370]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '//[x][z]\n1z2x3000')",[1159]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '1,2,1001')","[955, 980]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIgnoredNumbers(com.visma.tdd.StringCalculatorTest)')","[120, 250]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,2,3,4\n5')",[777]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,2')",[624]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '1,2')","[650, 675]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '1,2,1000')","[1031, 1056]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*xyz{2,}.*', '1xyz2xyz3000')","[1108, 1133]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '//[xyz]\n1xyz2xyz3000')",[1082]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.visma.tdd.StringCalculatorTest')","[36, 1182]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '2,x')",[319]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1')",[548]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLargeDelimiters(com.visma.tdd.StringCalculatorTest)')","[141, 272]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNegatives(com.visma.tdd.StringCalculatorTest)')","[78, 206]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*null{2,}.*', '5')","[803, 828]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '1,2,3000')","[879, 904]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,\n')",[396]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '1,2,3,4,5')","[726, 751]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*[\\s,]{2,}.*', '1,-2')","[498, 523]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,2,1001')",[929]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,-2')",[472]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultipleCustomDelimiters(com.visma.tdd.StringCalculatorTest)')","[162, 294]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,2,3,4,5')",[700]
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '^(//\\[(.+)\\]|(.+))\n(.*)', '1,2,3000')",[853]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParameters(com.visma.tdd.StringCalculatorTest)')","[99, 228]"
+"('StringCalculator.java', 'com.visma.tdd.StringCalculator', 'add', '.*null{2,}.*', '')","[422, 447]"

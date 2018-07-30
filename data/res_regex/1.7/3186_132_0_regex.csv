@@ -1,0 +1,157 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得成功_1件(com.zaneli.qiita.GetOwnStocksTest)')","[1530, 1551, 1572, 4859]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.UpdateItemTest')",[3965]
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/.m2/repository/org/apache/httpcomponents/httpcore/4.2/httpcore-4.2.jar')",[72]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.AuthorizeTest')","[6417, 6443, 6470, 6496]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetNewItemsTest')",[843]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'トークン取得成功(com.zaneli.qiita.AuthorizeTest)')","[240, 261, 282, 4445]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿のストック失敗(com.zaneli.qiita.StockItemTest)')","[490, 4528]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetUserItemsTest')",[2862]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿の実行失敗(com.zaneli.qiita.UpdateItemTest)')","[4070, 5667]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'リクエストユーザーの情報取得失敗(com.zaneli.qiita.GetOwnInfoTest)')","[3425, 5460]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetUserInfoTest')",[2217]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿のストック失敗(com.zaneli.qiita.UnstockItemTest)')","[2801, 2822, 2843]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'タグ一覧取得成功(com.zaneli.qiita.GetTagsTest)')","[1780, 4922]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.StockItemTest')","[6523, 6549, 6576, 6602]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetRateLimitTest')",[3778]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのストックした投稿取得成功_複数件(com.zaneli.qiita.GetUserStocksTest)')","[4278, 4299, 4320]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得成功_複数件(com.zaneli.qiita.GetOwnStocksTest)')","[1614, 1635, 1656]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'RateLimit取得成功(com.zaneli.qiita.GetRateLimitTest)')","[3904, 3925, 3946]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得失敗(com.zaneli.qiita.SearchItemsTest)')","[3696, 5543]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'createUrl')",[6358]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得成功_複数件(com.zaneli.qiita.SearchItemsTest)')","[3633, 3654, 3675]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'RateLimit取得失敗(com.zaneli.qiita.GetRateLimitTest)')","[3820, 3841, 3862, 5584]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'execute')",[6294]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得失敗(com.zaneli.qiita.GetOwnStocksTest)')","[1698, 1719, 1740]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'リクエストユーザーの情報取得成功(com.zaneli.qiita.GetOwnInfoTest)')","[3341, 5419]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetFollowingTagsTest')","[7477, 7503, 7530, 7556]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.CreateItemTest')",[1114]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿の実行失敗(com.zaneli.qiita.UpdateItemTest)')","[4091, 4112, 4133]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.UpdateItemTest')","[8219, 8245, 8272, 8298]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetUserItemsTest')","[7689, 7715, 7742, 7768]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得成功_複数件(com.zaneli.qiita.SearchItemsTest)')","[3612, 5522]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetOwnStocksTest')",[1488]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得成功_複数件(com.zaneli.qiita.GetNewItemsTest)')","[969, 990, 1011]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーの情報取得成功(com.zaneli.qiita.GetUserInfoTest)')","[2238, 5067]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetUserStocksTest')",[4152]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetTagItemsTest')","[6629, 6655, 6682, 6708]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿の実行失敗(com.zaneli.qiita.CreateItemTest)')","[1219, 4756]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているタグ取得成功_1件(com.zaneli.qiita.GetFollowingTagsTest)')","[2425, 5129]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿の実行成功(com.zaneli.qiita.UpdateItemTest)')","[3986, 5626]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿の実行成功(com.zaneli.qiita.UpdateItemTest)')","[4007, 4028, 4049, 5646]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'setToken')",[5814]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetFollowingUsersTest')","[7265, 7291, 7318, 7344]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得失敗(com.zaneli.qiita.GetNewItemsTest)')","[1032, 4694]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているユーザー取得失敗(com.zaneli.qiita.GetFollowingUsersTest)')","[2156, 2177, 2198]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得失敗(com.zaneli.qiita.GetNewItemsTest)')","[1053, 1074, 1095]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetUserStocksTest')","[8319, 8339, 8360, 8380]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿のストック成功(com.zaneli.qiita.UnstockItemTest)')","[2717, 2738, 2759, 5232]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得成功_複数件(com.zaneli.qiita.GetNewItemsTest)')","[948, 4673]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'postBody')",[6070]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'RateLimit取得失敗(com.zaneli.qiita.GetRateLimitTest)')","[3799, 5564]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーの情報取得失敗(com.zaneli.qiita.GetUserInfoTest)')","[2322, 5108]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのストックした投稿取得失敗(com.zaneli.qiita.GetUserStocksTest)')","[4362, 4383, 4404]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿のストック成功(com.zaneli.qiita.DeleteItemTest)')","[1343, 1364, 1385, 4797]"
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/.m2/repository/commons-codec/commons-codec/1.6/commons-codec-1.6.jar')",[108]
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'setPerPage')",[5846]
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'setFormValue')",[6230]
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'verifyStatusCode')",[6326]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'リクエストユーザーの情報取得成功(com.zaneli.qiita.GetOwnInfoTest)')","[3362, 3383, 3404, 5439]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定の投稿取得失敗(com.zaneli.qiita.GetSpecificItemTest)')","[3259, 3280, 3301]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得失敗(com.zaneli.qiita.GetOwnStocksTest)')","[1677, 4901]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定の投稿取得成功(com.zaneli.qiita.GetSpecificItemTest)')","[3154, 5357]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'RateLimit取得成功(com.zaneli.qiita.GetRateLimitTest)')","[3883, 5605]"
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/.m2/repository/mockit/jmockit/0.999.4/jmockit-0.999.4.jar')",[162]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得成功_複数件(com.zaneli.qiita.GetOwnStocksTest)')","[1593, 4880]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'postFormValue')",[6038]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのストックした投稿取得成功_複数件(com.zaneli.qiita.GetUserStocksTest)')","[4257, 5729]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.StockItemTest')",[385]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.DeleteItemTest')",[1301]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿の実行成功(com.zaneli.qiita.CreateItemTest)')","[1156, 1177, 1198, 4735]"
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar')",[144]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているタグ取得成功_複数件(com.zaneli.qiita.GetFollowingTagsTest)')","[2509, 5170]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿のストック失敗(com.zaneli.qiita.StockItemTest)')","[511, 532, 553]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'トークン取得成功(com.zaneli.qiita.AuthorizeTest)')","[219, 4425]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[179]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.AuthorizeTest')",[198]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得成功_1件(com.zaneli.qiita.GetOwnStocksTest)')","[1509, 4839]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetOwnInfoTest')","[7901, 7927, 7954, 7980]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定タグの投稿取得失敗(com.zaneli.qiita.GetTagItemsTest)')","[761, 4611]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているユーザー取得成功_複数件(com.zaneli.qiita.GetFollowingUsersTest)')","[2051, 5025]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているユーザー取得成功_1件(com.zaneli.qiita.GetFollowingUsersTest)')","[1988, 2009, 2030, 5004]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーの投稿取得成功_1件(com.zaneli.qiita.GetUserItemsTest)')","[2883, 5274]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定タグの投稿取得成功_複数件(com.zaneli.qiita.GetTagItemsTest)')","[614, 635, 656, 4569]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'タグ一覧取得失敗(com.zaneli.qiita.GetTagsTest)')","[1885, 1906, 1927]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定タグの投稿取得成功_複数件(com.zaneli.qiita.GetTagItemsTest)')","[593, 4549]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'getHeaderValues')",[6390]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーの投稿取得成功_1件(com.zaneli.qiita.GetUserItemsTest)')","[2904, 2925, 2946, 5294]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているユーザー取得成功_1件(com.zaneli.qiita.GetFollowingUsersTest)')","[1967, 4984]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定タグの投稿取得失敗(com.zaneli.qiita.GetTagItemsTest)')","[782, 803, 824]"
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar')",[90]
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/RepoReaper/3186_132/target/classes')",[36]
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/.m2/repository/net/arnx/jsonic/1.2.11/jsonic-1.2.11.jar')",[126]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのストックした投稿取得成功_1件(com.zaneli.qiita.GetUserStocksTest)')","[4173, 5688]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.UnstockItemTest')","[7583, 7609, 7636, 7662]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定タグの投稿取得成功_1件(com.zaneli.qiita.GetTagItemsTest)')","[698, 719, 740]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているタグ取得成功_複数件(com.zaneli.qiita.GetFollowingTagsTest)')","[2530, 2551, 2572]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetTagsTest')",[1759]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿のストック成功(com.zaneli.qiita.StockItemTest)')","[406, 4487]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿の実行成功(com.zaneli.qiita.CreateItemTest)')","[1135, 4715]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得成功_1件(com.zaneli.qiita.SearchItemsTest)')","[3528, 5481]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.DeleteItemTest')","[6947, 6973, 7000, 7026]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているタグ取得失敗(com.zaneli.qiita.GetFollowingTagsTest)')","[2614, 2635, 2656]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetSpecificItemTest')",[3133]
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/.m2/repository/org/apache/httpcomponents/httpclient/4.2/httpclient-4.2.jar')",[54]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定の投稿取得成功(com.zaneli.qiita.GetSpecificItemTest)')","[3175, 3196, 3217, 5377]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'トークン取得失敗(com.zaneli.qiita.AuthorizeTest)')","[324, 345, 366]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定の投稿取得失敗(com.zaneli.qiita.GetSpecificItemTest)')","[3238, 5398]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '検索結果取得成功_1件(com.zaneli.qiita.GetNewItemsTest)')","[864, 4632]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーの投稿取得成功_複数件(com.zaneli.qiita.GetUserItemsTest)')","[2988, 3009, 3030]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿のストック失敗(com.zaneli.qiita.DeleteItemTest)')","[1427, 1448, 1469]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'getPageableContents')","[5942, 5974, 6006]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿のストック成功(com.zaneli.qiita.DeleteItemTest)')","[1322, 4777]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのストックした投稿取得失敗(com.zaneli.qiita.GetUserStocksTest)')","[4341, 5750]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーの情報取得失敗(com.zaneli.qiita.GetUserInfoTest)')","[2343, 2364, 2385]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetRateLimitTest')","[8113, 8139, 8166, 8192]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'setBody')",[6262]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetFollowingUsersTest')",[1946]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿のストック成功(com.zaneli.qiita.UnstockItemTest)')","[2696, 5212]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーの投稿取得成功_複数件(com.zaneli.qiita.GetUserItemsTest)')","[2967, 5315]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているユーザー取得失敗(com.zaneli.qiita.GetFollowingUsersTest)')","[2135, 5046]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得成功_1件(com.zaneli.qiita.GetNewItemsTest)')","[885, 906, 927, 4652]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetNewItemsTest')","[6735, 6761, 6788, 6814]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'トークン取得失敗(com.zaneli.qiita.AuthorizeTest)')","[303, 4466]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetTagItemsTest')",[572]
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'putNoContent')",[6134]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.SearchItemsTest')",[3507]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーの投稿取得失敗(com.zaneli.qiita.GetUserItemsTest)')","[3072, 3093, 3114]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿の実行失敗(com.zaneli.qiita.CreateItemTest)')","[1240, 1261, 1282]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetSpecificItemTest')","[7795, 7821, 7848, 7874]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーの情報取得成功(com.zaneli.qiita.GetUserInfoTest)')","[2259, 2280, 2301, 5087]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているタグ取得失敗(com.zaneli.qiita.GetFollowingTagsTest)')","[2593, 5191]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetOwnStocksTest')","[7053, 7079, 7106, 7132]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得成功_1件(com.zaneli.qiita.SearchItemsTest)')","[3549, 3570, 3591, 5501]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '投稿のストック成功(com.zaneli.qiita.StockItemTest)')","[427, 448, 469, 4507]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.SearchItemsTest')","[8007, 8033, 8060, 8086]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetTagsTest')","[7159, 7185, 7212, 7238]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定タグの投稿取得成功_1件(com.zaneli.qiita.GetTagItemsTest)')","[677, 4590]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'getContent')","[5878, 5910]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetUserInfoTest')","[7371, 7397, 7424, 7450]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのストックした投稿取得成功_1件(com.zaneli.qiita.GetUserStocksTest)')","[4194, 4215, 4236, 5708]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetFollowingTagsTest')",[2404]
+"('AgentInitialization.java', 'mockit.internal.startup.AgentInitialization', 'findPathToJarFileFromClasspath', '.*jmockit[-.\\d]*.jar', '/home/pwang7/RepoReaper/3186_132/target/test-classes')",[18]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿のストック失敗(com.zaneli.qiita.UnstockItemTest)')","[2780, 5253]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '投稿のストック失敗(com.zaneli.qiita.DeleteItemTest)')","[1406, 4818]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.UnstockItemTest')",[2675]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.zaneli.qiita.GetOwnInfoTest')",[3320]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.zaneli.qiita.CreateItemTest')","[6841, 6867, 6894, 6920]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'createQuery')",[6198]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'タグ一覧取得失敗(com.zaneli.qiita.GetTagsTest)')","[1864, 4963]"
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'putBody')",[6102]
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', 'deleteNoContent')",[6166]
+"('MockingConfiguration.java', 'mockit.internal.filtering.MockingConfiguration', 'matchesFilters', 'execute', '<init>')",[5782]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'タグ一覧取得成功(com.zaneli.qiita.GetTagsTest)')","[1801, 1822, 1843, 4942]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているユーザー取得成功_複数件(com.zaneli.qiita.GetFollowingUsersTest)')","[2072, 2093, 2114]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '検索結果取得失敗(com.zaneli.qiita.SearchItemsTest)')","[3717, 3738, 3759]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'リクエストユーザーの情報取得失敗(com.zaneli.qiita.GetOwnInfoTest)')","[3446, 3467, 3488]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '特定ユーザーの投稿取得失敗(com.zaneli.qiita.GetUserItemsTest)')","[3051, 5336]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '特定ユーザーのフォローしているタグ取得成功_1件(com.zaneli.qiita.GetFollowingTagsTest)')","[2446, 2467, 2488, 5149]"

@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'calculateThousandIncomeCorrectness(courses.ControllerTest)')","[241, 445, 621, 789]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'calculateTenThousandsIncomeCorrectness(courses.ControllerTest)')","[172, 382, 555, 726]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'courses.ControllerTest')","[57, 277, 861]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'calculateHundredThousandsIncomeCorrectness(courses.ControllerTest)')","[103, 319, 489, 663]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'throwsMyIllegalArgument(courses.ControllerTest)')","[218, 424, 599, 768]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'calculateZeroIncomeCorrectness(courses.ControllerTest)')","[126, 340, 511, 684]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'calculateHundredIncomeCorrectness(courses.ControllerTest)')","[149, 361, 533, 705]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'throwsMyArithmeticExceptionOverLimit(courses.ControllerTest)')","[80, 298, 467, 642]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 258]"
+"('Controller.java', 'courses.Controller', 'checkIncomingData', '[0-9]{0,10}[.]{0,1}[0-9]{0,2}', '1qsc23.e2')","[814, 839]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'courses.addition.TestSuite')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'throwsMyIllegalArgumentCheck(courses.ControllerTest)')","[195, 403, 577, 747]"

@@ -1,0 +1,219 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDistinctEventsByCompletionTime(net.java.cargotracker.domain.model.handling.HandlingHistoryTest)')",[706]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.java.launcher')","[1215, 1259]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.WINDOWID')","[8157, 8201]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_CONFIG_DIRS')","[12340, 12384]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getAdminPassword')","[14368, 14446]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vendor.url')","[8335, 8379]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.endorsed.dirs')","[4686, 4730]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.HOME')","[9759, 9803]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_SESSION_DESKTOP')","[3974, 4018]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.INSTANCE')","[10649, 10693]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LESSCLOSE')","[12518, 12562]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNHKG')",[18214]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SESSIONTYPE')","[6822, 6866]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.specification.name')","[5220, 5264]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.QT_IM_MODULE')","[1304, 1348]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'validate')","[13426, 13504]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationUnloadEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')",[613]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setRemoteServerAddress')","[13269, 13347]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToDTOList(net.java.cargotracker.interfaces.booking.facade.internal.assembler.LocationDtoAssemblerTest)')",[184]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.home')","[7623, 7667]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.library.path')","[8424, 8468]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setAdminPassword')","[14525, 14603]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_SESSION_PATH')","[6644, 6688]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SESSION')","[11183, 11227]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.cpu.endian')","[9670, 9714]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LIBGL_ALWAYS_SOFTWARE')","[9136, 9180]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'SESTO')",[18294]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.ext.dirs')","[10738, 10782]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_RUNTIME_DIR')","[10827, 10871]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.COMPIZ_CONFIG_PROFILE')","[4597, 4641]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsSatisfiedBySuccess(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')",[465]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getAdminHost')","[14996, 15074]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.management.compiler')","[1393, 1437]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.cargo.ItineraryTest')",[482]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.USER')","[3262, 3306]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.JOB')","[7712, 7756]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.QT_ACCESSIBILITY')","[9314, 9358]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.java.command')","[8958, 9002]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setRemoteServerAdminHttps')","[12798, 12876]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XAUTHORITY')","[11005, 11049]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.boot.library.path')","[4063, 4107]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GDM_LANG')","[7534, 7578]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'NLRTM')",[18534]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setProperties')","[16095, 16173]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.TERM')","[7089, 7133]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'isAdminHttps')","[15624, 15702]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.QT_QPA_PLATFORMTHEME')","[6733, 6777]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationUnloaded(net.java.cargotracker.domain.model.cargo.CargoTest)')",[239]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCargoOnTrack(net.java.cargotracker.domain.model.cargo.ItineraryTest)')",[539]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LS_COLORS')","[10115, 10159]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationReceived(net.java.cargotracker.domain.model.cargo.CargoTest)')",[372]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GPG_AGENT_INFO')","[11984, 12028]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'localRepository')","[1126, 1170]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getLibraries')","[14682, 14760]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_DATA_DIRS')","[3529, 3573]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GTK_MODULES')","[11361, 11405]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getProperties')","[15938, 16016]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.QT4_IM_MODULE')","[3084, 3128]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'equals')","[17194, 17272]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.DEFAULTS_PATH')","[2639, 2683]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.ANDROID_HOME')","[5843, 5887]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.desktop')","[2016, 2060]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.handling.HandlingEventTest')",[556]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.PATH')","[3707, 3751]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.class.version')","[5398, 5442]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'os.name')","[1660, 1704]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.vendor')","[8602, 8646]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'os.version')","[6110, 6154]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setAuthorisation')","[13897, 13975]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.io.tmpdir')","[9937, 9981]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_SEAT')","[8691, 8735]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.OLDPWD')","[7801, 7845]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNSHA')",[18494]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.NLSPATH')","[3618, 3662]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setLibraries')","[14839, 14917]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'FIHEL')",[18334]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.CLASSPATH')","[7979, 8023]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'AUMEL')",[18254]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.version')","[4241, 4285]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'JNTKO')",[18414]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.QT_LINUX_ACCESSIBILITY_ALWAYS_ON')","[2550, 2594]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.specification.name')","[9403, 9447]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNewWithLocation(net.java.cargotracker.domain.model.handling.HandlingEventTest)')",[575]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.VIRTUAL_ENV')","[12073, 12117]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'notifyAll')","[17979, 18057]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.specification.version')","[12162, 12206]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.UPSTART_SESSION')","[1749, 1793]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'surefire.test.class.path')","[9848, 9892]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.MAVEN_PROJECTBASEDIR')","[12429, 12473]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.awt.printerjob')","[7178, 7222]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LANGUAGE')","[6555, 6599]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.MAVEN_CMD_LINE_ARGS')","[8513, 8557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToDtoNoItinerary(net.java.cargotracker.interfaces.booking.facade.internal.assembler.CargoRouteDtoAssemblerTest)')",[148]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationLoadEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')",[651]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'file.encoding')","[11806, 11850]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.io.unicode.encoding')","[7267, 7311]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsMisdirected(net.java.cargotracker.domain.model.cargo.CargoTest)')",[353]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.DESKTOP_SESSION')","[3440, 3484]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setAdminHost')","[15153, 15231]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.JUNIT_HOME')","[1571, 1615]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.UPSTART_JOB')","[4152, 4196]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.CLUTTER_IM_MODULE')","[10382, 10426]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LANG')","[2105, 2149]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.MANDATORY_PATH')","[11272, 11316]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_SESSION_TYPE')","[6911, 6955]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SESSION_MANAGER')","[859, 903]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'XXXXX')",[18174]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.jnu.encoding')","[4864, 4908]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'USCHI')",[18374]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'isAuthorisation')","[13740, 13818]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.DISPLAY')","[2906, 2950]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getAdminPort')","[15310, 15388]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.specification.vendor')","[2194, 2238]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsNotSatisfiedByWrongDestination(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')",[408]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.cargo.CargoTest')",[201]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMostRecentlyCompletedEvent(net.java.cargotracker.domain.model.handling.HandlingHistoryTest)')",[725]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAssignRoute(net.java.cargotracker.application.BookingServiceTest)')",[74]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.home')","[5754, 5798]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GTK2_MODULES')","[1482, 1526]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LESSOPEN')","[1037, 1081]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRoutingStatus(net.java.cargotracker.domain.model.cargo.CargoTest)')",[315]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getClass')","[17665, 17743]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.os.patch.level')","[9581, 9625]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_VTNR')","[2817, 2861]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'os.arch')","[10560, 10604]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsUnloadedAtFinalDestination(net.java.cargotracker.domain.model.cargo.CargoTest)')",[258]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNewWithCarrierMovement(net.java.cargotracker.domain.model.handling.HandlingEventTest)')",[670]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.handling.HandlingHistoryTest')",[687]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_GREETER_DATA_DIR')","[11717, 11761]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'USDAL')",[18694]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'file.encoding.pkg')","[4953, 4997]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.specification.vendor')","[7890, 7934]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.specification.version')","[9492, 9536]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getAdminUser')","[14054, 14132]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.runtime.version')","[2372, 2416]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getType')","[16252, 16330]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SHELL')","[3351, 3395]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConstruction(net.java.cargotracker.domain.model.cargo.CargoTest)')",[277]
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'SEGOT')",[18574]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationloaded(net.java.cargotracker.domain.model.cargo.CargoTest)')",[296]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setType')","[13583, 13661]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.runtime.name')","[8780, 8824]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setRemoteServerHttpPort')","[13112, 13190]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationReceivedEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')",[594]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNextExpectedEvent(net.java.cargotracker.domain.model.cargo.ItineraryTest)')",[520]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.UPSTART_EVENTS')","[2728, 2772]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GNOME_KEYRING_CONTROL')","[12251, 12295]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.COMPIZ_BIN_PATH')","[11895, 11939]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'notify')","[17822, 17900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.interfaces.booking.facade.internal.assembler.CargoRouteDtoAssemblerTest')",[110]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.name')","[2995, 3039]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_MENU_PREFIX')","[2283, 2327]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsNotSatisfiedByMissedDeadline(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')",[446]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testChangeDestination(net.java.cargotracker.application.BookingServiceTest)')",[93]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getTarget')","[16409, 16487]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.IM_CONFIG_PHASE')","[948, 992]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_CURRENT_DESKTOP')","[3796, 3840]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LOGNAME')","[6021, 6065]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setAdminUser')","[14211, 14289]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'USNYC')",[18654]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRouteCandidates(net.java.cargotracker.application.BookingServiceTest)')",[55]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GNOME_KEYRING_PID')","[5665, 5709]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.DBUS_SESSION_BUS_ADDRESS')","[4419, 4463]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setTarget')","[16566, 16644]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateItinerary(net.java.cargotracker.domain.model.cargo.ItineraryTest)')",[501]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'basedir')","[11628, 11672]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.PWD')","[1927, 1971]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.UPSTART_INSTANCE')","[6466, 6510]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'getRemoteServerHttpPort')","[12955, 13033]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.interfaces.booking.facade.internal.assembler.LocationDtoAssemblerTest')",[165]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.info')","[5932, 5976]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SHLVL')","[5042, 5086]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToDto(net.java.cargotracker.interfaces.booking.facade.internal.assembler.CargoRouteDtoAssemblerTest)')",[129]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.boot.class.path')","[1838, 1882]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XFILESEARCHPATH')","[9225, 9269]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationUnknownWhenNoEvents(net.java.cargotracker.domain.model.cargo.CargoTest)')",[220]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.application.BookingServiceTest')","[17, 18095, 18133]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.version')","[6377, 6421]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationClaimedEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')",[632]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.class.path')","[8869, 8913]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env._')","[3173, 3217]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vendor')","[770, 814]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNHGH')",[18614]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.JAVA_HOME')","[7000, 7044]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsNotSatisfiedByWrongOrigin(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')",[427]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_SEAT_PATH')","[10026, 10070]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'awt.toolkit')","[7356, 7400]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.country')","[5576, 5620]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationClaimed(net.java.cargotracker.domain.model.cargo.CargoTest)')",[334]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setRemoteServerAdminPort')","[12641, 12719]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XMODIFIERS')","[7445, 7489]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.dir')","[10916, 10960]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'wait')","[16723, 16801, 16880, 16958, 17037, 17115]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SSH_AUTH_SOCK')","[10293, 10337]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GDMSESSION')","[5487, 5531]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.cargo.RouteSpecificationTest')",[389]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegisterNew(net.java.cargotracker.application.BookingServiceTest)')",[36]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vendor.url.bug')","[10204, 10248]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.VTE_VERSION')","[8246, 8290]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GTK_IM_MODULE')","[2461, 2505]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.timezone')","[4330, 4374]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.M2_HOME')","[8068, 8112]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_SESSION_ID')","[9047, 9091]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'surefire.real.class.path')","[6199, 6243]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.language')","[3885, 3929]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setAdminPort')","[15467, 15545]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'DEHAM')",[18454]
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'setAdminHttps')","[15781, 15859]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.awt.graphicsenv')","[10471, 10515]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'toString')","[17351, 17429]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'path.separator')","[6288, 6332]"
+"('MapObject.java', 'org.jboss.arquillian.container.impl.MapObject', 'populate', '^set[A-Z].*', 'hashCode')","[17508, 17586]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.cpu.isalist')","[4775, 4819]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.MAVEN_HOME')","[11094, 11138]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.name')","[11539, 11583]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.GNOME_DESKTOP_SESSION_ID')","[5309, 5353]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.arch.data.model')","[4508, 4552]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'line.separator')","[11450, 11494]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'file.separator')","[5131, 5175]"

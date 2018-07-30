@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializesToJSON(org.zenoss.app.consumer.metric.data.MetricTest)')","[181, 374]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.zenoss.app.consumer.metric.data.ControlTest')","[36, 445]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializesFromJSON(org.zenoss.app.consumer.metric.data.ControlTest)')","[57, 264]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializesFromJSON(org.zenoss.app.consumer.metric.data.MetricTest)')","[160, 352]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.zenoss.app.consumer.metric.data.MessageTest')","[200, 495]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializesToJSON(org.zenoss.app.consumer.metric.data.MessageTest)')","[242, 418]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'copyConstructorReturnsNewInstance(org.zenoss.app.consumer.metric.data.MetricTest)')","[139, 330]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializesFromJSON(org.zenoss.app.consumer.metric.data.MessageTest)')","[221, 396]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.zenoss.app.consumer.metric.data.MetricTest')","[97, 472]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializesToJSON(org.zenoss.app.consumer.metric.data.ControlTest)')","[78, 286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deserializesFromJSONError(org.zenoss.app.consumer.metric.data.MetricTest)')","[118, 308]"

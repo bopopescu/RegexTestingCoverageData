@@ -1,0 +1,18 @@
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'DTSTART==[;20080810]')","[547, 637, 756, 846, 965, 1055]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'setFilter', '(.+?)\\s*(\\[(.*?);(.*?)\\])?', 'VEVENT')","[1144, 1502, 1771, 1859, 1888]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'setFilter', '(.+?)\\s*(\\[(.*?);(.*?)\\])?', 'VTODO [20060106T100000Z;20060106T100000Z]')",[875]
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'UID==DSDDAS123-D32423-42332-dasdsafwe')","[1263, 1383, 1532, 1652]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[228, 342, 1945, 2059, 2173, 2287, 2401, 2515, 2629, 2743, 2857, 2971, 3085, 3199, 3313, 3427, 3541, 3655, 3769, 3883, 3997, 4111, 4225, 4339, 4453, 4567, 4681, 4795, 4909, 5023, 5137, 5251, 5365, 5479]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'setFilter', '(.+?)\\s*(\\[(.*?);(.*?)\\])?', 'VALARM [20060106T100000Z;20060106T170000Z]')",[1233]
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'STATUS!=CANCELLED')","[487, 577, 696, 786, 905, 995]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'DESCRIPTION==UNDEF')","[1353, 1473, 1622, 1742]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[114]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[171]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[285, 399, 2002, 2116, 2230, 2344, 2458, 2572, 2686, 2800, 2914, 3028, 3142, 3256, 3370, 3484, 3598, 3712, 3826, 3940, 4054, 4168, 4282, 4396, 4510, 4624, 4738, 4852, 4966, 5080, 5194, 5308, 5422, 5536]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'COMPLETED==UNDEF')","[517, 607, 726, 816, 935, 1025]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'X-PLUTO-SPADA!=fsdfsdfds')","[1293, 1413, 1562, 1682]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[57]
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'ATTENDEE==mailto:lisa@example.com')","[1085, 1115, 1174, 1204, 1801, 1831]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'setFilter', '(.+?)\\s*(\\[(.*?);(.*?)\\])?', 'VEVENT [20060104T000000Z;20060105T000000Z]')",[457]
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'setFilter', '(.+?)\\s*(\\[(.*?);(.*?)\\])?', 'VTODO')","[428, 666]"
+"('GenerateQuery.java', 'org.osaf.caldav4j.util.GenerateQuery', 'getPropFilters', '(.+?)([!=]=)(\\[(.*?);(.*?)\\]|([^\\]].+))', 'SUMMARY!=CDSDafsd')","[1323, 1443, 1592, 1712]"

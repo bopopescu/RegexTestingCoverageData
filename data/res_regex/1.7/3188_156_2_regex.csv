@@ -1,0 +1,10 @@
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '[a-z]+', 'ab123_2 hello there')",[66]
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '[a-z]+\\d+_', 'ab123_2 hello there')",[132]
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '\\d+', 'ab123_2 hello there')",[33]
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForTrue', '[a-z]+\\d+_\\d+\\s+hello\\s+[a-z]+', 'ab123_2 hello there')",[297]
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '[a-z]+\\d+_\\d+\\s+hello', 'ab123_2 hello there')",[231]
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '[a-z]+\\d+_\\d+\\s+', 'ab123_2 hello there')",[198]
+"('Invoker.java', 'org.testng.internal.Invoker', 'messageRegExpMatches', '.*read tokens.*', 'The document reader does not know how to read tokens')","[326, 354, 381, 407]"
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '[a-z]+\\d+', 'ab123_2 hello there')",[99]
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '[a-z]+\\d+_\\d+\\s+hello\\s+', 'ab123_2 hello there')",[264]
+"('PositionAwareDocumentReaderTest.java', 'com.agileapes.powerpack.string.reader.impl.PositionAwareDocumentReaderTest', 'testMatchesForFalse', '[a-z]+\\d+_\\d+', 'ab123_2 hello there')",[165]

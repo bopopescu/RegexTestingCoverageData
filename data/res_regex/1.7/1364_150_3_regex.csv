@@ -1,0 +1,25 @@
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*$', '   ')","[987, 1638, 2255]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', '//')",[1055]
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', 'a// <1> foo')",[309]
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', 'a// <1>')",[180]
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', '      // -2-')","[727, 1378, 1995]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', 'abc')",[146]
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', '')","[438, 1021, 1089, 1672, 1706, 2289]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', 'b')","[275, 404]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaLine', '\\s*', '')","[211, 241]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', '      int a = 0;')","[630, 1281, 1898]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*$', '      // -2-')","[692, 1343, 1960]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*$', '      int a = 0;')","[595, 1246, 1863]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*$', '      // -1-')","[529, 855, 1180, 1506, 1797, 2123]"
+"('PatternTestCase.java', 'org.wikbook.core.content.block.PatternTestCase', 'testBlankLinePattern', '^[ \t\\x0B\x0c\r]*$', ' ')",[56]
+"('PatternTestCase.java', 'org.wikbook.core.content.block.PatternTestCase', 'testBlankLinePattern', '^[ \t\\x0B\x0c\r]*$', '\t ')",[112]
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', '      int b = 0;')","[793, 1444, 2061]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*$', '      int b = 0;')","[758, 1409, 2026]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*$', '')","[498, 661, 824, 1149, 1312, 1475, 1766, 1929, 2092]"
+"('PatternTestCase.java', 'org.wikbook.core.content.block.PatternTestCase', 'testBlankLinePattern', '^[ \t\\x0B\x0c\r]*$', '')",[28]
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', '      int c = 0;')","[956, 1607, 2224]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*//[ \t\\x0B\x0c\r]*-([0-9]+)-[ \t\\x0B\x0c\r]*$', '      // -1-')","[564, 890, 1215, 1541, 1832, 2158]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaSource', '^[ \t\\x0B\x0c\r]*$', '      int c = 0;')","[921, 1572, 2189]"
+"('PatternTestCase.java', 'org.wikbook.core.content.block.PatternTestCase', 'testBlankLinePattern', '^[ \t\\x0B\x0c\r]*$', '\t')",[84]
+"('MemberKey.java', 'org.wikbook.codesource.MemberKey', 'parse', '^\\s*([^\\(\\)]+)(\\(([^\\(\\)]*)?\\))?\\s*$', 'm()')","[467, 1118, 1735]"
+"('CodeProcessor.java', 'org.wikbook.core.codesource.CodeProcessor', 'printJavaLine', '\\s*', ' foo')","[340, 370]"

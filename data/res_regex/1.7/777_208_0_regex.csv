@@ -1,0 +1,57 @@
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/user(/.*)?', '/user/1')",[2006]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'updateErrorsOnWrongReferenceIds(me.koeb.ResPlan.integration.CustomerIntegrationTest)')","[137, 551]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/customer/2')",[1175]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/user/87432498')","[2291, 2475]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/user(/.*)?', '/user/13')",[3068]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'me.koeb.ResPlan.integration.UserIntegrationTest')","[282, 3140]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/user(/.*)?', '/user/87432498')","[2381, 2565]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'viewAllCustomers(me.koeb.ResPlan.integration.CustomerIntegrationTest)')","[242, 661]"
+"('UserIntegrationTest.java', 'me.koeb.ResPlan.integration.UserIntegrationTest', 'createUserWorksCorrectly', '^/user/(\\d+)$', '/user/3')",[2213]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/4')",[1502]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'createUserWorksCorrectly(me.koeb.ResPlan.integration.UserIntegrationTest)')","[324, 727]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'me.koeb.ResPlan.serialization.CustomerSerializationTest')","[36, 886]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/user/6')",[2659]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'updateOnNonExistentUser(me.koeb.ResPlan.integration.UserIntegrationTest)')","[366, 771]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/user')","[2100, 2843]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/customer/1')",[958]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/user/1')",[1916]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/user')","[2145, 2888]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'createCustomerWorksCorrectly(me.koeb.ResPlan.integration.CustomerIntegrationTest)')","[263, 683]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 446]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializesUserToJSON(me.koeb.ResPlan.serialization.UserSerializationTest)')","[97, 529]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'viewAllUsers(me.koeb.ResPlan.integration.UserIntegrationTest)')","[408, 815]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/87432498')","[1363, 1641, 2430, 2614]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/customer/87432498')","[1314, 1592]"
+"('UserAgentFilter.java', 'org.eclipse.jetty.servlets.UserAgentFilter', 'getUserAgent', '(?:Mozilla[^\\(]*\\(compatible;\\s*+([^;]*);.*)|(?:.*?([^\\s]+/[^\\s]+).*)', 'Java/1.7.0_80')","[1085, 2246]"
+"('CustomerIntegrationTest.java', 'me.koeb.ResPlan.integration.CustomerIntegrationTest', 'createCustomerWorksCorrectly', '^/customer/(\\d+)$', '/customer/13')",[1844]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/user/6')",[2704]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/6')",[2798]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/customer/87432498')","[1269, 1547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testApp(me.koeb.ResPlan.AppTest)')","[485, 859]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'me.koeb.ResPlan.integration.CustomerIntegrationTest')","[116, 1871]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'updateUserWorksCorrectly(me.koeb.ResPlan.integration.UserIntegrationTest)')","[387, 793]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/user/87432498')","[2336, 2520]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/customer')","[1686, 1776]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'updateErrorsOnWrongReferenceIds(me.koeb.ResPlan.integration.UserIntegrationTest)')","[303, 705]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/customer/4')",[1408]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/user(/.*)?', '/user/6')",[2749]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/customer/2')",[1130]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/user/13')",[3023]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'updateCustomerWorksCorrectly(me.koeb.ResPlan.integration.CustomerIntegrationTest)')","[200, 617]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'me.koeb.ResPlan.serialization.UserSerializationTest')","[76, 913]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'viewCustomerWorksCorrectly(me.koeb.ResPlan.integration.CustomerIntegrationTest)')","[158, 573]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/user/1')",[1961]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/13')",[3117]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/hello\\-world(/.*)?', '/user/13')",[2978]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'serializesCustomerFromJSON(me.koeb.ResPlan.serialization.CustomerSerializationTest)')","[57, 507]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'viewUserOnNonExistentUser(me.koeb.ResPlan.integration.UserIntegrationTest)')","[345, 749]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'me.koeb.ResPlan.AppTest')","[465, 3163]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/customer/4')",[1453]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/customer/1')",[1003]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'viewCustomerOnNonExistentCustomer(me.koeb.ResPlan.integration.CustomerIntegrationTest)')","[179, 595]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/user(/.*)?', '/user')","[2190, 2933]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/1')","[1052, 2055]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'updateOnNonExistentCustomer(me.koeb.ResPlan.integration.CustomerIntegrationTest)')","[221, 639]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'viewUserWorksCorrectly(me.koeb.ResPlan.integration.UserIntegrationTest)')","[429, 837]"
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/([^/]+?)(/)?', '/2')",[1224]
+"('UriPattern.java', 'com.sun.jersey.api.uri.UriPattern', 'match', '/customer(/.*)?', '/customer')","[1731, 1821]"

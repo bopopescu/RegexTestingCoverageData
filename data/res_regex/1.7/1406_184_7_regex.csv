@@ -1,0 +1,83 @@
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:?!…]*[?!…]+[….:?!]*', ',')",[3414]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'quotes1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[351, 931]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'acronym2(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[141, 711]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'apostrophe(org.daisy.pipeline.nlp.lexing.rulebased.FrenchLexingTest)')","[601, 1173]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.?!…:]+', ':')",[4305]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', ':', ':')",[1551]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'noSentence1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[498, 1085]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\'""’”»›]', '«')",[4756]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'quotes4(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[414, 997]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'openingQuote(org.daisy.pipeline.nlp.lexing.rulebased.FrenchLexingTest)')","[538, 1107]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '\\[', '?')","[1983, 2010, 2199]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'abbr1(org.daisy.pipeline.nlp.lexing.rulebased.FrenchLexingTest)')","[559, 1129]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\\p{Lu}].*', 'Other')",[1659]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.+', '\xa0')",[4224]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.+', '       ')",[3495]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\\p{Lu}].*', 'Majuscule')",[4912]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'httpAddress(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[288, 865]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'punctuationOnly1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[183, 755]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'basicSplit(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[204, 777]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:]+', '?')",[3171]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\'""’”»›]', '""')","[3684, 4035]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.daisy.pipeline.nlp.lexing.rulebased.LexingTest')","[36, 4548]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\\p{Ll}].*', 'and')",[1281]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '…', '?')","[1308, 2037, 2226]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[),]', ':')",[1497]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'foreign(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[267, 843]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '…', '!')","[1848, 2415, 2577, 2739, 2874, 3036, 3306]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:]+', '.')","[1605, 3468, 3765, 4386, 4860]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.+', ' ')","[1632, 1713, 1794, 1902, 3090, 3792, 4008, 4332, 4413, 4730, 4808, 4886]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', ':', '!')","[2334, 2523, 2685, 2820, 2982]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '…', '…')",[1416]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '""')","[1227, 3576, 3711, 3900, 4359]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\\p{Ll}].*', 'Début')",[4678]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\\p{Lu}].*', 'Second')","[3819, 4440]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[),]', ',')",[1362]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'latin(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[330, 909]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.?!…]+', '.')","[1686, 3657, 3981, 4197, 4704]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\'""’”»›]', '“')",[1740]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '.')","[3549, 3846, 4062, 4574]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:?!…]*[?!…]+[….:?!]*', '…')",[1524]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'weirdSentence2(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[99, 667]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.+', '  ')",[2793]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[),]', '!')","[2280, 2469, 2631, 2928]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:?!…]*[?!…]+[….:?!]*', '?')","[2118, 2172, 2307, 2361, 3198]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '«')","[4626, 4834]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'quotes3(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[393, 975]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'openingQuote(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[162, 733]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', ':', '?')","[1929, 2145, 3117]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'brackets1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[225, 799]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'quotes2(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[372, 953]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '?')","[1200, 1335, 2064, 2253]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\'""’”»›]', '»')",[4251]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '!')","[2442, 2604, 2901, 3333]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:]+', '!')",[4467]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '»')",[4116]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'quotes5(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[435, 1019]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '…', '.')",[3738]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:?!…]*[?!…]+[….:?!]*', '!')","[1875, 1956, 2496, 2550, 2658, 2712, 2766, 2847, 2955, 3009, 3063, 3144, 3225, 4494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'acronym1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[120, 689]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\\p{Lu}].*', 'Sentence2')",[3522]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '-', ':')",[1443]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[),]', ')')",[3360]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'weirdSentence1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[78, 645]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '…')",[1470]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:?!…]*[?!…]+[….:?!]*', '(')",[3252]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'whitespaces1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[309, 887]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.?!…]+', ':')",[4278]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'twoSentences1(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[456, 1041]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'quotedQuestion(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[57, 623]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:?!…]*[?!…]+[….:?!]*', '.')","[1389, 1578, 3441, 4521]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'twoSentences2(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[477, 1063]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[\\p{Ll}].*', 'Second')","[3630, 3954, 4170]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.daisy.pipeline.nlp.lexing.rulebased.FrenchLexingTest')","[517, 4935]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.?!…:]+', '.')","[1767, 4782]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', ' ')","[1254, 3603, 3873, 3927, 4143, 4600, 4652]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'capitalizedWords(org.daisy.pipeline.nlp.lexing.rulebased.LexingTest)')","[246, 821]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '\\[', '!')","[2388, 3279]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'abbr2(org.daisy.pipeline.nlp.lexing.rulebased.FrenchLexingTest)')","[580, 1151]"
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '\xa0')",[4089]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '.*', '“')",[1821]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[),]', '?')",[2091]
+"('EuroSentenceDetector.java', 'org.daisy.pipeline.nlp.lexing.rulebased.EuroSentenceDetector$SentencePattern', 'match', '[.:]+', ',')",[3387]

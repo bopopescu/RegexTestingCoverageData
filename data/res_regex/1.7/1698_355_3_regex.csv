@@ -1,0 +1,83 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.collection.CollectionBuilderTest')","[76, 2731]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asMutableSortedSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[265, 1643]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.log.LoggingOutputStreamTest')","[1152, 3345]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asImmuatbleListOrderedSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[223, 1599]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asHashSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[475, 1863]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qsub\\E.*\\Q.tst\\E', 'sub-folder')",[2956]
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qroot\\E.*\\Q.tst\\E', 'sub1.tst')",[2841]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asList(org.cfr.commons.util.collection.CollectionBuilderTest)')","[139, 1511]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'transformIterator(org.cfr.commons.util.collection.CollectionUtilTest)')","[641, 2017]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeflateFile(org.cfr.commons.util.compress.zip.ZipExtractorTest)')","[1112, 2391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInflateFile(org.cfr.commons.util.compress.zip.ZipCreatorTest)')","[1051, 2347]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asTreeSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[286, 1665]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asArrayList(org.cfr.commons.util.collection.CollectionBuilderTest)')","[412, 1797]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteGrowsBuffer(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1257, 2523]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInflateFile(org.cfr.commons.util.compress.gzip.GzipCreatorTest)')","[889, 2237]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.app.transaction.TransactionTest')","[36, 2704]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeflateFileWithPattern(org.cfr.commons.util.compress.zip.ZipExtractorTest)')","[1091, 2369]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asListOrderedSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[391, 1775]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClose(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1173, 2435]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFlushSkipsEmptyLine(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1278, 2545]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asLinkedList(org.cfr.commons.util.collection.CollectionBuilderTest)')","[97, 1467]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.collection.CollectionUtilTest')","[515, 2758]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLoggingOutputStream4(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1362, 2633]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeflateFileWithPatternAndFlatMode(org.cfr.commons.util.compress.zip.ZipExtractorTest)')","[1133, 2413]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtract(org.cfr.commons.util.compress.gzip.GzipExtractorTest)')","[849, 2215]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asMutableList(org.cfr.commons.util.collection.CollectionBuilderTest)')","[160, 1533]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'toListIterable(org.cfr.commons.util.collection.CollectionUtilTest)')","[704, 2083]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'callbackTransaction(org.cfr.commons.app.transaction.TransactionTest)')","[57, 1445]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asMutableSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[181, 1555]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'add(org.cfr.commons.util.collection.CollectionBuilderTest)')","[307, 1687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.jdbc.access.AdapterFactoryTest')","[1381, 3368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'sortEmptyCollection(org.cfr.commons.util.collection.CollectionUtilTest)')","[809, 2193]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getUnknownAdapter(org.cfr.commons.util.jdbc.access.AdapterFactoryTest)')","[1423, 2677]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asEnclosedIterable(org.cfr.commons.util.collection.CollectionBuilderTest)')","[244, 1621]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qroot\\E.*\\Q.tst\\E', 'sub2.tst')",[2870]
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qsub\\E.*\\Q.tst\\E', 'root1.tst')",[3040]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.compress.gzip.GzipCreatorTest')","[868, 2812]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFlushSkipsOnlyEmptyLine(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1194, 2457]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.tst\\E', 'sub-folder.tst')",[3291]
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.txt\\E', 'sub-folder.tst')",[3207]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLoggingOutputStream1(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1299, 2567]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'foreachIterable(org.cfr.commons.util.collection.CollectionUtilTest)')","[767, 2149]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'transformIterable(org.cfr.commons.util.collection.CollectionUtilTest)')","[620, 1995]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.tst\\E', 'sub-folder')",[3263]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLoggingOutputStream2(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1320, 2589]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeflateFileWithPattern(org.cfr.commons.util.compress.tar.TarExtractorTest)')","[929, 2259]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qsub\\E.*\\Q.tst\\E', 'sub1.tst')",[2984]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.compress.tar.TarCreatorTest')","[990, 3122]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getKnownCurrentAdapter(org.cfr.commons.util.jdbc.access.AdapterFactoryTest)')","[1402, 2655]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'toListIterator(org.cfr.commons.util.collection.CollectionUtilTest)')","[725, 2105]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'transformEmptyIterator(org.cfr.commons.util.collection.CollectionUtilTest)')","[599, 1973]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.compress.gzip.GzipExtractorTest')","[828, 2785]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'addTakesNull(org.cfr.commons.util.collection.CollectionBuilderTest)')","[433, 1819]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'newBuilder(org.cfr.commons.util.collection.CollectionBuilderTest)')","[349, 1731]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.txt\\E', 'root.txt')",[3178]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asMutableCollection(org.cfr.commons.util.collection.CollectionBuilderTest)')","[370, 1753]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'filterIterator(org.cfr.commons.util.collection.CollectionUtilTest)')","[683, 2061]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qroot\\E.*\\Q.tst\\E', 'root2.tst')",[2928]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[328, 1709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.compress.zip.ZipExtractorTest')","[1070, 3318]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'filterRemoveItemFromIterator(org.cfr.commons.util.collection.CollectionUtilTest)')","[746, 2127]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qsub\\E.*\\Q.tst\\E', 'sub2.tst')",[3012]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'foreachNullIterable(org.cfr.commons.util.collection.CollectionUtilTest)')","[536, 1907]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInflateFile(org.cfr.commons.util.compress.tar.TarCreatorTest)')","[1011, 2325]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLoggingEventStringMatcher(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1215, 2479]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'sortCollection(org.cfr.commons.util.collection.CollectionUtilTest)')","[557, 1929]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.tst\\E', 'root.txt')",[3235]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeflateFileWithPatternAndFlatMode(org.cfr.commons.util.compress.tar.TarExtractorTest)')","[971, 2303]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteNull(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1236, 2501]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'filterIterable(org.cfr.commons.util.collection.CollectionUtilTest)')","[662, 2039]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qsub\\E.*\\Q.tst\\E', 'root2.tst')",[3068]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'transformEmptyIterable(org.cfr.commons.util.collection.CollectionUtilTest)')","[578, 1951]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.compress.zip.ZipCreatorTest')","[1030, 3149]"
+"('AntPathStringMatcher.java', 'org.cfr.commons.util.AntPathStringMatcher', 'matchStrings', '\\Qroot\\E.*\\Q.tst\\E', 'root1.tst')",[2899]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cfr.commons.util.compress.tar.TarExtractorTest')","[908, 3095]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'foreachIterator(org.cfr.commons.util.collection.CollectionUtilTest)')","[788, 2171]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLoggingOutputStream3(org.cfr.commons.util.log.LoggingOutputStreamTest)')","[1341, 2611]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'addAllCollection(org.cfr.commons.util.collection.CollectionBuilderTest)')","[496, 1885]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asCollection(org.cfr.commons.util.collection.CollectionBuilderTest)')","[202, 1577]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'addAllVarArgs(org.cfr.commons.util.collection.CollectionBuilderTest)')","[454, 1841]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeflateFile(org.cfr.commons.util.compress.tar.TarExtractorTest)')","[950, 2281]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'asSortedSet(org.cfr.commons.util.collection.CollectionBuilderTest)')","[118, 1489]"

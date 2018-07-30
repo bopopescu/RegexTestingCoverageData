@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.eobjects.analyzer.beans.ParseJsonTransformerTest')","[139, 449]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldExtractNestedDocumentsAsCollections(org.eobjects.analyzer.beans.ParseJsonTransformerTest)')","[223, 399]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testComplexCollectionColumnsToJson(org.eobjects.analyzer.beans.ComposeJsonTransformerTest)')","[120, 311]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleMapToJson(org.eobjects.analyzer.beans.ComposeJsonTransformerTest)')","[78, 267]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleList(org.eobjects.analyzer.beans.ComposeJsonTransformerTest)')","[57, 245]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.eobjects.analyzer.beans.ComposeJsonTransformerTest')","[36, 426]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractJsonNumbersAndBooleans(org.eobjects.analyzer.beans.ParseJsonTransformerTest)')","[181, 355]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractJsonValuesTransformerWithoutAnyValidation(org.eobjects.analyzer.beans.ParseJsonTransformerTest)')","[202, 377]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldReturnEmptyMapWhenNoJsonDocumentExistForColumn(org.eobjects.analyzer.beans.ParseJsonTransformerTest)')","[160, 333]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateSimpleJsonOfDataTypes(org.eobjects.analyzer.beans.ComposeJsonTransformerTest)')","[99, 289]"

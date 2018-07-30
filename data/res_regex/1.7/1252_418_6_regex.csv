@@ -1,0 +1,18 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSayHello(foo.bar.SpringAppTests)')","[101, 198, 294, 345, 491, 604, 740, 879, 1015, 1120, 1234, 1390, 1511, 1657, 1811, 1982, 2115, 2255, 2436, 2583, 2754]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q1252_418\\E', '1252_418')","[3109, 3659, 4209]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'foo.bar.SpringAppTests')","[4560, 4580, 4601, 4621]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qfoo\\E', 'foo')","[3329, 3879, 4429]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SpringAppTests.class')",[3439]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Quntitled\\E', 'untitled')","[3164, 3714, 4264]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[3219, 3769, 4319]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[3054, 3604, 4154]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'foo.bar.SpringAppTests')","[56, 77, 463, 850, 989, 1360, 1775, 1949, 2401]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSayHello(foo.bar.SpringAppTests)')","[125, 149, 173, 223, 248, 273, 314, 376, 407, 438, 519, 547, 575, 633, 662, 691, 769, 798, 827, 908, 937, 966, 1041, 1067, 1093, 1147, 1174, 1201, 1267, 1300, 1333, 1420, 1450, 1480, 1542, 1573, 1604, 1688, 1719, 1750, 1847, 1883, 1919, 2015, 2048, 2081, 2149, 2183, 2217, 2293, 2331, 2369, 2471, 2506, 2541, 2625, 2667, 2709, 2799, 2844, 2889]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HelloApp.class')",[4539]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[3824, 4374]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbar\\E', 'bar')","[3384, 3934, 4484]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[2999, 3549, 4099]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[2944, 3494, 4044]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')",[3274]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HelloService.class')",[3989]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 35, 711, 1626]"

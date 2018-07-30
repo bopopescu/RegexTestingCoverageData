@@ -1,0 +1,33 @@
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[51]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo.bar')","[136, 308, 1037, 1103, 1796]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo*')",[938]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test3.*')",[1433]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'that')","[238, 416]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'bar2.*')","[588, 736]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[102]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo.bar.baz.joe')",[1862]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo.bar.baz')",[1829]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test1.foo')",[1466]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'com.github.*')",[1235]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test2.bar')",[1499]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo-123.bar_567')",[1301]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo2.*')","[554, 699]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'com.github')",[1202]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', '1.2.3.4.5')",[1268]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo.*')","[486, 625, 770, 804, 1004, 1664]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test.*')",[1928]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'theOtherOne')","[272, 452]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test.foo')",[1895]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo.bar.*')",[1697]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo')",[1763]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test')","[170, 344, 1334, 1565, 1598, 1631]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo!')",[971]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'bar.*')","[520, 662, 838, 872]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'this.is.a.test')","[1136, 1169]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'this')","[204, 380]"
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo.*.bar')",[905]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'bar.foo')",[1070]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test2.*')",[1400]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'foo.bar.baz.*')",[1730]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test1.*')",[1367]
+"('Subject.java', 'cloudeventbus.Subject', '<init>', '[0-9a-zA-Z_-]+(\\.[0-9a-zA-Z_-]+)*(\\.\\*){0,1}', 'test3.baz')",[1532]

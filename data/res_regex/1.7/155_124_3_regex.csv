@@ -1,0 +1,28 @@
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '+54')","[656, 679]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIsEmpty(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[271]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNewInstanceByClass(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[167]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '-54')","[609, 632]"
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '25.97854')","[703, 726]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetSimpleAccessMethodName(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[209]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetField(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[230]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '45')","[562, 585]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFieldValueByString(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[21]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsEmpty(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[251]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParse(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[355]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[334]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMaskPassword(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[292]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest')","[421, 444, 468, 491]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCallMethod(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[146]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '+3365.8787')","[797, 820]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.common.helper.StringHelperTest')","[841, 861, 882, 902]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJoin(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[376]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetFieldValueByString(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[41]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '-3365.8787')","[750, 773]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsNumeric(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[397]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetMethod(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[83]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetGenericTypeByMethod(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[125]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '1')","[515, 538]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCapitalize(com.github.aureliano.evtbridge.common.helper.StringHelperTest)')",[313]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetGenericTypeByField(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[104]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNewInstanceByString(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[188]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFieldValueByField(com.github.aureliano.evtbridge.common.helper.ReflectionHelperTest)')",[62]

@@ -1,0 +1,50 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getBuildTagTest(com.tesora.dve.common.PELogUtilsTest)')","[429, 1008]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'propList=value2')",[1293]
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '\\?\\?\\?foo', '123foo')",[1769]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'buildSQLPatternTest(com.tesora.dve.common.PEStringUtilsTest)')","[551, 1096]"
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '.*_.*', 'nouscore')",[1725]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.tesora.dve.common.PEUrlTest')","[36, 1233]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'propertiesConfigurationTest(com.tesora.dve.common.PEFileUtilsTest)')","[349, 964]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'propList=value3')",[1323]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLNegativeTest3(com.tesora.dve.common.PEUrlTest)')","[120, 744]"
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '.*here.*', '111here111')",[1527]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLConstructTest(com.tesora.dve.common.PEUrlTest)')","[57, 678]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLNegativeTest4(com.tesora.dve.common.PEUrlTest)')","[141, 766]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLPositiveTest(com.tesora.dve.common.PEUrlTest)')","[225, 854]"
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', 'foo', 'foo')",[1483]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTrimToInt(com.tesora.dve.common.PEStringUtilsTest)')","[572, 1118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLNegativeTest5(com.tesora.dve.common.PEUrlTest)')","[162, 788]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'stripUrlParametersTest(com.tesora.dve.common.PEUrlTest)')","[204, 832]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.tesora.dve.common.PELongUtilsTest')","[368, 1407]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'singleProp=singleValue')",[1353]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.tesora.dve.common.PEFileUtilsTest')","[328, 1380]"
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '%foo', 'here')",[1637]
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '%foo', '%foo')",[1615]
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '\\?\\?\\?foo', '???foo')",[1747]
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '.*here.*', 'her1e')",[1549]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.tesora.dve.common.PECharsetUtilsTest')","[448, 1461]"
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '.*_.*', 'has_underscore')",[1703]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fromConnectStringFailTest2(com.tesora.dve.common.PEUrlTest)')","[288, 920]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLNegativeTest6(com.tesora.dve.common.PEUrlTest)')","[183, 810]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fromConnectStringTest(com.tesora.dve.common.PEUrlTest)')","[246, 876]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.tesora.dve.common.PEStringUtilsTest')","[509, 1792]"
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', 'h.*re.*', '1here')",[1593]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.tesora.dve.common.PELogUtilsTest')","[408, 1434]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'normalizePrefixTest(com.tesora.dve.common.PEStringUtilsTest)')","[614, 1162]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLNegativeTest1(com.tesora.dve.common.PEUrlTest)')","[78, 700]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetStackTrace(com.tesora.dve.common.PEStringUtilsTest)')","[530, 1074]"
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '..foo', '22foo')",[1659]
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', 'foo', 'fool')",[1505]
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', '..foo', '1foo')",[1681]
+"('PEStringUtilsTest.java', 'com.tesora.dve.common.PEStringUtilsTest', 'buildSQLPatternTest', 'h.*re.*', 'h111rexxx')",[1571]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'encodeDecodetest(com.tesora.dve.common.PECharsetUtilsTest)')","[490, 1052]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSingleQuote(com.tesora.dve.common.PEStringUtilsTest)')","[656, 1206]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDecode(com.tesora.dve.common.PELongUtilsTest)')","[389, 986]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'propList=value1')",[1263]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseURLNegativeTest2(com.tesora.dve.common.PEUrlTest)')","[99, 722]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'toBooleanTest(com.tesora.dve.common.PEStringUtilsTest)')","[635, 1184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDequote(com.tesora.dve.common.PEStringUtilsTest)')","[593, 1140]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fromConnectStringFailTest1(com.tesora.dve.common.PEUrlTest)')","[267, 898]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'blobTest(com.tesora.dve.common.PECharsetUtilsTest)')","[469, 1030]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'fromConnectStringFailTest3(com.tesora.dve.common.PEUrlTest)')","[309, 942]"

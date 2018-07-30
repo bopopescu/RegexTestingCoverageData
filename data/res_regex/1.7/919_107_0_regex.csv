@@ -1,0 +1,5 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_self_attach(org.gridkit.lab.jvm.perfdata.TestPerfData)')",[98]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_self_attach_reentrancy(org.gridkit.lab.jvm.perfdata.TestPerfData)')","[73, 165, 207, 249, 291, 334, 377, 420, 463]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.lab.jvm.perfdata.TestPerfData')",[23]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_self_attach(org.gridkit.lab.jvm.perfdata.TestPerfData)')","[123, 505, 548, 591, 634, 677, 701, 725]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_self_attach_reentrancy(org.gridkit.lab.jvm.perfdata.TestPerfData)')",[48]

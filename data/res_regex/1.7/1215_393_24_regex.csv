@@ -1,0 +1,30 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'multipleClientClosing[0](org.glassfish.grizzly.websockets.LifecycleTest)')","[474, 971]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'simpleConversationWithApplication[0](org.glassfish.grizzly.websockets.WebSocketsTest)')","[149, 787]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[1]')","[342, 1414, 1437]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetOnServlet[0](org.glassfish.grizzly.websockets.WebSocketsTest)')","[103, 741]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'sendAndWait[0](org.glassfish.grizzly.websockets.ServerSideTest)')","[235, 833]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.websockets.ServletBasedTest')","[510, 1341]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.websockets.LifecycleTest')",[384]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.websockets.TimeoutTest')","[550, 1368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[0]')","[57, 189, 298, 405, 1179, 1206, 1233, 1260, 1287, 1314]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUnsolicitedPongFromServerToClient(org.glassfish.grizzly.websockets.PingPongTest)')","[632, 1059]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 491]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'bigPayload[0](org.glassfish.grizzly.websockets.ServerSideTest)')","[258, 856]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.websockets.ServerSideBroadcastTest')",[277]
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '3.0-SNAPSHOT')",[1152]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPingFromServerToClient(org.glassfish.grizzly.websockets.PingPongTest)')","[674, 1103]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'broadcast[0](org.glassfish.grizzly.websockets.ServerSideBroadcastTest)')","[321, 879]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'detectClosed[0](org.glassfish.grizzly.websockets.LifecycleTest)')","[428, 925]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConfiguredIndependentTimeout(org.glassfish.grizzly.websockets.TimeoutTest)')","[592, 1037]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPingFromClientToServer(org.glassfish.grizzly.websockets.PingPongTest)')","[695, 1125]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.websockets.PingPongTest')","[611, 1391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.websockets.WebSocketsTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCloseHandler[0](org.glassfish.grizzly.websockets.WebSocketsTest)')","[126, 764]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUnsolicitedPongFromClientToServer(org.glassfish.grizzly.websockets.PingPongTest)')","[653, 1081]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIndependentTimeout(org.glassfish.grizzly.websockets.TimeoutTest)')","[571, 1015]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'steadyFlow[0](org.glassfish.grizzly.websockets.ServerSideTest)')","[212, 810]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetOnWebSocketApplication[0](org.glassfish.grizzly.websockets.WebSocketsTest)')","[80, 718]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'dirtyClose[0](org.glassfish.grizzly.websockets.LifecycleTest)')","[451, 948]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'broadcast[1](org.glassfish.grizzly.websockets.ServerSideBroadcastTest)')","[365, 902]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.websockets.ServerSideTest')",[168]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'declarative(org.glassfish.grizzly.websockets.ServletBasedTest)')","[531, 993]"

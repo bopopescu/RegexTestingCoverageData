@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'customLogTest(cn.hutool.log.test.LogTest)')","[78, 162]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'logTest(cn.hutool.log.test.LogTest)')","[57, 140]"
+"('null', 'org.pmw.tinylog.Configurator', 'init', '^[a-zA-Z]{2,}:/.*', 'tinylog.properties')",[334]
+"('null', 'org.pmw.tinylog.EnvironmentHelper', 'isAtLeastJava9', '[0-9]{1,8}', '1')","[216, 247, 277, 306]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.hutool.log.test.StaticLogTest)')","[118, 184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.hutool.log.test.LogTest')","[36, 361]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.hutool.log.test.StaticLogTest')","[97, 384]"

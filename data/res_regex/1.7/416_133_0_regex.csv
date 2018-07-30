@@ -1,0 +1,346 @@
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[[a, b], b], b], b], b]')","[14101, 16617]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[[b, a], a], [b, a]], b], b]')",[2178]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[z, y] ')",[4855]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[a, b], x],[c, b]]')",[1756]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '[a-z]', 'd')","[21031, 21067]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[a, b], b], b], b] ')","[13731, 13879, 16247, 16395]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[b, a], a]')","[999, 1295, 9081, 9377]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '-[a, b]]')",[21662]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[z, y], y], z] ')",[6002]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[c, a], x] ')",[10228]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[b, c], c], c] ')",[38050]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[b, a], a], a], c] ')","[37, 481, 7598, 8042]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', '[c,d]')",[20851]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[c, a]')","[28689, 30465]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[c, [b, c]] ')","[40575, 41823]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[x, y]')","[4411, 42834]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '-1/2')",[8822]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[a, b], b] ')","[888, 1184, 8970, 9266, 10890, 12066, 13250, 13398, 14582, 15766, 15914, 17098]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'a')","[2939, 11252, 11400, 11548, 27764, 28356, 30132, 30724, 31760, 32796, 33832, 36496, 37088]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'x')",[18948]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[y, x] ')",[4707]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[x, y], y]')",[42970]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[z, y], [y, x]], [z, x]]')",[6446]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[c, x], Z] ')","[17801, 18541, 19429, 20169]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[c, a], a], a], b]')","[296, 740, 7857, 8301]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[x, y], y], [x, z]]')",[1966]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'a')","[2902, 11215, 11363, 11511, 27727, 28319, 30095, 30687, 31723, 32759, 33795, 36459, 37051]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[c ,[a, c]]')","[40107, 41355]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '0/')",[1365]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[b, a], a]')","[1036, 1332, 9118, 9414]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[c, b], a], a], a] ')","[444, 8005]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '108[Z, [u, v]]')",[21374]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[b, c], c], c] ')",[38013]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[y, z]')",[3819]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[c, a]')","[28726, 30502]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '- 108[[Z, [u, v]],[a,b]]')",[21470]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'x ')","[3227, 3671, 4559, 9784]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[c, [c, [a, c]]]')","[40653, 41901]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[a, b], b] ')","[851, 1147, 8933, 9229, 10854, 12029, 13213, 13361, 14545, 15729, 15877, 17061]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '/2')",[1398]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[z, y], y] ')",[5299]
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '2/2')",[1625]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '-3[[  ,b ], [a, b]]')",[21726]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[[a, b], b], b], b], b]')","[14027, 16543]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[b, c]')","[22177, 22769, 23361, 23657, 24249, 24841, 25433, 25877, 26469, 27061, 27653, 33425, 35497, 36089, 39049, 42433]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', 'x')",[21134]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'x ')","[3190, 3634, 4522, 9747]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[a, v], b], h], j]')","[18097, 18837, 19725, 20465]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[c, x], Z] ')","[17838, 18578, 19466, 20206]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[c, b], a], a]')",[2577]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'b ')","[28467, 30243, 31575, 33943, 34831, 36607, 37199, 38235, 39419, 40185, 41433]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'b ')","[28541, 30317, 31649, 34017, 34905, 36681, 37273, 38309, 39493, 40263, 41511]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[z, y], y] ')",[5373]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[z, y] ')",[4929]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[b, a], a], a], c] ')","[111, 555, 7672, 8116]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[c, b]')","[29096, 29688]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'y ')",[4004]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'z ')",[4300]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '-3[[b  , ], [a, b]]')",[21822]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[a, c], c], c], c]')",[38087]
+"('RationalPolynomialTest.java', 'org.misha.domain.algebra.associative.RationalPolynomialTest', 'testPattern', '(\\+|\\-)([ \\d]*)(/*)([ \\d]*)([ a-zA-Z]*)(\\+|\\-)', '+ 2xU -')",[8466]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'a ')","[9451, 10926, 11659, 12399, 12695, 14175, 14915, 15211, 16691, 17431, 18171, 19059, 19799, 21955, 22547, 23139, 23435, 24027, 24619, 25211, 25655, 26247, 26839, 27431, 28911, 29503, 31279, 32019, 32315, 33203, 34387, 35275, 35867, 37643, 38827, 39717, 40965, 42211]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'c')","[22510, 23102, 23990, 24582, 25174, 26210, 26802, 27394, 28874, 29466, 30058, 30650, 31982, 32722, 33166, 33758, 34350, 35238, 35830, 36422, 37014, 37606, 38790, 40926, 42174, 42766]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[c, b], a]')",[2685]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[y, x], y], [z, y]] ')",[5891]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[a, c], c]')",[34683]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[b, c]')","[22214, 22806, 23398, 23694, 24286, 24878, 25470, 25914, 26506, 27098, 27690, 33462, 35534, 36126, 39086, 42470]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[c, [b, c]] ')","[40536, 41784]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '2/1')",[1689]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[x, a], [b, a]] ')",[10376]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[x, z], y]')",[3560]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[a, b], x]')",[10006]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[a, c], c], c], c]')",[38124]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[x, y], y], [x, z]]')",[1931]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'a')","[2976, 11289, 11437, 11585, 27801, 28393, 30169, 30761, 31797, 32833, 33869, 36533, 37125]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[x, y], y], [x, z]]')",[1896]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '-3[[b  , ], [a, b]]')",[21854]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[a, b], b], b], b] ')","[13842, 13990, 16358, 16506]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[a, c], c], c]')",[38642]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[c, b], a], a], a]')",[2325]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'x')",[19022]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[b, a]')","[2865, 28282, 31242]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[y, x], x], [z, x]] ')",[5706]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[z, y], y], z] ')",[6113]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[z, y], [z, x]] ')",[5484]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[x,y] ')",[3449]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'c ')","[28097, 31057, 39197]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[b, a], a], a], c] ')","[148, 592, 7709, 8153]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[z, y], z], [z, x]] ')",[6298]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'y ')",[4041]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[y, x], x], [z, x]] ')",[5780]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[z, y], y], [y, x]] ')",[6150]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '108[Z, [u, v]]')",[21438]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[x, y]')","[4485, 42902]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[x, y], y]')",[43004]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[b, c], c], c] ')",[37976]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[c, b], a], a], a] ')","[370, 7931]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[x, z]')",[4189]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '- 108[[Z, [u, v]],[a,b]]')",[21502]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[x, z], y]')",[3597]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'x ')","[3264, 3708, 4596, 9821]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[a, b] ')","[11918, 12954, 13102, 14434, 15470, 15618, 16950, 17690, 18430, 19318, 20058]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[z, y], z], [z, x]] ')",[6335]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[a, b], b], b], b]')","[12362, 14878, 17394]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[a, c], c] ')",[37902]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[a, c]')","[9599, 34091, 34979, 36755, 37347, 39567]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '1/0')",[1431]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[a, b], b], b] ')","[12103, 13435, 13583, 14619, 15951, 16099, 17135]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[b, a]')","[2829, 28245, 31205]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[c, b], a]')",[2649]
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '7/8')","[6771, 6915, 7059, 7203, 7347, 7491, 8540, 8684]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'c ')","[28134, 31094, 39234]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'b')","[11106, 22288, 22880, 23768, 24360, 24952, 25544, 25988, 26580, 27172, 27912, 29244, 29836, 30872, 31464, 32204, 32500, 32944, 33536, 35608, 36200, 42544]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'b')","[11070, 22251, 22843, 23731, 24323, 24915, 25507, 25951, 26543, 27135, 27875, 29207, 29799, 30835, 31427, 32167, 32463, 32907, 33499, 35571, 36163, 42507]"
+"('RationalPolynomialTest.java', 'org.misha.domain.algebra.associative.RationalPolynomialTest', 'testPattern', '(\\+|\\-)([ \\d]*)(/*)([ \\d]*)([ a-zA-Z]*)(\\+|\\-)', '-15/22xya -')",[8433]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'z ')",[4226]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[z, y], [y, x]], [z, x]]')",[6483]
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '-13/11')","[6845, 6985, 7133, 7273, 7421, 7561, 8614, 8754]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '-[ab,c]')",[21598]
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '1')",[1593]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[a, c] ')","[40458, 41706]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[c, [c, [a, c]]]')","[40770, 42018]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[a, b], b], b], b]')","[12288, 14804, 17320]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[c ,[a, c]]')","[40146, 41394]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[x, a]')","[2141, 6697]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[a, c]')","[9673, 34165, 35053, 36829, 37421, 39641]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '-3[[b  , ], [a, b]]')",[21918]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'z ')",[4263]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[x, y]')","[4448, 42868]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[y, x], x], [z, x]] ')",[5817]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[a, c], c] ')",[37865]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', 'd')",[20994]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[b, c] ')","[34572, 39912, 41160]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[z, y] ')",[4892]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[a, c], c], c], c]')",[38161]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '- 108[[Z, [u, v]],[a,b]]')",[21534]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', '[a,b]')",[20601]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[a, b] ')","[11807, 12843, 12991, 14323, 15359, 15507, 16839, 17579, 18319, 19207, 19947]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', 'a')",[20636]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[x, y], y]')",[43038]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[b, a], x], [c, a]]')",[10746]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', 'b')",[20744]
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', 'a/3')",[1464]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[y, z]')",[3856]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[a, c], c], c]')",[38568]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[a, n], b], q] ')","[17875, 18615, 19503, 20243]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[c, a], a], a], b]')","[185, 629, 7746, 8190]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[a, b], b] ')","[814, 1110, 8896, 9192, 10818, 11992, 13176, 13324, 14508, 15692, 15840, 17024]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[c, [c, [a, c]]]')","[40692, 41940]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[a, c] ')","[40380, 41628]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'x')",[18985]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[a, c], c], c]')",[38531]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[x,y] ')",[3412]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[y, x] ')",[4781]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[a, c]')","[9636, 34128, 35016, 36792, 37384, 39604]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[b, c]')","[22103, 22695, 23287, 23583, 24175, 24767, 25359, 25803, 26395, 26987, 27579, 33351, 35423, 36015, 38975, 42359]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[a, c], c], c]')",[38605]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[a, b], x],[c, b]]')",[1791]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[b, a], a], x] ')",[10598]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[c, b], a], a], a] ')","[333, 7894]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[y, x], x], y] ')",[5632]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[y, x], x], y] ')",[5558]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[a, c], c] ')",[37828]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[x, z]')",[4152]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '[a-z]', 'x')","[21170, 21205]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[[b, a], a], [b, a]], b], b]')",[2289]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[a, b], b], b] ')","[12177, 13509, 13657, 14693, 16025, 16173, 17209]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '1/2')",[8788]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[a, v], b], h], j]')","[18134, 18874, 19762, 20502]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[c, b]')","[29059, 29651]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[c, b]')","[29133, 29725]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[a, b], b], b], b]')","[12325, 14841, 17357]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'b ')","[28578, 30354, 31686, 34054, 34942, 36718, 37310, 38346, 39530, 40302, 41550]"
+"('RationalPolynomialTest.java', 'org.misha.domain.algebra.associative.RationalPolynomialTest', 'testPattern', '(\\+|\\-)([ \\d]*)(/*)([ \\d]*)([ a-zA-Z]*)', '+2x')",[8400]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '[a-z]', 'c')","[20923, 20959]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[b, c], c], c] ')",[37939]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '-3[[  ,b ], [a, b]]')",[21758]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[x, a] ')",[10117]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[[b, a], a], [b, a]], b], b]')",[2215]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[y, x], x], [z, x]] ')",[5743]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[a, b] ')","[11881, 12917, 13065, 14397, 15433, 15581, 16913, 17653, 18393, 19281, 20021]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[a, v], b], h], j]')","[18060, 18800, 19688, 20428]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'z ')",[4337]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[a, b], b], b], b] ')","[13768, 13916, 16284, 16432]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '0/2')",[1529]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'a ')","[9562, 11034, 11770, 12510, 12806, 14286, 15026, 15322, 16802, 17542, 18282, 19170, 19910, 22066, 22658, 23250, 23546, 24138, 24730, 25322, 25766, 26358, 26950, 27542, 29022, 29614, 31390, 32130, 32426, 33314, 34498, 35386, 35978, 37754, 38938, 39834, 41082, 42322]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[c ,[a, c]]')","[40029, 41277]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[b, c] ')","[34535, 39873, 41121]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[c, b], a], a], a]')",[2361]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[a, c], c]')",[34794]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[a, b], b], b] ')","[12214, 13546, 13694, 14730, 16062, 16210, 17246]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[a, c]')","[9710, 34202, 35090, 36866, 37458, 39678]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[z, y], [z, x]] ')",[5447]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[a, b], x],[c, b]]')",[1826]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[b, a], a], x] ')",[10524]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[z, y], [y, x]], [z, x]]')",[6557]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[z, x], y] ')",[5151]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[a, n], b], q] ')","[17949, 18689, 19577, 20317]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '-[ab,c]')",[21630]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[a, c], c]')",[34720]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[y, x], y], [z, y]] ')",[5928]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[c, b], a], a], a]')",[2433]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[z, y], [z, x]] ')",[5521]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[x, a], [b, a]] ')",[10339]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[x, a], [b, a]] ')",[10413]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[a, b], b], b] ')","[12140, 13472, 13620, 14656, 15988, 16136, 17172]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[c, a]')","[28615, 30391]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', 'c')",[20886]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[x, y], y]')",[42936]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[z, y], z], [z, x]] ')",[6409]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[c, b], a], a], a] ')","[407, 7968]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[z, x], x] ')",[5003]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '-3[[b  , ], [a, b]]')",[21886]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[y, x], y], [z, y]] ')",[5965]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[a, b]')","[3153, 12658, 15174, 39382]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[c, b], a]')",[2613]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'a ')","[9525, 10998, 11733, 12473, 12769, 14249, 14989, 15285, 16765, 17505, 18245, 19133, 19873, 22029, 22621, 23213, 23509, 24101, 24693, 25285, 25729, 26321, 26913, 27505, 28985, 29577, 31353, 32093, 32389, 33277, 34461, 35349, 35941, 37717, 38901, 39795, 41043, 42285]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[[a, b], b], b], b], b]')","[14138, 16654]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[b, c], c] ')",[38420]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[a, b], x],[c, b]]')",[1861]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[z, x], x] ')",[4966]
+"('RationalPolynomialTest.java', 'org.misha.domain.algebra.associative.RationalPolynomialTest', 'testPattern', '(\\+|\\-)([ \\d]*)(/*)([ \\d]*)([ a-zA-Z]*)', '- 15/22xya')",[8334]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[x, y]')","[4374, 42800]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[[a, b], b], b], b], b]')","[14064, 16580]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[z, y], y] ')",[5262]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[a, b]')","[3083, 12584, 15100, 39308]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[x, a] ')",[10154]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[x, a] ')",[10080]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[x, a] ')",[10043]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', 'e')",[21239]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[z, y], z], [z, x]] ')",[6372]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[b, a], a], x] ')",[10561]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[c, [b, c]] ')","[40497, 41745]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[a, b], x]')",[9932]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[a, b], b] ')","[777, 1073, 8859, 9155, 10782, 11955, 13139, 13287, 14471, 15655, 15803, 16987]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[b, a], a]')","[962, 1258, 9044, 9340]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[z, y], y], [y, x]] ')",[6187]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[c, a], a], a], b]')","[222, 666, 7783, 8227]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '-3[[  ,b ], [a, b]]')",[21790]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '108[Z, [u, v]]')",[21342]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'c')","[22399, 22991, 23879, 24471, 25063, 26099, 26691, 27283, 28763, 29355, 29947, 30539, 31871, 32611, 33055, 33647, 34239, 35127, 35719, 36311, 36903, 37495, 38679, 40809, 42057, 42655]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '-17')","[6808, 6950, 7096, 7238, 7384, 7526, 8577, 8719]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[b, c] ')","[34609, 39951, 41199]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[[b, a], a], [b, a]], b], b]')",[2252]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[y, z]')",[3782]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[a, b], x]')",[9895]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[x, y], y], [x, z]]')",[2001]
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '1/1/1')",[1497]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[y, x] ')",[4744]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[y, x], y], [z, y]] ')",[5854]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'a ')","[9488, 10962, 11696, 12436, 12732, 14212, 14952, 15248, 16728, 17468, 18208, 19096, 19836, 21992, 22584, 23176, 23472, 24064, 24656, 25248, 25692, 26284, 26876, 27468, 28948, 29540, 31316, 32056, 32352, 33240, 34424, 35312, 35904, 37680, 38864, 39756, 41004, 42248]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[z, y], y], z] ')",[6076]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[x,y] ')",[3338]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[b, c], c] ')",[38494]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[c, x], Z] ')","[17764, 18504, 19392, 20132]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[b, c], c] ')",[38383]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[b, c], c] ')",[38457]
+"('RationalPolynomialTest.java', 'org.misha.domain.algebra.associative.RationalPolynomialTest', 'testPattern', '(\\+|\\-)([ \\d]*)(/*)([ \\d]*)([ a-zA-Z]*)', '- 15 / 22 xya ')",[8367]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '[a-z]', 'e')","[21275, 21310]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[y, x] ')",[4670]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[z, y], y], [y, x]] ')",[6224]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[c, a], x] ')",[10191]
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '2/3')","[1657, 6734, 6880, 7022, 7168, 7310, 7456, 8503, 8649]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[b, a], x], [c, a]]')",[10709]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'b ')","[28504, 30280, 31612, 33980, 34868, 36644, 37236, 38272, 39456, 40224, 41472]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[x, z]')",[4078]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[b, c] ')","[34646, 39990, 41238]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '[a-z]', 'b')","[20781, 20817]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[c, b], a], a]')",[2541]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[[b, a], a], a], c] ')","[74, 518, 7635, 8079]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[x,y] ')",[3375]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[z, x], x] ')",[5077]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[z, x], x] ')",[5040]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[z, y], y] ')",[5336]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'y ')",[3967]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[y, x], x], y] ')",[5595]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', '[[[a,b],[c,d]],[x,e]]')",[20534]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[z, y] ')",[4818]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'b')","[11178, 22362, 22954, 23842, 24434, 25026, 25618, 26062, 26654, 27246, 27986, 29318, 29910, 30946, 31538, 32278, 32574, 33018, 33610, 35682, 36274, 42618]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', '[x,e]')",[21100]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[c, [b, c]] ')","[40614, 41862]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '\\[(\\[.*\\]|[a-z]),(\\[.*\\]|[a-z])\\]', '[[a,b],[c,d]]')",[20567]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'c')","[22473, 23065, 23953, 24545, 25137, 26173, 26765, 27357, 28837, 29429, 30021, 30613, 31945, 32685, 33129, 33721, 34313, 35201, 35793, 36385, 36977, 37569, 38753, 40887, 42135, 42729]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[[a, c], c], c], c]')",[38198]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[b, a], a], x] ')",[10487]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[c, [c, [a, c]]]')","[40731, 41979]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[a, c] ')","[40419, 41667]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[c, a], x] ')",[10302]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[a, b]')","[3118, 12621, 15137, 39345]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[x, a]')","[2106, 6662]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '-3][')",[21694]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'c ')","[28060, 31020, 39160]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[a, b], x]')",[9969]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[z, x], y] ')",[5225]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[c, b]')","[29170, 29762]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[a, v], b], h], j]')","[18023, 18763, 19651, 20391]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[a, b] ')","[11844, 12880, 13028, 14360, 15396, 15544, 16876, 17616, 18356, 19244, 19984]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'a')","[3013, 11326, 11474, 11622, 27838, 28430, 30206, 30798, 31834, 32870, 33906, 36570, 37162]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[c, a], a], a], b]')","[259, 703, 7820, 8264]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[b, a], a]')","[925, 1221, 9007, 9303]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[a, b], b], b], b] ')","[13805, 13953, 16321, 16469]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[b, a]')","[2757, 28171, 31131]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'x')",[18911]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[x, z]')",[4115]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[b, a], x], [c, a]]')",[10672]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[z, y], [y, x]], [z, x]]')",[6520]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[x, z], y]')",[3523]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '- 108[[Z, [u, v]],[a,b]]')",[21566]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'y ')",[3930]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[z, y], y], z] ')",[6039]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[b, a], x], [c, a]]')",[10635]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[c, a], x] ')",[10265]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[b, a]')","[2793, 28208, 31168]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[a, c], c]')",[34757]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[c, a]')","[28652, 30428]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[x, z], y]')",[3486]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[y, z]')",[3893]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', 'x ')","[3301, 3745, 4633, 9858]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[c, b], a], a]')",[2505]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[c, x], Z] ')","[17727, 18467, 19355, 20095]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[a, n], b], q] ')","[17986, 18726, 19614, 20354]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[a, c], c] ')",[37791]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[[a, b], b], b], b]')","[12251, 14767, 17283]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isMonomial', '[a-z]', 'a')","[20673, 20709]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '14/12')",[1721]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[[c, b], a], a]')",[2469]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[[[c, b], a], a], a]')",[2397]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[x, a]')","[2071, 6627]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[c ,[a, c]]')","[40068, 41316]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', 'c')","[22436, 23028, 23916, 24508, 25100, 26136, 26728, 27320, 28800, 29392, 29984, 30576, 31908, 32648, 33092, 33684, 34276, 35164, 35756, 36348, 36940, 37532, 38716, 40848, 42096, 42692]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', 'c ')","[28023, 30983, 39123]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[x, a], [b, a]] ')",[10450]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[z, y], [z, x]] ')",[5410]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[b, c]')","[22140, 22732, 23324, 23620, 24212, 24804, 25396, 25840, 26432, 27024, 27616, 33388, 35460, 36052, 39012, 42396]"
+"('Rational.java', 'org.misha.domain.algebra.scalars.impl.Rational', 'parse', '(\\+|-)*([0-9]+)+(/?)([0-9]*)', '0')",[1561]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[[z, x], y] ')",[5114]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '[[z, x], y] ')",[5188]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)([a-zA-Z]{2})(.*)', '[[[a, n], b], q] ')","[17912, 18652, 19540, 20280]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[a, c] ')","[40341, 41589]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', 'b')","[11142, 22325, 22917, 23805, 24397, 24989, 25581, 26025, 26617, 27209, 27949, 29281, 29873, 30909, 31501, 32241, 32537, 32981, 33573, 35645, 36237, 42581]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[y, x], x], y] ')",[5669]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[c, b], a]')",[2721]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[(.*), *])(.*)', '[[[z, y], y], [y, x]] ')",[6261]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[x, a]')","[2036, 6592]"
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '(.*)(\\[ *,(.*)])(.*)', '108[Z, [u, v]]')",[21406]
+"('Validator.java', 'org.misha.service.validator.Validator', 'isLieMonomialValid', '([-+]*)([a-zA-Z0-9, \\Q[\\E\\Q]\\E])*', '[a, b]')","[3048, 12547, 15063, 39271]"

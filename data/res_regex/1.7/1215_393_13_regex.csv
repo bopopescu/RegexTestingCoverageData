@@ -1,0 +1,9 @@
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '3.0-SNAPSHOT')",[34]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHttpPipeline2(org.glassfish.grizzly.comet.BasicCometTest)')","[130, 256]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.glassfish.grizzly.comet.BasicCometTest')","[70, 345]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOnInterruptExpirationDelay(org.glassfish.grizzly.comet.BasicCometTest)')","[110, 234]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHttpPipeline(org.glassfish.grizzly.comet.BasicCometTest)')","[190, 322]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClientCloseConnection(org.glassfish.grizzly.comet.BasicCometTest)')","[150, 278]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOnTerminate(org.glassfish.grizzly.comet.BasicCometTest)')","[170, 300]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[51]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOnEvent(org.glassfish.grizzly.comet.BasicCometTest)')","[90, 212]"

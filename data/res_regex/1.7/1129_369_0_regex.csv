@@ -1,0 +1,195 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'V_can_appear_without_repetition(com.galaxy.validation.RepetitionValidatorTest)')","[1964, 1985, 2006]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'D_can_never_be_repeated_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2531, 4769]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'IX')",[6555]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'LD')",[6463]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_validate_roman_number_before_converting(com.galaxy.domain.RomanNumberTest)')","[162, 183, 204]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'how many Credits is glob prok Gold ?')",[8400]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'III')",[5889]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_valid_if_X_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[2132, 2153, 2174]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_Silver(com.galaxy.domain.MetalTest)')","[1084, 4392]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_Iron(com.galaxy.domain.MetalTest)')","[1021, 1042, 1063]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'D_can_never_be_repeated_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2447, 4748]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'VX')",[6762]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'XXXX')",[6105]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'L')",[5416]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'V_can_appear_without_repetition(com.galaxy.validation.RepetitionValidatorTest)')","[1943, 4622]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'prok is V')","[7474, 7684]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_M_to_thousand(com.galaxy.domain.RomanNumberTest)')","[813, 4309]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'C_can_be_subtracted_from_D_and_M(com.galaxy.validation.SubtractionValidatorTest)')","[2718, 4811]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMuch', '^how much is ((?:[a-z]+ )+)\\?$', 'Its my birthday')",[7170]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_store_assigned_galactic_symbols_against_roman_symbols(com.galaxy.MerchantGuideTest)')","[3533, 3554, 3575, 5060]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_invalid_if_C_repeated_more_than_three_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1355, 4475]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_Iron(com.galaxy.domain.MetalTest)')","[1000, 4371]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'M')","[5620, 6201]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'V_can_never_be_repeated_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1859, 4601]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_invalid_if_X_repeated_four_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2027, 4643]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'XC')",[6693]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'X_can_be_subtracted_from_L_and_C(com.galaxy.validation.SubtractionValidatorTest)')","[3138, 4936]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_Gold(com.galaxy.domain.MetalTest)')","[937, 958, 979, 4350]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_IV_to_four(com.galaxy.domain.RomanNumberTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_X_to_ten(com.galaxy.domain.RomanNumberTest)')","[645, 4267]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_process_questionnaire(com.galaxy.MerchantGuideTest)')","[4016, 5186]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'C_can_be_subtracted_from_D_and_M(com.galaxy.validation.SubtractionValidatorTest)')","[2739, 2760, 2781, 4831]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'L_can_never_be_subtracted(com.galaxy.validation.SubtractionValidatorTest)')","[2823, 2844, 2865]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_invalid_if_M_repeated_more_than_three_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2279, 4706]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_invalid_if_C_repeated_more_than_three_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1376, 1397, 1418]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'II')","[5339, 7275, 7555, 7843]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[8639]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.galaxy.validation.ValidatorTest')","[6977, 7001, 7026, 7050]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_valid_if_M_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[2363, 4727]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_invalid_if_X_repeated_four_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2048, 2069, 2090]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_D_to_five_hundred(com.galaxy.domain.RomanNumberTest)')","[750, 771, 792]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMany', '^how many Credits is ((?:[a-zA-Z]+ )+)\\?$', 'how many Credits is glob prok Silver ?')","[7579, 8293]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'I_can_not_be_subtracted_from_LCD_or_M(com.galaxy.validation.SubtractionValidatorTest)')","[3054, 4915]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'D_can_never_be_repeated_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2552, 2573, 2594]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'return_false_if_no_match_found(com.galaxy.MerchantGuideTest)')","[3617, 3638, 3659]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_Gold(com.galaxy.domain.MetalTest)')","[916, 4330]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'D_can_never_be_subtracted(com.galaxy.validation.SubtractionValidatorTest)')","[2907, 2928, 2949]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_IV_to_four(com.galaxy.domain.RomanNumberTest)')","[393, 4204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'L_can_never_be_subtracted(com.galaxy.validation.SubtractionValidatorTest)')","[2802, 4852]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'how much is pish tegj glob glob ?')",[8111]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'D_can_never_be_repeated_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2468, 2489, 2510]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_valid_if_X_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[2111, 4664]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.galaxy.validation.RepetitionValidatorTest')",[1166]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'MMMMMMMMMMMMMMMMMM')",[6177]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'IIIII')",[5865]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_galactic_to_decimal_when_ask_how_many(com.galaxy.MerchantGuideTest)')","[3848, 5144]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.galaxy.MerchantGuideTest')",[3491]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'IL')",[6578]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'L_can_never_be_repeated_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1523, 4517]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'how many Credits is glob prok Iron ?')",[8532]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'I_can_not_be_subtracted_from_LCD_or_M(com.galaxy.validation.SubtractionValidatorTest)')","[3075, 3096, 3117]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_L_to_fifty(com.galaxy.domain.RomanNumberTest)')","[477, 4225]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'IM')",[6647]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[8664]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.galaxy.domain.MetalTest')","[5768, 5792, 5817, 5841]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'D_can_appear_without_repetition(com.galaxy.validation.RepetitionValidatorTest)')","[2615, 4790]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'DD')",[6225]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_store_assigned_galactic_symbols_against_roman_symbols(com.galaxy.MerchantGuideTest)')","[3512, 5040]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'how many Credits is glob prok Silver ?')",[8243]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_galactic_to_decimal_when_ask_how_many(com.galaxy.MerchantGuideTest)')","[3869, 3890, 3911]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.galaxy.MerchantGuideTest')","[8735, 8755, 8776, 8796]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'V_can_never_be_subtracted(com.galaxy.validation.SubtractionValidatorTest)')","[3327, 3348, 3369]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'V_can_never_be_repeated_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1880, 1901, 1922]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'pish pish Iron is 3910 Credits')",[7977]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'pish pish Iron is 3910 Credits')",[8002]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'I')",[5212]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'CM')",[6417]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'X')",[5543]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'VC')",[6808]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_X_to_ten(com.galaxy.domain.RomanNumberTest)')","[666, 687, 708]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'L')",[5441]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'CCCCCCCC')",[5913]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'C')",[5467]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'V_can_never_be_subtracted(com.galaxy.validation.SubtractionValidatorTest)')","[3306, 4978]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_invalid_if_I_repeated_four_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1208, 1229, 1250, 4433]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_D_to_five_hundred(com.galaxy.domain.RomanNumberTest)')","[729, 4288]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'VIVI')",[6057]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'IV')","[5365, 6081, 7607, 7923, 8322, 8454, 8586]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'Its my birthday')",[7098]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'D_can_never_be_subtracted(com.galaxy.validation.SubtractionValidatorTest)')","[2886, 4873]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'L_can_never_be_repeated_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1607, 4538]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'answer_unknown(com.galaxy.MerchantGuideTest)')","[3932, 5165]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'VM')",[6854]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'DIID')",[6249]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_invalid_if_M_repeated_more_than_three_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2300, 2321, 2342]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_C_to_hundred(com.galaxy.domain.RomanNumberTest)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_invalid_if_I_repeated_four_times_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1187, 4413]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'IV')","[5390, 6532, 7634, 7952, 8350, 8482, 8614]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_L_to_fifty(com.galaxy.domain.RomanNumberTest)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'I_can_be_subtracted_from_V_and_X(com.galaxy.validation.SubtractionValidatorTest)')","[2970, 4894]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'MCMXLIV')",[5288]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'D')",[5569]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'D_can_appear_without_repetition(com.galaxy.validation.RepetitionValidatorTest)')","[2636, 2657, 2678]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMany', '^how many Credits is ((?:[a-zA-Z]+ )+)\\?$', 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[8689]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'pish is X')","[7323, 7709]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'how many Credits is glob prok Silver ?')",[8268]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'XL')",[6670]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_C_to_hundred(com.galaxy.domain.RomanNumberTest)')","[561, 4246]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'VL')",[6785]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_MCMXLIV_to_1944(com.galaxy.domain.RomanNumberTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_calculate_and_store_unit_price_of_metal(com.galaxy.MerchantGuideTest)')","[3680, 5102]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.galaxy.validation.SubtractionValidatorTest')",[2697]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMany', '^how many Credits is ((?:[a-zA-Z]+ )+)\\?$', 'how many Credits is glob prok Iron ?')",[8557]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'I_can_be_subtracted_from_V_and_X(com.galaxy.validation.SubtractionValidatorTest)')","[2991, 3012, 3033]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_valid_if_C_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[1460, 1481, 1502]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'XX')",[8032]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_validate_repetition_and_subtraction(com.galaxy.validation.ValidatorTest)')","[3409, 4999]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_II_to_2(com.galaxy.domain.RomanNumberTest)')","[309, 4183]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'glob prok Gold is 57800 Credits')",[7893]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'glob prok Gold is 57800 Credits')",[7868]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'ID')",[6624]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'L_can_never_be_repeated_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1544, 1565, 1586]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_calculate_and_store_unit_price_of_metal(com.galaxy.MerchantGuideTest)')","[3701, 3722, 3743]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_galactic_to_decimal_when_ask_how_much(com.galaxy.MerchantGuideTest)')","[3785, 3806, 3827]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'X')","[5518, 6129]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'DM')",[6509]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.galaxy.domain.RomanNumberTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_validate_repetition_and_subtraction(com.galaxy.validation.ValidatorTest)')","[3430, 3451, 3472, 5019]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_II_to_2(com.galaxy.domain.RomanNumberTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'L_can_appear_without_repetition(com.galaxy.validation.RepetitionValidatorTest)')","[1712, 1733, 1754]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'answer_unknown(com.galaxy.MerchantGuideTest)')","[3953, 3974, 3995]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_valid_if_I_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[1292, 1313, 1334]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'L_can_never_be_repeated_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1628, 1649, 1670]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_galactic_to_decimal_when_ask_how_much(com.galaxy.MerchantGuideTest)')","[3764, 5123]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'LI')",[6009]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'glob glob Silver is 34 Credits')",[7759]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'how much is pish tegj glob glob ?')",[8086]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'XLII')","[7426, 8218]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'LC')",[6440]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_valid_if_X_repeated_four_times_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2195, 4685]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'L_can_appear_without_repetition(com.galaxy.validation.RepetitionValidatorTest)')","[1691, 4559]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_validate_roman_number_before_converting(com.galaxy.domain.RomanNumberTest)')","[141, 4141]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'glob is I')","[7074, 7194, 7299, 7450, 7659]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_MCMXLIV_to_1944(com.galaxy.domain.RomanNumberTest)')","[225, 4162]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.galaxy.validation.SubtractionValidatorTest')","[6879, 6903, 6928, 6952]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'glob glob Silver is 34 Credits')","[7218, 7498, 7784]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'MCMXLIV')",[5263]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'tegj is L')","[7347, 7734]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMany', '^how many Credits is ((?:[a-zA-Z]+ )+)\\?$', 'how many Credits is glob prok Gold ?')",[8425]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfPrice', '((?:[a-z]+ )+)([A-Z]\\w+) is (\\d+) ([A-Z]\\w+)$', 'Its my birthday')",[7122]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'LM')",[6486]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.galaxy.validation.RepetitionValidatorTest')","[6298, 6322, 6347, 6371]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'DI')",[6273]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_Silver(com.galaxy.domain.MetalTest)')","[1105, 1126, 1147]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'XLII')","[7399, 8190]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'how many Credits is glob prok Gold ?')",[8375]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'C')",[5492]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'LILI')",[5985]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'X_can_not_be_subtracted_from_D_or_M(com.galaxy.validation.SubtractionValidatorTest)')","[3222, 4957]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'XD')",[6716]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_valid_if_X_repeated_four_times_not_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[2216, 2237, 2258]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'XX')",[8061]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'CC')",[5937]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMany', '^how many Credits is ((?:[a-zA-Z]+ )+)\\?$', 'Its my birthday')",[7146]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_M_to_thousand(com.galaxy.domain.RomanNumberTest)')","[834, 855, 876]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.galaxy.domain.RomanNumberTest')","[5670, 5694, 5719, 5743]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'M')",[5645]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'XM')",[6739]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMany', '^how many Credits is ((?:[a-zA-Z]+ )+)\\?$', 'how much is pish tegj glob glob ?')",[8136]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'LL')",[5961]
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMuch', '^how much is ((?:[a-z]+ )+)\\?$', 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[8714]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_convert_I_to_one(com.galaxy.domain.RomanNumberTest)')","[78, 99, 120, 4120]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_valid_if_C_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[1439, 4496]"
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'XXXIX')",[6153]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'X_can_not_be_subtracted_from_D_or_M(com.galaxy.validation.SubtractionValidatorTest)')","[3243, 3264, 3285]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'V_can_never_be_repeated_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1796, 1817, 1838]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'CD')",[6394]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.galaxy.domain.MetalTest')",[895]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'II')","[5314, 7247, 7527, 7814]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'D')",[5594]
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'I')",[5237]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'X_can_be_subtracted_from_L_and_C(com.galaxy.validation.SubtractionValidatorTest)')","[3159, 3180, 3201]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'answerIfHowMuch', '^how much is ((?:[a-z]+ )+)\\?$', 'how much is pish tegj glob glob ?')","[7371, 8161]"
+"('MerchantGuide.java', 'com.galaxy.MerchantGuide', 'storeIfSymbol', '(.+)\\sis\\s(.)', 'how many Credits is glob prok Iron ?')",[8507]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_process_questionnaire(com.galaxy.MerchantGuideTest)')","[4037, 4058, 4079]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'IC')",[6601]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_return_valid_if_I_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[1271, 4454]"
+"('SubtractionValidator.java', 'com.galaxy.validation.SubtractionValidator', 'validate', 'I[L,C,D,M]|X[D,M]|V[X,L,C,D,M]|L[C,D,M]|D[M]', 'VD')",[6831]
+"('RepetitionValidator.java', 'com.galaxy.validation.RepetitionValidator', 'noInvalidPattern', 'XXXX+|IIII+|CCCC+|MMMM+', 'XVVX')",[6033]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'return_false_if_no_match_found(com.galaxy.MerchantGuideTest)')","[3596, 5081]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_convert_I_to_one(com.galaxy.domain.RomanNumberTest)')","[57, 4100]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'V_can_never_be_repeated_in_succession(com.galaxy.validation.RepetitionValidatorTest)')","[1775, 4580]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.galaxy.validation.ValidatorTest')",[3388]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_return_valid_if_M_repeated_less_than_four_times(com.galaxy.validation.RepetitionValidatorTest)')","[2384, 2405, 2426]"

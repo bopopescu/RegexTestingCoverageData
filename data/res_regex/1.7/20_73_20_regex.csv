@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[145, 223]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.bawi.groovy.MyGroovyTest')","[164, 353]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.bawi.groovy.MyGroovySpockTest')",[242]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSum(com.bawi.groovy.MyGroovyTest)')","[185, 286]"
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.4.3')",[32]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'adding an element leads to size increase(com.bawi.groovy.MyGroovySpockTest)')","[264, 330]"
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '1.0-groovy-2.4')",[64]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'indexOutOfBoundsAccess(com.bawi.groovy.MyGroovyTest)')","[206, 308]"
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.4.0')",[96]
+"('VersionNumber.java', 'org.spockframework.util.VersionNumber', 'parse', '(\\d+)(?:\\.(\\d+))?+(?:\\.(\\d+))?+(?:[-\\.](.+))?', '2.9.99')",[128]

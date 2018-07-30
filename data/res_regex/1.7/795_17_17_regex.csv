@@ -1,0 +1,21 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEnv(TestEnv)')","[331, 388]"
+"('FileFilterUtil.java', 'ch.qos.logback.core.rolling.helper.FileFilterUtil$3', 'accept', 'springmvc-multiple-env-2018-01-13.log', 'pwang7')","[113, 169]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q795_17\\E', '795_17')","[633, 1249, 1813, 2436]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[857, 1473, 2041, 2660]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspringmvc-multiple-env\\E', 'springmvc-multiple-env')","[689, 1305, 1870, 2492]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'TestEnv')","[310, 2850]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtangzq\\E', 'tangzq')","[913, 1529, 2098, 2716]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[577, 1193, 1756, 2380]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyServiceImpl.class')",[2212]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[521, 1137, 1699, 2324]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[465, 1081, 1642, 2268]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[801, 1417, 1984, 2604]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[291, 348]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[745, 1361, 1927, 2548]"
+"('RollingFileAppender.java', 'ch.qos.logback.core.rolling.RollingFileAppender', 'fileAndPatternCollide', '/home/springmvc-multiple-env-\\d{4}-\\d{2}-\\d{2}.log', '/home/springmvc-multiple-env.log')","[222, 274]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'TestBase')",[367]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qservice\\E', 'service')","[969, 1585, 2155, 2772]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyService.class')",[1025]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'initializationError(TestBase)')",[409]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')",[2828]
+"('FileSize.java', 'ch.qos.logback.core.util.FileSize', 'valueOf', '([0-9]+)\\s*(|kb|mb|gb)s?', '50MB')",[56]

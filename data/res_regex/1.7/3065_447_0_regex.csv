@@ -1,0 +1,29 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.parse.DefaultTextParserTest')","[1645, 1690, 1736, 1781]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'constructorWithListAddsTokensInCorrectOrder(com.markatta.stackdetective.parse.TokenStackTest)')",[300]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.parse.LexerTest')","[2052, 2097, 2143, 2188]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.parse.TokenTypeTest')","[1870, 1915, 1961, 2006]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetPackageName(com.markatta.stackdetective.model.EntryTest)')",[75]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseAnotherStackTrace(com.markatta.stackdetective.parse.DefaultTextParserTest)')",[200]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.parse.NaiveTextParserTest')","[2234, 2279, 2325, 2370]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseAnotherStackTrace(com.markatta.stackdetective.parse.NaiveTextParserTest)')",[275]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.distance.WeightedAlgorithmCombinationTest')","[1281, 1326, 1372, 1417]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'costOfAdd(com.markatta.stackdetective.distance.levehnstein.IntelligentSubstitutionStrategyTest)')",[125]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetRegexp(com.markatta.stackdetective.parse.TokenTypeTest)')",[225]
+"('TokenTypeTest.java', 'com.markatta.stackdetective.parse.TokenTypeTest', 'testGetRegexp', '^.', '[')",[1824]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'tokenizeSwedishCharacters(com.markatta.stackdetective.parse.LexerTest)')",[250]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.render.links.Jdk6JavadocResolverTest')","[371, 416, 462, 507]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.distance.levehnstein.IntelligentSubstitutionStrategyTest')","[1099, 1144, 1190, 1235]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.distance.levehnstein.WeightedLevehnsteinDistanceTest')","[917, 962, 1008, 1053]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'equalTracesGivesResultOf1(com.markatta.stackdetective.distance.levehnstein.WeightedLevehnsteinDistanceTest)')",[100]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.clustering.DistanceMatrixTest')","[2762, 2787, 2813, 2838]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.model.EntryTest')","[735, 780, 826, 871]"
+"('TokenStack.java', 'com.markatta.stackdetective.parse.TokenStack', 'popNextString', '.', 'ab')","[2417, 2463]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.render.links.ResolverStackTest')","[553, 598, 644, 689]"
+"('TokenStack.java', 'com.markatta.stackdetective.parse.TokenStack', 'popNextString', '.+', 'ab')","[2509, 2554]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.filter.FilterStackTest')","[1463, 1508, 1554, 1599]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'afterAddingTwoEntriesEveryPossibleCombinationHasADistance(com.markatta.stackdetective.clustering.DistanceMatrixTest)')",[325]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'worksWithOnlyOneAlgorithm(com.markatta.stackdetective.distance.WeightedAlgorithmCombinationTest)')",[150]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetLinkFor(com.markatta.stackdetective.render.links.Jdk6JavadocResolverTest)')",[25]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'noUrlFoundReturnsNull(com.markatta.stackdetective.render.links.ResolverStackTest)')",[50]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInclude(com.markatta.stackdetective.filter.FilterStackTest)')",[175]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.markatta.stackdetective.parse.TokenStackTest')","[2600, 2645, 2691, 2736]"

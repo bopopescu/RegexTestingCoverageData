@@ -1,0 +1,201 @@
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'quoted-strings')",[4532]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's11')",[5494]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'short-list')",[6972]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'integer')","[3730, 4318, 9848]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'first')",[2864]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '0.0')","[5868, 6052]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'inmap2')",[8604]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^([-+]?(\\.[0-9]+|[0-9_]+(\\.[0-9_]*)?)([eE][-+]?[0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '0.0')","[5914, 6098]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'INFO')",[4028]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'abc')",[7234]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Using @Name(""subsection-using.annotation.first"") Annotation for path')",[2956]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'java.lang.String')",[9302]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'oneTwoThree')",[8342]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'mapped-sections')",[9542]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'text2')","[1218, 1250]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '789')","[2141, 2174]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', '456')","[1940, 1973]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Using fieldName = subsectionUsing_annotation_string for path')",[3140]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', ""'Quoted' Not Quoted"")","[1024, 1055]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'text3')",[6626]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'false')",[8806]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'text2')","[1283, 1315]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'class')",[9260]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'annotation')",[2726]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'string1')","[1478, 1510]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'text1')",[6318]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '456')","[1873, 1906]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'oneTwoThree')",[8450]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'ghi')",[7618]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'actually not a section')","[10064, 10095]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'static-section')",[8680]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'section')","[3546, 10444, 10604]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'Using fieldName = subsectionUsing_annotation_string for path')","[393, 425]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'quoted-strings')",[4570]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'collections')",[5700]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'string1')",[6798]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'short-list')",[7014]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'default-locale')",[9092]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'map-in-collection')",[7186]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', '123')","[1806, 1839]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'text3')","[1348, 1380]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'subsubsections')",[9462]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'true')","[3684, 4274, 9802]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'Using fieldName = subsectionUsing_annotation_string for path')","[328, 360]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'actually not a section')","[10127, 10158]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'subsections')",[4142]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'maps')",[7752]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'text2')",[6538]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'string-array')",[6232]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test3(org.cubeengine.reflect.yaml.YamlReflectedTest)')","[99, 165]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '0123456789')","[709, 740]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'string1')","[1543, 1575]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'quoted')",[3186]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Using fieldName = subsectionUsing_annotation_string for path')",[3094]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's1')",[4654]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '1.0')","[5960, 6144]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'text1')","[1153, 1185]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'mapinmapinmap')",[8096]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'Using @Name(""subsection-using.annotation.first"") Annotation for path')","[263, 295]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'class')",[9218]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'en_US')",[9134]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's13')",[5620]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'ghi')",[7666]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'a-value')",[10688]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's7')",[5158]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'jkl')",[7570]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'text3')","[1413, 1445]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'subsection')",[9382]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'aString')","[10253, 10284]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.cubeengine.reflect.yaml.YamlReflectedTest')","[36, 10795]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's2')",[4738]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'text3')",[6582]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'subsubsections')",[9504]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'double-list-in-list')",[5780]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's3')",[4780]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'string2')",[6930]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'external-section')",[8882]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'This needs no quotes')",[3416]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'java.lang.String')","[2462, 2493]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's4')",[4906]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'level')",[3990]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '012')","[2007, 2040]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test2(org.cubeengine.reflect.yaml.YamlReflectedTest)')","[78, 143]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'string-array')",[6274]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'unquoted')",[3278]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's4')",[4864]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'This needs no quotes')","[458, 490]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'INFO')","[586, 616]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's5')",[4948]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'inmap')",[8238]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's1')",[4612]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'text3')",[6670]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'mapped-sections')",[9580]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'INFO')",[4066]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'first')",[2772]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'def')",[7426]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'a-byte')",[8924]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's7')",[5116]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's10')",[5410]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'integer')","[3776, 4362, 9894]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'string-list')",[6712]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'inmap2')",[8554]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '123456')","[3822, 4406, 9940]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'default')",[7920]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'This needs no quotes')",[3462]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'abc')",[7282]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'string2')","[1673, 1705]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'text1')",[6406]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '456')",[7474]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'default-locale')",[9050]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'maps')",[7790]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'Using @Name(""subsection-using.annotation.first"") Annotation for path')","[198, 230]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's6')",[5074]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'This needs no quotes')","[523, 555]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '789')",[7714]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test1(org.cubeengine.reflect.yaml.YamlReflectedTest)')","[57, 121]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'text2')",[6450]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'text1')","[1088, 1120]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'section')","[3504, 10402, 10566]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '123')","[7058, 7330, 8504]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'en_US')","[2273, 2304]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's12')",[5536]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's9')",[5284]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '8')",[9008]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'bool')","[3638, 4230, 8764, 9756]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'en_US')","[2336, 2367]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'section3')",[10322]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'string2')",[6886]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'text1')",[6362]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'subsection-using')",[2604]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'map1')",[7874]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'subsections')",[4104]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'key')",[9664]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'level')",[3952]
+"('PercentEscaper.java', 'org.yaml.snakeyaml.external.com.google.gdata.util.common.base.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;=[]/"")","[2530, 2566]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'mapinmapinmap')",[8054]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'map1')",[7832]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'string')",[3048]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's6')",[5032]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'aString')","[10190, 10221]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'key')",[9622]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'java.lang.String')",[9344]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'multiline-string')","[3914, 4494, 10032]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'static-section')",[8642]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'java.lang.String')","[2399, 2430]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'collections')",[5738]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'string1')",[6842]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's12')",[5578]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'map-in-collection')",[7144]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', '012')","[2074, 2107]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's9')",[5326]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'double-list-in-list')",[5822]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '124')",[7102]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'external-section')",[8844]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'bool')","[3592, 4186, 8722, 9710]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '*')","[898, 929]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'map')",[8142]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Using @Name(""subsection-using.annotation.first"") Annotation for path')",[2910]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '123:456')","[961, 992]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'text2')",[6494]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's8')",[5242]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'quoted')",[3232]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '7')",[8012]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^([-+]?(\\.[0-9]+|[0-9_]+(\\.[0-9_]*)?)([eE][-+]?[0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '1.0')","[6006, 6190]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's5')",[4990]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'aString')",[10772]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', '0123456789')","[772, 803]"
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', 'INFO')","[647, 677]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'def')",[7378]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'actually not a section')",[10486]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'a-value')",[10646]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'jkl')",[7522]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'multiline-string')","[3868, 4450, 9986]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's10')",[5368]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'subsection')",[9420]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's11')",[5452]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '')","[835, 866]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's2')",[4696]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'section3')",[10360]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'string')",[3002]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'first')",[2818]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'default')",[7966]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's3')",[4822]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'a-byte')",[8966]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 's13')",[5662]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'map')",[8188]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', '123')","[1739, 1772]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'subsection-using')",[2642]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'actually not a section')",[10528]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0-9]+:[0-9]+', 'string2')","[1608, 1640]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 's8')",[5200]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'unquoted')",[3324]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'inmap')",[8288]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'annotation')",[2684]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'This needs no quotes')",[3370]
+"('YamlCodec.java', 'org.cubeengine.reflect.codec.yaml.YamlCodec', 'needsQuote', '[0][0-9]+', '789')","[2208, 2241]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'en_US')",[9176]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'oneTwoThree')",[8396]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'string-list')",[6754]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'aString')",[10730]

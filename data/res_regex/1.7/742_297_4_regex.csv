@@ -1,0 +1,81 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreatePartnerForCustomer(ru.roox.web.ws.controller.CustomerControllerTest)')","[385, 900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ru.roox.web.assembler.impl.PartnerMappingAssemblerImplTest')","[179, 1249]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', 'customerId')",[10876]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetPartnerByCustomer(ru.roox.web.ws.controller.MeCustomerControllerTest)')","[614, 1120]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)\\Q.\\E.*', '2')","[3420, 8591, 13756, 15719]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)', '1')","[4783, 4948, 5113, 5388, 5648, 6108, 6273, 6768, 6988, 7208, 7428, 7648, 7853, 11401, 11621, 11826, 12236, 12401, 12566, 12731, 12881, 16889, 17384, 17549, 17714, 17879, 18044, 18209, 18359]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcustomers\\E', 'customers')","[2705, 2925, 3145, 3365, 3530, 3695, 3860, 4080, 4290, 4563, 4728, 4893, 5058, 5333, 5598, 5888, 6053, 6218, 6493, 6603, 6713, 6933, 7153, 7373, 7593, 7803, 8231, 8536, 8701, 8866, 9141, 9251, 9361, 9581, 9801, 10021, 10296, 10561, 11126, 11236, 11346, 11566, 11776, 12016, 12181, 12346, 12511, 12676, 12831, 13011, 13151, 13426, 13701, 13866, 14031, 14196, 14416, 14636, 14846, 15169, 15334, 15499, 15664, 15829, 15994, 16159, 16324, 16479, 16669, 16834, 17109, 17219, 17329, 17494, 17659, 17824, 17989, 18154, 18309, 18592, 18812, 19032, 19252, 19582, 19902]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ru.roox.web.ws.controller.CustomerControllerTest')","[259, 18451]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ru.roox.web.assembler.impl.CustomerAssemblerImplTest')","[219, 1275]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q742_297\\E', '742_297')","[1447, 1877, 2307]"
+"('CheckHeaderFilter.java', 'ru.roox.web.filter.CheckHeaderFilter', 'doFilter', '^Bearer ([\\d]+)$', 'Bearer 1A')",[1171]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q-beans.xml\\E', 'roox-datasource-production-beans.xml')",[2135]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$')","[7936, 8264]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)', '3')","[5498, 5748, 19417, 19747, 20052]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ru.roox.web.filter.AuthenticationFilterTest')","[36, 1147]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetCustomer(ru.roox.web.ws.controller.CustomerControllerTest)')","[490, 1010]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', 'partnerId')",[10777]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/ws/customers/@me/partners/{pid}/avatar')",[18482]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateCustomer(ru.roox.web.ws.controller.CustomerControllerTest)')","[427, 944]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/ws/customers/{id}')","[11906, 15059, 16559]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)', '2')","[2760, 2980, 3200, 3585, 3750, 3915, 4135, 4340, 8756, 8921, 9416, 9636, 9856, 10076, 10351, 10611, 13206, 13481, 13921, 14086, 14251, 14471, 14691, 14896, 15224, 15389, 15554, 15884, 16049, 16214, 16379, 16529]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E', 'spring')","[1662, 2092, 2522]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ru.roox.web.ws.controller.MeCustomerControllerTest')","[551, 20125]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QMETA-INF\\E', 'META-INF')","[1619, 2049, 2479]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDoFilter(ru.roox.web.filter.AuthenticationFilterTest)')","[57, 636]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetPartners(ru.roox.web.ws.controller.CustomerControllerTest)')","[322, 834]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qws\\E', 'ws')","[2650, 2870, 3090, 3310, 3475, 3640, 3805, 4025, 4240, 4508, 4673, 4838, 5003, 5278, 5548, 5833, 5998, 6163, 6328, 6438, 6548, 6658, 6878, 7098, 7318, 7538, 7753, 8181, 8481, 8646, 8811, 8976, 9086, 9196, 9306, 9526, 9746, 9966, 10241, 10511, 10961, 11071, 11181, 11291, 11511, 11726, 11961, 12126, 12291, 12456, 12621, 12781, 12961, 13096, 13371, 13646, 13811, 13976, 14141, 14361, 14581, 14796, 15114, 15279, 15444, 15609, 15774, 15939, 16104, 16269, 16429, 16614, 16779, 16944, 17054, 17164, 17274, 17439, 17604, 17769, 17934, 18099, 18259, 18537, 18757, 18977, 19197, 19527, 19852]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUploadPartnerAvatarForAuthCustomer(ru.roox.web.ws.controller.MeCustomerControllerTest)')","[572, 1076]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[1361, 1791, 2221]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpartners.\\E.*', 'partners')","[3970, 6823, 9471, 11456, 14306, 18702]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].customerPartnerFirstName')",[8035]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpartners\\E', 'partners')","[2815, 3035, 3255, 4190, 4390, 5168, 5443, 5698, 7043, 7263, 7483, 7703, 7903, 9691, 9911, 10131, 10406, 10661, 11676, 11876, 13261, 13536, 14526, 14746, 14946, 18922, 19142, 19362, 19692, 20002]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].firstName')",[8330]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDoFilter(ru.roox.web.filter.CheckHeaderFilterTest)')","[160, 724]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', 'customerPartnerLastName')",[10843]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', 'result')","[4423, 15029]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1533, 1963, 2393]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/ws/customers/{id}/partners')","[2595, 5778, 10906]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[1576, 2006, 2436]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[1].id')",[8363]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFake(ru.roox.web.ws.controller.CustomerControllerTest)')","[511, 1032]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeleteCustomer(ru.roox.web.ws.controller.CustomerControllerTest)')","[469, 988]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetPartner(ru.roox.web.ws.controller.CustomerControllerTest)')","[364, 878]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/ws/customers/{id}/partners/{pid}')","[4453, 8426, 13041]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDoFilter_authHeaderIsAbsent(ru.roox.web.filter.CheckHeaderFilterTest)')","[118, 680]"
+"('CheckHeaderFilter.java', 'ru.roox.web.filter.CheckHeaderFilter', 'doFilter', '^Bearer ([\\d]+)$', 'Bearer 105')",[1195]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].customerId')",[8101]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)\\Q.\\E.*', '4')","[10186, 13316]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', 'firstName')",[18425]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[1].firstName')",[8396]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConverterEntityToDto(ru.roox.web.assembler.impl.PartnerMappingAssemblerImplTest)')","[200, 746]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)\\Q.\\E.*', '1')","[4618, 5943, 12071, 16724]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpdateCustomer(ru.roox.web.ws.controller.CustomerControllerTest)')","[406, 922]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1318, 1748, 2178]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeletePartner(ru.roox.web.ws.controller.CustomerControllerTest)')","[448, 966]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q-beans.xml\\E', 'roox-datasource-test-beans.xml')",[1705]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].partnerId')",[8002]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcustomers.\\E.*', 'customers')","[6383, 9031, 11016, 16999]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', 'id')","[10744, 18392]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1404, 1834, 2264]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', 'customerPartnerFirstName')",[10810]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetCustomers(ru.roox.web.ws.controller.CustomerControllerTest)')","[343, 856]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpdatePartnerForCustomer(ru.roox.web.ws.controller.CustomerControllerTest)')","[301, 812]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q@me\\E', '@me')","[18647, 18867, 19087, 19307, 19637, 19952]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qavatar.\\E.*', 'avatar')",[19472]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].customerPartnerLastName')",[8068]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ru.roox.web.filter.CheckHeaderFilterTest')","[97, 1222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDoFilter_customerNotFound(ru.roox.web.filter.AuthenticationFilterTest)')","[78, 658]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '/ws/customers')","[8131, 12911]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q-beans.xml\\E', 'roox-service-beans.xml')",[2565]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)\\Q.\\E.*', '3')",[5223]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeletePartners(ru.roox.web.ws.controller.CustomerControllerTest)')","[280, 790]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDoFilter_badRequest(ru.roox.web.filter.CheckHeaderFilterTest)')","[139, 702]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFake(ru.roox.web.ws.controller.MeCustomerControllerTest)')","[593, 1098]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qavatar\\E', 'avatar')","[19802, 20102]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '(.*)', '4')","[10461, 10711, 13591, 14996]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qroox-service\\E', 'roox-service')","[1490, 1920, 2350]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].id')","[7969, 8297]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConverterEntityToDto(ru.roox.web.assembler.impl.CustomerAssemblerImplTest)')","[240, 768]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetPartnerByCustomer(ru.roox.web.ws.controller.CustomerControllerTest)')","[532, 1054]"

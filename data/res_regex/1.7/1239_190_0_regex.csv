@@ -1,0 +1,200 @@
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'importSubjects')","[51349, 51749]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListSubject(com.ghtn.service.SubjectManagerTest)')","[564, 1245]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Transfer.class')",[54921]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmployeeDao.class')",[32449]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamManagerTest.class')",[14475]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Exam.class')",[64931]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qservice\\E', 'service')","[10499, 11059, 11619, 12179, 12739, 13299, 13859, 14419, 14979, 15539, 16099, 16659, 17219, 17779, 18339, 18899, 19459, 19972, 20542, 21112, 21682, 22252, 22822, 23392, 23962, 24532, 25102, 25672, 26233, 26793, 27353, 27913]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'add')","[49069, 49777]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamDao.class')",[44853]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.dao.UserDaoTest')","[76, 65066]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Department.class')",[62201]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'listSubjectByPage')","[51079, 51499]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.dao.BookDaoTest')","[36, 65264]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectManager.class')",[27409]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.SubjectManagerTest')","[459, 65088]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectDaoTest.class')",[30209]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ScoreManagerTest.class')",[13355]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoHibernate.class')",[35793]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DepartmentDao.class')",[42613]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testImport(com.ghtn.service.SubjectManagerTest)')","[522, 1203]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Employee.class')",[58561]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GenericDao.class')",[45413]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'loadPaper')","[52127, 52747]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamEmp.class')",[63111]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Paper.class')",[57651]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDao.class')",[45973]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.UserManagerTest')","[726, 65022]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E.*\\Q.xml\\E', 'spring-servlet.xml')",[2925]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.SubjectAnswerManagerTest')","[806, 65220]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[4787, 5347, 5907, 6467, 7027, 7587, 8147, 8707, 9267, 9827, 10387, 10947, 11507, 12067, 12627, 13187, 13747, 14307, 14867, 15427, 15987, 16547, 17107, 17667, 18227, 18787, 19347, 19858, 20428, 20998, 21568, 22138, 22708, 23278, 23848, 24418, 24988, 25558, 26121, 26681, 27241, 27801, 28361, 28921, 29481, 30041, 30601, 31161, 31721, 32281, 32841, 33401, 33912, 34482, 35052, 35622, 36192, 36762, 37332, 37902, 38472, 39042, 39612, 40182, 40752, 41322, 41885, 42445, 43005, 43565, 44125, 44685, 45245, 45805, 46365, 46925, 47485, 48045, 53738, 54648, 55558, 56468, 57378, 58288, 59198, 60108, 61018, 61928, 62838, 63748, 64658]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamDaoTest.class')",[31329]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.service.DepartmentManagerTest)')","[604, 1266]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'add')","[51187, 51599]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectManagerTest.class')",[11115]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TransferController.class')",[9995]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperSubjectDao.class')",[31889]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'importEmployees')","[50093, 50509]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectAnswer.class')",[59471]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperDaoHibernate.class')",[34083]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamEmpDao.class')",[47093]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoHibernate.class')",[37503]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'updateSubject')","[49015, 49727]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'User.class')",[56741]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectAnswerManagerImpl.class')",[25729]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DepartmentController.class')",[9435]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DepartmentManager.class')",[27969]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.dao.DepartmentDaoTest')","[238, 65286]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectDaoHibernate.class')",[40923]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'update')","[52289, 52897]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GenericManagerImpl.class')",[20029]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectController.class')",[8315]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamManagerImpl.class')",[20599]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'gen')","[49123, 49827]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ScoreController.class')",[7755]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Score.class')",[60381]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'listExam')","[52073, 52697]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperController.class')",[6635]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperManagerTest.class')",[12235]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ScoreDao.class')",[44293]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GenericManager.class')",[17835]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'getEmps')","[51911, 52547]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'getSubjects')","[48637, 49377]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ErrorSubjectDao.class')",[46533]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ScoreDaoHibernate.class')",[38073]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ErrorSubject.class')",[55831]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamController.class')",[8875]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'add')","[50201, 50609]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ErrorSubjectDaoHibernate.class')",[39783]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserManagerTest.class')",[12795]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QsubjectAnswer\\E', 'getAnswers')","[48371, 48421]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectAnswerManagerTest.class')",[13915]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetSubjects(com.ghtn.dao.PaperDaoTest)')","[179, 993]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qdao\\E', 'dao')","[28473, 29033, 29593, 30153, 30713, 31273, 31833, 32393, 32953, 33513, 34026, 34596, 35166, 35736, 36306, 36876, 37446, 38016, 38586, 39156, 39726, 40296, 40866, 41436, 41997, 42557, 43117, 43677, 44237, 44797, 45357, 45917, 46477, 47037, 47597, 48157]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TransferManagerImpl.class')",[24589]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'GenericDaoHibernate.class')",[34653]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.dao.SubjectDaoTest)')","[219, 1014]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmployeeManager.class')",[15035]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E.*\\Q.xml\\E', 'ehcache.xml')",[4101]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'checkExamEmp')","[52343, 52947]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'downloadTemplate')","[48475, 49227]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DepartmentDaoTest.class')",[30769]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserController.class')",[4955]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'listEmp')","[51857, 52497]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'login')","[52019, 52647]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListEmp(com.ghtn.dao.ExamDaoTest)')","[299, 1056]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TransferManager.class')",[15595]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'publish')","[48745, 49477]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmployeeController.class')",[7195]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperSubjectDaoHibernate.class')",[36933]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E.*\\Q.xml\\E', 'spring.xml')",[3219]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BaseController.class')",[6075]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')",[26289]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.dao.SubjectDaoTest')","[198, 65242]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectDao.class')",[48213]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'downloadTemplate')","[49931, 50359]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRemove(com.ghtn.service.SubjectManagerTest)')","[543, 1224]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1497, 1791, 2085, 2379, 2673, 2967, 3261, 3555, 3849, 4143, 4451, 5011, 5571, 6131, 6691, 7251, 7811, 8371, 8931, 9491, 10051, 10611, 11171, 11731, 12291, 12851, 13411, 13971, 14531, 15091, 15651, 16211, 16771, 17331, 17891, 18451, 19011, 19516, 20086, 20656, 21226, 21796, 22366, 22936, 23506, 24076, 24646, 25216, 25785, 26345, 26905, 27465, 28025, 28585, 29145, 29705, 30265, 30825, 31385, 31945, 32505, 33065, 33570, 34140, 34710, 35280, 35850, 36420, 36990, 37560, 38130, 38700, 39270, 39840, 40410, 40980, 41549, 42109, 42669, 43229, 43789, 44349, 44909, 45469, 46029, 46589, 47149, 47709, 53192, 54102, 55012, 55922, 56832, 57742, 58652, 59562, 60472, 61382, 62292, 63202, 64112]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGen(com.ghtn.service.PaperManagerTest)')","[644, 1287]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'listExamByPage')","[51965, 52597]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'getPublish')","[48529, 49277]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'uploadFile')","[51025, 51449]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.dao.DepartmentDaoTest)')","[259, 1035]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookManagerTest.class')",[10555]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.ScoreManagerTest')","[766, 65044]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectAnswerDao.class')",[43173]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserManager.class')",[18395]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testImport(com.ghtn.service.PaperManagerTest)')","[665, 1308]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'update')","[48853, 49577]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testString(com.ghtn.util.StringUtilTest)')","[400, 1119]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.dao.UserDaoTest)')","[97, 930]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E.*\\Q.xml\\E', 'log4j.xml')",[3513]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamDaoHibernate.class')",[35223]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.service.UserManagerTest)')","[747, 1371]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[2295, 2589, 2883, 3177, 3471, 3765, 4059, 4353, 4731, 5291, 5851, 6411, 6971, 7531, 8091, 8651, 9211, 9771, 14811, 15371, 15931, 16491, 17051, 17611, 18171, 18731, 19291, 19801, 20371, 20941, 21511, 22081, 22651, 23221, 23791, 24361, 24931, 25501, 26065, 26625, 27185, 27745, 31665, 32225, 32785, 33345, 33855, 34425, 34995, 35565, 36135, 36705, 37275, 37845, 38415, 38985, 39555, 40125, 40695, 41265, 41829, 42389, 42949, 43509, 44069, 44629, 45189, 45749, 46309, 46869, 47429, 47989, 53647, 54557, 55467, 56377, 57287, 58197, 59107, 60017, 60927, 61837, 62747, 63657, 64567]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'listEmployeeByPage')","[49985, 50409]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExcelReader(com.ghtn.util.FileUtilTest)')","[339, 1077]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'add')","[52181, 52797]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectAnswerManager.class')",[18955]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectAnswerController.class')",[5515]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.util.StringUtilTest')","[379, 64956]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DepartmentManagerTest.class')",[11675]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Quser\\E', 'addUser')","[48267, 48317]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.DepartmentManagerTest')","[583, 64978]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.BookManagerTest')","[419, 65154]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'listSubjectByDate')","[51133, 51549]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'import')","[49177, 49877]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'update')","[51241, 51649]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'remove')","[52235, 52847]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSearch(com.ghtn.dao.UserDaoTest)')","[139, 972]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ScoreManager.class')",[16715]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperDaoTest.class')",[29649]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.ExamManagerTest')","[846, 65176]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1707, 2001, 10331, 10891, 11451, 12011, 12571, 13131, 13691, 14251, 28305, 28865, 29425, 29985, 30545, 31105]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qscore\\E', 'listScoreByPage')","[50763, 50867]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'uploadFile')","[48583, 49327]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookManager.class')",[16155]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectManagerImpl.class')",[25159]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'revoke')","[48799, 49527]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'load')","[48907, 49627]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E.*\\Q.xml\\E', 'constant.properties')",[4395]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoTest.class')",[28529]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.dao.BookDaoTest)')","[57, 909]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1581, 1875, 2169, 2463, 2757, 3051, 3345, 3639, 3933, 4227, 4563, 5123, 5683, 6243, 6803, 7363, 7923, 8483, 9043, 9603, 10163, 10723, 11283, 11843, 12403, 12963, 13523, 14083, 14643, 15203, 15763, 16323, 16883, 17443, 18003, 18563, 19123, 19630, 20200, 20770, 21340, 21910, 22480, 23050, 23620, 24190, 24760, 25330, 25897, 26457, 27017, 27577, 28137, 28697, 29257, 29817, 30377, 30937, 31497, 32057, 32617, 33177, 33684, 34254, 34824, 35394, 35964, 36534, 37104, 37674, 38244, 38814, 39384, 39954, 40524, 41094, 41661, 42221, 42781, 43341, 43901, 44461, 45021, 45581, 46141, 46701, 47261, 47821, 53374, 54284, 55194, 56104, 57014, 57924, 58834, 59744, 60654, 61564, 62474, 63384, 64294]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.service.ExamManagerTest)')","[867, 1434]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'remove')","[51295, 51699]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmployeeManagerImpl.class')",[21739]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperManagerImpl.class')",[22879]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserManagerImpl.class')",[22309]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DepartmentManagerImpl.class')",[21169]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.util.FileUtilTest')","[318, 65132]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'uploadFile')","[50147, 50559]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperDao.class')",[47653]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Book.class')",[64021]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmodel\\E', 'model')","[53920, 54830, 55740, 56650, 57560, 58470, 59380, 60290, 61200, 62110, 63020, 63930, 64840]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q1239_190\\E', '1239_190')","[1623, 1917, 2211, 2505, 2799, 3093, 3387, 3681, 3975, 4269, 4619, 5179, 5739, 6299, 6859, 7419, 7979, 8539, 9099, 9659, 10219, 10779, 11339, 11899, 12459, 13019, 13579, 14139, 14699, 15259, 15819, 16379, 16939, 17499, 18059, 18619, 19179, 19687, 20257, 20827, 21397, 21967, 22537, 23107, 23677, 24247, 24817, 25387, 25953, 26513, 27073, 27633, 28193, 28753, 29313, 29873, 30433, 30993, 31553, 32113, 32673, 33233, 33741, 34311, 34881, 35451, 36021, 36591, 37161, 37731, 38301, 38871, 39441, 40011, 40581, 41151, 41717, 42277, 42837, 43397, 43957, 44517, 45077, 45637, 46197, 46757, 47317, 47877, 53465, 54375, 55285, 56195, 57105, 58015, 58925, 59835, 60745, 61655, 62565, 63475, 64385]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExportScore(com.ghtn.service.ScoreManagerTest)')","[787, 1392]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qsubject\\E', 'downloadTemplate')","[50971, 51399]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoTest.class')",[29089]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'hibernate')",[42053]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'update')","[50309, 50709]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TransferDaoHibernate.class')",[39213]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcontroller\\E', 'controller')","[4899, 5459, 6019, 6579, 7139, 7699, 8259, 8819, 9379, 9939]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExportExcel(com.ghtn.util.FileUtilTest)')","[360, 1098]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'getExamCombo')","[51803, 52447]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRemove(com.ghtn.service.PaperManagerTest)')","[686, 1329]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DepartmentDaoHibernate.class')",[38643]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1665, 1959, 2253, 2547, 2841, 3135, 3429, 3723, 4017, 4311, 4675, 5235, 5795, 6355, 6915, 7475, 8035, 8595, 9155, 9715, 10275, 10835, 11395, 11955, 12515, 13075, 13635, 14195, 14755, 15315, 15875, 16435, 16995, 17555, 18115, 18675, 19235, 19744, 20314, 20884, 21454, 22024, 22594, 23164, 23734, 24304, 24874, 25444, 26009, 26569, 27129, 27689, 28249, 28809, 29369, 29929, 30489, 31049, 31609, 32169, 32729, 33289, 33798, 34368, 34938, 35508, 36078, 36648, 37218, 37788, 38358, 38928, 39498, 40068, 40638, 41208, 41773, 42333, 42893, 43453, 44013, 44573, 45133, 45693, 46253, 46813, 47373, 47933, 53556, 54466, 55376, 56286, 57196, 58106, 59016, 59926, 60836, 61746, 62656, 63566, 64476]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E.*\\Q.xml\\E', 'spring-data.xml')",[3807]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TransferDao.class')",[33009]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'listPaperByPage')","[48691, 49427]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.dao.PaperDaoTest')","[158, 65198]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.dao.ExamDaoTest')","[278, 65000]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ScoreManagerImpl.class')",[23449]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmployeeDaoHibernate.class')",[41493]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamManager.class')",[17275]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDao.class')",[43733]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetCount(com.ghtn.service.SubjectManagerTest)')","[480, 1161]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUpdate(com.ghtn.service.PaperManagerTest)')","[707, 1350]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReindex(com.ghtn.dao.UserDaoTest)')","[118, 951]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookManagerImpl.class')",[24019]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Subject.class')",[61291]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'updateRestoralAndDimission')","[50039, 50459]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperSubject.class')",[54011]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpaper\\E', 'remove')","[48961, 49677]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qspring\\E.*\\Q.xml\\E', 'com')","[1749, 2043, 2337, 2631]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExamEmpDaoHibernate.class')",[40353]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PaperManager.class')",[26849]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qghtn\\E', 'ghtn')","[4843, 5403, 5963, 6523, 7083, 7643, 8203, 8763, 9323, 9883, 10443, 11003, 11563, 12123, 12683, 13243, 13803, 14363, 14923, 15483, 16043, 16603, 17163, 17723, 18283, 18843, 19403, 19915, 20485, 21055, 21625, 22195, 22765, 23335, 23905, 24475, 25045, 25615, 26177, 26737, 27297, 27857, 28417, 28977, 29537, 30097, 30657, 31217, 31777, 32337, 32897, 33457, 33969, 34539, 35109, 35679, 36249, 36819, 37389, 37959, 38529, 39099, 39669, 40239, 40809, 41379, 41941, 42501, 43061, 43621, 44181, 44741, 45301, 45861, 46421, 46981, 47541, 48101, 53829, 54739, 55649, 56559, 57469, 58379, 59289, 60199, 61109, 62019, 62929, 63839, 64749]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetEmps(com.ghtn.service.ExamManagerTest)')","[888, 1455]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ghtn.service.PaperManagerTest')","[623, 65110]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtransfer\\E', 'listTransferByCard')","[53051, 53101]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qexam\\E', 'finishExam')","[52397, 52997]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qscore\\E', 'exportScore')","[50817, 50917]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetAnswers(com.ghtn.service.SubjectAnswerManagerTest)')","[827, 1413]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubjectAnswerDaoHibernate.class')",[36363]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.service.SubjectManagerTest)')","[501, 1182]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qemployee\\E', 'remove')","[50255, 50659]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSave(com.ghtn.service.BookManagerTest)')","[440, 1140]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[1539, 1833, 2127, 2421, 2715, 3009, 3303, 3597, 3891, 4185, 4507, 5067, 5627, 6187, 6747, 7307, 7867, 8427, 8987, 9547, 10107, 10667, 11227, 11787, 12347, 12907, 13467, 14027, 14587, 15147, 15707, 16267, 16827, 17387, 17947, 18507, 19067, 19573, 20143, 20713, 21283, 21853, 22423, 22993, 23563, 24133, 24703, 25273, 25841, 26401, 26961, 27521, 28081, 28641, 29201, 29761, 30321, 30881, 31441, 32001, 32561, 33121, 33627, 34197, 34767, 35337, 35907, 36477, 37047, 37617, 38187, 38757, 39327, 39897, 40467, 41037, 41605, 42165, 42725, 43285, 43845, 44405, 44965, 45525, 46085, 46645, 47205, 47765, 53283, 54193, 55103, 56013, 56923, 57833, 58743, 59653, 60563, 61473, 62383, 63293, 64203]"

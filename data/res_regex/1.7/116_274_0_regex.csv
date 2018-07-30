@@ -1,0 +1,20 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (WTA-S) #BYE vs #Jankovic J.: 0-0')",[355]
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (WTA-S) #Williams S. vs #BYE: 0-0')",[403]
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (WTA-S) #BYE vs #Halep S.: 0-0')",[379]
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (ATP-S) #Hewitt L. vs #Melzer J.: 2-1')",[451]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseFail(com.dataart.practice.ParserTest)')","[78, 223]"
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (WTA-D) #BYE vs #Black C./Mirza S.: 0-0')",[499]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPersistEmpty(com.dataart.practice.PersisterTest)')","[160, 286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseSingle(com.dataart.practice.ParserTest)')","[57, 202]"
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', 'bla bla bla: (XXX-YYY) Team1 vs Team2: 1-2 ')",[331]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.dataart.practice.PersisterTest')","[118, 619]"
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (ATP-S) #Falla A. vs #Querrey S.: 0-2')",[427]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseLong(com.dataart.practice.ParserTest)')","[99, 244]"
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (WTA-D) #Errani S./Vinci R. vs #BYE: 0-0')",[571]
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (WTA-D) #Peschke K./Srebotnik vs #BYE: 0-0')",[547]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPersistAdded(com.dataart.practice.PersisterTest)')","[139, 265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPersistUpdated(com.dataart.practice.PersisterTest)')","[181, 307]"
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (WTA-D) #BYE vs #Hsieh S-W./Peng S.: 0-0')",[475]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.dataart.practice.ParserTest')","[36, 597]"
+"('Parser.java', 'com.dataart.parsers.Parser', 'process', '.*:\\s\\W(\\w*-\\w*)\\W\\s#?(.*)\\svs\\s#?(.*):\\s(\\d*)-(\\d*).*', '#Tennis #Livescore @ScoresPro: (ATP-S) #Tsonga J-W. vs #Federer R.: 2-0')",[523]

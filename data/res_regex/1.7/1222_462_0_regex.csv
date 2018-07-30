@@ -1,0 +1,15 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreAndEclupseOptions(de.pfeufferweb.gitcover.GCOptionsTest)')","[57, 561]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreAndEclupseOptions(de.pfeufferweb.gitcover.GCOptionsTest)')","[78, 99, 120, 581]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreOptionOnly(de.pfeufferweb.gitcover.GCOptionsTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreOptionOnly(de.pfeufferweb.gitcover.GCOptionsTest)')","[393, 665]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'throwsExceptionForIllegalOption(de.pfeufferweb.gitcover.GCOptionsTest)')","[477, 686]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreAndEclupseOptionsInOtherOrder(de.pfeufferweb.gitcover.GCOptionsTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'throwsExceptionForIllegalOption(de.pfeufferweb.gitcover.GCOptionsTest)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreAndEclupseOptionsInOtherOrder(de.pfeufferweb.gitcover.GCOptionsTest)')","[225, 623]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'de.pfeufferweb.gitcover.GCOptionsTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'de.pfeufferweb.gitcover.GCOptionsTest')","[707, 727, 748, 768]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesDirectoryAndRelease(de.pfeufferweb.gitcover.GCOptionsTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesDirectoryAndRelease(de.pfeufferweb.gitcover.GCOptionsTest)')","[141, 602]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreOptionOnlyInOtherOrder(de.pfeufferweb.gitcover.GCOptionsTest)')","[309, 644]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesDirectoryAndReleaseWithIgnoreOptionOnlyInOtherOrder(de.pfeufferweb.gitcover.GCOptionsTest)')","[330, 351, 372]"

@@ -1,0 +1,25 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.init.TestDependencies')",[242]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMajorRequirements(com.illmeyer.polygraph.core.data.VersionNumberTest)')","[534, 951]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.TestCore')","[1038, 1062, 1087, 1111]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMinorRequirements(com.illmeyer.polygraph.core.data.VersionNumberTest)')","[618, 992]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleDependency(com.illmeyer.polygraph.core.init.TestDependencies)')","[263, 868]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.init.TestDependencies')","[1234, 1258, 1283, 1307]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'executeGunTest(com.illmeyer.polygraph.core.TestCore)')","[57, 786]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCircularDependency(com.illmeyer.polygraph.core.init.TestDependencies)')","[431, 930]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSimpleDependency(com.illmeyer.polygraph.core.init.TestDependencies)')","[284, 305, 326, 888]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.TestTemplateLoader')","[1136, 1160, 1185, 1209]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMinorRequirements(com.illmeyer.polygraph.core.data.VersionNumberTest)')","[639, 660, 681]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPatchRequireMents(com.illmeyer.polygraph.core.data.VersionNumberTest)')","[723, 744, 765]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.data.VersionNumberTest')","[1328, 1348, 1369, 1389]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCircularDependency(com.illmeyer.polygraph.core.init.TestDependencies)')","[452, 473, 494]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.TestTemplateLoader')",[139]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.data.VersionNumberTest')",[513]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testURLs(com.illmeyer.polygraph.core.TestTemplateLoader)')","[181, 202, 223, 847]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.illmeyer.polygraph.core.TestCore')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMajorRequirements(com.illmeyer.polygraph.core.data.VersionNumberTest)')","[555, 576, 597, 971]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testURLs(com.illmeyer.polygraph.core.TestTemplateLoader)')","[160, 827]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleDependencyFail(com.illmeyer.polygraph.core.init.TestDependencies)')","[347, 909]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'executeGunTest(com.illmeyer.polygraph.core.TestCore)')","[78, 99, 120, 806]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSimpleDependencyFail(com.illmeyer.polygraph.core.init.TestDependencies)')","[368, 389, 410]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPatchRequireMents(com.illmeyer.polygraph.core.data.VersionNumberTest)')","[702, 1013]"

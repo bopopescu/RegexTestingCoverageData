@@ -1,0 +1,708 @@
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/')","[31494, 31691, 31888]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org:83/one/two/three.html')","[7295, 7639, 7727, 7959]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org:80/')",[34847]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/a..a/foo.html')",[20246]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/blah?x=%e2%9a%8b')",[33240]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www.GOOgle.com')",[28063]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www.foo.com')",[24655]
+"('InterruptibleCharSequenceTest.java', 'org.archive.util.InterruptibleCharSequenceTest', 'tryMatch', '^(((((a+)*)*)*)*)*$', 'aaaaab')","[254, 259]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org:8080/index.html?query#foo')",[24145]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host%23.com/%257Ea%2521b%2540c%2523d%2524e%25f%255E00%252611%252A22%252833%252944_55%252B')",[26822]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org/index.html#foo')",[23817]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'evil.com')","[29160, 29189, 29357, 29386, 29554, 29583]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/DIR%20WITH%20SPACES/home%E6.html')","[6302, 6387]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://evil.com/foo?bar;')",[29497]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/blah?z♟z=z一z')",[33410]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org:8080/index.html?#foo')",[24254]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.local-regions.odpm%20.gov.uk/lpsa/challenge/pdf/propect.pdf')",[8795]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', '195.127.0.11')","[26655, 26684]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/index.html')","[689, 890, 1292]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'www.lycos.co.uk""')",[8382]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org:80/')",[34793]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'notrailingslash.com')",[29836]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/')",[22839]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com')",[27527]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www34.archive.org')",[2843]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://stack:StAcK@www.tyopaikat.com/robots.txt')",[9757]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.google.com/q?r?')",[28682]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.tyopaikat.com:a/robots.txt')",[9304]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://195.127.0.11/uploads/%20%20%20%20/.verify/.eBaysecure=updateuserdataxplimnbqmn-xplmvalidateinfoswqpcmlx=hgplmcx/')",[26625]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'https:/')",[20481]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://gemini.info.usaid.gov/directory/pbResults.cfm?&urlNameLast=Rumplestiltskin')",[4680]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/%F0%9F%82%A1')",[34395]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '../g')","[13029, 14864]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/index%25 .html')",[4503]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com/foobarbaz2')",[28342]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'foo.com')","[18604, 18692, 18780, 18868, 19132, 19220, 19308, 19396, 19484, 19572, 19660, 19748, 19836, 19924, 20012, 20100, 20188, 20276, 20364, 20452]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftP://example.com')","[32479, 36455]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host/asdf%25%32%35asd')",[25837]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'evil.com')","[29217, 29414, 29611]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host/%25%32%35')",[25246]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www.google.com')","[26261, 26290, 27190, 27219, 27387, 27416, 27584, 27613, 28175, 28204, 28372, 28401, 28569, 28598, 28766, 28795, 28963, 28992, 30145, 30174]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g#s')","[11568, 16044]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.evil.com/blah#frag')",[27724]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', '195.127.0.11')",[26740]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org/index.html#foo')",[23790]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/bl%E2%9A%91ah?z%e2%99%9Fz=z%E4%b8%80z')",[34028]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'www.betamobile.com<')",[8196]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/')",[18574]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/../../foo.html')",[19718]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org/')",[23899]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.google.com/blah/..')",[27106]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.archive.org')","[3779, 3923, 4416, 5255, 18340, 18428]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://例子.測試')",[18222]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.loc.gov.')",[8590]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www34.archive.org')","[2784, 2814]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com/blah/..')",[27133]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://alexa.com/')",[488]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g?y#s')","[11717, 16764]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'example.org')","[31581, 31778, 31975, 32763, 32960, 33157, 33354, 33551, 33748, 33945, 34142, 34339, 34536, 34937, 35138, 35339, 35540, 35741, 35942]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://stack:StAcK@www.tyopaikat.com:8080/robots.txt')",[9816]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/index.html?a=b&b=b')",[2123]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com/q?r?s')",[28906]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://license.joins.com/igor?one={curly}')",[5749]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:phpsessid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?one=two&phpsessid=0123456789abcdefghijklemopqrstuv')",[22313]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://')",[20568]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www.google.com')","[26346, 27275, 27472, 27669, 28260, 28457, 28654, 28851, 29048, 30230]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/foo.html#ref')",[19190]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://...host..com..')",[34646]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://3279880203/blah')",[26992]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/blah?z%e2%99%9Fz=z%e4%b8%80z')",[33634]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../g')","[13058, 14892]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://stack:StAcK@www.tyopaikat.com:8080/robots.txt')",[9845]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://alexa.com/')",[542]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/foo.html#ref')",[19161]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/a..a/../foo.html')",[20334]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org:8080?#foo')",[24282]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://g.msn.co.kr/0nwkokr0/00/19??PS=10274&NC=10009&CE=42&CP=949&HL=&#65533;&#65533;&#65533;?&#65533;&#65533;')",[8736]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/index.html')","[5225, 18310, 18398]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/path?query')",[21264]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.y1y1.com')",[4328]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'foo.com:80')",[18956]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com:80/index.html')",[18926]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'example.com')","[32115, 32144, 32312, 32341, 32509, 32538, 36084, 36114, 36285, 36315, 36486, 36516]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/d;p?q')","[9933, 10170, 12373, 13654]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host.com/ab%23cd')",[31046]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index%25%1d.html')",[4621]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org:443/')",[35222]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org')",[3720]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', '1.2.3.256')","[25085, 25112]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/g/')","[10704, 16217]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/.././%20%20^""\'`[]{}/test/../a.gif')",[3541]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'a.b')",[8470]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host.com/ab%23cd')",[31073]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/a/b/c/d?q\\r\\|s/t\\v')",[21789]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/DIR WITH SPACES/homeæ.html')","[6189, 6445]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com')","[20684, 20828, 21674]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/?')",[35450]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://x_underscore_underscore..2u.com/nonexistent_page.html')",[9124]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/index.html?a=b&b=a&b=b')","[2525, 2927]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'g.msn.co.kr')",[8766]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '//example.com/monkey?this:uri:has:colons')",[3951]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.itsnicethat.com/articles/laura-hobson')",[7439]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.lycos.co.uk""/l/b/""')",[8319]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org')",[23981]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'example.html;jsessionid=deadbeef:deadbeed?parameter=this:value')",[17200]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/foo.foo/../foo.html')",[20422]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org:80/')",[3128]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/⚑')",[32622]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://pfbuser:pfbuser@mprsrv.agri.gov.cn/clzreceive/')",[4474]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org:8080/index.html?#foo')",[24200]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://lcweb.loc.gov/rr/goodtwo.html')","[7002, 7090]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'file://///boo_hoo/wwwroot/CMS/Images1/Banner.gif')",[21089]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '#s')",[11419]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/aa/bb/cc/../../foo.html')",[19454]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '//g')","[10943, 15440]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com/q?')",[28512]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', './')","[12582, 15008]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '?y')","[9992, 11092]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.nps-shoes.co.uk%20')",[4008]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'archive.org:0080')",[4243]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/%e2%9a%91')",[32873]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'HTTP://example.com')","[32255, 36227]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.brook.edu/i.html? %20taxonomy=Politics')",[6104]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/;x')","[11896, 15785]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/path?q=foo%')",[17489]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '//www.facebook.com/plugins/like.php')",[7526]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/aa/../bb/../foo.html/../../')",[19953]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'gemini.info.usaid.gov')",[4739]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com.../')",[28145]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/DIR%20WITH%20SPACES/%20home.html')",[6046]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://%20leadingspace.com/')","[30482, 30679]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://license.joins.com/board/etc_board_list.asp?board_name=new_main&b_type=&nPage=2&category=G&lic_id=70&site=changeup&g_page=changeup&g_sPage=notice&gate=02')",[5513]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://www.securesite.com/')",[30903]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://räksmörgås.josefßon.org/')",[18017]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:phpsessid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?one=two&phpsessid=0123456789abcdefghijklemopqrstuv&x=y')",[22259]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', '10.0.258')",[25031]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://158.144.21.3:80808/robots.txt')",[9365]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/index.html')","[716, 917, 1319]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org')",[3749]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'JIGOU//KYC//INDEX.HTM')",[5311]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'archive.org')","[774, 804, 975, 1005, 1176, 1206, 1377, 1407, 1578, 1608, 1779, 1809, 1980, 2010, 2181, 2211, 2382, 2412, 2583, 2613, 2985, 3015, 22870, 22900, 23071, 23101, 23272, 23302, 23473, 23503, 23674, 23704]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'Http://example.com')","[32031, 35999]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/index.html?a=b&b=b')",[2096]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com/')","[26204, 27330, 30088]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/pa%th%20way')",[17870]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'notrailingslash.com')","[29751, 29780]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/g?y#s')","[11777, 16822]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.brook.edu/i.html?%20%20taxonomy=Politics')",[6132]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'https://www.securesite.com/')",[30849]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/home.html')",[7410]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/pa%th')",[17694]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'example.com')","[32172, 32369, 32566, 36143, 36344, 36545]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '../')","[12880, 14000]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'www.local-regions.odpm%20.gov.uk')","[8856, 8946]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/../aa/../foo.html')","[19777, 20129]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com/q?r?')",[28736]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:jsessionid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?jsessionid=0123456789abcdefghijklemopqrstuv&x=y')",[22097]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://%31%36%38%2e%31%38%38%2e%39%39%2e%32%36/%2E%73%65%63%75%72%65/%77%77%77%2E%65%62%61%79%2E%63%6F%6D/')",[26428]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'archive.org')","[862, 1063, 1264, 1465, 1666, 1867, 2068, 2269, 2470, 2671, 3073, 22958, 23159, 23360, 23561, 23762]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/aa/../')",[19278]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/index.html?b=b&a=b')",[1922]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://bŸcher.ch:8080?#foo')",[24364]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'dns://ads.nandomedia.com:81/one.html')",[4853]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www.alexa.com')","[372, 402]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/DIR%20WITH%20SPACES/homeæ.html')","[6217, 6474]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/?')",[35423]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/aa/../../foo.html')",[19865]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www.google.com')","[26318, 27247, 27444, 27641, 28232, 28429, 28626, 28823, 29020, 30202]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/DIR%20WITH%20SPACES/home%C3%A6.html')","[6533, 6621]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'example.html?parameter=this:value')",[17284]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'host')","[25333, 25530, 25727, 25924, 26121]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.nps-shoes.co.uk%20%20%20')",[4096]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/')","[31467, 31664, 31861]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org:83/one/two/three.html')","[7324, 7668, 7756, 7988]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://www.archive.org:443/')",[3401]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/a..a/foo.html')",[20217]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/blah?x=%e2%9a%8b')",[33267]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '/g')","[10794, 15584]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/')",[23926]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org:8080/index.html?query#foo')",[24172]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'Http://example.com')","[32085, 36053]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host%23.com/%257Ea%2521b%2540c%2523d%2524e%25f%255E00%252611%252A22%252833%252944_55%252B')",[26795]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.fool.com/')",[24496]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org:8080/index.html?#foo')",[24227]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'g')","[11063, 15556]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g?y')","[11270, 16620]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '')","[7842, 12313]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org:80/')",[3101]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.changeup.com')",[5628]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://one-two_three:8080/index.html')",[3600]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host.com//twoslashes?more//slashes')",[31243]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://x_underscore_underscore..2u.com/nonexistent_page.html')",[9095]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'host.com')","[31130, 31159, 31327, 31356, 34677, 34707]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'dskgfljsdlkgjslkj')",[22584]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com')",[27554]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', ' leadingspace.com')","[30427, 30624, 30821]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'example.com')","[32200, 32397, 32594, 36172, 36373, 36574]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/d;p?y')","[10051, 11151]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.tyopaikat.com:a/robots.txt')",[9274]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'x_underscore_underscore.2u.com.tw')",[9036]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host/%2525252525252525')",[25640]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://195.127.0.11/uploads/%20%20%20%20/.verify/.eBaysecure=updateuserdataxplimnbqmn-xplmvalidateinfoswqpcmlx=hgplmcx/')",[26598]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:jsessionid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?sid=9682993c8daa2c5497996114facdc805&jsessionid=0123456789abcdefghijklemopqrstuv')",[22394]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g;x?y#s')","[12135, 16448]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/%e2%9a%91')",[32819]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://www.archive.org:80/')",[3237]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com/foobarbaz2')",[28315]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/index.html?a=b')","[1520, 1721]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/g')","[10436, 10585, 15238, 15958]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host/asdf%25%32%35asd')",[25810]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'dskgfljsdlkgjslkj')",[22757]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/g?y')","[11330, 16678]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://C|/unzipped/426/spacer.gif')",[8226]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com')",[19102]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.changeup.com/...</a')",[5599]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:cfid=[^&]+&cftoken=[^&]+)(?:&(.*))?$', '?CFID=12412453&CFTOKEN=15501799&dt=19_08_2006_22_39_28')",[22475]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/')",[18545]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'foo/bar|baz|yorple')",[21760]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/aa/bb/../')",[19337]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://例子.測試')",[18193]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com/blah/..')",[27160]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g?y#s')","[11688, 16736]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org:83/home.html')","[7236, 7900, 8074]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://gemini.info.usaid.gov/directory/pbResults.cfm?&urlNameLast=Rumplestiltskin')",[4709]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'host.com')","[31215, 31412, 34765]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org:0080')",[4184]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.lycos.co.uk""/l/b/""')",[8349]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org:443/')",[3292]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index.html?a=b&b=b')",[2150]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'dns:ads.nandomedia.com?a=b')",[5024]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://license.joins.com/igor?one={curly}')",[5779]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.y1y1.com/albums/userpics/11111/normal_%E3%E4%EC%EC%EC.jpg')",[4271]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host/%%%25%32%35asd%%')",[26034]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://')",[20539]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/g?y')","[11300, 16649]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://3279880203/blah')",[27019]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://...host..com..')",[34592]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www.alexa.com')",[460]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.fool.com')",[24470]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://alexa.com/')",[515]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/a..a/../foo.html')",[20305]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://Tel.:010101010101')",[21554]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'www.loc.gov/rr/european/egw/polishex.html')",[7149]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'pdb.rutgers.edu:81.rutgers.edu')",[9517]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/pa%20th?q=foo%')",[17606]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/index.html')","[5196, 18281, 18369]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', '3279880203')","[27049, 27078]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com:80/index.html')",[18897]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'webmail.gse.harvard.edu:9100robots.txt')",[9608]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/d;p?q')","[9904, 10141, 12343, 13625]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/%F0%9F%82%A1')",[34449]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org:443/')",[35249]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/g/')","[10734, 16246]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.google.com/')","[26177, 30061]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host.com/ab%23cd')",[31100]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.gotaport.com:1234/')",[29864]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/a/b/c/d?q\\r\\|s/t\\v')",[21818]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com')","[20655, 20799, 21645]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', ':foo')",[17084]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/goo/?b&a')",[23442]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '#s')",[11390]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index.html?a=b&b=a&b=b')","[2552, 2954]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '//www.facebook.com/plugins/like.php')",[7554]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www.evil.com')",[27838]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '..')","[12760, 13884]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org:443/')",[35195]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:sid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?one=two&x=y')",[22286]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/blah?z%e2%99%9Fz=z%e4%b8%80z')",[33607]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', ';x')","[11837, 15728]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org:8080?#foo')",[24309]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', ""http://www.example.com/misc;reserved:chars@that&don't=need+escaping$even,though!you(might)initially?think#so"")",[17929]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.loc.gov./index.html')",[8528]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http:boo')",[5455]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://pfbuser:pfbuser@mprsrv.agri.gov.cn/clzreceive/')",[4445]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://3279880203/blah')",[26965]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host/%25%32%35')",[25192]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.loc.gov/index.html')",[8648]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/G')",[14777]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://lcweb.loc.gov/rr/goodtwo.html')",[6973]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org?')",[24090]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:phpsessid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?phpsessid=0123456789abcdefghijklemopqrstuv&x=y')",[22205]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../..')","[13207, 14172]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://Foo.Com/index.html')","[18721, 18809]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/aa/bb/cc/../../foo.html')",[19425]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/pa%20th%way')",[17753]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.yahoo.com')",[18516]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.gotaport.com:1234/')",[29891]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org:8080/index.html?query#foo')",[24118]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', './')","[12611, 15036]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.nps-shoes.co.uk%20')",[4037]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.alexa.com/')",[341]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/%e2%9a%91')",[32846]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/aa/../bb/../foo.html/../../')",[19982]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'HTTP://example.com')","[32282, 36254]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'one//index.html')",[3835]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/g;x')","[12075, 16390]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www.evil.com')","[27781, 27810]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', '%20leadingspace.com/')",[30652]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www.securesite.com')",[31018]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/path/page')","[16998, 17142]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.google.com/q?')",[28485]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'host')","[25276, 25305, 25473, 25502, 25670, 25699, 25867, 25896, 26064, 26093]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://pdb.rutgers.edu:81.rutgers.edu/robots.txt')",[9456]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/foo/?')",[35798]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://%20leadingspace.com/')","[30509, 30706]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g;x')","[11986, 16304]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http:// leadingspace.com/')",[30258]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://license.joins.com/board/etc_board_list.asp?board_name=new_main&b_type=&nPage=2&category=G&lic_id=70&site=changeup&g_page=changeup&g_sPage=notice&gate=02')",[5484]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.b/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789')",[8411]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/index.html?a=b&b=a&b=b')","[2498, 2900]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.itsnicethat.com/articles/laura-hobson')",[7468]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www34.archive.org/index.html?b=a&b=b&a=b')",[2726]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:sid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?sid=9682993c8daa2c5497996114facdc805&')",[22421]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'https://example.org:443/')",[35021]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/goo/')",[23040]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org:443/')",[3265]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/pa%th%20way')",[17841]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com/q?r?')",[28709]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/⚑')",[32676]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com/q?')",[28539]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/aa/../../foo.html')",[19894]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://g')","[11002, 15497]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'boom1.hostname.com:9999')","[21438, 21496]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'www.loc.gov.')",[8560]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host/%25%32%35')",[25219]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host.com//twoslashes?more//slashes')",[31297]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www34.archive.org')",[2872]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'foo.com:81')",[19044]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'alexa.com')",[632]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', '10.0.258')",[25057]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', ""http://www.example.com/misc;reserved:chars@that&don't=need+escaping$even,though!you(might)initially?think#so"")",[17958]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'HTTP://example.com')","[32228, 36200]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/foo?')",[35597]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://%31%36%38%2e%31%38%38%2e%39%39%2e%32%36/%2E%73%65%63%75%72%65/%77%77%77%2E%65%62%61%79%2E%63%6F%6D/')",[26401]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '.')","[12462, 13740]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/blah?z♟z=z一z')",[33437]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://pdb.rutgers.edu:81.rutgers.edu/robots.txt')",[9486]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'ftP://example.com')","[32425, 36401]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '../..')","[13178, 14144]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.betamobile.com</A')",[8163]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org?')",[24036]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org/')",[23872]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/g#s')","[11598, 16073]"
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:sid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?sid=9682993c8daa2c5497996114facdc805&x=y')",[22367]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/path%')",[17313]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/DIR%20WITH%20SPACES/home%C3%A6.html')","[6562, 6650]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'dskgfljsdlkgjslkj')","[22669, 22699]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/blah?x=⚋')",[33016]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'www.google.com')",[27500]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g')","[10347, 15872]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/blah?x=⚋')",[33043]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'stack:StAcK@www.tyopaikat.com')",[9787]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.yahoo.com/foo?somechars!@$%^&*()_-+={[}]|\'"";:/?.>,<')",[18486]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://license.joins.com/~igor')",[5688]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'https://www.archive.org:443/')",[3374]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', ' leadingspace.com')","[30342, 30371, 30539, 30568, 30736, 30765]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.brook.edu')",[6161]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', '10.0.258')","[24978, 25005]"
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:cfid=[^&]+&cftoken=[^&]+)(?:&(.*))?$', '?CFID=1169580&CFTOKEN=48630702&dtstamp=22%2F08%2F2006%7C06%3A58%3A11')",[22448]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'Http://example.com')","[32058, 36026]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://license.joins.com/~igor')",[5658]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'x_underscore_underscore..2u.com')",[9156]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'HTTP://foo.com/')",[18633]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/../foo.html')",[19601]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://evil.com/foo?bar;')",[29524]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/path?q=foo%')",[17518]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/../aa/foo.html')",[20041]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/')","[13237, 13386, 14201, 14345]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'x_underscore_underscore.2u.com.tw')",[9066]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '')","[7814, 12284]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://one-two_three:8080/index.html')",[3629]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/goo/?a=2&b&a=1')",[23616]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www.gotaport.com')","[29948, 29977]"
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', '/mileg.aspx?page=sessionschedules')",[22016]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'host')","[25361, 25558, 25755, 25952, 26149]"
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:jsessionid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?jsessionid=0123456789abcdefghijklemopqrstuv')",[22043]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/d;p?y')","[10081, 11181]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/')","[12492, 12641, 13769, 15065]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'tel.:010101010101')",[21616]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/d;p?q#s')",[11479]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host/%2525252525252525')",[25613]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/g;x?y#s')","[12224, 16534]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/')","[12820, 12969, 13942, 14086]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'https://www.archive.org:80/')",[3210]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://bŸcher.ch:8080?#foo')",[24391]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index.html?a=b')","[1547, 1748]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www.foo.com')","[24576, 24603]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http//www.test.foo')","[20916, 20972]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', '017.0.0.1')","[24790, 24817]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://x_underscore_underscore.2u.com.tw/nonexistent_page.html')",[8975]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org/big/')",[3429]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/some/page')",[5369]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www.alexa.com')",[431]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://C|/unzipped/426/spacer.gif')",[8256]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '../../g')","[13476, 14576]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com')",[19073]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.changeup.com/...</a')",[5571]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'dns:ads.nandomedia.com')",[4911]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'a')","[9963, 10112, 10200, 10467, 10616, 10765, 10914, 11212, 11361, 11510, 11659, 11808, 11957, 12106, 12255, 12404, 12553, 12702, 12851, 13000, 13149, 13298, 13447, 13596, 13684, 13828, 13972, 14116, 14260, 14404, 14548, 14692, 14836, 14980, 15124, 15268, 15412, 15700, 15844, 15988, 16132, 16276, 16420, 16564, 16708, 16852]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/?')",[35396]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'foo/bar|baz|yorple')",[21732]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g/')","[10645, 16160]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.google.com.../')",[28118]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/aa/bb/../')",[19366]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.archive.org')",[23954]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org:83/home.html')","[7207, 7871, 8046]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https:')","[20626, 20770]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org:0080')",[4213]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org:443/')",[3319]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://license.joins.com/igor{curly}.html')",[5839]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'dns:ads.nandomedia.com?a=b')",[4995]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../G')",[14748]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.y1y1.com/albums/userpics/11111/normal_%E3%E4%EC%EC%EC.jpg')",[4299]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://webmail.gse.harvard.edu:9100robots.txt/robots.txt')",[9547]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host/%%%25%32%35asd%%')",[26007]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com:81/')",[19014]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http:// leadingspace.com/')",[30312]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/foo/?')",[35825]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://evil.com/foo#bar#baz')",[29076]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/goo/?')",[23241]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://%31%36%38%2e%31%38%38%2e%39%39%2e%32%36/%2E%73%65%63%75%72%65/%77%77%77%2E%65%62%61%79%2E%63%6F%6D/')",[26374]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www.securesite.com')","[30933, 30962]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://Tel.:010101010101')",[21525]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'notrailingslash.com')",[29808]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://g.msn.co.kr/0nwkokr0/00/19??PS=10274&NC=10009&CE=42&CP=949&HL=&#65533;&#65533;&#65533;?&#65533;&#65533;')",[8707]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/')",[22812]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'www.fool.com')",[24522]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/bl⚑ah?z♟z=z一z')",[33858]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/pa%20th?q=foo%')",[17577]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'https://www.securesite.com/')",[30876]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/foo.foo/../foo.html')",[20393]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:sid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?x=y')",[22232]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'www.google.com/')",[27303]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/%F0%9F%82%A1')",[34422]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', '/(S(4hqa0555fwsecu455xqckv45))/mileg.aspx')",[21876]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/big/')",[3483]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'host.com')","[31187, 31384, 34736]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.itsnicethat.com')",[7498]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/pa%20th%')",[17401]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/path?query#anchor')","[16910, 21030, 21176, 21352]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'xn--fsqu00a.xn--g6w251d')",[18252]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.nps-shoes.co.uk')","[4067, 4155]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.GOOgle.com/')",[27894]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.local-regions.odpm%20.gov.uk/lpsa/challenge/pdf/propect.pdf')","[8824, 8914]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://lcweb.loc.gov/rr/goodtwo.html')","[6738, 6826, 6914]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index.html')","[743, 944, 1346]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/goo/?b&a')",[23415]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '../../')","[13327, 14288]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '..')","[12731, 13856]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/')","[13267, 13416, 14230, 14374]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/🂡')",[34198]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'JIGOU//KYC//INDEX.HTM')",[5283]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www.gotaport.com')",[30033]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org:8080?#foo')",[24336]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/.././  ^""\'`[]{}/test/../a.gif')",[3512]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/🂡')",[34225]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.loc.gov./index.html')",[8499]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://...host..com..')",[34619]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', '/(4hqa0555fwsecu455xqckv45)/mileg.aspx')",[21932]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://dskgfljsdlkgjslkj')",[22611]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'alexa.com')","[573, 603]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http:boo')",[5427]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/aa/bb/../cc/dd/../ee/foo.html')",[19542]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.loc.gov/index.html')",[8619]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://evil.com/foo;')",[29300]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/G')",[14806]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://www.archive.org')",[3893]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org?')",[24063]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '//www.facebook.com/plugins/like.php?href=http://www.itsnicethat.com/articles/laura-hobson')",[7610]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://Foo.Com/index.html')","[18750, 18838]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http:///lcweb.loc.gov/rr/goodtwo.html')",[6797]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.gotaport.com:1234/')",[29918]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../../../../../../../../g')",[14460]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://g')","[11032, 15526]"
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:jsessionid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?jsessionid=0123456789abcdefghijklemopqrstuv0')",[22070]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'license.joins.com')","[5543, 5719, 5810, 5898]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.alexa.com/')",[314]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/../../../../../../../../g')",[15324]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g;x?y#s')","[12164, 16476]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'one//index.html')",[3807]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'www.GOOgle.com')","[27978, 28007]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/g;x')","[12045, 16361]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host/%2525252525252525')",[25586]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/path/page')","[16969, 17113]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/foo/?')",[35852]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/index.html?')",[1118]
+"('UsableURI.java', 'org.archive.url.UsableURI', 'getReferencedHost', '[-_\\w\\.:]+', 'ads.nandomedia.com')","[4939, 4966, 5052, 5079]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'archive.org:83')","[7266, 7354, 7698, 7786, 7930, 8018, 8103]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://webmail.gse.harvard.edu:9100robots.txt/robots.txt')",[9577]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'https:////lcweb.loc.gov/rr/goodtwo.html')",[7061]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.b/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789/123456789')",[8440]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g:h')","[10258, 10318]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/g')","[10406, 10555, 15209, 15929]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://notrailingslash.com')",[29694]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://license.{curly}.com/igor.html')",[5956]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/g')","[10853, 13535, 14489, 14633, 15353, 15641]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www34.archive.org/index.html?b=a&b=b&a=b')",[2753]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.GOOgle.com/')",[27948]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.google.com/foobarbaz2')",[28288]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://example.org:443/')",[35048]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'evil.com')","[29245, 29442, 29639]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/goo/')",[23013]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', '/(4hqa0555fwsecu455xqckv45)/mileg.aspx')",[21960]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http:////lcweb.loc.gov/rr/goodtwo.html')",[6885]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/⚑')",[32649]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.pølse.dk/')",[18105]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/g')","[13118, 14950]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g/')","[10674, 16188]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'boom1.hostname.com:9999')","[21410, 21467]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/DIR WITH SPACES/ home.html')",[6017]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www.gotaport.com')",[30005]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host/%25%32%35%25%32%35')",[25389]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host.com//twoslashes?more//slashes')",[31270]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../')","[12909, 14028]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/index.html?b=a&b=b&a=b')",[2324]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', '127.0.0.1')",[24736]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://0204chat.2u.com.tw/nonexistent_page.html')",[9185]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/goo/')",[22986]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/g?y#s')","[11747, 16793]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', '158.144.21.3:80808')",[9426]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/goo/?')",[23187]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '.')","[12433, 13712]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/blah?z♟z=z一z')",[33464]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'dskgfljsdlkgjslkj')",[22728]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/%a%%%%%.html')",[5137]
+"('DNSResponseParser.java', 'org.archive.format.dns.DNSResponseParser', 'isBlank', '\\S', 'farm6.static.flickr.a06.yahoodns.net.\t300\tIN\tA\t98.136.170.121')","[94, 124, 218, 248]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://evil.com/foo?bar;')",[29470]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:jsessionid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?one=two&jsessionid=0123456789abcdefghijklemopqrstuv')",[22151]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.betamobile.com</A')",[8133]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/g#s')","[11628, 16102]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'faxResults.cfm?name=Ebenezer%20+Rumplestiltskin,&location=RRB%20%20%20%205%2E08%2D006')",[4795]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/a/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                /index.html')",[4357]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', './g')","[10496, 15152]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/pa%20th%way')",[17782]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://webmail.gse.harvard.edu:0/robots.txt/robots.txt')",[9668]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/a/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/index.html')",[4386]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'example.html?parameter=this:value')",[17256]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://host/%25%32%35%25%32%35')",[25443]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g')","[10376, 15900]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'host#.com')","[26852, 26881]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/blah?x=⚋')",[33070]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/')","[12790, 12939, 13913, 14057]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.yahoo.com/foo?somechars!@$%^&*()_-+={[}]|\'"";:/?.>,<')",[18457]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/index.html#foo')",[23844]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'alexa.com')",[661]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org:80/')",[34820]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/g')","[10823, 15612]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host/asdf%25%32%35asd')",[25783]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:cfid=[^&]+&cftoken=[^&]+)(?:&(.*))?$', '?CFID=4308017&CFTOKEN=63914124&requestID=200608200458360%2E39414378')",[22556]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'https://example.org:443/')",[34994]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/DIR%20WITH%20SPACES/home%E6.html')","[6274, 6359]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'HTTP://foo.com/')",[18662]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/../foo.html')",[19630]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://evil.com/foo;')",[29273]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.xn--plse-gra.dk')",[18164]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g?y')","[11241, 16592]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/goo/?a=2&b&a=1')",[23643]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', '168.188.99.26')","[24950, 26543]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://stack:StAcK@www.tyopaikat.com/robots.txt')",[9728]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/')","[12522, 12671, 13798, 15094]"
+"('DNSResponseParser.java', 'org.archive.format.dns.DNSResponseParser', 'isBlank', '\\S', '20110328212258')","[32, 63, 156, 187]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/bl%E2%9A%91ah?z%e2%99%9Fz=z%E4%b8%80z')",[34001]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/d;p?q#s')",[11449]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/c/g;x?y#s')","[12194, 16505]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https:/')",[20510]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'license.{curly}.com')",[5988]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www.foo.com')",[24629]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www.GOOgle.com')",[28035]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://bŸcher.ch:8080?#foo')",[24418]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'ftP://example.com')","[32452, 36428]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.tyopaikat.com:a')",[9335]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', 'example.org')","[31524, 31553, 31721, 31750, 31918, 31947, 32706, 32735, 32903, 32932, 33100, 33129, 33297, 33326, 33494, 33523, 33691, 33720, 33888, 33917, 34085, 34114, 34282, 34311, 34479, 34508, 34878, 34908, 35079, 35109, 35280, 35310, 35481, 35511, 35682, 35712, 35883, 35913]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'webmail.gse.harvard.edu:0')",[9699]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http//www.test.foo')","[20887, 20944]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g#s')","[11539, 16016]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://x_underscore_underscore.2u.com.tw/nonexistent_page.html')",[9004]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://notrailingslash.com')",[29667]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/b/c/;x')","[11926, 15814]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'www.securesite.com')",[30990]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'www.evil.com')",[27866]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../../g')","[13505, 14604]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/bl%E2%9A%91ah?z%e2%99%9Fz=z%E4%b8%80z')",[34055]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'dns:ads.nandomedia.com')",[4882]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/../../foo.html')",[19689]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/../aa/foo.html')",[20070]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'archive.org')","[3571, 4562, 4651, 5167, 6076, 6246, 6331, 6416, 6504, 6592, 6680]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', '168.188.99.26')","[24871, 24898, 26458, 26487]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/index.html?')",[1091]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^\\d+$', '127.0.0.1')","[24683, 24710]"
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:sid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?one=two&')",[22340]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.alexa.com/')",[287]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', ';x')","[11866, 15756]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://license.joins.com/igor{curly}.html')",[5868]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com/q?r?s')",[28933]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/index.html?b=b&a=b')",[1895]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '../G')",[14720]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com:81/')",[18985]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'xn--rksmrgs-5wao1o.josefsson.org')",[18076]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www34.archive.org/index.html?b=a&b=b&a=b')",[2699]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.local-regions.odpm .gov.uk/lpsa/challenge/pdf/propect.pdf')",[8885]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'one-two_three:8080')",[3691]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/blah?z%e2%99%9Fz=z%e4%b8%80z')",[33661]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/blah?x=%e2%9a%8b')",[33213]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', '195.127.0.11')",[26712]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://archive.org/goo/?')",[23214]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'https:')","[20597, 20742]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'www.fool.com/')",[24548]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http:// leadingspace.com/')",[30285]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://195.127.0.11/uploads/%20%20%20%20/.verify/.eBaysecure=updateuserdataxplimnbqmn-xplmvalidateinfoswqpcmlx=hgplmcx/')",[26571]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/some/page')",[5340]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/index.html?b=a&b=b&a=b')",[2297]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/bl⚑ah?z♟z=z一z')",[33831]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'host#.com')",[26937]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/bl⚑ah?z♟z=z一z')",[33804]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:cfid=[^&]+&cftoken=[^&]+)(?:&(.*))?$', '?CFID=16603925&CFTOKEN=2AE13EEE-3048-85B0-56CEDAAB0ACA44B8')",[22529]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', 'example.org')","[31609, 31806, 32003, 32791, 32988, 33185, 33382, 33579, 33776, 33973, 34170, 34367, 34564, 34966, 35167, 35368, 35569, 35770, 35971]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.archive.org/big/')",[3456]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://notrailingslash.com')",[29721]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/pa%20th%')",[17430]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/path?query#anchor')","[16881, 21001, 21147, 21323]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'archive.org')","[833, 1034, 1235, 1436, 1637, 1838, 2039, 2240, 2441, 2642, 3044, 22929, 23130, 23331, 23532, 23733]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', '017.0.0.1')",[24843]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.loc.gov')",[8678]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', ':foo')",[17056]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.example.com')","[5399, 16940, 17028, 17172, 17372, 17460, 17548, 17636, 17724, 17812, 17900, 17988, 20714, 20858, 21060, 21206, 21294, 21382, 21704, 21848]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../../')","[13356, 14316]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'Tel.')",[21586]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'faxResults.cfm?name=Ebenezer +Rumplestiltskin,&location=RRB%20%20%20%205%2E08%2D006')",[4767]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.evil.com/blah#frag')",[27697]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '//example.com/monkey?this:uri:has:colons')",[3979]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', '127.0.0.1')",[24762]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org')",[24008]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://%20leadingspace.com/')",[30455]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/')",[22785]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'example.html;jsessionid=deadbeef:deadbeed?parameter=this:value')",[17228]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/🂡')",[34252]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org:80/')",[3155]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://evil.com/foo#bar#baz')",[29130]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://dskgfljsdlkgjslkj')",[22638]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', '/mileg.aspx')",[21904]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://evil.com/foo#bar#baz')",[29103]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/aa/bb/../cc/dd/../ee/foo.html')",[19513]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/index%25\x1d.html')",[4592]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://evil.com/foo;')",[29327]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://www.archive.org')",[3864]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'file://///boo_hoo/wwwroot/CMS/Images1/Banner.gif')",[21118]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '//www.facebook.com/plugins/like.php?href=http://www.itsnicethat.com/articles/laura-hobson')",[7582]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.pølse.dk/')",[18134]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '//g')","[10972, 15468]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/goo/?b&a')",[23388]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '../../../../../../../../g')",[14432]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '?y')","[10021, 11121]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '/../../../../../../../../g')",[15296]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.org/foo?')",[35651]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.google.com/q?r?s')",[28879]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'https://www.archive.org:443/')",[3347]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^([1-9][0-9]*)(\\.[0-9]+)?(\\.[0-9]+)?(\\.[0-9]+)?$', '1.2.3.256')",[25164]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://www.google.com.../')",[28091]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index.html?')",[1145]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.evil.com/blah#frag')",[27751]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', ' leadingspace.com')","[30399, 30596, 30793]"
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', 'host#.com')",[26909]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index%25%20.html')",[4532]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'www.loc.gov/rr/european/egw/polishex.html')",[7178]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'g;x')","[12015, 16332]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://lcweb.loc.gov/rr/goodtwo.html')",[6709]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/path?query')",[21235]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'g:h')","[10229, 10288]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://räksmörgås.josefßon.org/')",[18046]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'one-two_three')",[3661]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', '1.2.3.256')",[25138]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'stack:StAcK@www.tyopaikat.com:8080')",[9875]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', '0204chat.2u.com.tw')",[9244]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://license.{curly}.com/igor.html')",[5927]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a/g')","[10883, 13565, 14518, 14662, 15382, 15670]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://www.GOOgle.com/')",[27921]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host%23.com/%257Ea%2521b%2540c%2523d%2524e%25f%255E00%252611%252A22%252833%252944_55%252B')",[26768]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://158.144.21.3:80808/robots.txt')",[9395]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.google.com/')","[26231, 27357, 30115]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a/b/g')","[13088, 14921]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', '/home.html')",[7382]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixupDomainlabel', '^(?:[a-zA-Z0-9_-]++(?:\\.)?)++$', 'C|')",[8289]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', '/(a(4hqa0555fwsecu455xqckv45)S(4hqa0555fwsecu455xqckv45)f(4hqa0555fwsecu455xqckv45))/mileg.aspx?page=sessionschedules')",[21988]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/pa%th')",[17665]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://example.org/')","[31440, 31637, 31834]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://webmail.gse.harvard.edu:0/robots.txt/robots.txt')",[9638]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index.html?b=a&b=b&a=b')",[2351]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/goo/?a=2&b&a=1')",[23589]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://0204chat.2u.com.tw/nonexistent_page.html')",[9214]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/../aa/../foo.html')","[19806, 20158]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', '')",[24444]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:cfid=[^&]+&cftoken=[^&]+)(?:&(.*))?$', '?CFID=14475712&CFTOKEN=2D89F5AF-3048-2957-DA4EE4B6B13661AB&r=468710288378&m=forgotten')",[22502]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'lcweb.loc.gov')","[6768, 6856, 6944, 7032, 7120]"
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:ASPSESSIONID[a-zA-Z]{8}=[a-zA-Z]{24})(?:&(.*))?$', '?aspsessionidABCDEFGH=ABCDEFGHIJKLMNOPQRSTUVWX&x=y')",[22178]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/aa/../')",[19249]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/index.html?b=b&a=b')",[1949]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://archive.org/index.html?a=b')","[1493, 1694]"
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/%a%%%%%.html')",[5108]
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'http://host/%%%25%32%35asd%%')",[25980]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(https?://)/+(.*)', 'dns://ads.nandomedia.com:81/one.html')",[4824]
+"('URLRegexTransformer.java', 'org.archive.url.URLRegexTransformer', 'stripOpts', '(?i)^(.+)(?:jsessionid=[0-9a-zA-Z]{32})(?:&(.*))?$', '?one=two&jsessionid=0123456789abcdefghijklemopqrstuv&x=y')",[22124]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/path%')",[17342]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', './g')","[10525, 15180]"
+"('URLParser.java', 'org.archive.url.URLParser', 'addDefaultSchemeIfNeeded', '(?i)^(http|https|ftp|mms|rtsp|wais)://.*', 'https://www.archive.org:80/')",[3183]
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://host/%25%32%35%25%32%35')",[25416]
+"('UsableURIFactory.java', 'org.archive.url.UsableURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.nps-shoes.co.uk%20%20%20')",[4125]
+"('BasicURLCanonicalizer.java', 'org.archive.url.BasicURLCanonicalizer', 'attemptIPFormats', '^(0[0-7]*)(\\.[0-7]+)?(\\.[0-7]+)?(\\.[0-7]+)?$', '168.188.99.26')","[24924, 26515]"
+"('URLParser.java', 'org.archive.url.URLParser', 'parse', '^(https?://)/+(.*)', 'http://example.org/foo?')",[35624]

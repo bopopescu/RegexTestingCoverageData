@@ -1,0 +1,21 @@
+"('ItudeEnvironment.java', 'com.itude.mobile.web.environment.ItudeEnvironment', 'determineAutoPrefix', '^ci.*$', 'pei2lab.csc.ncsu.edu')","[234, 483]"
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^ftp$', 'unmatched')",[588]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^ftp$', 'ftp')",[728]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*debug.*$', 'My Repository Name')",[763]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^ftp$', 'My Repository Name')",[798]
+"('ItudeEnvironment.java', 'com.itude.mobile.web.environment.ItudeEnvironment', 'determineAutoPrefix', '^192\\.168\\.2\\.11$', 'pei2lab.csc.ncsu.edu')","[117, 378]"
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*Repository.*$', 'unmatched')",[623]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*debug.*$', 'ftp')",[693]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*debug.*$', 'otherclass.test')",[903]
+"('ItudeEnvironment.java', 'com.itude.mobile.web.environment.ItudeEnvironment', 'determineAutoPrefix', '^.*$', '127.0.1.1')","[273, 518]"
+"('ItudeEnvironment.java', 'com.itude.mobile.web.environment.ItudeEnvironment', 'determineAutoPrefix', '^ci.*$', 'pei2lab')","[195, 448]"
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*Repository.*$', 'otherclass.test')",[973]
+"('ItudeEnvironment.java', 'com.itude.mobile.web.environment.ItudeEnvironment', 'determineAutoPrefix', '^192\\.168\\.2\\.11$', '127.0.1.1')","[39, 308]"
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*debug.*$', 'unmatched')",[553]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*debug.*$', 'somedebugstring')",[868]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^.*Repository.*$', 'My Repository Name')",[833]
+"('ItudeEnvironment.java', 'com.itude.mobile.web.environment.ItudeEnvironment', 'determineAutoPrefix', '^192\\.168\\.2\\.11$', 'pei2lab')","[78, 343]"
+"('ItudeEnvironment.java', 'com.itude.mobile.web.environment.ItudeEnvironment', 'determineAutoPrefix', '^ci.*$', '127.0.1.1')","[156, 413]"
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^ftp$', 'otherclass.test')",[938]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^otherclass\\.test$', 'unmatched')",[658]
+"('PersistentLogger.java', 'com.itude.mobile.web.jpa.loggers.PersistentLogger', 'determineLevel', '^otherclass\\.test$', 'otherclass.test')",[1008]

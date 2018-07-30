@@ -1,0 +1,17 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotCompilablePatternThrowsException(com.github.dhaeb.TestRegexValidatorProcessor)')","[78, 246]"
+"('FloatingDecimal.java', 'sun.misc.FloatingDecimal', 'parseHexString', '([-+])?0[xX](((\\p{XDigit}+)\\.?)|((\\p{XDigit}*)\\.(\\p{XDigit}+)))[pP]([-+])?(\\p{Digit}+)[fFdD]?', '0x1.0p1')",[409]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDoesNotCompilePatternIsNull(com.github.dhaeb.TestRegexValidatorProcessor)')","[183, 351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotAStringWarning(com.github.dhaeb.TestRegexValidatorProcessor)')","[204, 372]"
+"('RegexValidatorProcessor.java', 'com.github.dhaeb.RegexValidatorProcessor', 'verifyPattern', '.*fox.*', 'The quick brown fox jumps over the lazy dog.')",[522]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', 'com\\.github\\.dhaeb\\.validate\\.ValidateRegex', 'com.github.dhaeb.validate.ValidateRegex')","[442, 595, 628, 661, 694, 807, 840, 873]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotInitializedPatternStringWarning(com.github.dhaeb.TestRegexValidatorProcessor)')","[99, 267]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDoesNotCompileWhenUserFixturesNotMatch(com.github.dhaeb.TestRegexValidatorProcessor)')","[141, 309]"
+"('RegexValidatorProcessor.java', 'com.github.dhaeb.RegexValidatorProcessor', 'verifyPattern', '.*fox.*', 'What does the fox say?')",[482]
+"('RegexValidatorProcessor.java', 'com.github.dhaeb.RegexValidatorProcessor', 'verifyPattern', '.*snake$', 'The snake')",[562]
+"('RegexValidatorProcessor.java', 'com.github.dhaeb.RegexValidatorProcessor', 'verifyPattern', '\\d*', 'abc')",[774]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWorksNormalUsage(com.github.dhaeb.TestRegexValidatorProcessor)')","[57, 225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.github.dhaeb.TestRegexValidatorProcessor')","[36, 895]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotFinalWarning(com.github.dhaeb.TestRegexValidatorProcessor)')","[162, 330]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWorksWithComplexExpression(com.github.dhaeb.TestRegexValidatorProcessor)')","[120, 288]"
+"('RegexValidatorProcessor.java', 'com.github.dhaeb.RegexValidatorProcessor', 'verifyPattern', '\\d*', '123')",[734]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]

@@ -1,0 +1,13 @@
+"('Regular.java', 'cn.iaa.core.Regular', 'phoneReg', '((\\d{11})|^((\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1})|(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1}))$)', '0571-31801133')",[250]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAssertNotNull(cn.iaa.util.string.StringUtilTest)')","[97, 160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(cn.iaa.util.regular.RegularTest)')","[57, 139]"
+"('StringUtil.java', 'cn.iaa.core.StringUtil', 'isDigit', '[0-9]*', '123424')",[345]
+"('StringUtil.java', 'cn.iaa.core.StringUtil', 'isDigit', '[0-9]*', 'asdfasd23324')",[368]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsDigit(cn.iaa.util.string.StringUtilTest)')","[118, 181]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Regular.java', 'cn.iaa.core.Regular', 'phoneReg', '((\\d{11})|^((\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1})|(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1}))$)', '571-3180133')",[296]
+"('Regular.java', 'cn.iaa.core.Regular', 'phoneReg', '((\\d{11})|^((\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1})|(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1}))$)', '15088603496')",[227]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'cn.iaa.util.string.StringUtilTest')","[76, 390]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'cn.iaa.util.regular.RegularTest')","[36, 322]"
+"('Regular.java', 'cn.iaa.core.Regular', 'phoneReg', '((\\d{11})|^((\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})|(\\d{4}|\\d{3})-(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1})|(\\d{7,8})-(\\d{4}|\\d{3}|\\d{2}|\\d{1}))$)', '0571-31801133-123')",[273]
+"('Regular.java', 'cn.iaa.core.Regular', 'emailReg', '^\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*$', 'asdflas@wqe.coma')",[204]

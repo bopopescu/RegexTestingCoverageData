@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.cdr.SerializableClassesTest')","[36, 233]"
+"('FloatingDecimal.java', 'sun.misc.FloatingDecimal', 'parseHexString', '([-+])?0[xX](((\\p{XDigit}+)\\.?)|((\\p{XDigit}*)\\.(\\p{XDigit}+)))[pP]([-+])?(\\p{Digit}+)[fFdD]?', '0x1.0p1')",[175]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('CheckDependenciesProcessor.java', 'org.cdr.CheckDependenciesProcessor', 'process', 'java.io.*', 'java.io.File')",[463]
+"('CheckDependenciesProcessor.java', 'org.cdr.CheckDependenciesProcessor', 'process', '', 'java.io.Writer')",[364]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', 'org\\.cdr\\.CheckDependencies', 'org.cdr.CheckDependencies')",[265]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.cdr.CheckDependenciesTest')","[76, 518]"
+"('CheckDependenciesProcessor.java', 'org.cdr.CheckDependenciesProcessor', 'process', '', 'java.io.File')",[496]
+"('CheckDependenciesProcessor.java', 'org.cdr.CheckDependenciesProcessor', 'process', 'java.io.*', 'java.lang.Object')","[298, 397, 430]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(org.cdr.SerializableClassesTest)')","[57, 118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(org.cdr.CheckDependenciesTest)')","[97, 139]"
+"('CheckDependenciesProcessor.java', 'org.cdr.CheckDependenciesProcessor', 'process', 'java.io.*', 'java.io.Writer')",[331]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', 'org\\.cdr\\.SerializableClasses', 'org.cdr.SerializableClasses')",[207]

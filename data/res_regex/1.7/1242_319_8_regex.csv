@@ -1,0 +1,6 @@
+"('RollingFileAppender.java', 'ch.qos.logback.core.rolling.RollingFileAppender', 'fileAndPatternCollide', 'logs/checklistbank-ws.\\d{4}-\\d{2}-\\d{2}.log.gz', 'logs/checklistbank-ws.log')","[165, 209]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.gbif.checklistbank.ws.resources.SpeciesResourceTest')","[36, 320]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGet(org.gbif.checklistbank.ws.resources.SpeciesResourceTest)')","[78, 120]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testListTypeSpecimensByNameUsage(org.gbif.checklistbank.ws.resources.SpeciesResourceTest)')","[57, 99]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('RollingFileAppender.java', 'ch.qos.logback.core.rolling.RollingFileAppender', 'fileAndPatternCollide', 'logs/checklistbank-ws_error.\\d{4}-\\d{2}-\\d{2}.log.gz', 'logs/checklistbank-ws_error.log')","[254, 298]"

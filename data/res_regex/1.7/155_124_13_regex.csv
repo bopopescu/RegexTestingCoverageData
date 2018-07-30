@@ -1,0 +1,18 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInputType(com.github.aureliano.evtbridge.input.url.UrlInputConfigTest)')",[187]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '45789')","[398, 422]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testValidation(com.github.aureliano.evtbridge.input.url.UrlInputConfigTest)')",[103]
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '1000')","[349, 373]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConfiguration(com.github.aureliano.evtbridge.input.url.UrlInputConfigTest)')",[124]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testClone(com.github.aureliano.evtbridge.input.url.UrlInputConfigTest)')",[145]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBuildUrl(com.github.aureliano.evtbridge.input.url.UrlInputHelperTest)')",[208]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.input.url.UrlInputConverterTest')","[446, 469, 493, 516]"
+"('StringHelper.java', 'com.github.aureliano.evtbridge.common.helper.StringHelper', 'isNumeric', '[+-]?\\d+\\.?\\d*', '80')","[300, 324]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBuildUrl(com.github.aureliano.evtbridge.input.url.UrlInputHelperTest)')",[228]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConvert(com.github.aureliano.evtbridge.input.url.UrlInputConverterTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValidation(com.github.aureliano.evtbridge.input.url.UrlInputConfigTest)')",[83]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConvert(com.github.aureliano.evtbridge.input.url.UrlInputConverterTest)')",[21]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetDefaults(com.github.aureliano.evtbridge.input.url.UrlInputConfigTest)')",[166]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testId(com.github.aureliano.evtbridge.input.url.UrlInputConverterTest)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.input.url.UrlInputHelperTest')","[631, 651, 672, 692]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.aureliano.evtbridge.input.url.UrlInputConfigTest')","[540, 563, 587, 610]"
+"('UrlInputConverter.java', 'com.github.aureliano.evtbridge.input.url.UrlInputConverter', 'convert', '(HTTP|HTTPS)', 'HTTP')","[252, 275]"

@@ -1,0 +1,19 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'constructor_int(net.jadler.stubbing.server.jdk.JdkStubHttpServerTest)')","[263, 515]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'handle_responseBody(net.jadler.stubbing.server.jdk.JdkHandlerTest)')","[181, 452]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addEncoding(net.jadler.stubbing.server.jdk.RequestUtilsTest)')","[99, 389]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'constructor_fail(net.jadler.stubbing.server.jdk.JdkHandlerTest)')","[202, 473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addEncoding_noEncoding(net.jadler.stubbing.server.jdk.RequestUtilsTest)')","[57, 347]"
+"('RequestUtils.java', 'net.jadler.stubbing.server.jdk.RequestUtils', 'addEncoding', '(?i).*\\bcharset=\\s*""?([^\\s;""]*)', 'text/plain; charset=crippled')",[650]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addEncoding_crippledCharset(net.jadler.stubbing.server.jdk.RequestUtilsTest)')","[120, 410]"
+"('RequestUtils.java', 'net.jadler.stubbing.server.jdk.RequestUtils', 'addEncoding', '(?i).*\\bcharset=\\s*""?([^\\s;""]*)', 'text/plain')",[602]
+"('RequestUtils.java', 'net.jadler.stubbing.server.jdk.RequestUtils', 'addEncoding', '(?i).*\\bcharset=\\s*""?([^\\s;""]*)', 'text/plain; charset=UTF-8')","[626, 702, 728]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addEncoding_noContentTypeHeader(net.jadler.stubbing.server.jdk.RequestUtilsTest)')","[78, 368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'registerRequestManager_fail(net.jadler.stubbing.server.jdk.JdkStubHttpServerTest)')","[305, 557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'handle_noResponseBody(net.jadler.stubbing.server.jdk.JdkHandlerTest)')","[223, 494]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'constructor(net.jadler.stubbing.server.jdk.JdkStubHttpServerTest)')","[284, 536]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.jadler.stubbing.server.jdk.RequestUtilsTest')","[36, 676]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'constructor_fail(net.jadler.stubbing.server.jdk.JdkStubHttpServerTest)')","[326, 578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'constructor(net.jadler.stubbing.server.jdk.JdkHandlerTest)')","[160, 431]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.jadler.stubbing.server.jdk.JdkStubHttpServerTest')","[242, 776]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.jadler.stubbing.server.jdk.JdkHandlerTest')","[139, 754]"

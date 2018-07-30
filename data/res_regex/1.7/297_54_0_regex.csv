@@ -1,0 +1,56 @@
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.MULT')","[105, 2079, 2499, 3717, 4137, 4515, 4893, 5271, 5649]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_0')",[1050]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.SIN')","[210, 2184, 2604, 3822, 4242, 4620, 4998, 5376, 5754]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.R')","[2373, 2793, 4011]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.DIV')","[147, 2121, 2541, 3759, 4179, 4557, 4935, 5313, 5691]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D0')","[630, 1428, 1806, 3024, 3444]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.SUB')","[63, 2037, 2457, 3675, 4095, 4473, 4851, 5229, 5607]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.multiplexer.nodes.A0')","[567, 1365, 3381]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.COS')","[231, 2205, 2625, 3843, 4263, 4641, 5019, 5397, 5775]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D1')","[672, 1470, 1848, 3066, 3486]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.multiplexer.nodes.A1')","[693, 1491, 3507]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.multiplexer.nodes.A_0')",[987]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D0')","[609, 1407, 1785, 3003, 3423]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.NOT')","[504, 924, 1302, 3318]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_1')",[1092]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.COS')","[252, 2226, 2646, 3864, 4284, 4662, 5040, 5418, 5796]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.NAND')","[1701, 2919]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.multiplexer.nodes.A_1')",[1008]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.IF')","[546, 966, 1344, 3360]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.OR')","[462, 882, 1260, 1680, 2898, 3276]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.RLOG')","[336, 2310, 2730, 3948, 4368, 4746, 5124, 5502, 5880]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.EXP')","[273, 2247, 2667, 3885, 4305, 4683, 5061, 5439, 5817]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.NOT')","[483, 903, 1281, 3297]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D4')","[1974, 3192]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_3')",[1176]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.DIV')","[168, 2142, 2562, 3780, 4200, 4578, 4956, 5334, 5712]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.IF')","[525, 945, 1323, 3339]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.OR')","[441, 861, 1239, 1659, 2877, 3255]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D2')","[735, 1533, 1869, 3087, 3549]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.X')","[357, 2331, 2751, 3969, 4389, 4767, 5145, 5523, 5901]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.RLOG')","[315, 2289, 2709, 3927, 4347, 4725, 5103, 5481, 5859]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D1')","[651, 1449, 1827, 3045, 3465]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D4')","[1953, 3171]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_2')",[1113]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.SIN')","[189, 2163, 2583, 3801, 4221, 4599, 4977, 5355, 5733]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.ADD')","[42, 2016, 2436, 3654, 4074, 4452, 4830, 5208, 5586]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.X')","[378, 2352, 2772, 3990, 4410, 4788, 5166, 5544, 5922]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_1')",[1071]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.multiplexer.nodes.A0')","[588, 1386, 3402]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.SUB')","[84, 2058, 2478, 3696, 4116, 4494, 4872, 5250, 5628]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.R')","[2394, 2814, 4032]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_2')",[1134]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.multiplexer.nodes.A1')","[714, 1512, 3528]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.AND')","[420, 840, 1218, 1638, 2856, 3234]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.NOR')","[1743, 2961]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.EXP')","[294, 2268, 2688, 3906, 4326, 4704, 5082, 5460, 5838]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.regression.nodes.ADD')","[21, 1995, 2415, 3633, 4053, 4431, 4809, 5187, 5565]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.regression.nodes.MULT')","[126, 2100, 2520, 3738, 4158, 4536, 4914, 5292, 5670]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D3')","[777, 1575, 1911, 3129, 3591]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_3')",[1155]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D_0')",[1029]
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.NAND')","[1722, 2940]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D2')","[756, 1554, 1890, 3108, 3570]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.D3')","[798, 1596, 1932, 3150, 3612]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.D_([\\d]+)', 'ec.research.gp.simple.bool.nodes.NOR')","[1764, 2982]"
+"('Config.java', 'ec.research.gp.simple.util.Config', 'setupNodeSet', '(.+)\\.A_([\\d]+)', 'ec.research.gp.simple.bool.nodes.AND')","[399, 819, 1197, 1617, 2835, 3213]"

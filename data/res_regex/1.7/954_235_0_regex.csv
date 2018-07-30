@@ -1,0 +1,250 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringVert(frets.main.GuitarStringTest)')","[2479, 5268]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.bass.properties')",[7936]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.FretboardCharGraphicTest')","[748, 8929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSorting(frets.main.NoteTest)')","[1813, 4630]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.LocationListTest')","[998, 8640]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'chordrank.*.properties', 'chordrank.standard.properties')",[6331]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPermutationStringParsing(frets.main.FretboardTest)')","[729, 3574]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.ukeleleTenor.properties')",[7260]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testComparable(frets.main.NoteListTest)')","[2767, 5510]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringParseParameters[3](frets.main.ParameterizedTest)')","[212, 3090]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.NoteListTest')","[2746, 8906]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringHorizontalCompactNotPlayedFretNumbering(frets.main.FretboardCharGraphicTest)')","[958, 3794]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMinMaxSpanFretString(frets.main.LocationListTest)')","[1166, 3992]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringParseParameters(frets.main.NoteTest)')","[1729, 4542]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.ukeleleSoprano.properties')",[7988]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEnum(frets.main.NoteTest)')","[1624, 4432]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFmaj7(frets.main.ExperimentTest)')","[290, 3134]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'display.*.properties', 'display.horizontal.properties')",[6555]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.ChordRankTest')","[1479, 8667]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testList(frets.main.FretboardCharGraphicTest)')","[790, 3618]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[3]')","[189, 8952, 8975]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.ukeleleBaritone.properties')",[8560]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testList(frets.main.FretboardTest)')","[540, 3376]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.guitarOpenG.properties')",[7104]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.guitar4Mid.properties')",[8170]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFrets(frets.main.GuitarStringTest)')","[2227, 5004]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMock2(frets.main.SimplePropertiesTest)')","[2561, 5334]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListMethods(frets.main.NoteListTest)')","[2830, 5576]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.baritoneC.properties')",[8222]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'chordrank.*.properties', 'display.horizontal.properties')",[6415]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.guitar.properties')",[7910]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.guitarOpenG.properties')",[6303]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGettersSetters(frets.main.GuitarStringTest)')","[2164, 4938]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.guitar4Top.properties')",[7650]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTranspose(frets.main.ExperimentTest)')","[374, 3222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.FretboardTest')","[393, 8613]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.ukeleleBass.properties')",[6896]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.bass.properties')",[6948]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.baritoneC.properties')",[6740]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'display.*.properties', 'scale.properties')",[6583]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUnicode(frets.main.NoteTest)')","[1687, 4498]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringConstructor(frets.main.NoteTest)')","[1771, 4586]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.baritoneA.properties')",[6974]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringConstructor(frets.main.LocationTest)')","[1937, 4740]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testObjectOverrides(frets.main.DisplayTest)')","[2040, 4828]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringVerticalNotesCompactNotPlayedFretNum(frets.main.FretboardCharGraphicTest)')","[769, 3596]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChordFormula(frets.main.FormulaListTest)')","[2727, 5488]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIntervals(frets.main.NoteListTest)')","[2872, 5620]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.ukeleleBass.properties')",[7390]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJson(frets.main.LocationListTest)')","[1124, 3948]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.bass6string.properties')",[7624]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.ukeleleTenor.properties')",[5926]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.baritoneA.properties')",[6158]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.baritoneA.properties')",[7468]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testComparable(frets.main.GuitarStringTest)')","[2185, 4960]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringParseParameters[1](frets.main.ParameterizedTest)')","[124, 3044]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.guitar4Bot.properties')",[6818]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testArithmetic(frets.main.NoteTest)')","[1603, 4410]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.FormulaListTest')","[2601, 8883]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.GuitarStringTest')","[2122, 8775]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.ParameterizedTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDisplayVariations(frets.main.DisplayTest)')","[2103, 4894]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFormulaVariations(frets.main.LocationListTest)')","[1250, 4080]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.guitar.properties')",[8404]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testScale(frets.main.FormulaListTest)')","[2685, 5444]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNullMock(frets.main.ChordRankTest)')","[1500, 4322]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.guitarOpenD.properties')",[8352]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpdateFormulas(frets.main.NoteListTest)')","[2809, 5554]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testVariationSorting(frets.main.LocationListTest)')","[1040, 3860]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEquals(frets.main.NoteListTest)')","[2935, 5686]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringHorizontalCompact(frets.main.FretboardCharGraphicTest)')","[895, 3728]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[2]')",[145]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringLocationsHorizontal(frets.main.FretboardCharGraphicTest)')","[832, 3662]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.bass6string.properties')",[7130]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.guitar4Top.properties')",[6662]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.bass5string.properties')",[7338]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.guitarOpenG.properties')",[8586]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testF7(frets.main.ExperimentTest)')","[332, 3178]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNotes(frets.main.GuitarStringTest)')","[2248, 5026]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSort(frets.main.LocationListTest)')","[1145, 3970]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringHorizontalCompactNotPlayed(frets.main.FretboardCharGraphicTest)')","[937, 3772]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.bass6string.properties')",[8118]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.guitar4Top.properties')",[8144]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testComparable(frets.main.LocationListTest)')","[1061, 3882]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringVertCompact(frets.main.GuitarStringTest)')","[2395, 5180]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTransposeFretboardStringException(frets.main.LocationListTest)')","[1019, 3838]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.ukeleleConcert.properties')",[7702]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.guitarOpenD.properties')",[6870]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListMethods(frets.main.LocationListTest)')","[1229, 4058]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocationListFilter(frets.main.LocationListTest)')","[1103, 3926]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSorting(frets.main.NoteListTest)')","[2998, 5752]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPermutationStrings(frets.main.FretboardTest)')","[603, 3442]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.guitarDropD.properties')",[6216]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[0]')",[57]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.ukeleleConcert.properties')",[5868]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocations(frets.main.GuitarStringTest)')","[2311, 5092]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFormulaInversions(frets.main.LocationListTest)')","[1271, 4102]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNoteHigh(frets.main.GuitarStringTest)')","[2143, 4916]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.baritoneB.properties')",[7780]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPermutationsWithOctaves(frets.main.FretboardTest)')","[414, 3244]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.ukeleleConcert.properties')",[6714]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSort(frets.main.FretboardTest)')","[561, 3398]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.ukelelePiccolo.properties')",[7546]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.guitar.properties')",[6922]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'chordrank.*.properties', 'fretboards')",[6359]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringFret(frets.main.LocationTest)')","[1958, 4762]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testF(frets.main.ExperimentTest)')","[353, 3200]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPermutationLongs(frets.main.FretboardTest)')","[624, 3464]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.ExperimentTest')","[248, 6610]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.ukeleleSoprano.properties')",[8482]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringVerticalNotesCompact(frets.main.FretboardCharGraphicTest)')","[853, 3684]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetNoteList(frets.main.LocationListTest)')","[1082, 3904]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDisplayPropertiesDefault(frets.main.DisplayTest)')","[2061, 4850]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocations(frets.main.LocationTest)')","[1895, 4696]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.bass.properties')",[6129]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.ukelelePiccolo.properties')",[8040]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.guitar4Bot.properties')",[7312]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChord(frets.main.FormulaListTest)')","[2664, 5422]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringHoriNotPlayed(frets.main.GuitarStringTest)')","[2206, 4982]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.ukeleleSoprano.properties')",[7000]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPermutationNumber(frets.main.FretboardTest)')","[477, 3310]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEquals(frets.main.NoteTest)')","[1792, 4608]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.baritoneB.properties')",[8274]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.guitar4Mid.properties')",[7182]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.SimplePropertiesTest')","[2519, 8856]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.guitar4Mid.properties')",[7676]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.baritoneC.properties')",[7728]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDisplayApertures(frets.main.DisplayTest)')","[2082, 4872]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testScaleFormula(frets.main.FormulaListTest)')","[2643, 5400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringHoriString(frets.main.GuitarStringTest)')","[2353, 5136]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.bass.properties')",[8430]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.guitar4Mid.properties')",[6688]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.guitar4Top.properties')",[5810]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.ukelelePiccolo.properties')",[6245]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.ukelelePiccolo.properties')",[8534]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'display.*.properties', 'chordrank.standard.properties')",[6471]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocationSorting(frets.main.LocationListTest)')","[1439, 4278]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringParseParameters[0](frets.main.ParameterizedTest)')","[80, 3021]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringParse(frets.main.LocationListTest)')","[1460, 4300]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSeventh1573VariationSorting(frets.main.LocationListTest)')","[1208, 4036]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.ukeleleBaritone.properties')",[7572]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringVertNotPlayed(frets.main.GuitarStringTest)')","[2332, 5114]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.guitarDropD.properties')",[8508]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.guitar4Bot.properties')",[5984]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.guitarOpenD.properties')",[7858]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 229]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringParse(frets.main.NoteTest)')","[1834, 4652]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCRUD(frets.main.FretboardTest)')","[519, 3354]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringHoriNoteName(frets.main.GuitarStringTest)')","[2500, 5290]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetResourceListing(frets.main.FretboardTest)')","[498, 3332]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJson(frets.main.NoteTest)')","[1645, 4454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSeventhVariationSorting(frets.main.LocationListTest)')","[1418, 4256]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringVerticalNotesCompactNotPlayed(frets.main.FretboardCharGraphicTest)')","[979, 3816]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.guitar4Bot.properties')",[7806]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClone(frets.main.DisplayTest)')","[2019, 4806]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListSorting(frets.main.LocationListTest)')","[1397, 4234]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringVerticalCompact(frets.main.FretboardCharGraphicTest)')","[916, 3750]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.baritoneB.properties')",[7286]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTranspose(frets.main.LocationListTest)')","[1376, 4212]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.baritoneA.properties')",[8456]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.LocationTest')","[1853, 8721]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.ukeleleSoprano.properties')",[7494]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCompare(frets.main.LocationTest)')","[1916, 4718]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPropertiesFromPath(frets.main.FretboardTest)')","[666, 3508]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.baritoneC.properties')",[7234]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', '[1]')",[101]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringHoriCompact(frets.main.GuitarStringTest)')","[2374, 5158]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.guitarOpenG.properties')",[7598]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.guitarOpenG.properties')",[8092]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.guitar.properties')",[6100]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'display.*.properties', 'fretboards')",[6499]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.baritoneB.properties')",[5955]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.guitarDropD.properties')",[7026]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMock(frets.main.ChordRankTest)')","[1521, 4344]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testString(frets.main.NoteListTest)')","[2977, 5730]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.ukeleleBaritone.properties')",[6274]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPermutations(frets.main.FretboardTest)')","[708, 3552]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.ukeleleBaritone.properties')",[7078]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDisplayPad(frets.main.DisplayTest)')","[1998, 4784]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.DisplayTest')","[1977, 8748]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChordListByFormula(frets.main.FormulaListTest)')","[2622, 5378]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.ukeleleTenor.properties')",[8248]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.guitar4Top.properties')",[7156]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.bass6string.properties')",[6636]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.ukeleleTenor.properties')",[6766]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.bass5string.properties')",[7832]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.baritoneA.properties')",[7962]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'mock.*.properties', 'mock2.properties')",[8802]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.ukeleleTenor.properties')",[7754]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.ukeleleBaritone.properties')",[8066]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.ukelelePiccolo.properties')",[7052]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBounds(frets.main.LocationListTest)')","[1313, 4146]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'display.*.properties', 'chord.properties')",[6527]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.bass6string.properties')",[5781]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.ukeleleBass.properties')",[8378]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.bass.properties')",[7442]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringConstructor(frets.main.NoteListTest)')","[2851, 5598]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMock1(frets.main.SimplePropertiesTest)')","[2540, 5312]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testProperties(frets.main.FretboardTest)')","[435, 3266]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmptyVariations(frets.main.FretboardTest)')","[456, 3288]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHasAccidentals(frets.main.NoteTest)')","[1708, 4520]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJson(frets.main.LocationTest)')","[1874, 4674]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testList(frets.main.NoteTest)')","[1666, 4476]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.baritoneC.properties')",[5897]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.guitar4Bot.properties')",[8300]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInversions(frets.main.NoteListTest)')","[2893, 5642]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEquals(frets.main.LocationListTest)')","[1334, 4168]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testChordListByName(frets.main.FormulaListTest)')","[2706, 5466]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFormulas(frets.main.NoteListTest)')","[2914, 5664]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringLocationHori(frets.main.GuitarStringTest)')","[2290, 5070]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.guitar4Mid.properties')",[5839]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.guitar.properties')",[7416]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.bass5string.properties')",[6844]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.ukeleleConcert.properties')",[7208]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.guitarOpenD.properties')",[6042]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJson(frets.main.NoteListTest)')","[2788, 5532]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'mock.*.properties', 'mock1.properties')",[8829]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'frets.main.NoteTest')","[1540, 8694]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUkelele(frets.main.FretboardTest)')","[582, 3420]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpdateArithmetic(frets.main.NoteListTest)')","[2956, 5708]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testComparable(frets.main.NoteTest)')","[1582, 4388]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.ukeleleSoprano.properties')",[6187]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.ukeleleBass.properties')",[6071]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.].*[.]properties', 'fretboard.bass5string.properties')",[6013]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.ukeleleBass.properties')",[7884]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.bass5string.properties')",[8326]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bari.*[.]properties', 'fretboard.guitarDropD.properties')",[8014]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringVertString(frets.main.GuitarStringTest)')","[2269, 5048]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.guitarOpenD.properties')",[7364]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTransposeFretboardFretException(frets.main.LocationListTest)')","[1355, 4190]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringParseParameters[2](frets.main.ParameterizedTest)')","[168, 3067]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringHorizontalCompactNotPlayedFret(frets.main.FretboardCharGraphicTest)')","[811, 3640]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocationListProximity(frets.main.LocationListTest)')","[1187, 4014]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]bass.*[.]properties', 'fretboard.guitarDropD.properties')",[7520]
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]guitar.*[.]properties', 'fretboard.baritoneB.properties')",[6792]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEquals(frets.main.GuitarStringTest)')","[2416, 5202]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'chordrank.*.properties', 'scale.properties')",[6443]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFm7b5(frets.main.ExperimentTest)')","[269, 3112]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'fretboard[.]uke.*[.]properties', 'fretboard.ukeleleConcert.properties')",[8196]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testToStrings(frets.main.FretboardTest)')","[687, 3530]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFmin7(frets.main.ExperimentTest)')","[311, 3156]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNullMock(frets.main.SimplePropertiesTest)')","[2582, 5356]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPropertiesDefault(frets.main.FretboardTest)')","[645, 3486]"
+"('FilenameRegExFilter.java', 'frets.util.FilenameRegExFilter', 'accept', 'chordrank.*.properties', 'chord.properties')",[6387]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGettersSetters(frets.main.NoteTest)')","[1561, 4366]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testQuality(frets.main.NoteTest)')","[1750, 4564]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testtoStringNotesHorizontal(frets.main.FretboardCharGraphicTest)')","[874, 3706]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringHori(frets.main.GuitarStringTest)')","[2458, 5246]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocationSets(frets.main.LocationListTest)')","[1292, 4124]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNoteLow(frets.main.GuitarStringTest)')","[2437, 5224]"

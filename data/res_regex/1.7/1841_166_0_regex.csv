@@ -1,0 +1,39 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSimpleImport(se.antoneliasson.attendance.controllers.ImportTest)')","[57, 242]"
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'betal.*', 'Medlem i:')",[628]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'kön|.*man.*|.*kvinna.*|.*förare.*|.*följare.*', 'Tidstämpel')",[992]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.antoneliasson.attendance.controllers.ImportTest')",[36]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'e-post(adress)?', 'Tidstämpel')",[836]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFilterTwo(se.antoneliasson.attendance.gui.PersonTableModelTest)')","[118, 284]"
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'betal.*', 'Namn')",[524]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'medlem.*', 'E-postadress')",[758]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'e-post(adress)?', 'Telefonnummer')",[888]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFilterNone(se.antoneliasson.attendance.gui.PersonTableModelTest)')","[160, 326]"
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'namn', 'Namn')",[966]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'medlem.*', 'Kön')",[784]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFind(se.antoneliasson.attendance.models.DatabaseTest)')","[200, 347]"
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'telefon(nummer)?', 'Namn')",[446]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'tidstämpel|tidsstämpel|timestamp', 'Tidstämpel')",[394]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'e-post(adress)?', 'E-postadress')",[914]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'kön|.*man.*|.*kvinna.*|.*förare.*|.*följare.*', 'Namn')",[1018]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'medlem.*', 'Telefonnummer')",[732]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'namn', 'Tidstämpel')",[940]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'medlem.*', 'Medlem i:')",[810]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'telefon(nummer)?', 'Tidstämpel')",[420]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'kön|.*man.*|.*kvinna.*|.*förare.*|.*följare.*', 'Telefonnummer')",[1044]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'kön|.*man.*|.*kvinna.*|.*förare.*|.*följare.*', 'E-postadress')",[1070]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'betal.*', 'Tidstämpel')",[498]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'e-post(adress)?', 'Namn')",[862]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'kön|.*man.*|.*kvinna.*|.*förare.*|.*följare.*', 'Kön')",[1096]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'betal.*', 'Telefonnummer')",[550]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'betal.*', 'Betalningsdatum')",[654]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.antoneliasson.attendance.gui.PersonTableModelTest')",[76]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFilterAll(se.antoneliasson.attendance.gui.PersonTableModelTest)')","[97, 263]"
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'telefon(nummer)?', 'Telefonnummer')",[472]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'se.antoneliasson.attendance.models.DatabaseTest')",[179]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'betal.*', 'Kön')",[602]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetValueAt(se.antoneliasson.attendance.gui.PersonTableModelTest)')","[139, 305]"
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'betal.*', 'E-postadress')",[576]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'medlem.*', 'Namn')",[706]
+"('Importer.java', 'se.antoneliasson.attendance.controllers.Importer', 'matchIndex', 'medlem.*', 'Tidstämpel')",[680]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInsert(se.antoneliasson.attendance.models.DatabaseTest)')","[221, 368]"

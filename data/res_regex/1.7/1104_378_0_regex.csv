@@ -1,0 +1,56 @@
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'wUbRg')",[3642]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '01')",[3389]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'BRG')","[694, 2256, 3136]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'BR')","[625, 2046, 3067]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'WUBRG')","[717, 2326, 3159, 3320, 4010, 4033]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testManaParts(kim.ian.yams.ManaTest)')","[99, 267]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetColorsFromMana(kim.ian.yams.ManaTest)')","[141, 309]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '6')","[1183, 1206, 1230, 2791, 4424]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'r')",[3573]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetColoredPart(kim.ian.yams.ManaTest)')","[78, 246]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'u')",[3527]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'G')","[556, 1836, 2998]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '7')","[1253, 1276, 1300, 2814, 4447]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetConvertedMana(kim.ian.yams.ManaTest)')","[120, 288]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'B')","[510, 1696, 2952]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEquals(kim.ian.yams.ManaTest)')","[183, 351]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'WUB')","[671, 2186, 3113]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'xx')",[3688]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'XX')","[418, 2466, 3274, 3918, 3941]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '10')","[1463, 1486, 1510, 2883, 4148, 4171, 4194, 4516]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'xxx')",[3711]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '9')","[1393, 1416, 1440, 2860, 4493]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'RG')","[648, 2116, 3090]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '0W')",[3412]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'WU')","[579, 1906, 3021]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConstructorWithInvalidRepr(kim.ian.yams.ManaTest)')","[162, 330]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'W')","[464, 1556, 2906]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'XXX')","[441, 2536, 3297, 3964, 3987]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'XW')",[3458]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'X')","[395, 2396, 3251, 3872, 3895]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '0X')",[3435]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '2')","[903, 926, 950, 1883, 1930, 1953, 2000, 2023, 2070, 2093, 2140, 2699, 4332]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '1')","[833, 856, 880, 1533, 1580, 1603, 1650, 1673, 1720, 1743, 1790, 1813, 1860, 2676, 3205, 3780, 3803, 4309]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'R')","[533, 1766, 2975]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '5WUB')","[3343, 4056, 4079]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetXs(kim.ian.yams.ManaTest)')","[57, 225]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'g')",[3596]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'b')",[3550]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '20')","[2583, 2630]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'GRBUW')",[3481]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '8')","[1323, 1346, 1370, 2837, 4470]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '4')","[1043, 1066, 1090, 2745, 4378]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetColorlessPart(kim.ian.yams.ManaTest)')","[204, 372]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '500')","[3228, 3826, 3849]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'WuBrG')",[3619]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '5')","[1113, 1136, 1160, 2303, 2350, 2768, 4401]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'w')",[3504]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '3')","[973, 996, 1020, 2163, 2210, 2233, 2280, 2722, 4355]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'x')",[3665]
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'U')","[487, 1626, 2929]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '15WUBRGXXX')","[740, 2606]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '90RG')","[3366, 4102, 4125]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'kim.ian.yams.ManaTest')","[36, 4538]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', 'UB')","[602, 1976, 3044]"
+"('Mana.java', 'kim.ian.yams.Mana', '<init>', '0|(?<colorless>([1-9][0-9]*)?)(?<colored>W*U*B*R*G*)(?<xs>X*)', '0')","[763, 786, 810, 2373, 2420, 2443, 2490, 2513, 2560, 2653, 3182, 3734, 3757, 4217, 4240, 4263, 4286]"

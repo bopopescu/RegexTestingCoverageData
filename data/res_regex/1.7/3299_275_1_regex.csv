@@ -1,0 +1,49 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jpropcompare.utilities.PropertyUtilsTest')","[2159, 2183, 2208, 2232]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jpropcompare.comparator.ComparisonRunnerTest')","[2405, 2429, 2454, 2478]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFileWithNoDifference(jpropcompare.comparator.ComparisonRunnerTest)')","[807, 828, 849, 1828]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComparatorWithLoadingStrategy(jpropcompare.ComparatorTest)')","[57, 1580]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValuesWithDifference(jpropcompare.comparator.ComparisonRunnerTest)')","[954, 1870]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUniqueFileEntries(jpropcompare.output.FileOutputTest)')","[1496, 2016]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jpropcompare.utilities.PropertyUtilsTest')",[475]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFileWithNoDifference(jpropcompare.comparator.ComparisonRunnerTest)')","[786, 1808]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jpropcompare.comparator.ComparisonRunnerTest')",[765]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRunWithLoadingStrategy(jpropcompare.comparator.ComparePropertyFilesTest)')","[1309, 1974]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCombinationOfConceptuallyEqualArrays(jpropcompare.utilities.PropertyUtilsTest)')","[580, 1746]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jpropcompare.comparator.ComparePropertyFilesTest')",[1120]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIntersectionOfValues(jpropcompare.comparator.ComparisonRunnerTest)')","[1059, 1080, 1101]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComparatorWithLoadingStrategy(jpropcompare.ComparatorTest)')","[78, 99, 120, 1600]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComparatorWithCorrectArguments(jpropcompare.ComparatorTest)')","[309, 1663]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComparatorWithNullArguments(jpropcompare.ComparatorTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCombinationOfInEqualArrays(jpropcompare.utilities.PropertyUtilsTest)')","[496, 1705]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jpropcompare.output.FileOutputTest')",[1475]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUniqueNameWithDifferences(jpropcompare.comparator.ComparisonRunnerTest)')","[891, 912, 933]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComparatorWithNullArguments(jpropcompare.ComparatorTest)')","[225, 1642]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIntersectionOfValues(jpropcompare.comparator.ComparisonRunnerTest)')","[1038, 1891]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComparatorWithCorrectArguments(jpropcompare.ComparatorTest)')","[330, 351, 372]"
+"('ValidateProperties.java', 'jpropcompare.validation.ValidateProperties', 'runValidation', '[0-9]+', '124A')",[2282]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testProperty1IsNull(jpropcompare.comparator.ComparePropertyFilesTest)')","[1414, 1435, 1456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testProperty2IsNull(jpropcompare.comparator.ComparePropertyFilesTest)')","[1141, 1912]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComparatorWithIncorrectAction(jpropcompare.ComparatorTest)')","[141, 1621]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testValuesWithDifference(jpropcompare.comparator.ComparisonRunnerTest)')","[975, 996, 1017]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCombinationOfConceptuallyEqualArrays(jpropcompare.utilities.PropertyUtilsTest)')","[601, 622, 643]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testProperty1IsNull(jpropcompare.comparator.ComparePropertyFilesTest)')","[1393, 1995]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jpropcompare.output.FileOutputTest')","[2597, 2617, 2638, 2658]"
+"('ValidateProperties.java', 'jpropcompare.validation.ValidateProperties', 'runValidation', '(http://)?[a-zA-Z0-9\\-\\.]+\\.[a-zA-Z]+(:[0-9]+)?(/)?', 'http://www.jpropcompare.com')",[2257]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(jpropcompare.validation.ValidationIntegrationTest)')","[704, 725, 746, 1787]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComparatorWithFirstPropertyArgument(jpropcompare.ComparatorTest)')","[393, 1684]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComparatorWithIncorrectAction(jpropcompare.ComparatorTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testProperty2IsNull(jpropcompare.comparator.ComparePropertyFilesTest)')","[1162, 1183, 1204, 1932]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jpropcompare.validation.ValidationIntegrationTest')",[662]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUniqueFileEntries(jpropcompare.output.FileOutputTest)')","[1517, 1538, 1559, 2036]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRun(jpropcompare.comparator.ComparePropertyFilesTest)')","[1225, 1953]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCombinationOfInEqualArrays(jpropcompare.utilities.PropertyUtilsTest)')","[517, 538, 559, 1725]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRunWithLoadingStrategy(jpropcompare.comparator.ComparePropertyFilesTest)')","[1330, 1351, 1372]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jpropcompare.ComparatorTest')","[2061, 2085, 2110, 2134]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jpropcompare.ComparatorTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jpropcompare.comparator.ComparePropertyFilesTest')","[2503, 2527, 2552, 2576]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUniqueNameWithDifferences(jpropcompare.comparator.ComparisonRunnerTest)')","[870, 1849]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRun(jpropcompare.comparator.ComparePropertyFilesTest)')","[1246, 1267, 1288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jpropcompare.validation.ValidationIntegrationTest')","[2307, 2331, 2356, 2380]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testComparatorWithFirstPropertyArgument(jpropcompare.ComparatorTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(jpropcompare.validation.ValidationIntegrationTest)')","[683, 1767]"

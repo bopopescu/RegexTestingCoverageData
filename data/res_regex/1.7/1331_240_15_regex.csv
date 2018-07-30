@@ -1,0 +1,28 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesValidRecord(NcdcStationMetadataParserTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesMissingTemperature(MetOfficeRecordParserTest)')","[704, 725, 746]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'NcdcRecordParserTest')","[1358, 1382, 1407, 1431]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesMissingTemperature(MetOfficeRecordParserTest)')","[683, 1142]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesMissingTemperature(NcdcRecordParserTest)')","[433, 454, 475]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'MetOfficeRecordParserTest')",[494]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'cannotParseMalformedTemperature(MetOfficeRecordParserTest)')","[515, 1080]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesValidRecord(MetOfficeRecordParserTest)')","[620, 641, 662]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesHeader(NcdcStationMetadataParserTest)')","[57, 935]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'NcdcRecordParserTest')",[223]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesValidRecord(MetOfficeRecordParserTest)')","[599, 1121]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'cannotParseMalformedTemperature(MetOfficeRecordParserTest)')","[536, 557, 578, 1100]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesValidRecord(NcdcRecordParserTest)')","[328, 1038]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'cannotParseMalformedTemperature(NcdcRecordParserTest)')","[244, 997]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesHeaderLine(MetOfficeRecordParserTest)')","[767, 1163]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesMissingTemperature(NcdcRecordParserTest)')","[412, 1059]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesValidRecord(NcdcStationMetadataParserTest)')","[141, 976]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesValidRecord(NcdcRecordParserTest)')","[349, 370, 391]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesHeaderLine(MetOfficeRecordParserTest)')","[788, 809, 830]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'cannotParseMalformedTemperature(NcdcRecordParserTest)')","[265, 286, 307, 1017]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesHeader(NcdcStationMetadataParserTest)')","[78, 99, 120, 955]"
+"('NcdcRecordParser.java', 'NcdcRecordParser', 'isValidTemperature', '[01459]', '1')","[1308, 1333]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'NcdcStationMetadataParserTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesNegativeTemperature(MetOfficeRecordParserTest)')","[851, 1184]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesNegativeTemperature(MetOfficeRecordParserTest)')","[872, 893, 914]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'NcdcStationMetadataParserTest')","[1209, 1233, 1258, 1282]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'MetOfficeRecordParserTest')","[1452, 1472, 1493, 1513]"

@@ -1,0 +1,55 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(cn.wensiqun.asmsupport.sample.JunitRunTest)')","[57, 79]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'AssignmentGenerateExample')",[733]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'operators')","[625, 706, 787, 868, 949, 1030, 1111, 1192, 1381, 1462, 1543]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'FooServiceProxy')",[2558]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'CreateClassExample')",[241]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'json')","[2756, 3204, 3747, 4195]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'HelloWorldExample')",[160]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'GeoParser')",[4255]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'B')",[1273]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ArrayOperatorGenerateExample')",[1489]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'C')",[1300]
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'country')","[4303, 4350]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'sample')","[1686, 1918, 2146, 2394, 2690, 3144, 3681, 4135]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'RelationalOperatorGenerateExample')",[1057]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'TernaryOperatorGenerateExample')",[1219]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ReturnOperatorGenerateExample')",[652]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'helloworld')",[133]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cn.wensiqun.asmsupport.sample.JunitRunTest')","[36, 4753]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'A')",[1246]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'CreateEnumExample')",[325]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'create')","[214, 297, 381]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'CrementOperatorGenerateExample')",[814]
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'isoCode')","[3407, 3454, 3965, 4015]"
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'registeredCountry')","[4398, 4445]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'LogicalOperatorGenerateExample')",[1138]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'CityParser')",[2822]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'client')","[1715, 1947, 2174, 2435, 2723, 3174, 3714, 4165]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'proxy')","[1744, 1976, 2202, 2476]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'asmsupport')","[1657, 1889, 2118, 2353, 2657, 3114, 3648, 4105]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'InstanceofOperatorGenerateExample')",[1408]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'generated')","[106, 187, 269, 353, 436, 517, 598, 679, 760, 841, 922, 1003, 1084, 1165, 1354, 1435, 1516]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'BitwiseOperatorGenerateExample')",[976]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'FooServiceGetProducerMethodInvocation')",[2034]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'ArithmeticOperatorGenerateExample')",[895]
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'confidence')","[2873, 2923, 3312, 3359, 3864, 3914]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'variable')",[544]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'CreateInterfaceExample')",[409]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'SubdivisionParser')",[3813]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'D')",[1327]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'MethodInvokeOperatorGenerateExample')",[1570]
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'name')","[2974, 3024]"
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'otherSubdivisions')","[4683, 4730]"
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'subdivisions')","[4588, 4635]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'cn')","[1599, 1831, 2062, 2271, 2591, 3054, 3582, 4045]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'BasicValueCreateExample')",[490]
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'infos')","[3502, 3549]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'FooServiceSendMessageMethodInvocation')",[1802]
+"('JSONPool.java', 'cn.wensiqun.asmsupport.sample.client.json.JSONPool$2$1', 'body', '^[A-Za-z][_A-Za-z0-9]*$', 'city')","[4493, 4540]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'CountryParser')",[3264]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'LocalVariableExample')",[571]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'demo')","[1773, 2005, 2517, 2789, 3234, 3780, 4225]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'wensiqun')","[1628, 1860, 2090, 2312, 2624, 3084, 3615, 4075]"
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'IProxyPoolImpl')",[2230]
+"('CommonUtils.java', 'cn.wensiqun.asmsupport.core.utils.CommonUtils', 'validateJavaClassName', '([A-Za-z_$]+[a-zA-Z0-9_$]*)', 'value')",[463]

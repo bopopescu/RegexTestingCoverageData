@@ -1,0 +1,7 @@
+"('RequestUtil.java', 'hms.kite.app.sms.RequestUtil', 'getConversion', '(?<value>[1-9][0-9]*)(?<source>m|mm|cm|km)[\\s]*(?<target>m|mm|cm|km)', 'hello world')",[99]
+"('RequestUtil.java', 'hms.kite.app.sms.RequestUtil', 'getAccountId', '((tel:)(?<msisdn>.*))', 'tel:kjalkdfjaoijfdaoi1987981789179871')",[33]
+"('RequestUtil.java', 'hms.kite.app.sms.RequestUtil', 'getMoMessage', '((?<keyword>donate)([\\s]*|([\\s]+(?<msg>.*))))', 'donate')",[132]
+"('RequestUtil.java', 'hms.kite.app.sms.RequestUtil', 'getMoMessage', '((?<keyword>donate)([\\s]*|([\\s]+(?<msg>.*))))', 'donate              5')",[165]
+"('RequestUtil.java', 'hms.kite.app.sms.RequestUtil', 'getConversion', '(?<value>[1-9][0-9]*)(?<source>m|mm|cm|km)[\\s]*(?<target>m|mm|cm|km)', '10m km')",[66]
+"('RequestUtil.java', 'hms.kite.app.sms.RequestUtil', 'getMoMessage', '((?<keyword>donate)([\\s]*|([\\s]+(?<msg>.*))))', 'donate              5     ')",[198]
+"('RequestUtil.java', 'hms.kite.app.sms.RequestUtil', 'getMoMessage', '((?<keyword>donate)([\\s]*|([\\s]+(?<msg>.*))))', 'DoNate              5     ')",[231]

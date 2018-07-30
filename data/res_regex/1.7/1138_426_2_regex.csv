@@ -1,0 +1,31 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidProject(nl.eernie.jmoribus.maven.plugin.RunStoriesMojoTest)')","[56, 77]"
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultMetadataResolver')",[139]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultRemoteRepositoryManager')",[449]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultDependencyCollector')",[759]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'another\\s+(.*)', 'I do something')","[1507, 1931, 2196, 2461, 2726, 3095, 3464]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state', 'a system state')","[1295, 1560, 1719, 1984, 2249, 2514, 2883, 3252]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'error\\s+step', 'I do something')","[1348, 1772, 2037, 2302, 2567, 2936, 3305]"
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultRepositoryConnectorProvider')",[387]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher')",[1131]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.Slf4jLoggerFactory')",[325]
+"('DefaultArtifact.java', 'org.apache.maven.artifact.DefaultArtifact', 'setBaseVersionInternal', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '0.4-SNAPSHOT')",[1242]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state', 'a second given')",[1613]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultUpdatePolicyAnalyzer')",[697]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider')",[1007]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'bla\\s+bla\\s+bla\\s+(.*)', 'I do something')","[1454, 1878, 2143, 2408, 2673, 3042, 3411]"
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.SimpleLocalRepositoryManagerFactory')",[573]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultArtifactResolver')",[263]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultFileProcessor')",[821]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultUpdateCheckManager')",[945]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'a\\s+system\\s+state', 'this step is played once in the begin of the story')","[2778, 3147]"
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'a second given')",[1666]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'dddd\\s+(.*)\\s+more\\s+text', 'I do something')","[1401, 1825, 2090, 2355, 2620, 2989, 3358]"
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultSyncContextFactory')",[883]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultRepositorySystem')",[511]
+"('MethodMatcher.java', 'nl.eernie.jmoribus.matcher.MethodMatcher', 'findMatchedStep', 'failing\\s+step', 'this step is played once in the begin of the story')","[2830, 3199]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.eernie.jmoribus.maven.plugin.RunStoriesMojoTest')","[36, 3486]"
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.EnhancedLocalRepositoryManagerFactory')",[201]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultDeployer')",[1193]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultOfflineController')",[1069]
+"('IndexedClassFinder.java', 'org.eclipse.sisu.space.IndexedClassFinder', 'indexedNames', '\\s*([^#\\s]+).*', 'org.eclipse.aether.internal.impl.DefaultInstaller')",[635]

@@ -1,0 +1,138 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDateNumberFormat(mylib.kakeibo.RecordTest)')","[654, 2001]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUploadFTPServerOneOne(mylib.kakeibo.DataConnectorTest)')","[204, 1665]"
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(自払)(小学校|学納金)(.*)\x00(料金)', '自払学納金２月\x00料金')",[8318]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'antlrTest(mylib.kakeibo.AmountExprTest)')","[244, 1686]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createSimple(mylib.kakeibo.SimpleTransformerTest)')","[410, 1833]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-44332211.tsv')",[8720]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAikotoba(mylib.kakeibo.BankJPostTest)')","[593, 1959]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'XXX123')",[7866]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseData(mylib.kakeibo.BankSBITest)')","[921, 2211]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'replaceTest(mylib.kakeibo.TransformerTest)')","[511, 1896]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEmptyFile(mylib.kakeibo.CrawlerContextTest)')","[1415, 2610]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'AAA543')",[7613]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRemove2(mylib.kakeibo.CrawlerMainTest)')","[839, 2148]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(C)(CC)([0-9]*)', 'AAA123')",[7283]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(C)(CC)([0-9]*)', 'BBB123')",[7333]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'DDD543')",[7715]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.CrawlerContextTest')","[1331, 8821]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'DDD543')",[7741]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCard(mylib.kakeibo.CrawlerMainTest)')","[797, 2106]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.BankRakutenTest')","[1104, 8997]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'CCC123')","[7766, 8041]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'YYY123')",[7891]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'exprTest1(mylib.kakeibo.AmountExprTest)')","[265, 1707]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSplit(mylib.kakeibo.RecordTest)')","[675, 2022]"
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(給与)(会社.*)', '自払学納金２月')",[8243]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.TransformerTest')","[490, 8843]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.RecordTest')","[633, 8143]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testString(mylib.kakeibo.RecordTest)')","[696, 2043]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-20120202-33.tsv')",[8745]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA).*', 'BBB123')",[7308]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUploadFTPServerOne(mylib.kakeibo.DataConnectorTest)')","[162, 1623]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.CrawlerMainTest')","[776, 8909]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOnload(mylib.kakeibo.BankRakutenTest)')","[1146, 2379]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo/comb/data')","[3334, 3361, 3859, 3886, 4555, 4582, 5080, 5107, 5605, 5632, 6130, 6157, 6655, 6682, 7180, 7207]"
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(自払)(小学校|学納金)(.*)', '自払小学校１月')",[8343]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'BBB543')",[7535]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBySample(mylib.kakeibo.CardRakutenTest)')","[736, 2064]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGet(mylib.kakeibo.DataConnectorTest)')","[120, 1581]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(C)(CC)([0-9]*)', 'DDD123')",[7433]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.BankRecordTest')","[1165, 8470]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-20120115.tsv')",[8645]
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(自払)(小学校|学納金)(.*)\x00(料金)', '{2018/01/15,料金,,0,料金,,-1}\x00自払学納金２月')",[8293]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGeneric(mylib.kakeibo.SimpleTransformerTest)')","[347, 1770]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'Context02.txt')",[8570]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUploadFTPtwice(mylib.kakeibo.DataConnectorTest)')","[141, 1602]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFTPData(mylib.kakeibo.DataConnectorTest)')","[78, 1539]"
+"('Permissions.java', 'org.mockftpserver.fake.filesystem.Permissions', '<init>', '(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)', 'rw-rw-rw-')","[2810, 2836]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/')","[3164, 3196, 3689, 3721, 4385, 4417, 4910, 4942, 5435, 5467, 5960, 5992, 6485, 6517, 7010, 7042]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRevert(mylib.kakeibo.BankRecordTest)')","[1291, 2505]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUploadFTPServerNothing(mylib.kakeibo.DataConnectorTest)')","[57, 1518]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp2(mylib.kakeibo.RegexpTransformerTest)')","[1064, 2316]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.DataConnectorTest')","[36, 9019]"
+"('Permissions.java', 'org.mockftpserver.fake.filesystem.Permissions', '<init>', '(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)', 'rwxrwxrwx')","[2701, 2728]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.GetDataSampleTest')","[940, 8865]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'bbb')",[8670]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.RegexpTransformerTest')","[1001, 8444]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo/sugino/data20150131')","[3972, 4000]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFtp(mylib.kakeibo.DataConnectorTest)')","[99, 1560]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.BankTrustTest')","[1476, 8953]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetTransformers(mylib.kakeibo.CrawlerContextTest)')","[1436, 2631]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testData2(mylib.kakeibo.BankSmbcTest)')","[471, 1875]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetData(mylib.kakeibo.BankJPostTest)')","[572, 1938]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home')","[3100, 3131, 3625, 3656, 4321, 4352, 4846, 4877, 5371, 5402, 5896, 5927, 6421, 6452, 6946, 6977]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDump(mylib.kakeibo.BankRecordTest)')","[1207, 2421]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'a')",[8495]
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo/comb/data20150201')","[4029, 4057]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testData1(mylib.kakeibo.BankRakutenTest)')","[1125, 2358]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-20130210.tsv')",[8695]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'regexp1(mylib.kakeibo.RegexpTransformerTest)')","[1043, 2295]"
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(自払)(小学校|学納金)(.*)', '')","[8368, 8418]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.BankSmbcTest')","[429, 9041]"
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(給与)(会社.*)', '給与会社（カ')",[8193]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'DDD123')","[7791, 8091]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRemove4(mylib.kakeibo.CrawlerMainTest)')","[881, 2190]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA).*', 'AAA123')",[7258]
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-20130213.tsv')",[8545]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'XXX123')",[7841]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createRegexp(mylib.kakeibo.RegexpTransformerTest)')","[1085, 2337]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA).*', 'DDD123')",[7408]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'CCC123')",[8016]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testData1(mylib.kakeibo.GetDataSampleTest)')","[961, 2232]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFixed(mylib.kakeibo.BankTrustTest)')","[1497, 2673]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'exprTest2(mylib.kakeibo.AmountExprTest)')","[286, 1728]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-abcd1010.tsv')",[8770]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse(mylib.kakeibo.BankJPostTest)')","[551, 1917]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.SimpleTransformerTest')","[305, 8117]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb')","[3038, 3068, 3563, 3593, 4259, 4289, 4784, 4814, 5309, 5339, 5834, 5864, 6359, 6389, 6884, 6914]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(C)(CC)([0-9]*)', 'CCC123')",[7383]
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-2012020233.tsv')",[8595]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'BBB123')","[7638, 7991]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'Context03.txt')",[8520]
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo/sugino')","[2864, 2891, 3389, 3416, 4085, 4112, 4610, 4637, 5135, 5162, 5660, 5687, 6185, 6212, 6710, 6737]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReadLine(mylib.kakeibo.BankRecordTest)')","[1249, 2463]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'change1(mylib.kakeibo.SimpleTransformerTest)')","[389, 1812]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo')","[2920, 2948, 3445, 3473, 4141, 4169, 4666, 4694, 5191, 5219, 5716, 5744, 6241, 6269, 6766, 6794]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIterator(mylib.kakeibo.CrawlerContextTest)')","[1457, 2652]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'AAA123')",[7458]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testString(mylib.kakeibo.BankRecordTest)')","[1312, 2526]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www')","[2978, 3007, 3503, 3532, 4199, 4228, 4724, 4753, 5249, 5278, 5774, 5803, 6299, 6328, 6824, 6853]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA).*', 'CCC123')",[7358]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'amountChange(mylib.kakeibo.RegexpTransformerTest)')","[1022, 2274]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'AAA123')","[7483, 7941]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBankRecord(mylib.kakeibo.BankRecordTest)')","[1228, 2442]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'BBB543')",[7561]
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'YYY123')",[7916]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testErrorFix7(mylib.kakeibo.BankJPostTest)')","[614, 1980]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRead(mylib.kakeibo.CrawlerContextTest)')","[1394, 2589]"
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(給与)(会社.*)', '')",[8218]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'error1(mylib.kakeibo.SimpleTransformerTest)')","[326, 1749]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.BankJPostTest')","[530, 8931]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReadLineOld(mylib.kakeibo.BankRecordTest)')","[1186, 2400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUploadFTPServer(mylib.kakeibo.DataConnectorTest)')","[183, 1644]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRemove1(mylib.kakeibo.CrawlerMainTest)')","[818, 2127]"
+"('Permissions.java', 'org.mockftpserver.fake.filesystem.Permissions', '<init>', '(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)', '---------')","[2756, 2783]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTable(mylib.kakeibo.CardRakutenTest)')","[757, 2085]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo/sugino/data')","[3224, 3251, 3749, 3776, 4445, 4472, 4970, 4997, 5495, 5522, 6020, 6047, 6545, 6572, 7070, 7097]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'BBB123')","[7663, 7966]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'data-20120101.tsv')",[8795]
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo/comb')","[3279, 3306, 3804, 3831, 4500, 4527, 5025, 5052, 5550, 5577, 6075, 6102, 6600, 6627, 7125, 7152]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/home/comb/www/kakeibo/sugino/data20150212')","[3915, 3943]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testData2(mylib.kakeibo.GetDataSampleTest)')","[982, 2253]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRemove3(mylib.kakeibo.CrawlerMainTest)')","[860, 2169]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWrite(mylib.kakeibo.CrawlerContextTest)')","[1373, 2568]"
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(自払)(小学校|学納金)(.*)\x00(料金)', '自払小学校１月\x00料金')",[8268]
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(自払)(小学校|学納金)(.*)', '自払学納金２月')",[8393]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.BankSBITest')","[900, 8887]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOutFile(mylib.kakeibo.CrawlerContextTest)')","[1352, 2547]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'AAA543')",[7587]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testData1(mylib.kakeibo.BankSmbcTest)')","[450, 1854]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRevertEx(mylib.kakeibo.BankRecordTest)')","[1270, 2484]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(AAA)(.*)', 'DDD123')","[7816, 8066]"
+"('CrawlerContext.java', 'mylib.kakeibo.CrawlerContext$1', 'accept', 'data-[0-9]{8}\\.tsv', 'Context01.txt')",[8620]
+"('RegexpTransformer.java', 'mylib.kakeibo.RegexpTransformer', 'transform', '(給与)(会社.*)', '自払小学校１月')",[8168]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'change0(mylib.kakeibo.SimpleTransformerTest)')","[368, 1791]"
+"('SimpleTransformer.java', 'mylib.kakeibo.SimpleTransformer', 'transform', '(CCC)(.*)', 'CCC543')","[7509, 7689]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.CardRakutenTest')","[715, 8975]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mylib.kakeibo.AmountExprTest')","[223, 7233]"

@@ -1,0 +1,663 @@
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '127.0.0.1')",[69724]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.org/3')","[64636, 64790]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'dantheman.com')","[73568, 73665, 73762, 73859]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.example.com/')","[42356, 42453, 42774, 42871, 76826, 76995, 77164]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', '24.ne.jp')","[1611, 1711, 1814, 1946, 2046, 2149, 2712, 2821, 3319, 3416, 3525, 7022, 7119, 7228, 7932, 8636, 17813, 17913, 18013, 18144, 18244, 18344, 18922, 19025, 19533, 19636, 19739, 24158, 24261, 24364, 25078, 25792]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'https://www12.foo.com/')",[41518]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa th?a a=b')","[48333, 48527]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://dantheman.com/')","[73535, 73632, 73729, 73826]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '255.0.0.0')",[69778]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '0.0.0.255')",[69804]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../dir2/images.gif')",[36392]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.peagreenboat.com')","[13626, 13726, 14323, 14420, 16149, 16246, 32135, 32235, 32832, 32935, 34974, 35077]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://chub.org:19991/foo')","[59972, 60069, 60166, 60263, 61002, 61099, 61706, 61803, 62410, 62507, 63114, 63211, 63818, 63915]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.b/c/')",[68713]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://goofier.com/')","[80152, 80352, 80552]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/css/print.css')",[82554]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'rtsp://a.org/3.html')",[67856]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/foo/bar/')",[77757]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://banana.au/')","[71951, 72048, 72145, 72242]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/images.gif')","[35337, 36051]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'https://www.chub.org:19991/foo')",[60744]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '129.129.129.128')",[70620]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://24.ne.jp.idpnt.com/robots.txt')","[2213, 2310, 2411, 18409, 18512, 18615]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '^(?:.+)(phpsessid=[0-9a-zA-Z]{32}&?)(?:(?:.*))?$', 'http://foo.com/bar?bo=lo&phpsessid=9682993c8daa2c5497996114facdc805&gum=yum')",[52920]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://chub.org:8080/foo')","[57524, 57621, 57718, 57815, 57942, 58039, 58136, 58233]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://chub.org:443/foo')","[59136, 60390]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '129.0.0.0/30')",[70074]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://banana.net/')","[71563, 71660, 71757, 71854]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://aardvark.com/')","[73147, 73244, 73341, 73438]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'wais://www.chub.org:19991/foo')","[63690, 63754]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http//a.b/')",[69214]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/foo/')",[77503]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', 'http://legislature.mi.gov/(4hqa0555fwsecu455xqckv45)/mileg.aspx')",[55548]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'wais://www.chub.org:19991/foo')",[63626]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://cups.com/')","[74279, 74376, 74473, 74570]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20010101000000/http://www.yahoo.com:80/')",[76678]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://pho-c.co.jp/~clever/')","[4457, 20826]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://a.org/3/')","[65098, 65346]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/bar/')",[38706]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://www.chub.org:21/foo')","[61226, 61290]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'foo.html')",[77132]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://www.chub.org:19991/foo')","[61578, 61642]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/foo/bar')",[77630]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/b?jar=//goo')","[47104, 47201, 47298, 47395]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'rtsp://www.chub.org:554/foo')",[62570]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://peagreenboat.org/')","[15158, 15255, 15360, 33820, 33923, 34026, 34399]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://brad:pass@www.archive.org:8080/cgi?foobar')",[78995]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/image/foo?boo=baz%3A&gar=war')",[35895]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000js_/http://foo.com/')",[76409]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'mms://www.chub.org:19991/foo')",[62218]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../images.gif')","[35430, 36268]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://sf.net/pop/roger/')","[9344, 26506, 26847]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.eva-stu.vn/foo.txt')","[12597, 30822]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://peagreenboat.com/')","[13861, 14196, 14563, 16389, 32004, 32366, 32697, 33070, 33411, 35212]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://a.org/3.html')",[66481]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../../image/1s.gif')",[35616]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+th?a=b%20b')",[48850]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://chub.org:443/foo')","[59104, 60358]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'rtsp://www.chub.org:554/foo')","[62602, 62666]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20t%02h?a%20a=b')",[52148]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../../images.gif')",[35492]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/_style/style.css')","[81866, 82030, 82194, 82358]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://a.org/3.html')",[66512]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'e.au')",[86026]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://cool.com/')","[73891, 73988, 74085, 74182]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://pho-c.co.jp/~clever/')","[4152, 4249, 4350, 20519, 20622, 20725]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20010101000000/http://yahoo.com:80/')",[76649]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'flickr.com')","[56691, 56788, 56915, 57012]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'brad.www.archive.org')",[78203]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '^(?:.+)(sid=[0-9a-zA-Z]{32}&?)(?:(?:.*))?$', 'http://foo.com/bar?bo=lo&sid=9682993c8daa2c5497996114facdc805&gum=yum')",[53338]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/foo/bar/')",[77789]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '1/2')","[64544, 64698, 65408, 65562, 66176, 66298, 66848, 66970, 67520, 67642, 68192, 68314]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20th/')","[45940, 46037, 46231]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'images.gif')","[36144, 36640, 36702, 36764, 36826]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '129.129.129.129/24')","[70129, 70374]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org/foo/')",[77598]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www23.eva-stu.vn/')","[11394, 29021]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.eva-stu.vn/')","[874, 974, 12211, 12308, 17084, 17184, 30142, 30245]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www232.chub.org:8080/foo')",[57878]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.+(cfid=[^&]+&cftoken=[^&]+(?:&jsessionid=[^&]+)?&?).*$', 'http://foo.com/bar?bo=lo&cfid=12412453&cftoken=15501799&gum=yum')",[54174]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/kay')",[38640]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa th?a=b')","[45229, 45423]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/im/images.gif')","[36516, 36578]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '129.129.129.0/24')",[70184]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'kay')",[38466]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'eva-stu.vn')","[1144, 11697, 12052, 12149, 12470, 12567, 12694, 12791, 12900, 13061, 13158, 13267, 13398, 13495, 17351, 29330, 29703, 29838, 29941, 30044, 30417, 30552, 30655, 30758, 30925, 31028, 31131, 31298, 31401, 31504, 31639, 31742, 31845]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '129.129.129.129')","[70158, 70240, 70403, 70430, 70593, 70647]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org:8080/cgi?foobar')",[78519]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'cool.com')","[73956, 74053, 74150, 74247]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://chub.org:443/foo')","[58880, 58977]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/foo/bar')",[77662]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.b/c?d=e')",[68995]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20th')","[45552, 45649, 45843, 49529, 49723]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'wais://www.chub.org:19991/foo')","[63658, 63722]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000cs_js_/http://foo.com/')",[76461]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www12.foo.com/')","[41132, 41229, 41938, 42035, 44356, 44453]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'mms://a.org/3.html')",[67184]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org/cgi?foobar')",[78487]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'mms://www.chub.org:19991/foo')","[62282, 62346]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.peagreenboat.org/')","[15493, 15590, 34159, 34262]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.chub.org:8080/foo')",[57460]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://sf.net/pop/roger/2')","[9939, 10036, 10141, 27256, 27359, 27462]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', 'legislature.mi.gov/mileg.aspx?page=sessionschedules')",[56310]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://foo.com/')","[39234, 39331]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '')",[76201]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.symphony.org')",[77267]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://24.ne.jp/')","[1577, 1677, 1779, 2679, 2784, 3286, 3383, 3488, 6989, 7086, 7191, 7895, 8599, 17779, 17879, 17979, 18887, 18990, 19498, 19601, 19704, 24123, 24226, 24329, 25043, 25757]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', 'http://legislature.mi.gov/(s(4hqa0555fwsecu455xqckv45))/mileg.aspx')",[55040]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.chub.org:443')","[58751, 58848]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%th')","[50176, 50273, 50370, 50467, 50661, 50758, 50855]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '../../images.gif')",[35461]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://a.org/3')","[65500, 65654]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'base.com')",[35306]
+"('RobotRules.java', 'org.archive.wayback.accesscontrol.robotstxt.RobotRules', 'parse', '(?i)^User-agent:.*', 'Disallow:')","[86, 114]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://ape.com/')","[72339, 72436, 72533, 72630]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://chub.org:80/foo')","[57106, 59554]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'doc/foo bar.pdf')",[38777]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.com/')","[42582, 42679, 43000, 43097]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+th?a=b%20b')",[48818]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20th?a=b%20b')",[48624]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20th?a%20a=b')","[48268, 48365, 48559]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://b.org/1/2')",[64357]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+th/')",[46134]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.mins.com.br/')","[4985, 5352, 5479, 5576, 5703, 5800, 7356, 7453, 21370, 21743, 22013, 22116, 22386, 22489, 24496, 24599]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'bam.com')","[70852, 70949, 71046, 71143]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://www12.foo.com/')","[41550, 41647]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.peagreenboat.org/')","[15525, 15622, 34193, 34296]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://24.ne.jp:80/')","[2582, 18784]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://legislature.mi.gov/mileg.aspx?page=sessionschedules')","[56118, 56215, 56372, 56469]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/{a}b')","[50952, 51049, 51243, 51437, 51631]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://mins.com.br/')","[1209, 1309, 1410, 5054, 5865, 5962, 6059, 6156, 7522, 7998, 8095, 8196, 17415, 17515, 17615, 21439, 21812, 22185, 22558, 22693, 22796, 22899, 23034, 23137, 23240, 24668, 25144, 25247, 25350]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://flickr.com/photos/36050182@n05/')","[56658, 56755, 56882, 56979]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/image/1s.gif')",[35523]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'chub.org:80')","[57139, 59587]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', '23.4.4.com')",[64144]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '0.256.0.0')",[69588]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20t!h?a%20a=b')","[51857, 52051]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/image/foo?boo=baz')",[35864]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://cups.com/')","[74311, 74408, 74505, 74602]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '')","[64882, 65036, 65746, 65900, 66450, 66572, 67122, 67244, 67794, 67916, 68466, 68588]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://brad@www.archive.org/cgi?foobar')",[78646]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'wais://b.org/1/2')",[68100]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.example.com')",[42742]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://archive.org/dir/')",[82259]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/')","[77884, 80619, 80783]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '../dir/images.gif')",[36330]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'apple.com')","[72792, 72889, 72986, 73083, 75893, 75987, 76081, 76175]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://eva-stu.vn/foo/bar.txt')","[13301, 31536, 31877]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'foo.html')",[77096]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'peagreenboat.com')","[13829, 13961, 14061, 14164, 14529, 14660, 14757, 15782, 15879, 15988, 16355, 31974, 32335, 32466, 32566, 32666, 33038, 33173, 33276, 33379, 34601, 34704, 34807, 35180]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20th?a%20a=b')",[48236]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'peagreenboatt.com')","[14854, 14951, 15060, 33514, 33617, 33720]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://sf.net/pop/')","[9602, 9699, 9804, 26915, 27018, 27121]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://b.org/1/2')",[64388]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://w.a.org/wb/2004/http://f.au/css/b.gif')","[85110, 85371, 85632, 86351, 86612, 86873, 87134, 87559, 88081, 88603]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://apple.com/')","[72759, 72856, 72953, 73050, 75861, 75955, 76049, 76143]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '200701010000/foo.com')",[76279]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://mins.com.br/')","[1511, 5161, 7629, 8303, 17713, 21540, 21913, 22286, 22659, 23000, 23341, 24769, 25451]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.mins.com.br:80')","[4921, 5288, 21302, 21675]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.b/c/')",[68744]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://207.241.2.2/')","[75055, 75152, 75249, 75346]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://a.org/3.html')",[65777]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.archive.org')","[77441, 77568, 77695, 77822, 77949, 78076, 78330, 78457, 80686, 80850, 81014, 81178, 81342, 81506, 81670, 81834, 81998, 82162]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://24.ne.jp/')","[1544, 1644, 1745, 2647, 2748, 3254, 3351, 3452, 6957, 7054, 7155, 7859, 8563, 17746, 17846, 17946, 18853, 18956, 19464, 19567, 19670, 24089, 24192, 24295, 25009, 25723]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', 'foo.de')",[64032]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://brad@www.archive.org/cgi?foobar')",[78678]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.peagreenboat.com/')","[13559, 13659, 14258, 14355, 16084, 16181, 32068, 32168, 32763, 32866, 34905, 35008]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/bar?bo=lo&gum=yum')","[52566, 52663, 52760, 52857, 52984, 53081, 53178, 53275, 53402, 53499, 53596, 53693, 53820, 53917, 54014, 54111, 54238, 54335, 54432, 54529, 54686, 54783, 54880, 54977]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://legislature.mi.gov/mileg.aspx?page=sessionschedules')","[56150, 56247, 56404, 56501]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://chub.org/foo')","[57171, 57268, 57365, 58492, 58589, 59298, 59395, 59619, 59716, 59813, 60552, 60649, 61322, 61419, 62026, 62123, 62730, 62827, 63434, 63531]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org')",[78043]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/one/two#hash')",[78265]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/%20%20im.gif')","[36950, 37012, 37074]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.org/3')","[64605, 64759]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'sf.net')","[606, 706, 809, 8767, 8864, 8973, 9104, 9201, 9310, 9441, 9538, 9635, 9732, 9841, 9972, 10069, 10178, 10309, 10406, 10515, 10676, 10773, 10882, 11043, 11140, 11267, 11364, 16820, 16920, 17020, 25927, 26030, 26133, 26268, 26371, 26474, 26609, 26712, 26815, 26950, 27053, 27156, 27291, 27394, 27497, 27632, 27735, 27838, 28005, 28108, 28211, 28378, 28481, 28584, 28751, 28854, 28957]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://eva-stu.vn/')","[1075, 11624, 11987, 12084, 12405, 12502, 17284, 29261, 29634, 29769, 29872, 29975, 30348, 30483, 30586, 30689]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://w.a.org/wb/2004/http://f.au/i/b.jpg')",[88961]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://example.com/index.html')","[43192, 43289, 43386, 43483]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://brad.www.archive.org/')",[78233]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/boo')","[44776, 44873, 44970, 45067]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '129.129.129.255')","[70267, 70457, 70674]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.org/3.html')",[64913]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://goofy.com/')","[79319, 79419, 79519, 79619, 79719, 79819, 79919, 80019, 80219, 80419]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20010101000000/http://yahoo.com/')",[76620]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000/http://foo.com')",[76305]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://sf.net/pop/roger//')","[9376, 9473, 26540, 26643]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'kay')",[38429]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://brad:pass@www.archive.org/cgi?foobar')",[78805]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%th')","[50208, 50305, 50402, 50499, 50693, 50790, 50887]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.eva-stu.vn/')","[907, 1007, 12243, 12340, 17117, 17217, 30176, 30279]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20th?a=b')",[45132]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '0.256.0.0.1')",[69534]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '^.*(jsessionid=[0-9a-zA-Z]{32}&?).*$', 'http://foo.com/bar?bo=lo&jsessionid=0123456789abcdefghijklemopqrstuv&gum=yum')",[52502]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://sf.net/pop/roger/2')","[10212, 27529]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'chub.org:443')","[58945, 59042, 59169, 60423]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/boo?foo=bar')",[37733]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '127.127.127.255')",[69912]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'images.gif')","[36113, 36609, 36671, 36733, 36795]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://pho-c.co.jp/~clever')","[204, 304, 405, 2917, 3014, 3115, 3621, 3718, 3819, 3958, 4055, 16422, 16522, 16622, 19123, 19226, 19329, 19837, 19940, 20043, 20178, 20281, 20384]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://')",[69245]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', 'legislature.mi.gov/mileg.aspx')","[55294, 55802]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://f.au/')","[84915, 85437, 86156, 86417, 86678, 86939, 87200, 87364, 87722, 87886, 88244, 88408, 88766]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'wais://a.org/3.html')",[68497]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/goo/')","[47686, 47783]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://w.a.org/wb/2004/http://f.au/i/b.jpg')",[88929]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '1/2')","[64574, 64728, 65438, 65592, 66206, 66328, 66878, 67000, 67550, 67672, 68222, 68344]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://a.org/3')","[66268, 66390]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000/foo.com')",[76227]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/bar/baz.html')","[38358, 38532]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20t%21h?a%20a=b')",[51760]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/foo')",[77376]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://pho-c.co.jp/~clever/')","[4184, 4281, 4386, 20553, 20656, 20759]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20th?a=b')","[45164, 45261, 45455]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://peagreenboat.org/')","[15431, 34093, 34466]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/css/b.gif')","[85014, 85275, 86255, 86516, 86777, 87038, 87299, 87821, 88343]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '129.129.128.0')","[70321, 70511, 70728]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www13.mins.com.br/~clever/foo.txt')","[6588, 23714]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'https://www.chub.org:443/foo')","[59072, 60326]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', './images.gif')",[36175]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://e.au/css/b.gif')",[85959]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www12.foo.com/')",[41100]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.b/c/d/e/f')",[68901]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org/foo')",[77471]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '255.0.0.0')",[69750]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://zoo.com/')","[74699, 74796, 74893, 74990]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/bar?bo=lo&gum=yum')","[52534, 52631, 52728, 52825, 52952, 53049, 53146, 53243, 53370, 53467, 53564, 53661, 53788, 53885, 53982, 54079, 54206, 54303, 54400, 54497, 54654, 54751, 54848, 54945]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://w.a.org/wb/2004/http://e.au/css/b.gif')",[86090]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '129.0.0.0')","[70048, 70103]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.archive.org:8080')",[78584]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '0.0.0.255')",[69832]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.flickr.com/photos/36050182@n05/')",[56594]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/b/')",[84784]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/image/foo?boo=baz%3A&gar=war')",[35926]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://w.a.org/wb/2004/http://f.au/b/css/b.gif')",[85893]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.b/c')",[68838]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://a.org/3/')","[65067, 65315]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://peagreenboat.com/foo')","[15749, 15846, 15951, 34566, 34669, 34772]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+th')","[45746, 49432, 49626]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'banana.au')","[72016, 72113, 72210, 72307]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%21th')",[49788]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com///goo')","[46716, 46813]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%25th')",[50596]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'w.a.org')","[85143, 85404, 85665, 85926, 86123, 86384, 86645, 86906, 87167, 87592, 87689, 88114, 88211, 88636, 88733, 88994]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.peagreenboat.com/foo')","[15685, 34498]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000/foo.com/')",[76253]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'banana.net')","[71628, 71725, 71822, 71919]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'brad:pass@www.archive.org:8080')",[78965]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://chub.org:8080/foo')","[57492, 57589, 57686, 57783, 57910, 58007, 58104, 58201]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://boogle.org/dir/')",[82423]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/foo/')",[77535]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/css/f.gif')","[87463, 87985, 88507]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://aardvark.com/')","[73115, 73212, 73309, 73406]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://banana.net/')","[71595, 71692, 71789, 71886]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://zztop.com/')","[75475, 75572, 75669, 75766]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/dir/')","[81144, 81472, 81636, 81800, 81964, 82128]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.peagreenboat.com/')","[13526, 16052, 32035, 34871]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://24.ne.jp/~nekko')","[2181, 18375]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.mins.com.br:80/')","[4888, 5255, 21267, 21640]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/foo')",[77408]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20t%21h?a%20a=b')",[51728]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://24.ne.jp.idpnt.com/robots.txt')","[2245, 2342, 2447, 18443, 18546, 18649]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.example.com/index.html')",[43160]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www23.sf.net/pop/roger')","[11170, 28648]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://w.a.org/wb/2004/http://f.au/b/css/b.gif')",[85861]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/goo/')","[47654, 47751]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'wais://a.org/3.html')",[68528]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/boo?foo=bar&lang=gang')",[38118]
+"('RobotRules.java', 'org.archive.wayback.accesscontrol.robotstxt.RobotRules', 'parse', '(?i)^User-agent:.*', 'User-agent: *')","[29, 57]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/boo?foo=bar&baz=snazz')",[37907]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '../../image/1s.gif')",[35585]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'mms://b.org/1/2')",[66756]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'cups.com')","[74344, 74441, 74538, 74635]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'zoo.com')","[74732, 74829, 74926, 75023]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://pho-c.co.jp/~clever')","[506, 3222, 3926, 16720, 19430, 20144, 20485]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', '24.ne.jp:80')","[2615, 18819]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.example.com/')","[42388, 42485, 42806, 42903, 76858, 77027, 77196]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'mms://a.org/3/')","[66634, 66818]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '^(?:.+)(ASPSESSIONID[a-zA-Z]{8}=[a-zA-Z]{24}&?)(?:(?:.*))?$', 'http://foo.com/bar?bo=lo&aspsessionidaqbsdsrt=eohblbddpfclhkpggklilnam&gum=yum')",[53756]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://www.chub.org:19991/foo')","[61546, 61610]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://peagreenboatt.com/')","[15094, 33752]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.chub.org/foo')",[58427]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '0.0.0.256')",[69642]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20th')",[45520]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', 'legislature.mi.gov/mileg.aspx')","[55324, 55832]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://example.com/index.html')","[43224, 43321, 43418, 43515]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com//goo')","[46328, 46425]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://mins.com.br/foo.txt')","[6253, 6350, 6451, 23375, 23478, 23581]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://24.ne.jp/')","[1846, 2855, 3559, 7262, 7966, 8670, 18044, 19057, 19771, 24396, 25110, 25824]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.chub.org:443/foo')","[58686, 58783]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20th/?a=b')","[47880, 47977, 48171]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://a.org/3/')","[65931, 66115]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/one/two#hash')",[78297]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://sf.net/pop/roger/2')","[9907, 10004, 10105, 27222, 27325, 27428]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/p/s-w-%E2%80%9Ctext%E2%80%9D')",[38255]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/dir')","[80947, 81275]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://eva-stu.vn/')","[1176, 11731, 17382, 29362, 29735, 30076, 30449, 30790]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org')",[78011]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000un_/http://foo.com/')",[76513]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://a.org/3.html')",[65808]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.24.ne.jp/')","[7693, 7790, 8494, 24837, 24940, 25654]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://w.a.org/wb/2004/http://f.au/css/b.gif')","[85078, 85339, 85600, 86319, 86580, 86841, 87102, 87527, 88049, 88571]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.sf.net/pop/roger')","[10579, 27902]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'dir2/images.gif')",[36454]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', 'http://legislature.mi.gov/mileg.aspx')",[55578]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://boogle.org/dir/')",[82456]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www23.eva-stu.vn')","[11491, 11588, 11858, 11955, 29124, 29227, 29497, 29600]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.b/c/d')",[68650]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '0.0.0.256')",[69670]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://24.ne.jp:80/')","[2550, 18750]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://eva-stu.vn/foo/bar.txt')","[12996, 13093, 13194, 13333, 13430, 31229, 31332, 31435, 31570, 31673, 31776]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'rtsp://a.org/3/')","[67275, 67459]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.org/3/')","[64203, 64451]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://chub.org/foo')","[57203, 57300, 57397, 58524, 58621, 59330, 59427, 59651, 59748, 59845, 60584, 60681, 61354, 61451, 62058, 62155, 62762, 62859, 63466, 63563]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/%20im.gif')",[36888]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.chub.org:80/foo')",[58330]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://zztop.com/')","[75443, 75540, 75637, 75734]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://pho-c.co.jp/~clever/foo.txt')","[4521, 4618, 4723, 20894, 20997, 21100]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://brad:pass@www.archive.org:8080/cgi?foobar')",[78900]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://bam.com/')","[70787, 70884, 70981, 71078]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.mins.com.br/')","[5639, 22318]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://pho-c.co.jp/~clever/foo.txt')","[4794, 21167]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.foo.com/')","[40328, 40425, 40746, 40843]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'rtsp://www.chub.org:19991/foo')","[62954, 63018]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'chub.org:19991')","[60005, 60102, 60199, 60296, 60841, 60938, 61035, 61132, 61739, 61836, 62443, 62540, 63147, 63244, 63851, 63948]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://archive.org/dir/')",[82292]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/image/foo?boo=baz')",[35833]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'chub.org')","[57236, 57333, 57430, 58557, 58654, 59266, 59363, 59460, 59684, 59781, 59878, 60520, 60617, 60714, 61387, 61484, 62091, 62188, 62795, 62892, 63499, 63596]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '127.127.127.127')",[69858]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'boogle.org')",[82490]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000cs_/http://foo.com/')",[76435]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000js_cs_/http://foo.com/')",[76487]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://base.com/')",[35274]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://flickr.com/photos/36050182@n05/')","[56626, 56723, 56850, 56947]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://mins.com.br/')","[1242, 1342, 1444, 5090, 5897, 5994, 6091, 6188, 7558, 8030, 8127, 8232, 17448, 17548, 17648, 21473, 21846, 22219, 22592, 22727, 22830, 22933, 23068, 23171, 23274, 24702, 25178, 25281, 25384]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://24.ne.jp.idpnt.com/robots.txt')","[2518, 18716]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.org/3.html')",[64944]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://24.ne.jp/~nekko')","[1912, 2012, 2114, 18110, 18210, 18310]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/~alabama/images/bg.jpg')","[84718, 84882]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/b/')",[84751]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.mins.com.br/')","[4953, 5320, 5447, 5544, 5671, 5768, 7324, 7421, 21336, 21709, 21979, 22082, 22352, 22455, 24462, 24565]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'mms://a.org/3')","[66940, 67062]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://sf.net/pop/roger/23')","[10244, 10341, 10442, 27563, 27666, 27769]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://peagreenboat.com/')","[13794, 13927, 14027, 14129, 14492, 14627, 14724, 16318, 31941, 32301, 32432, 32532, 32632, 33003, 33138, 33241, 33344, 35145]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://mins.com.br/~clever/foo.txt')","[6620, 6717, 6818, 23748, 23851, 23954]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www2.eva-stu.vn/foo/bar.txt')","[12964, 31195]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa th')","[45617, 45811, 49497, 49691]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.org/3/')","[64234, 64482]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.peagreenboat.org')","[15558, 15655, 34228, 34331]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', '23.4.4.foo')",[64116]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'a.b')","[68682, 68776, 68870, 68964, 69058, 69152]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'rtsp://a.org/3')","[67612, 67734]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa th?a=b b')","[48721, 48915]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://chub.org:80/foo')","[57074, 59522]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'rtsp://b.org/1/2')",[67428]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://goofier.com/')","[80119, 80319, 80519]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '127.0.0.1')",[69696]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://mins.com.br/foo.txt')","[6558, 23682]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'rtsp://a.org/3')","[67581, 67703]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.24.ne.jp/')","[7661, 7758, 8462, 24803, 24906, 25620]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://f.au/b/')","[85176, 85698]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://a.org/3')","[66237, 66359]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa th/')","[46005, 46199]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '0.256.0.0.1')",[69562]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://dantheman.com/')","[73503, 73600, 73697, 73794]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.24.ne.jp:80/')","[8365, 25517]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org/foo/bar')",[77725]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'brad@www.archive.org')",[78711]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'mms://www.chub.org:1755/foo')","[61898, 61962]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/')","[37140, 37314, 37488, 37662, 37836, 38010, 38184, 38878, 38975, 39072, 39169, 39460, 39557, 39782, 39879, 40104, 40201, 40522, 40619, 40940, 41037, 41358, 41455, 41776, 41873, 42164, 42261, 43612, 43709, 43806, 43903, 44000, 44097, 44194, 44291, 44582, 44679, 79059, 79156, 79253, 84620]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org/foo/bar/')",[77852]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org:8080/cgi?foobar')",[78551]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+t!h?a%20a=b')",[51954]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://b.org/1/2')",[66084]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://eva-stu.vn/foo.txt')","[12629, 12726, 12827, 30856, 30959, 31062]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/kay')",[38603]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.peagreenboat.com')","[14226, 32729]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://goofy.com/')","[79352, 79452, 79552, 79652, 79752, 79852, 79952, 80052, 80252, 80452]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://#4.8gifdijdf/a/b')",[69400]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://b.org/1/2')",[65221]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.foo.com')","[40361, 40458, 40779, 40876]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000/https://foo.com/')",[76383]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000un_js_cs_/http://foo.com/')",[76539]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://brad@www.archive.org/cgi?foobar')",[78741]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'goofier.com')","[80186, 80386, 80586]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'css/b.gif')","[85568, 85829]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://#4.8gifdijdf')",[69338]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20010101000000/www.yahoo.com:80/')",[76736]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa!th')","[49044, 49141, 49238, 49335, 49917, 50014, 50111]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.symphony.org')",[77344]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://mins.com.br/~clever/foo.txt')","[6652, 6749, 6854, 23782, 23885, 23988]"
+"('RobotRules.java', 'org.archive.wayback.accesscontrol.robotstxt.RobotRules', 'parse', '(?i)Disallow:.*', 'Disallow:')","[143, 171]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa t!h?a a=b')","[51825, 52019]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', './images.gif')",[36206]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://eva-stu.vn/foo.txt')","[12934, 31163]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://f.au/b/')","[85209, 85731]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'foo.com')","[36020, 37174, 37348, 37522, 37696, 37870, 38044, 38218, 38392, 38566, 38740, 38911, 39008, 39105, 39202, 39299, 39396, 39493, 39590, 39815, 39912, 40137, 40234, 40555, 40652, 40973, 41070, 41391, 41488, 41809, 41906, 42197, 42294, 43645, 43742, 43839, 43936, 44033, 44130, 44227, 44324, 44615, 44712, 44809, 44906, 45003, 45100, 45197, 45294, 45391, 45488, 45585, 45682, 45779, 45876, 45973, 46070, 46167, 46264, 46361, 46458, 46555, 46652, 46749, 46846, 46943, 47040, 47137, 47234, 47331, 47428, 47525, 47622, 47719, 47816, 47913, 48010, 48107, 48204, 48301, 48398, 48495, 48592, 48689, 48786, 48883, 48980, 49077, 49174, 49271, 49368, 49465, 49562, 49659, 49756, 49853, 49950, 50047, 50144, 50241, 50338, 50435, 50532, 50629, 50726, 50823, 50920, 51017, 51114, 51211, 51308, 51405, 51502, 51599, 51696, 51793, 51890, 51987, 52084, 52181, 52278, 52375, 52472, 52599, 52696, 52793, 52890, 53017, 53114, 53211, 53308, 53435, 53532, 53629, 53726, 53853, 53950, 54047, 54144, 54271, 54368, 54465, 54562, 54719, 54816, 54913, 55010, 79092, 79189, 79286, 82654, 82754, 82854, 82954, 83054, 83154, 83254, 83354, 83454, 83554, 83654, 83754, 83854, 83954, 84054, 84154, 84254, 84354, 84454, 84554, 84654, 84818]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.pho-c.co.jp/~clever')","[2885, 3589, 19089, 19803]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.mins.com.br:80')","[4824, 21199]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://foo.com/')","[39622, 39686]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.mins.com.br:80/')","[4856, 5223, 21233, 21606]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20010101000000/www.yahoo.com/')",[76707]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://banana.com/')","[71175, 71272, 71369, 71466]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/  im.gif')","[36919, 36981, 37043]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'rtsp://b.org/1/2')",[67397]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000un_js_cs_un_/http://foo.com/')",[76591]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://sf.net/pop/roger/')","[9039, 9136, 9237, 26199, 26302, 26405, 26746]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'brad:pass@www.archive.org')",[78838]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://sf.net/pop/roger')","[539, 639, 740, 8702, 8799, 8900, 10611, 10708, 10809, 10978, 11075, 11202, 11299, 16753, 16853, 16953, 25858, 25961, 26064, 27936, 28039, 28142, 28309, 28412, 28515, 28682, 28785, 28888]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '129.129.129.129/25')",[70564]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/~alabama/images/bg.jpg')","[84686, 84850]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', 'com.23.4.4.134')",[64172]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/../../image/1.html')","[35709, 35771]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.b/c/d')",[68619]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.mins.com.br')","[5018, 5385, 5512, 5609, 5736, 5833, 7389, 7486, 21405, 21778, 22048, 22151, 22421, 22524, 24531, 24634]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.b/c')",[68807]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://eva-stu.vn/')","[1109, 11660, 12019, 12116, 12437, 12534, 17317, 29295, 29668, 29803, 29906, 30009, 30382, 30517, 30620, 30723]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/%7ba%7db')","[51178, 51372, 51566]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/b?jar=//goo')","[47072, 47169, 47266, 47363]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://banana.com/')","[71207, 71304, 71401, 71498]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'example.com')","[42615, 42712, 43033, 43130, 43257, 43354, 43451, 43548]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/im/images.gif')","[36485, 36547]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+th?a=b')",[45326]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'rtsp://a.org/3.html')",[67825]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://f.au/')","[84948, 85470, 86189, 86450, 86711, 86972, 87233, 87397, 87755, 87919, 88277, 88441, 88799]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20010101im_/www.yahoo.com:80/')",[76794]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'mins.com.br')","[1276, 1376, 1479, 5127, 5930, 6027, 6124, 6221, 6318, 6415, 6524, 6685, 6782, 6891, 7595, 8063, 8160, 8269, 17482, 17582, 17682, 21508, 21881, 22254, 22627, 22762, 22865, 22968, 23103, 23206, 23309, 23444, 23547, 23650, 23817, 23920, 24023, 24737, 25213, 25316, 25419]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/bar/')",[38673]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http//a.b/')",[69183]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'mms://www.chub.org:1755/foo')","[61930, 61994]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'mms://b.org/1/2')",[66725]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www23.eva-stu.vn/')","[11426, 11523, 11793, 11890, 29055, 29158, 29428, 29531]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.eva-stu.vn/')","[12179, 30108]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'a.org')","[64266, 64514, 64668, 64822, 64976, 65130, 65378, 65532, 65686, 65840]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/{a}b')","[50984, 51081, 51275, 51469, 51663]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://sf.net/pop/roger/')","[9071, 9168, 9273, 26233, 26336, 26439, 26780]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.chub.org:80/foo')",[58298]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+th/')",[46102]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://foo.com/')","[39654, 39718]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/cgi?foobar')",[78424]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/bar/baz.html')","[38325, 38499]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/dir')","[80980, 81308]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/dir/bar.html#REF')",[35988]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/boo')","[37248, 37422, 37596]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '256.0.0.1')",[69508]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.chub.org:80')",[58363]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '127.127.127.127')",[69886]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://#4.8gifdijdf/a/b')",[69369]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'dir2/images.gif')",[36423]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org:8080/cgi?foobar')",[78614]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://peagreenboatt.com/')","[14821, 14918, 15023, 33479, 33582, 33685]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://legislature.mi.gov/mileg.aspx')","[55134, 55231, 55388, 55485, 55642, 55739, 55896, 55993]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.chub.org')",[58460]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa th/?a=b')","[47945, 48139]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'i/b.jpg')",[88897]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '127.0.0.')",[69454]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.b/')",[69120]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.mins.com.br')","[5415, 7292, 21945, 24428]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/../../image/1s.gif')",[35678]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+t%02h?a%20a=b')",[52310]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'mms://www.chub.org:19991/foo')","[62250, 62314]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/1/2')","[64296, 65160, 65992, 66664, 67336, 68008]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '129.0.0.0')",[70020]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'ftp://www.chub.org:21/foo')",[61162]
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000/http://foo.com/')",[76331]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/index.html')","[80914, 81078, 81242, 81734]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://mins.com.br/foo.txt')","[6285, 6382, 6487, 23409, 23512, 23615]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.example.com')","[42421, 42518, 42839, 42936, 76891, 77060, 77229]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'rtsp://foo.com/')","[39976, 40040]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '129.129.128.255')","[70348, 70538, 70755]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'mms://a.org/3.html')",[67153]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://brad:pass@www.archive.org:8080/cgi?foobar')",[78932]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'doc/foo%20bar.pdf')",[38814]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '256.0.0.1')",[69480]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.24.ne.jp:80/')","[8397, 25551]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', 'foo.denny')",[64060]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://a.b/')",[69089]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'rtsp://www.chub.org:554/foo')","[62634, 62698]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/../../image/1s.gif')",[35647]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'ape.com')","[72404, 72501, 72598, 72695]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'mms://www.chub.org:1755/foo')",[61866]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://apple.com/')","[72727, 72824, 72921, 73018, 75830, 75924, 76018, 76112]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://brad:pass@www.archive.org/cgi?foobar')",[78868]
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '129.129.129.0')","[70213, 70294, 70484, 70701]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://chub.org:19991/foo')","[60808, 60905]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '127.0.0.')",[69426]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '^.*(jsessionid=[0-9a-zA-Z]{32}&?).*$', 'http://foo.com/bar?bo=lo&cfid=3304324&cftoken=57491900&jsessionid=a63098d96360$b0$d9$a&gum=yum')",[54592]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'wais://www.chub.org:-1/foo')",[63274]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.foo.com/')",[40264]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.eva-stu.vn')","[941, 1041, 12276, 12373, 17151, 17251, 30211, 30314]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/boo?foo=bar&lang=gang')",[38081]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://legislature.mi.gov/mileg.aspx')","[55102, 55199, 55356, 55453, 55610, 55707, 55864, 55961]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://peagreenboatt.com/')","[14789, 14886, 14987, 33445, 33548, 33651]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://chub.org:19991/foo')","[59940, 60037, 60134, 60231, 60970, 61067, 61674, 61771, 62378, 62475, 63082, 63179, 63786, 63883]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '0.256.0.0')",[69616]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/dir/bar.html#REF')",[35957]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/boo?foo=bar&baz=snazz')",[37944]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/dir/')","[81111, 81439, 81603, 81767, 81931, 82095]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'ftp://a.org/3/')","[65962, 66146]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://cool.com/')","[73923, 74020, 74117, 74214]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://brad.www.archive.org')",[78138]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/goo')","[46522, 46619, 46910, 47007]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'goofy.com')","[79386, 79486, 79586, 79686, 79786, 79886, 79986, 80086, 80286, 80486]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'wais://a.org/3/')","[67947, 68131]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '../dir/images.gif')",[36299]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.archive.org/')","[77916, 80652, 80816]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'wais://a.org/3')","[68284, 68406]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://b.org/1/2')",[66053]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%25th')",[50564]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.archive.org/cgi?foobar')",[78392]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'wais://a.org/3/')","[67978, 68162]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '')","[64852, 65006, 65716, 65870, 66420, 66542, 67092, 67214, 67764, 67886, 68436, 68558]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.b/c/d/e/f')",[68932]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+th')","[45714, 49400, 49594]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'mms://a.org/3/')","[66603, 66787]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.chub.org:80/foo')","[57042, 59490]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.24.ne.jp:80/')","[8333, 25483]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'pho-c.co.jp')","[271, 371, 474, 2982, 3079, 3188, 3686, 3783, 3892, 4023, 4120, 4217, 4314, 4423, 4554, 4651, 4760, 16489, 16589, 16689, 19192, 19295, 19398, 19906, 20009, 20112, 20247, 20350, 20453, 20588, 20691, 20794, 20929, 21032, 21135]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/image/1s.gif')",[35554]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'archive.org')",[82326]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.+(cfid=[^&]+&cftoken=[^&]+(?:&jsessionid=[^&]+)?&?).*$', 'http://foo.com/bar?bo=lo&cfid=3304324&cftoken=57491900&jsessionid=a63098d96360$b0$d9$a&gum=yum')",[54622]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+th?a=b')",[45358]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://207.241.2.2/')","[75087, 75184, 75281, 75378]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'ftp://www.chub.org:19991/foo')",[61514]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://www12.foo.com/')","[41582, 41679]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/css/b.gif')","[85046, 85307, 86287, 86548, 86809, 87070, 87331, 87853, 88375]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/boo')","[37211, 37385, 37559]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/%7ba%7db')","[51146, 51340, 51534]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', 'legislature.mi.gov/mileg.aspx?page=sessionschedules')",[56340]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'rtsp://a.org/3/')","[67306, 67490]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://eva-stu.vn/foo/bar.txt')","[13028, 13125, 13230, 13365, 13462, 31263, 31366, 31469, 31604, 31707, 31810]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://sf.net/pop/roger')","[572, 672, 774, 8734, 8831, 8936, 10643, 10740, 10845, 11010, 11107, 11234, 11331, 16786, 16886, 16986, 25892, 25995, 26098, 27970, 28073, 28176, 28343, 28446, 28549, 28716, 28819, 28922]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\([0-9a-z]{24}\\)/)(?:[^\\?]+\\.aspx.*)$', 'http://legislature.mi.gov/(a(4hqa0555fwsecu455xqckv45)s(4hqa0555fwsecu455xqckv45)f(4hqa0555fwsecu455xqckv45))/mileg.aspx?page=sessionschedules')",[56056]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'wais://www.chub.org/foo')",[63402]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/../../image/1.html')","[35740, 35802]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20th?a=b%20b')","[48656, 48753, 48947]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000js_cs_un_/http://foo.com/')",[76565]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'b.org')","[64420, 65284]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'chub.org:8080')","[57557, 57654, 57751, 57848, 57975, 58072, 58169, 58266]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com///goo')","[46684, 46781]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://chub.org/foo')","[59233, 60487]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'f.au')","[84982, 85243, 85504, 85765, 86223, 86484, 86745, 87006, 87267, 87431, 87789, 87953, 88311, 88475, 88833]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.24.ne.jp:80')","[8430, 25586]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '^(?:(?:(?:https?)|(?:ftps?))://)([^/]+@)(?:.*)$', 'http://www.flickr.com/photos/36050182@n05/')",[56564]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', 'http://legislature.mi.gov/(s(4hqa0555fwsecu455xqckv45))/mileg.aspx')",[55070]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'aardvark.com')","[73180, 73277, 73374, 73471]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '../images.gif')","[35399, 36237]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/images.gif')","[35368, 36082]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://banana.au/')","[71983, 72080, 72177, 72274]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com///goo/')","[47460, 47557]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www1.sf.net/pop/roger')","[10946, 28275]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '128.0.0.0')",[69994]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://pho-c.co.jp/~clever')","[237, 337, 439, 2949, 3046, 3151, 3653, 3750, 3855, 3990, 4087, 16455, 16555, 16655, 19157, 19260, 19363, 19871, 19974, 20077, 20212, 20315, 20418]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/boo')","[44744, 44841, 44938, 45035]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '../dir2/images.gif')",[36361]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'index.html')","[80718, 81374, 81538]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20th/?a=b')",[47848]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://#4.8gifdijdf')",[69307]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www12.foo.com/')","[41164, 41261, 41970, 42067, 44388, 44485]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/index.html')","[80882, 81046, 81210, 81702]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'ftp://www.chub.org:21/foo')","[61194, 61258]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www23.eva-stu.vn')","[11761, 29394]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://foo.com/')","[39266, 39363]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://peagreenboat.com/foo')","[16022, 34839]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://chub.org:443/foo')","[58912, 59009]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org/')","[77979, 78106]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://sf.net/pop/roger//')","[9408, 9505, 26574, 26677]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://w.a.org/wb/2004/http://f.au/css/f.gif')","[87656, 88178, 88700]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', '24.ne.jp.idpnt.com')","[2278, 2375, 2484, 18478, 18581, 18684]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/foo.html')",[76927]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'https://b.org/1/2')",[65252]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.peagreenboat.com/')","[13592, 13692, 14290, 14387, 16116, 16213, 32101, 32201, 32797, 32900, 34939, 35042]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+t!h?a%20a=b')",[51922]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://eva-stu.vn/foo.txt')","[12661, 12758, 12863, 30890, 30993, 31096]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '.*/(\\((?:[a-z]\\([0-9a-z]{24}\\))+\\)/)[^\\?]+\\.aspx.*$', 'http://legislature.mi.gov/(a(4hqa0555fwsecu455xqckv45)s(4hqa0555fwsecu455xqckv45)f(4hqa0555fwsecu455xqckv45))/mileg.aspx?page=sessionschedules')",[56086]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'rtsp://www.chub.org:19991/foo')",[62922]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'index.html')","[80750, 81406, 81570]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'zztop.com')","[75508, 75605, 75702, 75799]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://brad:pass@www.archive.org/cgi?foobar')",[78773]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/f.css')","[82620, 82720, 82820, 82920, 83020, 83120, 83220, 83320, 83420, 83520, 83620, 83720, 83820, 83920, 84020, 84120, 84220, 84320, 84420, 84520]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/')","[37107, 37281, 37455, 37629, 37803, 37977, 38151, 38846, 38943, 39040, 39137, 39428, 39525, 39750, 39847, 40072, 40169, 40490, 40587, 40908, 41005, 41326, 41423, 41744, 41841, 42132, 42229, 43580, 43677, 43774, 43871, 43968, 44065, 44162, 44259, 44550, 44647, 79027, 79124, 79221, 84587]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://www.archive.org/one/two')",[78360]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com///goo/')","[47492, 47589]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'rtsp://foo.com/')","[39944, 40008]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'setRange', '(\\d+\\.\\d+\\.\\d+\\.\\d+)/(\\d+)', '128.0.0.0')",[69966]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+th/?a=b')",[48042]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www12.foo.com')","[41197, 41294, 41615, 41712, 42003, 42100, 44421, 44518]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://sf.net/pop/roger/23')","[10276, 10373, 10478, 27597, 27700, 27803]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa+th?a%20a=b')",[48430]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'legislature.mi.gov')","[55167, 55264, 55421, 55518, 55675, 55772, 55929, 56026, 56183, 56280, 56437, 56534]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://peagreenboat.com/foo')","[15717, 15814, 15915, 34532, 34635, 34738]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.mins.com.br:80/')","[5191, 21572]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://')",[69276]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+t%02h?a%20a=b')",[52342]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/foo.html')",[76963]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/_style/style.css')","[81898, 82062, 82226, 82390]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://chub.org/foo')","[59201, 60455]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+th/?a=b')",[48074]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'wais://www.chub.org:-1/foo')",[63306]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/ im.gif')",[36857]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www23.eva-stu.vn/')","[11458, 11555, 11825, 11922, 29089, 29192, 29462, 29565]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://sf.net/pop/')","[9570, 9667, 9768, 26881, 26984, 27087]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://sf.net/pop/roger/23')","[10549, 27870]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', '1.1.1.1')",[64088]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://a.org/3')","[65469, 65623]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%21th')",[49820]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'mms://a.org/3')","[66909, 67031]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.example.com/')",[42324]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://zoo.com/')","[74667, 74764, 74861, 74958]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.peagreenboat.org')","[15461, 34125]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20010101000000im_/www.yahoo.com:80/')",[76765]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.foo.com/')","[40296, 40393, 40714, 40811]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.symphony.org')",[77305]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://peagreenboat.org/')","[15126, 15223, 15324, 33786, 33889, 33992, 34365]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'wais://b.org/1/2')",[68069]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.foo.com')",[40682]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://24.ne.jp/~nekko')","[1879, 1979, 2080, 18077, 18177, 18277]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://w.a.org/wb/2004/http://e.au/css/b.gif')",[86058]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/css/f.gif')","[87495, 88017, 88539]"
+"('IPRange.java', 'org.archive.wayback.util.IPRange', 'matchIP', '(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)', '127.127.127.255')",[69940]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://base.com/')",[35243]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://sf.net/pop/')","[9875, 27188]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', 'foo.com')",[63976]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa t\x02h?a a=b')","[52213, 52407]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'wais://a.org/3')","[68253, 68375]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'rtsp://www.chub.org:19991/foo')","[62986, 63050]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://w.a.org/wb/2004/http://f.au/css/f.gif')","[87624, 88146, 88668]"
+"('ReplayRequestParser.java', 'org.archive.wayback.archivalurl.requestparser.ReplayRequestParser', 'parse', '^(\\d{1,14})(([a-z]{2}[0-9]*_)*)/(.*)$', '20070101000000/ftp://foo.com/')",[76357]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://brad.www.archive.org')",[78170]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20th/')",[45908]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'wais://www.chub.org/foo')",[63370]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://example.com/')","[42550, 42647, 42968, 43065]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/goo')","[46490, 46587, 46878, 46975]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://pho-c.co.jp/~clever/foo.txt')","[4489, 4586, 4687, 20860, 20963, 21066]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com//goo')","[46296, 46393]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'https://chub.org:19991/foo')","[60776, 60873]"
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '(?i)^(?:https?://)(www[0-9]*\\.)(?:[^/]*/.+)$', 'http://www.chub.org:19991/foo')",[59908]
+"('AggressiveUrlCanonicalizer.java', 'org.archive.wayback.util.url.AggressiveUrlCanonicalizer', 'doStripRegexMatch', '^(?:(?:(?:https?)|(?:ftps?))://)([^/]+@)(?:.*)$', 'flickr.com/photos/36050182@n05/')",[56818]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'css/b.gif')","[85536, 85797]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://bam.com/')","[70819, 70916, 71013, 71110]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://ape.com/')","[72371, 72468, 72565, 72662]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'wais://www.chub.org:-1/foo')",[63338]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://www.chub.org:443/foo')","[58718, 58815]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa%20t%02h?a%20a=b')",[52116]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'banana.com')","[71240, 71337, 71434, 71531]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'peagreenboat.org')","[15191, 15288, 15397, 33855, 33958, 34061, 34434]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/boo?foo=bar')",[37770]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://e.au/css/b.gif')",[85992]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa%20t\x02h?a%20a=b')","[52245, 52439]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', '/css/print.css')",[82522]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://foo.com/pa+th?a%20a=b')",[48462]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', '207.241.2.2')","[75120, 75217, 75314, 75411]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'i/b.jpg')",[88865]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/f.css')","[82587, 82687, 82787, 82887, 82987, 83087, 83187, 83287, 83387, 83487, 83587, 83687, 83787, 83887, 83987, 84087, 84187, 84287, 84387, 84487]"
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://mins.com.br/~clever/foo.txt')","[6925, 24055]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'checkPort', '(.*:)([0-9]+)$', 'www.24.ne.jp')","[7726, 7823, 8527, 24872, 24975, 25689]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/p/s-w-%E2%80%9Ctext%E2%80%9D')",[38292]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', 'http://a.b/c?d=e')",[69026]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://foo.com/pa!th')","[49012, 49109, 49206, 49303, 49885, 49982, 50079]"
+"('UrlOperations.java', 'org.archive.wayback.util.url.UrlOperations', 'isAuthority', '(([0-9a-z_.-]+)\\.(ac|ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|asia|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|info|int|io|iq|ir|is|it|je|jm|jo|jobs|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mil|mk|ml|mm|mn|mo|mobi|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tel|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|travel|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|xn--0zwm56d|xn--11b5bs3a9aj6g|xn--80akhbyknj4f|xn--9t4b11yi5a|xn--deba0ad|xn--g6w251d|xn--hgbk6aj7f53bba|xn--hlcj6aya9esc7a|xn--jxalpdlp|xn--kgbechtv|xn--mgbaam7a8h|xn--mgberp4a5d4ar|xn--p1ai|xn--wgbh1c|xn--zckzah|ye|yt|za|zm|zw))|([0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)', 'foo.con')",[64004]
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://peagreenboat.com/')","[13760, 13894, 13994, 14095, 14456, 14595, 14692, 16282, 31909, 32268, 32399, 32499, 32599, 32969, 33104, 33207, 33310, 35111]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(([a-zA-Z][a-zA-Z0-9\\+\\-\\.]*):)?((//([^/?#]*))?([^?#]*)(\\?([^#]*))?)?(#(.*))?', '/1/2')","[64326, 65190, 66022, 66694, 67366, 68038]"
+"('UURIFactory.java', 'org.archive.net.UURIFactory', 'fixup', '^(https?://)/+(.*)', 'http://www.chub.org/foo')",[58395]
+"('SURT.java', 'org.archive.util.SURT', 'fromURI', ""^(\\w+://)(?:([-\\w\\.!~\\*'\\(\\)%;:&=+$,]+?)(@))?(?:((?:\\d{1,3}\\.){3}\\d{1,3})|(\\S+?))(:\\d+)?(/\\S*)?$"", 'http://sf.net/pop/roger')","[841, 9007, 10916, 17051, 26165, 28243, 28616, 28989]"

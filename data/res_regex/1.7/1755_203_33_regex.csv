@@ -1,0 +1,22 @@
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{format=xml}')","[2053, 2082]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{-opt|fred@example.org|foo}')","[286, 312]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{date}')","[2407, 2436]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{this}')","[755, 784, 873, 902, 991, 1020, 1345, 1374, 1463, 1492, 1581, 1610, 1699, 1728, 1758, 1787, 1817, 1846, 1876, 1905]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{bar}')","[1994, 2023, 2584, 2613]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{foo}')","[1935, 1964, 2171, 2200, 2289, 2318, 2525, 2554, 2702, 2731, 2820, 2849]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{name= brother! }')","[1522, 1551]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{a=3}')","[460, 489]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{my_var}')","[127, 153]"
+"('Duration.java', 'org.apache.ode.utils.xsd.Duration', '<init>', 'P(\\d+Y)?(\\d+M)?(\\d+D)?(T(\\d+H)?(\\d+M)?((\\d+\\.?\\d*|\\.\\d+)S)?)?', 'P10YT90S')",[75]
+"('Duration.java', 'org.apache.ode.utils.xsd.Duration', '<init>', 'P(\\d+Y)?(\\d+M)?(\\d+D)?(T(\\d+H)?(\\d+M)?((\\d+\\.?\\d*|\\.\\d+)S)?)?', 'P10Y10M10DT10H10M10.1S')",[100]
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{-join|&|foo,bar,xyzzy,baz}')","[2466, 2495]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{my_var=my_default}')","[180, 206]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{name=darling}')","[578, 607, 637, 666, 696, 725, 814, 843, 932, 961, 1050, 1079, 1168, 1197, 1640, 1669]"
+"('Duration.java', 'org.apache.ode.utils.xsd.Duration', '<init>', 'P(\\d+Y)?(\\d+M)?(\\d+D)?(T(\\d+H)?(\\d+M)?((\\d+\\.?\\d*|\\.\\d+)S)?)?', 'P10Y10M10D')",[25]
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{format}')","[2112, 2141, 2643, 2672]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{name}')","[519, 548, 1286, 1315, 1404, 1433, 2230, 2259, 2761, 2790]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{this=up}')","[1109, 1138, 1227, 1256]"
+"('Duration.java', 'org.apache.ode.utils.xsd.Duration', '<init>', 'P(\\d+Y)?(\\d+M)?(\\d+D)?(T(\\d+H)?(\\d+M)?((\\d+\\.?\\d*|\\.\\d+)S)?)?', 'P10M')",[50]
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{-suffix|/|foo}')","[233, 259]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{a}')","[342, 371, 401, 430]"
+"('URITemplate.java', 'org.apache.ode.utils.URITemplate', 'parseExpansion', '\\{[^\\}]+\\}', '{name=james}')","[2348, 2377, 2879, 2908]"

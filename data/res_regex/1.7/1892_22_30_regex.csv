@@ -1,0 +1,5 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1892_22/core/target/classes/struts-default.xml')","[131, 188]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWebFlow(org.apache.struts2.sitegraph.SiteGraphTest)')","[56, 78]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.sitegraph.SiteGraphTest')","[36, 268]"
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1892_22/plugins/sitegraph/target/test-classes/org/apache/struts2/sitegraph/struts.xml')",[245]

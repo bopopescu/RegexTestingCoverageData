@@ -1,0 +1,472 @@
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.UserServiceEJBTests.class')",[25639]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addFailureTracesTest(com.ericsson.msc.group5.services.ejb.test.FailureTraceServiceEJBTest)')","[2856, 2877, 2898, 9076]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAUserDAO.class')",[11709]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addEventCause(com.ericsson.msc.group5.services.ejb.test.EventCauseServiceEJBTest)')","[2320, 8851]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.UserTest)')","[349, 370, 391, 8190]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.EventIdValidatorTest')",[5245]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.UserEquipmentServiceEJBTest')",[1738]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.rest.CreatedQueries.class')",[14452]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ErrorLogWriterService.class')",[16080]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.PasswordGeneratorService')",[19867]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.FailureTraceTest)')","[1116, 1137, 1158, 8458]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureClass(com.ericsson.msc.group5.dataIOConsistencyChecks.FailureClassValidatorTest)')","[8003, 10653]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestOperator(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6986, 7007, 7028]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'batchInsertEventCauseTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4230, 4251, 4272]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.UserService')",[18902]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAllCountries(com.ericsson.msc.group5.dao.jpa.JPACountryDAOTest)')","[4772, 4793, 4814]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.EventCauseTest.class')",[28007]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.UserAuthenticationService')",[17639]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.LogDetailsRetriever.class')",[19494]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.DateValidatorTest')","[39749, 39769, 39790, 39810]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.EventCauseTest')","[39175, 39195, 39216, 39236]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest')",[1841]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow12(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6398, 6419, 6440]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest')",[5348]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.UserAuthenicationServiceEJBTest')",[2112]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'localRepository')","[28438, 28494]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1219, 1240, 1261, 8499]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.FailureClassService.class')",[16376]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.NEVersionValidatorTest')",[7467]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.AdminAccountCreatorEJB.class')",[19346]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow11(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6314, 6335, 6356]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow9(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6125, 10112]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SSH_CLIENT')","[30698, 30754]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow9(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6146, 6167, 6188]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow10(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6230, 6251, 6272]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'os.arch')","[36348, 36404]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.endorsed.dirs')","[31037, 31093]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.boot.library.path')","[30359, 30415]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestFailureClass(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6713, 10259]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBatchInsertCountryCodeNetworkCode(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3583, 9324]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'writeToErrorLogTest(com.ericsson.msc.group5.services.ejb.test.ErrorLogServiceEJBTest)')","[2444, 2465, 2486, 8912]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.UserTest.class')",[27859]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.FailureClassServiceEJBTest.class')",[25491]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LESSCLOSE')","[37704, 37760]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.CountryCodeNetworkCode.class')",[21349]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.specification.version')","[37478, 37534]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.OperatorValidatorTest')","[40733, 40753, 40774, 40794]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.FailureTrace.class')",[20757]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vendor.url')","[34314, 34370]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestEventId(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6629, 10238]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'os.version')","[32506, 32562]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.UserEquipmentServiceEJBTest.class')",[26527]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'basedir')","[37139, 37195]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.country')","[32054, 32110]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.io.unicode.encoding')","[33523, 33579]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.LogDetailsRetrieverTest')",[2711]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCountOfFailuresForModelWithinTimePeriod(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3854, 9407]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquality(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1387, 1408, 1429]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAO.class')",[12155]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.rest.FileUploadFormTest.class')",[24899]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.ext.dirs')","[36461, 36517]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateNEVersion(com.ericsson.msc.group5.dataIOConsistencyChecks.NEVersionValidatorTest)')","[7488, 10448]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.CLASSPATH')","[34088, 34144]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPACountryDAOTest.class')",[24011]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'authenticateUserTest(com.ericsson.msc.group5.services.ejb.test.UserAuthenicationServiceEJBTest)')","[2154, 2175, 2196, 8809]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetCountAndTotalDurationForGivenImsiWithinTimePeriod(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3791, 3812, 3833]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGenerate(com.ericsson.msc.group5.services.ejb.test.PasswordGeneratorServiceEJBTest)')","[2938, 9097]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getAllEventCausesTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4398, 4419, 4440]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addCountryCodeNetworkCodeTest(com.ericsson.msc.group5.services.ejb.test.CountryCodeNetworkCodeServiceEJBTest)')","[2526, 8933]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'compositeKeyTest(com.ericsson.msc.group5.entities.EventCauseTest)')","[141, 8128]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAndSetFileName(com.ericsson.msc.group5.rest.FileUploadFormTest)')","[3041, 9138]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.CountryDAO')",[12528]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInsertion(com.ericsson.msc.group5.dao.jpa.JPACountryDAOTest)')","[4667, 9636]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.CellIdValidatorTest.class')",[22383]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'authenticalUserNullTest(com.ericsson.msc.group5.services.ejb.test.UserAuthenicationServiceEJBTest)')","[2217, 8830]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.CellIdValidatorTest')",[7879]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.ErrorLogTest)')","[992, 8397]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.DateUtilityService.class')",[16672]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow6(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5894, 5915, 5936]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.rest.UserRESTResourceTest')","[37945, 37965, 37986, 38006]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow6(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5873, 10049]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow13(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6482, 6503, 6524]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.rest.FileUploadForm.class')",[14156]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.EventCause.class')",[20386]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.AutoImportService.class')",[14748]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.awt.printerjob')","[33297, 33353]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestDate(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6566, 6587, 6608]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateIMSI(com.ericsson.msc.group5.dataIOConsistencyChecks.IMSIValidatorTest)')","[7694, 10530]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAndSetFileData(com.ericsson.msc.group5.rest.FileUploadFormTest)')","[3146, 3167, 3188]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.FailureClassServiceEJBTest')","[38683, 38703, 38724, 38744]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestOperator(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6965, 10322]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.FailureClassDAO')",[12082]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.FailureTraceServiceEJB.class')",[17043]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.CountryCodeNetworkCodeService.class')",[15192]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.specification.vendor')","[33975, 34031]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseException(com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest)')","[2030, 8768]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.DateValidatorTest')",[5039]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ValidatorService.class')",[16524]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.FailureClass.class')",[21053]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.FailureTraceServiceEJBTest')",[2814]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDataImportService(com.ericsson.msc.group5.services.ejb.test.DataImportServiceEJBTest)')","[1553, 8583]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LS_COLORS')","[35896, 35952]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1198, 8479]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.CountryTest)')","[431, 8211]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.AdminAccountCreatorEJBTest.class')",[26675]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'TestingDataset2.xls')",[21868]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.DateValidatorTest.class')",[23567]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.AdminAccountCreatorEJBTest')","[38355, 38375, 38396, 38416]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.CountryCodeNetworkCodeServiceEJBTest.class')",[25787]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'surefire.test.class.path')","[35783, 35839]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.EventCauseServiceEJBTest')","[40897, 40917, 40938, 40958]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestMarket(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6881, 10301]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.specification.version')","[35331, 35387]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestMarket(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6902, 6923, 6944]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.java.launcher')","[28551, 28607]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.management.compiler')","[28664, 28720]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.ErrorLogWriterServiceEJB.class')",[18529]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.MAIL')","[37365, 37421]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'file.encoding.pkg')","[31489, 31545]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestCauseCode(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7217, 10385]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.FailureClassTest')","[39995, 40015, 40036, 40056]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.UserTest')","[37863, 37883, 37904, 37924]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.FailureClassValidatorTest.class')",[22235]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.ErrorLogServiceEJBTest')","[40159, 40179, 40200, 40220]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.PWD')","[29003, 29059]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLogger(com.ericsson.msc.group5.services.ejb.test.LogDetailsRetrieverTest)')","[2753, 2774, 2795, 9035]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'java.io.Serializable')","[20313, 20684, 21647]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.rest.FileUploadFormTest')",[3020]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest')","[40487, 40507, 40528, 40548]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest')","[38027, 38047, 38068, 38088]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.FailureTraceDAO.class')",[13268]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestImsi(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7406, 7427, 7448]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestImsi(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7385, 10427]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.EventCauseServiceEJBTest.class')",[26083]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'initTest(com.ericsson.msc.group5.services.ejb.test.AdminAccountCreatorEJBTest)')","[1656, 8624]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.UserEquipmentTest)')","[639, 660, 681, 8293]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.UserDAO')",[11859]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.UserService.class')",[16228]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAndSetFileName(com.ericsson.msc.group5.rest.FileUploadFormTest)')","[3062, 3083, 3104, 9158]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow8(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6062, 6083, 6104]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAndSetFileData(com.ericsson.msc.group5.rest.FileUploadFormTest)')","[3125, 9179]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.FailureTraceService.class')",[15932]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SSH_TTY')","[29907, 29963]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.dir')","[36687, 36743]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.EventCauseDAO.class')",[13564]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGenerateMethods(com.ericsson.msc.group5.entities.CountryTest)')","[536, 557, 578]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquality(com.ericsson.msc.group5.entities.EventCauseTest)')","[225, 8149]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow2(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5537, 9965]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.FailureClassServiceEJB.class')",[16820]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.FailureTraceTest)')","[1095, 8438]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.vendor')","[34540, 34596]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.UserAuthenticationService.class')",[15784]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest')",[1177]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.PATH')","[30133, 30189]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getImsiOfFailureWithinTimePeriod(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3686, 9345]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.FailureClassServiceEJBTest')",[2608]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.FailureTraceTest')",[1074]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateOperator(com.ericsson.msc.group5.dataIOConsistencyChecks.OperatorValidatorTest)')","[4854, 9698]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.DataImportServiceEJBTest')","[38273, 38293, 38314, 38334]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.rest.FileUploadFormTest')","[39257, 39277, 39298, 39318]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.version')","[30585, 30641]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest')",[4104]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow4(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5705, 10007]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'surefire.real.class.path')","[32732, 32788]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.ErrorLogTest')","[39339, 39359, 39380, 39400]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest.class')",[23123]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest.class')",[24603]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.Country.class')",[20534]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.DataImportService.class')",[15044]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestCellId(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7070, 7091, 7112]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'writeToErrorLogTest(com.ericsson.msc.group5.services.ejb.test.ErrorLogServiceEJBTest)')","[2423, 8892]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest')",[3310]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.CountryCodeNetworkCodeDAO.class')",[13416]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetEventCauseForIMSI(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[4043, 4064, 4085]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.boot.class.path')","[28890, 28946]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.CauseCodeValidatorTest')","[40323, 40343, 40364, 40384]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.FailureTraceTest.class')",[27119]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.IMSIValidatorTest.class')",[22679]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getEventCauseTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4293, 9532]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquality(com.ericsson.msc.group5.entities.FailureClassTest)')","[910, 931, 952]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateCellId(com.ericsson.msc.group5.dataIOConsistencyChecks.CellIdValidatorTest)')","[7900, 10612]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.library.path')","[34201, 34257]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.DataImportServiceEJBTest.class')",[26823]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.runtime.name')","[34653, 34709]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addFailureTracesTest(com.ericsson.msc.group5.services.ejb.test.FailureTraceServiceEJBTest)')","[2835, 9056]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAO.class')",[12601]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.ErrorLogServiceEJBTest.class')",[25935]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addUserTest(com.ericsson.msc.group5.dao.jpa.JPAUserDAOTest)')","[4480, 9574]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.DataImportService')",[19125]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGenerate(com.ericsson.msc.group5.services.ejb.test.PasswordGeneratorServiceEJBTest)')","[2959, 2980, 3001, 9117]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.JAVA_HOME')","[33184, 33240]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.UserEquipmentService.class')",[15488]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.EventCauseTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.UserEquipmentTest)')","[618, 8273]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'initTest(com.ericsson.msc.group5.services.ejb.test.AdminAccountCreatorEJBTest)')","[1677, 1698, 1719, 8644]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateCauseCode(com.ericsson.msc.group5.dataIOConsistencyChecks.CauseCodeValidatorTest)')","[7797, 10571]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vendor.url.bug')","[36122, 36178]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'awt.toolkit')","[33636, 33692]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.ErrorLogTest)')","[1013, 1034, 1055, 8417]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestUEType(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6818, 6839, 6860]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.CountryCodeNetworkCodeServiceEJBTest')",[2505]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestDuration(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7154, 7175, 7196]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestNEVersion(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7301, 10406]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.FailureTraceServiceEJBTest.class')",[25195]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addEventCause(com.ericsson.msc.group5.services.ejb.test.EventCauseServiceEJBTest)')","[2341, 2362, 2383, 8871]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.UserServiceEJB.class')",[18752]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow7(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5957, 10070]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SHELL')","[29794, 29850]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.DataImportServiceEJB.class')",[18975]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFormatDateAsString(com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest)')","[1883, 1904, 1925, 8726]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.FailureClassValidatorTest')",[7982]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.FailureClassTest)')","[805, 8335]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.J2REDIR')","[32619, 32675]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.DERBY_HOME')","[31150, 31206]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.CountryCodeNetworkCodeCK.class')",[21497]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.PasswordGeneratorService.class')",[15340]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInsertion(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3938, 9428]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.DataImportServiceEJBTest')",[1532]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.UserAuthenticationServiceEJB.class')",[17489]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInsertion(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3959, 3980, 4001]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest')","[39913, 39933, 39954, 39974]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateUEType(com.ericsson.msc.group5.dataIOConsistencyChecks.UETypeValidatorTest)')","[7591, 10489]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'insertEventCauseTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4146, 4167, 4188, 9490]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.AutoImportServiceEJB.class')",[18381]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateUEType(com.ericsson.msc.group5.dataIOConsistencyChecks.UETypeValidatorTest)')","[7612, 7633, 7654, 10509]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetCountryCodeNetworkCode(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3520, 3541, 3562]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow4(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5726, 5747, 5768]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.LogDetailsRetrieverService.class')",[14896]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateMarket(com.ericsson.msc.group5.dataIOConsistencyChecks.MarketValidatorTest)')","[4978, 4999, 5020, 9759]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.CountryTest')",[410]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.FailureClassService')",[16970]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.servlet.LogoutServlet.class')",[10892]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.CountryTest')","[39585, 39605, 39626, 39646]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.PasswordGeneratorServiceEJB.class')",[19717]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.ErrorLogWriterService')",[18679]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.rest.ImportLogRestService.class')",[14600]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.EventIdValidatorTest')","[40815, 40835, 40856, 40876]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow13(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6461, 10196]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.CountryCodeNetworkCodeDAO')",[11636]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.CauseCodeValidatorTest')",[7776]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicAuthentication(com.ericsson.msc.group5.rest.UserRESTResourceTest)')","[3249, 3270, 3291, 9220]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPACountryDAOTest')","[39503, 39523, 39544, 39564]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.FailureTraceService')",[17193]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest')","[38519, 38539, 38560, 38580]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.ErrorLog.class')",[21201]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getUserTest(com.ericsson.msc.group5.dao.jpa.JPAUserDAOTest)')","[4564, 9615]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.OperatorValidatorTest')",[4833]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAUserDAOTest.class')",[24159]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addFailureClassesTest(com.ericsson.msc.group5.services.ejb.test.FailureClassServiceEJBTest)')","[2650, 2671, 2692, 8994]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow11(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6293, 10154]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAllCountryCodeNetworkCodes(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3436, 3457, 3478]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.PasswordGeneratorServiceEJBTest')",[2917]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.EventCauseService.class')",[15636]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.PasswordGeneratorServiceEJBTest.class')",[25047]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateCellId(com.ericsson.msc.group5.dataIOConsistencyChecks.CellIdValidatorTest)')","[7921, 7942, 7963, 10632]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.LogDetailsRetrieverTest')","[40077, 40097, 40118, 40138]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPAUserDAOTest')",[4459]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.EventCauseCK.class')",[20163]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.jnu.encoding')","[31376, 31432]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFormatDateStringAsTimestamp(com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest)')","[1946, 8747]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XFILESEARCHPATH')","[35105, 35161]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.version')","[32958, 33014]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.class.path')","[34879, 34935]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.NEVersionValidatorTest.class')",[22975]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.specification.vendor')","[29229, 29285]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'compositeKeyTest(com.ericsson.msc.group5.entities.EventCauseTest)')","[162, 183, 204]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.EventIdValidatorTest.class')",[23271]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestUEType(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6797, 10280]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.UserEquipmentServiceEJB.class')",[18158]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.DurationValidatorTest.class')",[23419]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.language')","[30246, 30302]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.MarketValidatorTest')",[4936]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.home')","[33749, 33805]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.NLSPATH')","[30020, 30076]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAUserEquipmentDAO.class')",[11263]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestDuration(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7133, 10364]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env._')","[29568, 29624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.ErrorLogServiceEJBTest')",[2402]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow12(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6377, 10175]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.DateUtilityServiceEJB.class')",[17712]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEquality(com.ericsson.msc.group5.entities.EventCauseTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureClass(com.ericsson.msc.group5.dataIOConsistencyChecks.FailureClassValidatorTest)')","[8024, 8045, 8066, 10673]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.FailureClassDAO.class')",[12972]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.CountryCodeNetworkCodeService')",[17416]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.FailureClassTest)')","[826, 847, 868, 8355]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.FailureClassValidatorTest')","[39831, 39851, 39872, 39892]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.DurationValidatorTest')",[5142]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAllCountries(com.ericsson.msc.group5.dao.jpa.JPACountryDAOTest)')","[4751, 9677]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.EventCauseTest)')","[57, 8087]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest.class')",[26971]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGenerateMethods(com.ericsson.msc.group5.entities.CountryTest)')","[515, 8252]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_RUNTIME_DIR')","[36574, 36630]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDataImportService(com.ericsson.msc.group5.services.ejb.test.DataImportServiceEJBTest)')","[1574, 1595, 1616, 8603]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCountryCodeNetworkCode(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3499, 9303]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.FailureTraceTest')","[40405, 40425, 40446, 40466]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.FailureTraceServiceEJBTest')","[38191, 38211, 38232, 38252]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateMarket(com.ericsson.msc.group5.dataIOConsistencyChecks.MarketValidatorTest)')","[4957, 9739]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.UserEquipmentTest')",[597]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.UETypeValidatorTest.class')",[22827]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.ErrorLogTest')",[971]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.name')","[37026, 37082]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addUserEquipmentTest(com.ericsson.msc.group5.services.ejb.test.UserEquipmentServiceEJBTest)')","[1780, 1801, 1822, 8685]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.FailureClassTest.class')",[27415]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.UserEquipmentDAO')",[11413]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.ErrorLogTest.class')",[27267]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInsertion(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3352, 3373, 3394, 9261]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest')",[3665]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'os.name')","[28777, 28833]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.EventCauseDAO')",[12751]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.MarketValidatorTest.class')",[23715]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.OLDPWD')","[33862, 33918]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestEventId(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6650, 6671, 6692]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.IMSIValidatorTest')","[39011, 39031, 39052, 39072]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.UserEquipmentTest')","[40651, 40671, 40692, 40712]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestCauseCode(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7238, 7259, 7280]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.UserEquipmentDAO.class')",[13712]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow3(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5642, 5663, 5684]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.timezone')","[30811, 30867]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow3(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5621, 9986]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow1(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5474, 5495, 5516]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateNEVersion(com.ericsson.msc.group5.dataIOConsistencyChecks.NEVersionValidatorTest)')","[7509, 7530, 7551, 10468]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPACountryDAOTest')",[4646]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getAllEventCausesTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4377, 9553]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.J2SDKDIR')","[36800, 36856]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.UserEquipment.class')",[20905]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'authenticateUserTest(com.ericsson.msc.group5.services.ejb.test.UserAuthenicationServiceEJBTest)')","[2133, 8789]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'path.separator')","[32845, 32901]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow5(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5810, 5831, 5852]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.User.class')",[21720]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LANG')","[29116, 29172]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.java.command')","[34766, 34822]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'file.separator')","[31715, 31771]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.CellIdValidatorTest')","[39667, 39687, 39708, 39728]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'authenticalUserNullTest(com.ericsson.msc.group5.services.ejb.test.UserAuthenicationServiceEJBTest)')","[2238, 2259, 2280]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.UserTest)')","[328, 8170]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.TERM')","[33410, 33466]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SHLVL')","[31602, 31658]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'file.encoding')","[37252, 37308]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.FailureTraceDAO')",[12305]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.UserEquipmentTest.class')",[27563]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getImsiOfFailureWithinTimePeriod(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3707, 3728, 3749, 9365]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'batchInsertEventCauseTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4209, 9511]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'equalityTest(com.ericsson.msc.group5.entities.UserEquipmentTest)')","[702, 8314]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest')","[38929, 38949, 38970, 38990]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'equalityTest(com.ericsson.msc.group5.entities.UserEquipmentTest)')","[723, 744, 765]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.ErrorLogDAO.class')",[12824]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'compositeKeyTest(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1282, 8520]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateOperator(com.ericsson.msc.group5.dataIOConsistencyChecks.OperatorValidatorTest)')","[4875, 4896, 4917, 9718]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'java.lang.Enum')",[19273]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestDate(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6545, 10217]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'insertEventCauseTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4125, 9470]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseException(com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest)')","[2051, 2072, 2093]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateEventId(com.ericsson.msc.group5.dataIOConsistencyChecks.EventIdValidatorTest)')","[5266, 9862]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.SSH_CONNECTION')","[30472, 30528]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.UserAuthenicationServiceEJBTest')","[39093, 39113, 39134, 39154]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.arch.data.model')","[30924, 30980]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest.class')",[24455]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.CountryTest)')","[452, 473, 494, 8231]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.OperatorValidatorTest.class')",[23863]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addUserEquipmentTest(com.ericsson.msc.group5.services.ejb.test.UserEquipmentServiceEJBTest)')","[1759, 8665]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow0(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5369, 9903]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow10(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6209, 10133]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow0(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5390, 5411, 5432, 9923]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.EventCauseServiceEJBTest')",[2299]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'line.separator')","[36913, 36969]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.ValidatorServiceEJB.class')",[17935]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInsertion(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3331, 9241]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.cpu.endian')","[35444, 35500]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetEventCauseForIMSI(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[4022, 9449]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getUserTest(com.ericsson.msc.group5.dao.jpa.JPAUserDAOTest)')","[4585, 4606, 4627]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBatchInsertCountryCodeNetworkCode(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3604, 3625, 3646]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.os.patch.level')","[35557, 35613]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.NEVersionValidatorTest')","[40569, 40589, 40610, 40630]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getEventCauseTest(com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest)')","[4314, 4335, 4356]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.IMSIValidatorTest')",[7673]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquality(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1366, 8541]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetCountOfFailuresForModelWithinTimePeriod(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3875, 3896, 3917]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'TestingDataset3.xls')",[28155]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'addFailureClassesTest(com.ericsson.msc.group5.services.ejb.test.FailureClassServiceEJBTest)')","[2629, 8974]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPAUserDAOTest')","[38109, 38129, 38150, 38170]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest.class')",[24307]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.UserTest')",[307]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateDuration(com.ericsson.msc.group5.dataIOConsistencyChecks.DurationValidatorTest)')","[5184, 5205, 5226, 9841]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.EventCauseServiceEJB.class')",[19940]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow1(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5453, 9944]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateDuration(com.ericsson.msc.group5.dataIOConsistencyChecks.DurationValidatorTest)')","[5163, 9821]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addUserTest(com.ericsson.msc.group5.dao.jpa.JPAUserDAOTest)')","[4501, 4522, 4543, 9594]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.specification.name')","[35218, 35274]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow5(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5789, 10028]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.XDG_SESSION_ID')","[34992, 35048]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest.class')",[26379]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.EventCauseService')",[20090]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'addCountryCodeNetworkCodeTest(com.ericsson.msc.group5.services.ejb.test.CountryCodeNetworkCodeServiceEJBTest)')","[2547, 2568, 2589, 8953]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRow8(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6041, 10091]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.MarketValidatorTest')","[40241, 40261, 40282, 40302]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'META-INF.persistence.xml')",[10746]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.ValidatorService')",[18085]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dataIOConsistencyChecks.CauseCodeValidatorTest.class')",[22531]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'arquillian.xml')",[22014]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAFailureClassDAO.class')",[11932]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestNEVersion(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7322, 7343, 7364]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LESSOPEN')","[28325, 28381]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.rest.UserRESTResourceTest')",[3207]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.CountryCodeNetworkCodeServiceEJBTest')","[39421, 39441, 39462, 39482]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.LogDetailsRetrieverTest.class')",[25343]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow2(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5558, 5579, 5600]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.UserEquipmentServiceEJBTest')","[38601, 38621, 38642, 38662]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.class.version')","[31941, 31997]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.rest.UserRESTResourceTest.class')",[24751]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFormatDateAsString(com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest)')","[1862, 8706]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPACountryDAO.class')",[12378]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRow7(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[5978, 5999, 6020]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'META-INF.beans.xml')",[10819]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateIMSI(com.ericsson.msc.group5.dataIOConsistencyChecks.IMSIValidatorTest)')","[7715, 7736, 7757, 10550]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.UETypeValidatorTest')","[38765, 38785, 38806, 38826]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vm.info')","[32280, 32336]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.LOGNAME')","[32393, 32449]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'compositeKeyTest(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1303, 1324, 1345]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'TestingDataset.xls')",[21941]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCountAndTotalDurationForGivenImsiWithinTimePeriod(com.ericsson.msc.group5.dao.jpa.JPAFailureTraceDAOTest)')","[3770, 9386]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPAErrorLogDAO.class')",[11040]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'basicCRUDTest(com.ericsson.msc.group5.entities.EventCauseTest)')","[78, 99, 120, 8107]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.MAVEN_CMD_LINE_ARGS')","[34427, 34483]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dao.jpa.JPAEventCauseDAOTest')","[38847, 38867, 38888, 38908]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'dependency.ArquillianDeployment.class')",[22087]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.vendor')","[28212, 28268]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.io.tmpdir')","[36009, 36065]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateEventId(com.ericsson.msc.group5.dataIOConsistencyChecks.EventIdValidatorTest)')","[5287, 5308, 5329, 9882]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.DurationValidatorTest')","[37781, 37801, 37822, 37842]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.USER')","[29681, 29737]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'javax.servlet.http.HttpServlet')",[10967]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.DateUtilityService')",[17862]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.UserEquipmentService')",[18308]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.rest.RestImportService.class')",[14008]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquality(com.ericsson.msc.group5.entities.FailureClassTest)')","[889, 8376]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.test.UserAuthenicationServiceEJBTest.class')",[26231]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.AdminAccountCreatorEJBTest')",[1635]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.dataIOConsistencyChecks.UETypeValidatorTest')",[7570]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'java.lang.Object')","[11115, 11338, 11561, 11784, 12007, 12230, 12453, 12676, 12899, 13047, 13195, 13343, 13491, 13639, 13787, 13935, 14083, 14231, 14379, 14527, 14675, 14823, 14971, 15119, 15267, 15415, 15563, 15711, 15859, 16007, 16155, 16303, 16451, 16599, 16747, 16895, 17118, 17341, 17564, 17787, 18010, 18233, 18456, 18604, 18827, 19050, 19421, 19569, 19792, 20015, 20238, 20461, 20609, 20832, 20980, 21128, 21276, 21424, 21572, 21795, 22162, 22310, 22458, 22606, 22754, 22902, 23050, 23198, 23346, 23494, 23642, 23790, 23938, 24086, 24234, 24382, 24530, 24678, 24826, 24974, 25122, 25270, 25418, 25566, 25714, 25862, 26010, 26158, 26306, 26454, 26602, 26750, 26898, 27046, 27194, 27342, 27490, 27638, 27786, 27934, 28082]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.MAVEN_PROJECTBASEDIR')","[37591, 37647]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.CountryDAO.class')",[13860]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestFailureClass(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[6734, 6755, 6776]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'validateFailureTraceRowFieldValuesTestCellId(com.ericsson.msc.group5.dataIOConsistencyChecks.ValidatorServiceEJBTest)')","[7049, 10343]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGeneratedMethods(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1471, 1492, 1513]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.specification.name')","[31828, 31884]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.dao.ErrorLogDAO')",[11190]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'basicAuthentication(com.ericsson.msc.group5.rest.UserRESTResourceTest)')","[3228, 9200]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'checkIfValidDate(com.ericsson.msc.group5.dataIOConsistencyChecks.DateValidatorTest)')","[5081, 5102, 5123, 9800]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.HOME')","[35670, 35726]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'checkIfValidDate(com.ericsson.msc.group5.dataIOConsistencyChecks.DateValidatorTest)')","[5060, 9780]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'user.name')","[29455, 29511]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.DataImportServiceEJB$ExcelDataSheet.class')",[19198]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'env.QT_QPA_PLATFORMTHEME')","[33071, 33127]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.services.ejb.test.PasswordGeneratorServiceEJBTest')","[38437, 38457, 38478, 38498]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAllCountryCodeNetworkCodes(com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAOTest)')","[3415, 9282]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.runtime.version')","[29342, 29398]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.entities.CountryTest.class')",[27711]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.awt.graphicsenv')","[36235, 36291]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFormatDateStringAsTimestamp(com.ericsson.msc.group5.services.ejb.test.DateUtilityServiceEJBTest)')","[1967, 1988, 2009]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.UserDAO.class')",[13120]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGeneratedMethods(com.ericsson.msc.group5.entities.CountryCodeNetworkCodeTest)')","[1450, 8562]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLogger(com.ericsson.msc.group5.services.ejb.test.LogDetailsRetrieverTest)')","[2732, 9015]"
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'sun.cpu.isalist')","[31263, 31319]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.services.ejb.CountryCodeNetworkCodeServiceEJB.class')",[17266]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.dao.jpa.JPACountryCodeNetworkCodeDAO.class')",[11486]
+"('PropertiesParser.java', 'org.jboss.arquillian.config.impl.extension.PropertiesParser', 'filterProperties', 'arq\\..*', 'java.home')","[32167, 32223]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ericsson.msc.group5.entities.FailureClassTest')",[784]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'validateCauseCode(com.ericsson.msc.group5.dataIOConsistencyChecks.CauseCodeValidatorTest)')","[7818, 7839, 7860, 10591]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInsertion(com.ericsson.msc.group5.dao.jpa.JPACountryDAOTest)')","[4688, 4709, 4730, 9656]"
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Exclude', 'apply', 'java.lang.Object', 'com.ericsson.msc.group5.services.LogDetailsRetrieverService')",[19644]
+"('FilterBuilder.java', 'org.reflections.util.FilterBuilder$Include', 'apply', '.*', 'com.ericsson.msc.group5.rest.UserRESTResource.class')",[14304]

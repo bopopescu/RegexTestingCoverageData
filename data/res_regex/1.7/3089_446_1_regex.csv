@@ -1,0 +1,104 @@
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.DelegatingMethodAccessorImpl')",[464]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet', '/deletePet')",[8240]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/getAddressBook/myBook')","[2066, 2242, 3056, 3232, 4498, 4674]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet/([^/]+?)', '/addPet')","[8716, 9790, 10600]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/getPetString/myPet')","[7420, 8540]"
+"('MvelRequestBinder.java', 'com.google.sitebricks.binding.MvelRequestBinder', 'validate', '[\\w\\.$]*', 'update')","[1516, 1553, 4023, 4060, 5465, 5502]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'com.ning.http.client.AsyncHttpClient')","[203, 232]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/updateAddressBook')","[1373, 3880, 5322]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/myBook')","[945, 1415, 1934, 2462, 2924, 3452, 3922, 4366, 4894, 5364, 5808]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainXmlHello/([^/]+?)', '/sayPlainXmlHello/sonatype')",[6552]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/deleteAddressBook/myBook')","[2572, 2704]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/myBook')","[923, 1394, 1912, 2440, 2902, 3430, 3901, 4344, 4872, 5343, 5786]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.jboss.netty.logging.InternalLoggerFactory')",[29]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPetString', '/getPetString')","[7332, 8452]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/')","[813, 1289, 1802, 2330, 2792, 3320, 3796, 4234, 4762, 5238, 5676]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/deleteAddressBook')",[2352]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPetString/([^/]+?)', '/getPet/myPet')",[7168]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet/([^/]+?)', '/getPet/myPet')","[7212, 9526, 9658, 10336, 10468, 11146, 11278, 11582]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainJsonHello/([^/]+?)', '/sayPlainHtmlHello/sonatype')",[6156]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet', '/getPet')",[7012]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainTextHello/([^/]+?)', '/sayPlainXmlHello/sonatype')",[6464]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/')","[8628, 9042, 9306, 9702, 10116, 10512, 10926]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.ThreadPoolExecutor$Worker')",[696]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/myPet')","[8738, 9152, 9416, 9812, 10226, 10622, 11036]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.testng.internal.InvokeMethodRunnable')","[551, 580]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/deleteAddressBook')",[2374]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.lang.reflect.Constructor')",[174]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet', '/deletePet')",[8288]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/updateAddressBook')","[1352, 3859, 5301]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/')","[8606, 9020, 9284, 9680, 10094, 10490, 10904]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainJsonHello/([^/]+?)', '/sayPlainTextHello/sonatype')",[6332]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/getAddressBook')","[1868, 2858, 4300]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/myBook')","[967, 1436, 1956, 2484, 2946, 3474, 3943, 4388, 4916, 5385, 5830]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainJsonHello/([^/]+?)', '/sayPlainJsonHello/sonatype')","[6112, 6288]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/getPet')","[9350, 10160, 10970]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/deleteAddressBook/myBook')","[2528, 2616]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/')","[747, 1226, 1736, 2264, 2726, 3254, 3733, 4168, 4696, 5175, 5610]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet', '/deletePet')",[8264]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet/([^/]+?)', '/deletePet')",[9130]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/deleteAddressBook/myBook')","[2550, 2660]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPetString', '/getPet')",[6988]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/deletePet')",[9108]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainTextHello/([^/]+?)', '/sayPlainTextHello/sonatype')",[6376]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet', '/')","[6600, 6916, 7260, 7512, 7828, 8144, 8380]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainJsonHello/([^/]+?)', '/sayPlainXmlHello/sonatype')",[6420]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/getPet')","[9372, 10182, 10992]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/createAddressBook')","[879, 3386, 4828, 5742]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/getPet/myPet')","[7124, 9504, 9614, 10314, 10424, 11124, 11234, 11538]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/getAddressBook')","[1890, 2880, 4322]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/')","[769, 1247, 1758, 2286, 2748, 3276, 3754, 4190, 4718, 5196, 5632]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/createAddressBook')","[901, 3408, 4850, 5764]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet/([^/]+?)', '/myPet')","[8782, 9196, 9460, 9856, 10270, 10666, 11080]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/getAddressBook/myBook')","[2022, 2154, 3012, 3144, 4454, 4586]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/updateAddressBook/myBook')","[1478, 1670, 1714, 3985, 4102, 4146, 5427, 5544, 5588]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/createAddressBook/myBook')","[1011, 1075, 1161, 3518, 3582, 3668, 4960, 5024, 5110, 5874, 5938, 6024]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPetString', '/')","[6576, 6892, 7236, 7488, 7804, 8120, 8356]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.restsimple.client.WebAHCClient')",[348]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/deleteAddressBook')",[2418]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/getAddressBook/myBook')","[2000, 2110, 2990, 3100, 4432, 4542]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/createAddressBook/myBook')","[1033, 1117, 1205, 3540, 3624, 3712, 4982, 5066, 5154, 5896, 5980, 6068]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet/([^/]+?)', '/')","[8650, 9064, 9328, 9724, 10138, 10534, 10948]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/createAddressBook')","[857, 3364, 4806, 5720]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/addPet')","[8694, 9768, 10578]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/myPet')","[8760, 9174, 9438, 9834, 10248, 10644, 11058]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/addPet/myPet')","[6738, 6824, 7650, 7736, 7966, 8052, 8804, 8868, 8954, 9878, 9942, 10028, 10688, 10752, 10838, 11320, 11406]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet', '/')","[6624, 6940, 7284, 7536, 7852, 8168, 8404]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/updateAddressBook')","[1310, 3817, 5259]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.NativeConstructorAccessorImpl')","[87, 116]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/createAddressBook')","[835, 3342, 4784, 5698]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/deletePet')",[9086]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/updateAddressBook/([^/]+?)', '/getAddressBook')","[1824, 2814, 4256]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.FutureTask')",[638]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/')","[791, 1268, 1780, 2308, 2770, 3298, 3775, 4212, 4740, 5217, 5654]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainTextHello/([^/]+?)', '/sayPlainHtmlHello/sonatype')",[6200]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPetString/([^/]+?)', '/getPetString/myPet')","[7464, 8584]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.Executors$RunnableAdapter')",[609]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/updateAddressBook')","[1331, 3838, 5280]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/createAddressBook/([^/]+?)', '/getAddressBook')","[1846, 2836, 4278]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.testng.internal.MethodInvocationHelper')",[522]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getAddressBook/([^/]+?)', '/myBook')","[989, 1457, 1978, 2506, 2968, 3496, 3964, 4410, 4938, 5406, 5852]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.restsimple.acceptance.AddressBookTest')",[377]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet', '/')","[6648, 6964, 7308, 7560, 7876, 8192, 8428]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainHtmlHello/([^/]+?)', '/sayPlainXmlHello/sonatype')",[6508]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/deleteAddressBook')",[2396]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/getPet/myPet')","[7080, 9482, 9570, 10292, 10380, 11102, 11190, 11494]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet/([^/]+?)', '/addPet/myPet')","[6780, 6868, 7692, 7780, 8008, 8096, 8826, 8910, 8998, 9900, 9984, 10072, 10710, 10794, 10882, 11362, 11450]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/deletePet/myPet')","[8332, 9218, 9262]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deleteAddressBook/([^/]+?)', '/getAddressBook/myBook')","[2044, 2198, 3034, 3188, 4476, 4630]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/getPetString/myPet')","[7376, 8496]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.jboss.netty.channel.SimpleChannelUpstreamHandler')",[58]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/deletePet/([^/]+?)', '/addPet')","[8672, 9746, 10556]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.lang.reflect.Method')",[493]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.ThreadPoolExecutor')",[667]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPetString', '/deletePet')",[8216]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.DelegatingConstructorAccessorImpl')",[145]
+"('MvelRequestBinder.java', 'com.google.sitebricks.binding.MvelRequestBinder', 'validate', '[\\w\\.$]*', 'Accept')","[1591, 1628]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet', '/getPet')",[7036]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.spice.jersey.client.ahc.AhcHttpClient')","[261, 290, 319]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.lang.Thread')",[725]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPet/([^/]+?)', '/getPet')","[9394, 10204, 11014]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/sayPlainHtmlHello/([^/]+?)', '/sayPlainHtmlHello/sonatype')",[6244]
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/getPetString', '/addPet')","[6672, 7584, 7900]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'sun.reflect.NativeMethodAccessorImpl')","[406, 435]"
+"('UriPattern.java', 'org.sonatype.restsimple.spi.uri.UriPattern', 'match', '/addPet', '/addPet')","[6696, 7608, 7924]"

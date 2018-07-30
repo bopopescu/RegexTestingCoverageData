@@ -1,0 +1,106 @@
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'from org.mozilla:rhino:1.7R4')","[7708, 8936]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'repo central m2:http://repo1.maven.org/maven2/ ')",[8666]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '31BD0DEBEA9B2350ED9BA61871D9B796-SNAPSHOT')",[18261]
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'org.scala-lang')","[3358, 3421, 4726, 4793, 5134, 5202, 5408, 5476, 5740, 5808, 12792, 12855, 14160, 14227, 14568, 14636, 14842, 14910, 15174, 15242]"
+"('RemoteRepository.java', 'org.sonatype.aether.repository.RemoteRepository', 'getHost', '([^:/]+(:[^:/]{2,}+(?=://))?):(//([^@/]*@)?([^/:]+))?.*', 'http://repository.apache.org/snapshots')","[16564, 17709]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'from org.apache.commons:commons-lang3:3.1')",[15954]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.aether.connector.wagon.WagonRepositoryConnector')","[6063, 6079]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'from org.scala-lang:scala-library:2.9.2')","[3012, 12446]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '1.7R4')","[7817, 7879, 9433, 9499]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'isSnapshot', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '22')",[16369]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_HelloworldJava_NoArgs(examples.ExamplesITest)')",[73]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '260637A762F10CDF60EEADBE6ABF98C6-SNAPSHOT')",[18320]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'isSnapshot', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '2.9.2')","[3294, 3603, 4658, 5671, 6475, 6534, 12728, 13037, 14092, 15105, 15695, 15754]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'org.mozilla')","[8261, 8324, 9905, 9972]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_HelloworldScala_WithArgs_from_gist(examples.ExamplesITest)')",[98]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'from net.alchim31.runner:run_on_jvm:${rojVersion}')","[4410, 9316, 13844]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '2.9.2')","[3171, 3233, 4527, 4593, 5538, 5605, 12605, 12667, 13961, 14027, 14972, 15039]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'repo lib m2:file://${app.home}/lib')","[4248, 9154, 13682]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'scala-compiler')","[4861, 4928, 14295, 14362]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'repo central m2:http://repo1.maven.org/maven2/ ')",[8612]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_HelloworldJavascript_NoArgs(examples.ExamplesITest)')",[173]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'set scalaVersion 2.9.2')","[3760, 13194]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[516]
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'commons-io')","[17203, 17267, 17332, 17396]"
+"('RemoteRepository.java', 'org.sonatype.aether.repository.RemoteRepository', 'getProtocol', '([^:/]+(:[^:/]{2,}+(?=://))?):(//([^@/]*@)?([^/:]+))?.*', 'https://oss.sonatype.org/content/repositories/snapshots')","[8197, 9837]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '22')",[16303]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.lang.Thread')",[6159]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'from org.scala-lang:scala-library:2.9.2')","[3062, 12496]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[591]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', 'B0714E5F6F246B19BF17ABADE516259C-SNAPSHOT')",[17871]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_HelloworldJava_NoArgs_from_gist(examples.ExamplesITest)')",[198]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '72224813845F8F3FE05ED46210771739-SNAPSHOT')",[18372]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'set rojVersion 0.3.0-SNAPSHOT')","[4140, 9046, 13574]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.jboss.netty.logging.InternalLoggerFactory')",[5983]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'from dir:MyLib.java')",[17921]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[826, 986, 1294, 1448, 1590, 1732, 1894, 2056, 2368, 2524, 2668, 2812, 6696, 6858, 7002, 7146, 7302, 7458, 10518, 10678, 10820, 10962, 11116, 11270, 11432, 11594, 11738, 11882, 12038, 12194]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'easymock')","[17461, 17525]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '69922D00A8E0D75440D6B1845565565E-SNAPSHOT')",[12246]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'from org.scala-lang:scala-library:2.9.2')","[2962, 12396]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'from dir:MyLib2.java')",[18195]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '3.1')","[16113, 16175]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', 'A2D310185C39A5C857232A37A5942F2E-SNAPSHOT')","[325, 441]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.aether.connector.wagon.WagonRepositoryConnector$GetTask')",[6095]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'from dir:MyLib.java')",[18021]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'from org.apache.commons:commons-lang3:3.1')",[16004]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '0.3.1-SNAPSHOT')","[6220, 6286, 10168, 10234, 15440, 15506]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'repo central m2:http://repo1.maven.org/maven2/ ')",[8720]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '9')",[16436]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[746, 906, 1217, 1371, 1519, 1661, 1813, 1975, 2290, 2446, 2596, 2740, 6615, 6777, 6930, 7074, 7224, 7380, 10438, 10598, 10749, 10891, 11039, 11193, 11351, 11513, 11666, 11810, 11960, 12116]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'from dir:MyLib.java')",[17971]
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'commons-lang3')","[16817, 16880]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'from org.scala-lang:scala-compiler:${scalaVersion}')","[3976, 13410]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.jboss.netty.channel.SimpleChannelUpstreamHandler')",[5999]
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.ThreadPoolExecutor')",[6127]
+"('DefaultArtifact.java', 'org.sonatype.aether.util.artifact.DefaultArtifact', '<init>', '([^: ]+):([^: ]+)(:([^: ]*)(:([^: ]+))?)?:([^: ]+)', 'org.mozilla:rhino:1.7R4')","[7760, 8992]"
+"('DefaultArtifact.java', 'org.sonatype.aether.util.artifact.DefaultArtifact', '<init>', '([^: ]+):([^: ]+)(:([^: ]*)(:([^: ]+))?)?:([^: ]+)', 'org.apache.commons:commons-lang3:3.1')",[16056]
+"('DefaultArtifact.java', 'org.sonatype.aether.util.artifact.DefaultArtifact', '<init>', '([^: ]+):([^: ]+)(:([^: ]*)(:([^: ]+))?)?:([^: ]+)', 'org.scala-lang:scala-library:2.9.2')","[3114, 12548]"
+"('RemoteRepository.java', 'org.sonatype.aether.repository.RemoteRepository', 'getProtocol', '([^:/]+(:[^:/]{2,}+(?=://))?):(//([^@/]*@)?([^/:]+))?.*', 'http://repo1.maven.org/maven2/')","[5956, 6351, 15571]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'org.easymock')","[17590, 17654]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[666]
+"('RemoteRepository.java', 'org.sonatype.aether.repository.RemoteRepository', 'getProtocol', '([^:/]+(:[^:/]{2,}+(?=://))?):(//([^@/]*@)?([^/:]+))?.*', 'http://repository.apache.org/snapshots')","[16626, 17764]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_HelloworldScala29_WithArgs(examples.ExamplesITest)')",[223]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '9B6CE4EB29B0D936DAA13F5CEC77B931-SNAPSHOT')",[13089]
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'junit')","[16945, 17009, 17074, 17138]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '7')","[8007, 9635]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'repo lib m2:file://${app.home}/lib')","[4194, 9100, 13628]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'from net.alchim31.runner:run_on_jvm:${rojVersion}')","[4356, 9262, 13790]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_HelloworldJava_WithArgs(examples.ExamplesITest)')",[48]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'isSnapshot', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '3.1')","[16236, 17819]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'from org.scala-lang:scala-compiler:${scalaVersion}')","[3922, 13356]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.apache.maven.wagon.AbstractWagon')","[6031, 6047]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'scala-library')","[3485, 3548, 4997, 5065, 5877, 5945, 12919, 12982, 14431, 14499, 15311, 15379]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'from dir:MyLib2.java')",[18079]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 't(examples.ExamplesITest)')",[123]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_main_with_local_deps(examples.ExamplesITest)')",[273]
+"('FloatingDecimal.java', 'sun.misc.FloatingDecimal', 'parseHexString', '([-+])?0[xX](((\\p{XDigit}+)\\.?)|((\\p{XDigit}*)\\.(\\p{XDigit}+)))[pP]([-+])?(\\p{Digit}+)[fFdD]?', '0x1.0p1')",[389]
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB', 'ECB')","[1063, 2134]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'from org.mozilla:rhino:1.7R4')","[7608, 8828]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'from org.apache.commons:commons-lang3:3.1')",[15904]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'isSnapshot', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '9')",[16502]
+"('CompilerServiceProvider.java', 'net_alchim31_runner.CompilerServiceProvider', 'findScalaVersion', 'scala-library-(.*)\\.jar', 'scala-library-2.9.2.jar')","[3706, 13140]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_InvalidUrl_500_from_gist(examples.ExamplesITest)')",[148]
+"('DefaultArtifact.java', 'org.sonatype.aether.util.artifact.DefaultArtifact', '<init>', '([^: ]+):([^: ]+)(:([^: ]*)(:([^: ]+))?)?:([^: ]+)', 'org.scala-lang:scala-compiler:2.9.2')","[4086, 13520]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'examples.ExamplesITest')",[23]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'from dir:MyLib2.java')",[18137]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'repo central m2:http://repo1.maven.org/maven2/')","[2912, 3868, 7558, 12346, 13302, 15854]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'jline')","[5271, 5339, 14705, 14773]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.maven.wagon.AhcWagon')",[6015]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'repo central m2:http://repo1.maven.org/maven2/')","[2862, 3814, 7508, 12296, 13248, 15804]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'from\\s+(\\S+)\\s*(provided|compile)?', 'from org.scala-lang:scala-compiler:${scalaVersion}')","[4030, 13464]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'org.sonatype.aether.util.concurrency.RunnableErrorForwarder$1')",[6111]
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'mainClassName\\s+(\\S+)', 'repo central m2:http://repo1.maven.org/maven2/ ')",[8774]
+"('RemoteRepository.java', 'org.sonatype.aether.repository.RemoteRepository', 'getProtocol', '([^:/]+(:[^:/]{2,}+(?=://))?):(//([^@/]*@)?([^/:]+))?.*', 'file:///home/pwang7/RepoReaper/3027_332/target/run_on_jvm-0.3.1-SNAPSHOT-app/run_on_jvm-0.3.1-SNAPSHOT/lib')","[5967, 6416, 10299, 15636]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '39DC12C71F1DF3B065EA1FCAA0DCF1BB-SNAPSHOT')",[3655]
+"('DefaultArtifact.java', 'org.sonatype.aether.util.artifact.DefaultArtifact', '<init>', '([^: ]+):([^: ]+)(:([^: ]*)(:([^: ]+))?)?:([^: ]+)', 'net.alchim31.runner:run_on_jvm:0.3.1-SNAPSHOT')","[4466, 9372, 13900]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'org.apache.commons')","[16690, 16753]"
+"('StackTraceSimplifier.java', 'org.jboss.netty.util.internal.StackTraceSimplifier', 'simplify', '^org\\.jboss\\.netty\\.(util\\.(ThreadRenamingRunnable|internal\\.DeadLockProofWorker)|channel\\.(SimpleChannel(Upstream|Downstream)?Handler|(Default|Static)ChannelPipeline.*))(\\$.*)?$', 'java.util.concurrent.ThreadPoolExecutor$Worker')",[6143]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'run_escape_html_with_deps(examples.ExamplesITest)')",[248]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'isSnapshot', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '7')","[8073, 9705]"
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'toBaseVersion', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '28E8838D4FC404C902F5FDF5A3ED7444-SNAPSHOT')",[8558]
+"('AbstractArtifact.java', 'org.sonatype.aether.util.artifact.AbstractArtifact', 'isSnapshot', '^(.*-)?([0-9]{8}.[0-9]{6}-[0-9]+)$', '1.7R4')","[7940, 8506, 9564, 10358]"
+"('RemoteRepository.java', 'org.sonatype.aether.repository.RemoteRepository', 'getHost', '([^:/]+(:[^:/]{2,}+(?=://))?):(//([^@/]*@)?([^/:]+))?.*', 'https://oss.sonatype.org/content/repositories/snapshots')","[8135, 9771]"
+"('DefaultModelValidator.java', 'org.apache.maven.model.validation.DefaultModelValidator', 'validateId', '[A-Za-z0-9_\\-.]+', 'rhino')","[8388, 8451, 10040, 10107]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'set\\s+(\\S+)\\s+(\\S+)', 'from net.alchim31.runner:run_on_jvm:${rojVersion}')","[4302, 9208, 13736]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS1PADDING|OAEPWITHMD5ANDMGF1PADDING|OAEPWITHSHA1ANDMGF1PADDING|OAEPWITHSHA-1ANDMGF1PADDING|OAEPWITHSHA-256ANDMGF1PADDING|OAEPWITHSHA-384ANDMGF1PADDING|OAEPWITHSHA-512ANDMGF1PADDING', 'PKCS1PADDING')","[1140, 2212]"
+"('ScriptService.java', 'net_alchim31_runner.ScriptService', 'parseData', 'repo\\s+(\\S+)\\s+m2:((http|file):\\S+)', 'from org.mozilla:rhino:1.7R4')","[7658, 8882]"

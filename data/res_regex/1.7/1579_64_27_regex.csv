@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBranchingSourceMultipleTimes(eu.stratosphere.pact.compiler.BranchingPlansCompilerTest)')","[137, 266]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBranchingWithMultipleDataSinks(eu.stratosphere.pact.compiler.BranchingPlansCompilerTest)')","[179, 310]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPartitionDoPChange(eu.stratosphere.pact.compiler.PartitionDOPChangeTest)')","[57, 222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBranchingUnion(eu.stratosphere.pact.compiler.BranchingPlansCompilerTest)')","[200, 332]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUnionPropertyPropagation(eu.stratosphere.pact.compiler.UnionPropertyPropagationTest)')","[97, 244]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBranchEachContractType(eu.stratosphere.pact.compiler.BranchingPlansCompilerTest)')","[158, 288]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.pact.compiler.BranchingPlansCompilerTest')","[116, 409]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.pact.compiler.UnionPropertyPropagationTest')","[76, 386]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'eu.stratosphere.pact.compiler.PartitionDOPChangeTest')","[36, 359]"

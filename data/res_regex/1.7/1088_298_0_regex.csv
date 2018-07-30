@@ -1,0 +1,94 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'npmConversionTest(org.kurento.modulecreator.test.VersionManagerTest)')","[889, 1758]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'event_class_cpp.ftl')",[3462]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.ImportModulesTest')","[4462, 4482, 4503, 4523]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNumericalVersions(org.kurento.modulecreator.test.VersionManagerTest)')","[721, 1716]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_impl_cpp.ftl')",[3810]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.CustomMavenPomTest')",[971]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_fiware_wiki.ftl')",[3984]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.VersionManagerTest')",[616]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_interface_hpp.ftl')",[3578]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.ImportModulesTest)')","[1406, 1427, 1448, 1943]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^bower\\.json$', 'customizer.json')",[2575]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^bower\\.json$', 'customnpm')",[2439]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.CustomNpmPackTest')","[2810, 2834, 2859, 2883]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^bower\\.json$', 'generated.json')",[2507]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'complexType_class_cpp.ftl')",[3433]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.NamespacesTest')","[4368, 4392, 4417, 4441]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_readme_md.ftl')","[2725, 4187]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSatisDep(org.kurento.modulecreator.test.ImportModulesWithRangesTest)')","[181, 202, 223, 1530]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'mavenConversionTest(org.kurento.modulecreator.test.VersionManagerTest)')","[826, 847, 868]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.NpmVersionTest)')","[57, 1469]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.ReleaseModuleWithDevDependTest')","[2164, 2188, 2213, 2237]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^package\\.json$', 'customnpm')",[2270]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^package\\.json$', 'customizer.json')",[2406]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^bower\\.json$', 'moduleA.kmd.json')",[2541]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^pom\\.xml$', 'moduleA.kmd.json')",[3184]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^pom\\.xml$', 'generated.xml')",[3082]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.ImportModulesTest)')","[1385, 1923]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.CodeGenerationTest')","[4270, 4294, 4319, 4343]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'xmlFusionerTest(org.kurento.modulecreator.test.CustomMavenPomTest)')","[1097, 1118, 1139]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_Module_cpp.ftl')",[3665]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'mavenConversionTest(org.kurento.modulecreator.test.VersionManagerTest)')","[805, 1737]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'complexType_class_hpp.ftl')",[3520]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^package\\.json$', 'package.json')",[2304]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^pom\\.xml$', 'custommaven')",[3014]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_dependencies_cmake.ftl')",[3375]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_impl_hpp.ftl')",[3752]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInsatisDep(org.kurento.modulecreator.test.ImportModulesWithRangesTest)')","[244, 1551]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^pom\\.xml$', 'pom.xml_mvn')",[3218]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_internal_hpp.ftl')",[3607]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.ImportModulesWithRangesTest')",[139]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.CustomNpmPackTest)')","[471, 492, 513, 1633]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_Gruntfile_js.ftl')","[2665, 4129]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_find_cmake.ftl')",[3404]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.NpmVersionTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.NpmVersionTest)')","[78, 99, 120, 1489]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.ReleaseModuleWithDevDependTest')",[326]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.CodeGenerationTest')",[1158]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_OpenCvFilter_cpp.ftl')","[3781, 3868]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^pom\\.xml$', 'pom.xml')",[3116]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_browser_js.ftl')","[2785, 4245]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.NamespacesTest')",[1261]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.NpmVersionTest')","[1968, 1992, 2017, 2041]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_internal_cpp.ftl')","[3636, 3955]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_npmignore.ftl')","[2695, 4158]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.CustomNpmPackTest')",[429]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.NamespacesTest)')","[1282, 1882]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_OpenCvFilter_hpp.ftl')","[3723, 3839]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.CodeGenerationTest)')","[1179, 1841]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSatisDep(org.kurento.modulecreator.test.ImportModulesWithRangesTest)')","[160, 1510]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.ReleaseModuleWithDevDependTest)')","[347, 1572]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_kurento_doc.ftl')",[4013]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.CustomNpmPackTest)')","[450, 1613]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.NamespacesTest)')","[1303, 1324, 1345, 1902]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNumericalVersions(org.kurento.modulecreator.test.VersionManagerTest)')","[742, 763, 784]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_interface_cpp.ftl')",[3549]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'jsonFusionerTest(org.kurento.modulecreator.test.CustomNpmPackTest)')","[555, 576, 597]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInsatisDep(org.kurento.modulecreator.test.ImportModulesWithRangesTest)')","[265, 286, 307]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.VersionManagerTest')","[2908, 2932, 2957, 2981]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_readme_bower_md.ftl')","[2635, 4100]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_package_json.ftl')","[2755, 4216]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^package\\.json$', 'generated.json')",[2338]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCompatibleVersions(org.kurento.modulecreator.test.VersionManagerTest)')","[637, 1675]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^bower\\.json$', 'package.json')",[2473]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_pc.in.ftl')",[3694]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'remoteClass_factory_hpp.ftl')",[3897]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.CustomMavenPomTest)')","[1013, 1034, 1055, 1799]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'npmConversionTest(org.kurento.modulecreator.test.VersionManagerTest)')","[910, 931, 952]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.CodeGenerationTest)')","[1200, 1221, 1242, 1861]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'event_class_hpp.ftl')",[3491]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_SerializerExpander_cpp.ftl')",[3926]
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^pom\\.xml$', 'pom.xml_original')",[3150]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.ImportModulesWithRangesTest')","[2066, 2090, 2115, 2139]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'xmlFusionerTest(org.kurento.modulecreator.test.CustomMavenPomTest)')","[1076, 1820]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.CustomMavenPomTest')","[3273, 3297, 3322, 3346]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.CustomMavenPomTest)')","[992, 1779]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^pom\\.xml$', 'customizer.xml')",[3048]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.kurento.modulecreator.test.ImportModulesTest')",[1364]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(org.kurento.modulecreator.test.ReleaseModuleWithDevDependTest)')","[368, 389, 410, 1592]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCompatibleVersions(org.kurento.modulecreator.test.VersionManagerTest)')","[658, 679, 700, 1695]"
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_gitignore.ftl')","[2605, 4071]"
+"('PathUtils.java', 'org.kurento.modulecreator.PathUtils$Finder', 'find', '^package\\.json$', 'moduleA.kmd.json')",[2372]
+"('Files.java', 'java.nio.file.Files$1', 'accept', '^[^/]*\\.ftl$', 'model_pom_xml.ftl')","[3248, 4042]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'jsonFusionerTest(org.kurento.modulecreator.test.CustomNpmPackTest)')","[534, 1654]"

@@ -1,0 +1,78 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_get_root_path_for_root_context(co.mewf.minirs.route.RouteRequestTest)')","[532, 1242]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_get_query_params_from_query_string(co.mewf.minirs.route.RouteRequestTest)')","[616, 1326]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/\\E)', '/sub')",[3205]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_null_for_missing_form_param(co.mewf.minirs.route.RouterTest)')","[219, 948]"
+"('Expression.java', 'co.mewf.minirs.internal.com.damnhandy.uri.template.Expression', 'validateVarname', '([\\w\\_\\.]|%[A-Fa-f0-9]{2})+', 'name')","[1720, 1806, 1940, 2026, 2215, 2521, 2607, 2834, 2920, 3133, 3291, 3456, 3693, 3776]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_convert_to_int_and_Integer(co.mewf.minirs.convert.ConverterTest)')","[57, 843]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/formWithDefault')","[1744, 1964]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_fall_back_to_default_provider(co.mewf.minirs.servlet.MiniRsServletContextInitializerTest)')","[780, 1452]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/convert/ints/\\E)((?<i1>[^\\/]+))(\\Q/\\E)((?<i2>[^\\/]+))', '/convert/ints/5/7')",[1580]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_query_params(co.mewf.minirs.route.RouterTest)')","[492, 1221]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/\\E)((?<id>[^\\/]+))', '/123')",[3633]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_path_params_with_implicit_and_explicit_names(co.mewf.minirs.route.RouterTest)')","[387, 1116]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/templates/1/sub/my_name')","[2631, 2858]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<nameParam>[^\\/]+))', '/templates/1/sub/my_name')",[2717]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_multiple_params(co.mewf.minirs.route.PathPatternTest)')","[719, 1410]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/query\\E)', '/sub')",[3229]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/formWithDefault\\E)', '/')",[2968]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/')","[2239, 2944]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_default_value_for_missing_form_param(co.mewf.minirs.route.RouterTest)')","[198, 927]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_not_match_greedily(co.mewf.minirs.route.PathPatternTest)')","[740, 1431]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_path_params_with_fixed_path(co.mewf.minirs.route.RouterTest)')","[408, 1137]"
+"('Expression.java', 'co.mewf.minirs.internal.com.damnhandy.uri.template.Expression', 'validateVarname', '([\\w\\_\\.]|%[A-Fa-f0-9]{2})+', 'i2')",[1556]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/\\E)', '/query')",[3528]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/form\\E)', '/')",[3016]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/sub')",[3157]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.minirs.route.PathPatternTest')","[656, 3878]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/queryWithImplicitNames\\E)', '/query')",[3504]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))', '/sub')",[3071]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_find_method_with_sub_path(co.mewf.minirs.route.RouterTest)')","[450, 1179]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_not_get_form_param_from_query_string(co.mewf.minirs.route.RouteRequestTest)')","[595, 1305]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.minirs.route.RouteRequestTest')","[511, 3580]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/formWithImplicitNames\\E)', '/')",[2992]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_form_params(co.mewf.minirs.route.RouterTest)')","[261, 990]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_return_http_method(co.mewf.minirs.route.RouteRequestTest)')","[637, 1347]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_find_get_on_root_path(co.mewf.minirs.route.RouterTest)')","[282, 1011]"
+"('Expression.java', 'co.mewf.minirs.internal.com.damnhandy.uri.template.Expression', 'validateVarname', '([\\w\\_\\.]|%[A-Fa-f0-9]{2})+', 'i1')",[1525]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/123')",[3716]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_not_match_wrong_url(co.mewf.minirs.route.PathPatternTest)')","[698, 1389]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/query')",[3480]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.minirs.convert.ConverterTest')","[36, 1606]"
+"('Expression.java', 'co.mewf.minirs.internal.com.damnhandy.uri.template.Expression', 'validateVarname', '([\\w\\_\\.]|%[A-Fa-f0-9]{2})+', 'nameParam')","[2325, 2693]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_query_params_with_implicit_names(co.mewf.minirs.route.RouterTest)')","[345, 1074]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/queryWithImplicitNames\\E)', '/')",[2263]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_post_to_root_path(co.mewf.minirs.route.RouterTest)')","[429, 1158]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))', '/queryWithImplicitNames')",[2459]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/queryWithImplicitNames')",[2545]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_path_param(co.mewf.minirs.route.RouterTest)')","[324, 1053]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_get_form_params_from_request_body(co.mewf.minirs.route.RouteRequestTest)')","[553, 1263]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))', '/query')",[3394]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_prefer_first_party_provider_to_third_party_or_default_provider(co.mewf.minirs.servlet.MiniRsServletContextInitializerTest)')","[801, 1473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.minirs.rs.core.MiniRsUriBuilderTest')","[116, 1658]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.minirs.route.RouterTest')","[177, 3554]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/formWithImplicitNames\\E)', '/form')","[1878, 2098]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/formWithDefault\\E)', '/formWithImplicitNames')",[3339]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))', '/templates/1/sub/my_name')",[2772]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/formWithImplicitNames')",[3315]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<nameParam>[^\\/]+))', '/')",[2349]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_build_uri_from_class_annotation(co.mewf.minirs.rs.core.MiniRsUriBuilderTest)')","[137, 885]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_add_path_to_uri(co.mewf.minirs.rs.core.MiniRsUriBuilderTest)')","[158, 906]"
+"('Expression.java', 'co.mewf.minirs.internal.com.damnhandy.uri.template.Expression', 'validateVarname', '([\\w\\_\\.]|%[A-Fa-f0-9]{2})+', 'id')","[1689, 1775, 1909, 1995, 2129, 2184, 2294, 2380, 2435, 2490, 2576, 2662, 2748, 2803, 2889, 3047, 3102, 3260, 3370, 3425, 3610, 3663, 3746, 3829]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_set_headers(co.mewf.minirs.rs.core.MiniRsResponseBuilderTest)')","[97, 864]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_get_root_path_from_url(co.mewf.minirs.route.RouteRequestTest)')","[574, 1284]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_path_params_with_implicit_name(co.mewf.minirs.route.RouterTest)')","[366, 1095]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.minirs.rs.core.MiniRsResponseBuilderTest')","[76, 1632]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_single_param(co.mewf.minirs.route.PathPatternTest)')","[677, 1368]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/123/sub/anybody')",[3799]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'co.mewf.minirs.servlet.MiniRsServletContextInitializerTest')","[759, 3900]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/\\E)((?<id>[^\\/]+))', '/123/sub')",[3852]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_provide_form_params_with_implicit_names(co.mewf.minirs.route.RouterTest)')","[471, 1200]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_override_default_value_for_form_param(co.mewf.minirs.route.RouterTest)')","[240, 969]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_put_to_root_path(co.mewf.minirs.route.RouterTest)')","[303, 1032]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))', '/templates/1')",[2404]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/queryWithImplicitNames\\E)', '/sub')",[3181]
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))(\\Q/sub/\\E)((?<name>[^\\/]+))', '/form')","[1830, 2050]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/formWithDefault\\E)', '/form')","[1854, 2074]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_prefer_third_party_provider_to_default_provider(co.mewf.minirs.servlet.MiniRsServletContextInitializerTest)')","[822, 1494]"
+"('PathPattern.java', 'co.mewf.minirs.route.PathPattern', 'matcher', '(\\Q/templates/\\E)((?<id>[^\\/]+))', '/')",[2153]

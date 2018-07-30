@@ -1,0 +1,6 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'positiveMatching(cc.recommenders.testutils.LoggerUtilsTest)')","[57, 139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'negativeMatching(cc.recommenders.testutils.LoggerUtilsTest)')","[78, 160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'cc.recommenders.testutils.LoggerUtilsTest')","[36, 207]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'cc.recommenders.testutils.SerializationTest')","[97, 229]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'simpleRoundtrip(cc.recommenders.testutils.SerializationTest)')","[118, 181]"

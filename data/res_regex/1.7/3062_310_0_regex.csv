@@ -1,0 +1,31 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testClean(nl.irp.sepa.IBANUtilsTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testING(nl.irp.sepa.SEPACreditTransferTest)')","[527, 952]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nl.irp.sepa.IBANUtilsTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMakeReadable(nl.irp.sepa.IBANUtilsTest)')","[78, 99, 120, 807]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testING(nl.irp.sepa.SEPACreditTransferTest)')","[547, 567, 587]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(nl.irp.sepa.BankToCustomerStatementTest)')","[328, 870]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testABN(nl.irp.sepa.DirectDebitInitiationTest)')","[626, 973]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testABN(nl.irp.sepa.SEPACreditTransferTest)')","[467, 487, 507, 931]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testING(nl.irp.sepa.DirectDebitInitiationTest)')","[706, 1014]"
+"('Utils.java', 'nl.irp.sepa.sdd.Utils', 'createFinInstnId', '([a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}([a-zA-Z0-9]{3})?)', 'NBAGDE3E')",[1589]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nl.irp.sepa.DirectDebitInitiationTest')",[606]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMakeReadable(nl.irp.sepa.IBANUtilsTest)')","[57, 787]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testClean(nl.irp.sepa.IBANUtilsTest)')","[141, 828]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nl.irp.sepa.SEPACreditTransferTest')","[1349, 1397, 1446, 1494]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nl.irp.sepa.BankToCustomerStatementTest')","[1787, 1807, 1828, 1848]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(nl.irp.sepa.BankToCustomerStatementTest)')","[349, 370, 391, 890]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testValidate(nl.irp.sepa.IBANUtilsTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nl.irp.sepa.IBANUtilsTest')","[1039, 1063, 1088, 1112]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nl.irp.sepa.DirectDebitInitiationTest')","[1705, 1725, 1746, 1766]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testING(nl.irp.sepa.DirectDebitInitiationTest)')","[726, 746, 766]"
+"('Utils.java', 'nl.irp.sepa.Utils', 'createFinInstnId', '([a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}([a-zA-Z0-9]{3})?)', 'RABONL2U')",[1206]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testABN(nl.irp.sepa.DirectDebitInitiationTest)')","[646, 666, 686, 993]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nl.irp.sepa.BankToCustomerStatementTest')",[307]
+"('Utils.java', 'nl.irp.sepa.Utils', 'createFinInstnId', '([a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}([a-zA-Z0-9]{3})?)', 'ABNANL2A')",[1159]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nl.irp.sepa.SEPACreditTransferTest')",[427]
+"('Utils.java', 'nl.irp.sepa.sdd.Utils', 'createFinInstnId', '([a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}([a-zA-Z0-9]{3})?)', 'ABNADEFFFRA')",[1542]
+"('Utils.java', 'nl.irp.sepa.sdd.Utils', 'createFinInstnId', '([a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}([a-zA-Z0-9]{3})?)', 'INGBNL2A')","[1637, 1684]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testValidate(nl.irp.sepa.IBANUtilsTest)')","[225, 849]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 408]"
+"('Utils.java', 'nl.irp.sepa.Utils', 'createFinInstnId', '([a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}([a-zA-Z0-9]{3})?)', 'INGBNL2A')","[1253, 1300]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testABN(nl.irp.sepa.SEPACreditTransferTest)')","[447, 911]"

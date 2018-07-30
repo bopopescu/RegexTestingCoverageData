@@ -1,0 +1,19 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSingleStarWildCardAcceptsAnything(uk.co.bssd.reporting.chart.FilenameFilterTest)')","[141, 350]"
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.$', 'ABC')",[440]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.co.bssd.reporting.chart.FilenameFilterTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSingleQuestionMarkWildCardAcceptsOnlySingleCharacterStrings(uk.co.bssd.reporting.chart.FilenameFilterTest)')","[57, 309]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMixtureOfStarAndSingleQuestionMarkWildCardsWithTextInBetween(uk.co.bssd.reporting.chart.FilenameFilterTest)')","[225, 371]"
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.*$', 'AB')",[486]
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.*B.$', 'A')",[532]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.co.bssd.reporting.chart.FilenameFilterTest')","[622, 642, 663, 683]"
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.$', 'AB')",[417]
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.*$', 'ABC')",[509]
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.*B.$', 'AAABC')",[601]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMixtureOfStarAndSingleQuestionMarkWildCardsWithTextInBetween(uk.co.bssd.reporting.chart.FilenameFilterTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.*B.$', 'AB')",[555]
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.$', 'A')",[394]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSingleStarWildCardAcceptsAnything(uk.co.bssd.reporting.chart.FilenameFilterTest)')","[162, 183, 204]"
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.*$', 'A')",[463]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSingleQuestionMarkWildCardAcceptsOnlySingleCharacterStrings(uk.co.bssd.reporting.chart.FilenameFilterTest)')","[78, 99, 120, 329]"
+"('FilenameFilter.java', 'uk.co.bssd.reporting.chart.FilenameFilter', 'accept', '^.*B.$', 'ABC')",[578]

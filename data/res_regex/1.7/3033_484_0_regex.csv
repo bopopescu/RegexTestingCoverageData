@@ -1,0 +1,35 @@
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*and.*the.*$', 'and the')",[7428]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*and.*the.*$', 'Tree and he river')",[7476]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*and.*the.*$', 'Tree an the river')",[7404]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar.*$', 'com.yamanyar.esb.Main')",[7500]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^com\\..*$', 'com.microsoft')",[6704]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^com\\.yamanyar\\..*$', 'com.microsoft')",[6730]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMatch(com.yamanyar.mvn.plugin.utils.WildcardMatcherTest)')","[242, 266, 290, 352, 383, 414, 682, 706, 730, 812, 1129, 1159, 1189, 1270, 1298, 1326, 1396, 1431, 1466, 1774, 1802, 1830, 2280, 2308, 2336, 2411, 2437, 2463, 2529, 2562, 2595, 2883, 2909, 2935, 3274, 3306, 3338, 3425, 3455, 3485, 3559, 3596, 3633, 3961, 3991, 4021, 4560, 4595, 4630, 4726, 4759, 4792, 4872, 4912, 4952, 5310, 5343, 5376, 5770, 5807, 5844, 5946, 5981, 6016, 6100, 6142, 6184, 7010, 7050, 7090, 7174, 7216, 7258]"
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*$', 'com.other.Abc')",[6854]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*$', 'com.yamanyar.text.Abc')",[6904]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Ab.*\\.Test\\(\\)$', 'com.yamanyar.Abcd.Test()')",[7644]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^com\\.yamanyar\\..*$', 'com.yamanyar.text.Abc')",[6930]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.yamanyar.mvn.plugin.RestrictionConfigurationFactoryTest')","[7283, 7307, 7332, 7356]"
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Ab.*$', 'com.yamanyar.Abc')","[7596, 7692]"
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Abc\\.Test\\(\\)$', 'com.yamanyar.Abc.Test()')",[7548]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Ab.*\\.Te.*t\\(\\)$', 'com.yamanyar.Abcd.Test()')",[7740]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Abc$', 'com.yamanyar.Abc')",[7524]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMatch(com.yamanyar.mvn.plugin.utils.WildcardMatcherTest)')","[218, 321, 658, 792, 1099, 1242, 1361, 1746, 2252, 2385, 2496, 2857, 3242, 3395, 3522, 3931, 4525, 4693, 4832, 5277, 5733, 5911, 6058, 6970, 7132]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testProduceConfiguration(com.yamanyar.mvn.plugin.RestrictionConfigurationFactoryTest)')","[125, 149, 173, 476, 507, 538, 586, 610, 634, 771, 872, 902, 932, 1013, 1041, 1069, 1536, 1571, 1606, 1662, 1690, 1718, 1906, 1934, 1962, 2041, 2069, 2097, 2172, 2198, 2224, 2661, 2694, 2727, 2779, 2805, 2831, 2999, 3031, 3063, 3150, 3180, 3210, 3707, 3744, 3781, 3841, 3871, 3901, 4103, 4133, 4163, 4258, 4293, 4328, 4424, 4457, 4490, 5032, 5072, 5112, 5178, 5211, 5244, 5450, 5487, 5524, 5626, 5661, 5696, 6268, 6310, 6352, 6432, 6472, 6512, 6596, 6638, 6680]"
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Ab.*\\.Te.*t\\(\\)$', 'com.yamanyar.Abcd.UTest()')",[7764]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.yamanyar.mvn.plugin.utils.WildcardMatcherTest')","[7809, 7829, 7850, 7870]"
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Ab.*\\.Te.*t\\(\\)$', 'com.yamanyar.Abcd.TeUzzzZt()')",[7788]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.yamanyar.mvn.plugin.RestrictionConfigurationFactoryTest')","[56, 77, 957, 1985, 2120, 3090, 4188, 4358, 5556]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.yamanyar.mvn.plugin.utils.WildcardMatcherTest')","[194, 1214, 2359, 3365, 4660, 5876]"
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*$', 'anyValue')",[6804]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Abc$', 'com.yamanyar.Abcd')",[7572]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*and.*the.*$', 'andthe')",[7452]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*and.*the.*$', 'Tree and the river')",[7380]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^com\\.yamanyar\\..*$', 'com.other.Abc')",[6880]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^com\\..*$', 'com.yamanyar.test')",[6754]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^com\\.yamanyar\\..*$', 'anyValue')",[6830]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^com\\.yamanyar\\..*$', 'com.yamanyar.test')",[6780]
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Ab.*\\.Test\\(\\)$', 'com.yamanyar.Abcd.UTest()')",[7668]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 35, 1850, 4043]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testProduceConfiguration(com.yamanyar.mvn.plugin.RestrictionConfigurationFactoryTest)')","[101, 445, 562, 751, 842, 985, 1501, 1634, 1878, 2013, 2146, 2628, 2753, 2967, 3120, 3670, 3811, 4073, 4223, 4391, 4992, 5145, 5413, 5591, 6226, 6392, 6554]"
+"('WildcardMatcher.java', 'com.yamanyar.mvn.plugin.utils.WildcardMatcher', 'matchAgainstPattern', '^.*\\.yamanyar\\.Ab.*$', 'com.yamanyar.Abcd')","[7620, 7716]"

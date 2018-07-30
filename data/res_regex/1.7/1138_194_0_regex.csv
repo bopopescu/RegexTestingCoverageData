@@ -1,0 +1,84 @@
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '7 8 9 200 + - *')",[18485]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MathToken.class')",[3999]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '28')","[16617, 16645]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '&')","[16845, 16873]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '2')","[17550, 17578]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '140')","[18628, 18656]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Chain.class')",[15311]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q1138_194\\E', '1138_194')","[628, 1078, 1528, 1932, 2391, 2803, 3271, 3739, 4203, 4662, 5074, 5542, 6010, 6478, 6946, 7414, 7882, 8350, 8818, 9282, 9737, 10187, 10591, 11046, 11496, 11900, 12312, 12780, 13248, 13716, 14180, 14639, 15051, 15515, 15970]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '36')","[18939, 18967]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'parser')","[4458, 14435]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MathOperation.class')",[3063]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AddChain.class')",[5802]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DivideChain.class')",[7674]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '2 3 4 8 5 + - * /')",[18060]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TokenType.class')",[13040]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '4')","[17664, 17692]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidMalformedExpression(com.pavlovmedia.ExpressionTest)')","[204, 380]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[678, 1128, 1578, 1983, 2442, 2855, 3323, 3791, 4254, 4713, 5126, 5594, 6062, 6530, 6998, 7466, 7934, 8402, 8870, 9333, 9787, 10237, 10642, 11096, 11546, 11951, 12364, 12832, 13300, 13768, 14231, 14690, 15103, 15566, 16020]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '+ 18 28 48 + - &')",[16899]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Operation.class')",[13508]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'StartChain.class')",[6738]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '340')","[17042, 17070]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '7')","[18089, 18117]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '22')","[17296, 17324]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '21')","[16249, 16277]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '3')","[17607, 17635]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '24')","[18882, 18910]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '12 13 140 + -')",[18796]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpavlovmedia\\E', 'pavlovmedia')","[828, 1278, 1728, 2136, 2595, 3011, 3479, 3947, 4407, 4866, 5282, 5750, 6218, 6686, 7154, 7622, 8090, 8558, 9026, 9486, 9937, 10387, 10795, 11246, 11696, 12104, 12520, 12988, 13456, 13924, 14384, 14843, 15259, 15719, 16170]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidExpression3(com.pavlovmedia.ExpressionTest)')","[183, 358]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ExpressionTest.class')",[878]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Application.class')",[1328]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[528, 978, 1428, 1830, 2289, 2699, 3167, 3635, 4101, 4560, 4970, 5438, 5906, 6374, 6842, 7310, 7778, 8246, 8714, 9180, 9637, 10087, 10489, 10946, 11396, 11798, 12208, 12676, 13144, 13612, 14078, 14537, 14947, 15413, 15870]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'computation')","[9537, 15770]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '420')","[17410, 17438]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MultiplyChain.class')",[6270]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '5')","[17778, 17806]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Calculator.class')",[2187]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '33')","[17353, 17381]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SinChain.class')",[8142]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '-')","[16420, 16448, 16788, 16816, 17156, 17184, 17892, 17920, 18374, 18402, 18742, 18770, 19110, 19138]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MathExpression.class')",[3531]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PowerChain.class')",[5334]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EndChain.class')",[9078]
+"('FileSize.java', 'ch.qos.logback.core.util.FileSize', 'valueOf', '([0-9]+)\\s*(|kb|mb|gb)s?', '10MB')",[428]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '12')","[18514, 18542]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '21 31 + -')",[16474]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')",[9987]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidExpression1(com.pavlovmedia.ExpressionTest)')","[141, 314]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[578, 1028, 1478, 1881, 2340, 2751, 3219, 3687, 4152, 4611, 5022, 5490, 5958, 6426, 6894, 7362, 7830, 8298, 8766, 9231, 9687, 10137, 10540, 10996, 11446, 11849, 12260, 12728, 13196, 13664, 14129, 14588, 14999, 15464, 15920]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '22 33 420 +')",[17521]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidExpression2(com.pavlovmedia.ExpressionTest)')","[162, 336]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '*')","[17213, 17241, 17949, 17977, 18431, 18459, 19167, 19195]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidExpressionWithUnknownOperator(com.pavlovmedia.ExpressionTest)')","[78, 248]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[1178, 1628, 2034, 2493, 2907, 3375, 3843, 4305, 4764, 5178, 5646, 6114, 6582, 7050, 7518, 7986, 8454, 8922, 9384, 9837, 10287, 10693, 11146, 11596, 12002, 12416, 12884, 13352, 13820, 14282, 14741, 15155, 15617, 16070]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidExpressionWithLessOperators(com.pavlovmedia.ExpressionTest)')","[120, 292]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '13')","[18571, 18599]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')",[728]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '18')","[16560, 16588]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidExpressionWithMoreOperators(com.pavlovmedia.ExpressionTest)')","[57, 226]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '42')","[18996, 19024]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '112')","[16928, 16956]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '200')","[18260, 18288]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '9')","[18203, 18231]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[778, 1228, 1678, 2085, 2544, 2959, 3427, 3895, 4356, 4815, 5230, 5698, 6166, 6634, 7102, 7570, 8038, 8506, 8974, 9435, 9887, 10337, 10744, 11196, 11646, 12053, 12468, 12936, 13404, 13872, 14333, 14792, 15207, 15668, 16120]"
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '112 113 340 + - *')",[17267]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '48')","[16674, 16702]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[478, 928, 1378, 1779, 2238, 2647, 3115, 3583, 4050, 4509, 4918, 5386, 5854, 6322, 6790, 7258, 7726, 8194, 8662, 9129, 9587, 10037, 10438, 10896, 11346, 11747, 12156, 12624, 13092, 13560, 14027, 14486, 14895, 15362, 15820]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Expression.class')",[12572]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CosChain.class')",[8610]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isValid', '^[\\d\\s]+[\\D\\s]+$', '+ 24 36 42 + - *')",[19221]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '/')","[18006, 18034]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidExpressionWithExtraOperands(com.pavlovmedia.ExpressionTest)')","[99, 270]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'api')",[16220]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Token.class')",[13976]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '31')","[16306, 16334]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.pavlovmedia.ExpressionTest')","[36, 19244]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SubtractChain.class')",[7206]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '+')","[16363, 16391, 16503, 16531, 16731, 16759, 17099, 17127, 17467, 17495, 17835, 17863, 18317, 18345, 18685, 18713, 18825, 18853, 19053, 19081]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'adhoc')",[11296]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '113')","[16985, 17013]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'RegularExpression.class')",[10846]
+"('MathExpression.java', 'com.pavlovmedia.impl.parser.MathExpression', 'isNumeric', '[-+]?\\d*\\.?\\d+', '8')","[17721, 17749, 18146, 18174]"

@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldProcessJSONArrayString(com.atlantbh.jmeter.plugins.jsonutils.jsonformatter.JSONFormatterTest)')","[105, 171]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldProcessJSONObjectString(com.atlantbh.jmeter.plugins.jsonutils.jsonformatter.JSONFormatterTest)')","[59, 127]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""foo"":""bar""}')",[231]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldLetUnparseableJsonFallThrough(com.atlantbh.jmeter.plugins.jsonutils.jsonformatter.JSONFormatterTest)')","[82, 149]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.atlantbh.jmeter.plugins.jsonutils.jsonformatter.JSONFormatterTest')","[36, 314]"
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '<html><body><h1>Something bad happened</h1></body></html>')",[291]

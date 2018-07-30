@@ -1,0 +1,88 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetExtensions(com.hello2morrow.sonarplugin.api.SonargraphPluginTest)')",[1263]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInputOutputMetrics(com.hello2morrow.sonarplugin.measurecomputer.SonargraphHighestMeasureComputerTest)')",[745]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNothingComputedIfNoMeasuresFound(com.hello2morrow.sonarplugin.measurecomputer.SonargraphAggregatedMeasureComputerTest)')",[683]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateDuplicateCodeBlock(com.hello2morrow.sonarplugin.foundation.SonargraphUtilitiesTest)')",[351]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testThresholdWarning(com.hello2morrow.sonarplugin.processor.WarningProcessorTest)')",[1056]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetMetrics(com.hello2morrow.sonarplugin.metric.SonargraphSystemMetricsTest)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetBuildUnitNameString(com.hello2morrow.sonarplugin.foundation.SonargraphUtilitiesTest)')",[330]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLevels(com.hello2morrow.sonarplugin.foundation.AlertThresholdTest)')",[455]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.processor.WarningProcessorTest')","[2705, 2728, 2752, 2775]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNothingComputedIfNoMeasuresFound(com.hello2morrow.sonarplugin.measurecomputer.SonargraphAggregatedMeasureComputerTest)')",[703]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(com.hello2morrow.sonarplugin.foundation.PluginVersionReaderTest)')",[662]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.metric.SonargraphBuildUnitMetricsTest')","[1577, 1600, 1624, 1647]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInputOutputMetrics(com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest)')",[827]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreateRules(com.hello2morrow.sonarplugin.api.SonargraphRulesRepositoryTest)')",[1324]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetMetrics(com.hello2morrow.sonarplugin.metric.SonargraphBuildUnitMetricsTest)')",[123]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.foundation.PluginVersionReaderTest')","[2235, 2258, 2282, 2305]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleMetric(com.hello2morrow.sonarplugin.metric.SonargraphAlertThresholdsTest)')",[206]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetMetrics(com.hello2morrow.sonarplugin.metric.internal.SonargraphInternalMetricsTest)')",[268]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsValidProject(com.hello2morrow.sonarplugin.api.SonargraphSensorTest)')",[1200]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testShouldExecuteOnProject(com.hello2morrow.sonarplugin.api.SonargraphSensorTest)')",[1179]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetMetrics(com.hello2morrow.sonarplugin.metric.internal.SonargraphInternalMetricsTest)')",[248]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetMetrics(com.hello2morrow.sonarplugin.metric.SonargraphBuildUnitMetricsTest)')",[103]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateRules(com.hello2morrow.sonarplugin.api.SonargraphRulesRepositoryTest)')",[1304]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.foundation.ReportFileReaderTest')","[2141, 2164, 2188, 2211]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetMetrics(com.hello2morrow.sonarplugin.metric.SonargraphSystemMetricsTest)')",[21]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.api.SonargraphSensorTest')","[3032, 3055, 3079, 3102]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.foundation.AlertThresholdTest')","[1953, 1976, 2000, 2023]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEqualsHashCode(com.hello2morrow.sonarplugin.foundation.AlertThresholdTest)')",[434]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInputOutputMetrics(com.hello2morrow.sonarplugin.measurecomputer.SonargraphHighestMeasureComputerTest)')",[765]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testProcess(com.hello2morrow.sonarplugin.processor.CycleGroupProcessorTest)')",[1097]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAll(com.hello2morrow.sonarplugin.metric.SonargraphMetricsTest)')",[82]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNeedsProcessing(com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest)')",[848]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.api.SonargraphPluginTest')","[3126, 3149, 3173, 3196]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.api.SonargraphRulesRepositoryTest')","[3299, 3319, 3340, 3360]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComputedViolatingTypesPercent(com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest)')",[890]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGenerateDuplicateCodeBlockMessage(com.hello2morrow.sonarplugin.foundation.SonargraphUtilitiesTest)')",[372]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testShouldExecuteOnProject(com.hello2morrow.sonarplugin.api.SonargraphSensorTest)')",[1159]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsRootParentProject(com.hello2morrow.sonarplugin.foundation.SonarQubeUtilitiesTest)')",[476]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetSourceFilePath(com.hello2morrow.sonarplugin.foundation.SonargraphUtilitiesTest)')",[393]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAnalyse(com.hello2morrow.sonarplugin.api.ReadTest)')",[1345]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.foundation.SonargraphUtilitiesTest')","[1859, 1882, 1906, 1929]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetAttribute(com.hello2morrow.sonarplugin.foundation.SonargraphUtilitiesTest)')",[309]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetThreshold(com.hello2morrow.sonarplugin.metric.SonargraphAlertThresholdsTest)')",[185]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIsRootParentProject(com.hello2morrow.sonarplugin.foundation.SonarQubeUtilitiesTest)')",[496]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInputOutputMetrics(com.hello2morrow.sonarplugin.measurecomputer.SonargraphTransferInternalMeasureComputerTest)')",[973]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.measurecomputer.SonargraphHighestMeasureComputerTest')","[2423, 2446, 2470, 2493]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEqualsHashCode(com.hello2morrow.sonarplugin.foundation.AlertThresholdTest)')",[414]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.metric.SonargraphSystemMetricsTest')","[1389, 1412, 1436, 1459]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNothingComputedIfMetricValueMissing(com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest)')",[869]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetConnectedMetric(com.hello2morrow.sonarplugin.metric.SonargraphAlertThresholdsTest)')",[227]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest')","[2517, 2540, 2564, 2587]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReadSonargraphReport(com.hello2morrow.sonarplugin.foundation.ReportFileReaderTest)')",[621]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetExtensions(com.hello2morrow.sonarplugin.api.SonargraphPluginTest)')",[1283]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConnectedMetric(com.hello2morrow.sonarplugin.metric.SonargraphAlertThresholdsTest)')",[164]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testProcess(com.hello2morrow.sonarplugin.processor.CycleGroupProcessorTest)')",[1077]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBuildUnitMatchesAnalyzedProject(com.hello2morrow.sonarplugin.foundation.SonarQubeUtilitiesTest)')",[580]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComputeHighest(com.hello2morrow.sonarplugin.measurecomputer.SonargraphHighestMeasureComputerTest)')",[786]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSingleModuleProject(com.hello2morrow.sonarplugin.foundation.SonarQubeUtilitiesTest)')",[559]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.measurecomputer.SonargraphTransferInternalMeasureComputerTest')","[2611, 2634, 2658, 2681]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testProcessDuplicates(com.hello2morrow.sonarplugin.processor.WarningProcessorTest)')",[1035]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(com.hello2morrow.sonarplugin.processor.TaskProcessorTest)')",[1138]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAttribute(com.hello2morrow.sonarplugin.foundation.SonargraphUtilitiesTest)')",[289]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testComputedAggregatedValues(com.hello2morrow.sonarplugin.measurecomputer.SonargraphAggregatedMeasureComputerTest)')",[724]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetAll(com.hello2morrow.sonarplugin.metric.SonargraphMetricsTest)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(com.hello2morrow.sonarplugin.processor.TaskProcessorTest)')",[1118]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInputOutputMetrics(com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest)')",[807]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInputOutputMetrics(com.hello2morrow.sonarplugin.measurecomputer.SonargraphTransferInternalMeasureComputerTest)')",[953]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConnectedMetric(com.hello2morrow.sonarplugin.metric.SonargraphAlertThresholdsTest)')",[144]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.processor.CycleGroupProcessorTest')","[2799, 2822, 2846, 2869]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.metric.SonargraphAlertThresholdsTest')","[1671, 1694, 1718, 1741]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString(com.hello2morrow.sonarplugin.api.SonargraphSensorTest)')",[1242]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.metric.internal.SonargraphInternalMetricsTest')","[1765, 1788, 1812, 1835]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.api.ReadTest')","[3217, 3237, 3258, 3278]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.foundation.SonarQubeUtilitiesTest')","[2047, 2070, 2094, 2117]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUnassignedTypesPercent(com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest)')",[911]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConvertMetricListToKeys(com.hello2morrow.sonarplugin.foundation.SonarQubeUtilitiesTest)')",[538]
+"('SonargraphSensorTest.java', 'com.hello2morrow.sonarplugin.api.SonargraphSensorTest', 'testToString', 'Sonar-Sonargraph 7-Plugin \\[[0-9\\.]+\\]', 'Sonar-Sonargraph 7-Plugin [3.5]')","[2986, 3008]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConvertSeverity(com.hello2morrow.sonarplugin.foundation.SonarQubeUtilitiesTest)')",[517]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test(com.hello2morrow.sonarplugin.foundation.PluginVersionReaderTest)')",[642]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.measurecomputer.SonargraphAggregatedMeasureComputerTest')","[2329, 2352, 2376, 2399]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReadSonargraphReport(com.hello2morrow.sonarplugin.foundation.ReportFileReaderTest)')",[601]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAnalyse(com.hello2morrow.sonarplugin.api.SonargraphSensorTest)')",[1221]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.metric.SonargraphMetricsTest')","[1483, 1506, 1530, 1553]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAnalyse(com.hello2morrow.sonarplugin.api.ReadTest)')",[1365]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hello2morrow.sonarplugin.processor.TaskProcessorTest')","[2893, 2916, 2940, 2963]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testProcessDuplicates(com.hello2morrow.sonarplugin.processor.WarningProcessorTest)')",[1015]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCompute(com.hello2morrow.sonarplugin.measurecomputer.SonargraphTransferInternalMeasureComputerTest)')",[994]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCyclicityMeasures(com.hello2morrow.sonarplugin.measurecomputer.SonargraphDerivedMeasureComputerTest)')",[932]

@@ -1,0 +1,75 @@
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qfavicon.ico\\E', 'login')","[3892, 4261, 15111]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qerror\\E', 'login')","[3945, 13939, 14048, 14266, 14375, 14587, 14693, 14905, 15011, 15164]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qconfigprops.json\\E', 'login')","[5896, 6005, 10647, 10753]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[353, 777, 1201, 1625]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qautoconfig\\E', 'login')","[4370, 4479, 9163, 9269]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qautoconfig.json\\E', 'login')","[4588, 4697, 9375, 9481]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'info')",[2487]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhealth\\E', 'login')","[6550, 6659, 11283, 11389]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'env')",[2313]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[300]
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'dump')",[2661]
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'health')",[2371]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'authorizationRedirects(demo.ApplicationTests)')","[57, 121]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'autoconfig')",[2719]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtrace.json\\E', 'login')","[5460, 5569, 10223, 10329]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'beans')",[2429]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbeans.json\\E', 'login')","[6332, 6441, 11071, 11177]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[255]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmappings.json\\E', 'login')","[7858, 7967, 12555, 12661]"
+"('UrlUtils.java', 'org.springframework.security.web.util.UrlUtils', 'isAbsoluteUrl', '\\A[a-z0-9.+-]+://.*', '/login')","[3499, 3734]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qlogin\\E', 'login')",[15509]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcheck_token\\E', 'authorize')",[3289]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qdump\\E', 'login')","[4806, 4915, 9587, 9693]"
+"('UrlUtils.java', 'org.springframework.security.web.util.UrlUtils', 'isAbsoluteUrl', '\\A[a-z0-9.+-]+://.*', '/')",[15575]
+"('RsaKeyHelper.java', 'org.springframework.security.jwt.crypto.sign.RsaKeyHelper', 'parseKeyPair', '-----BEGIN (.*)-----(.*)-----END (.*)-----', '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnGp/Q5lh0P8nPL21oMMrt2RrkT9AW5jgYwLfSUnJVc9G6uR3cXRRDCjHqWU5WYwivcF180A6CWp/ireQFFBNowgc5XaA0kPpzEtgsA5YsNX7iSnUibB004iBTfU9hZ2Rbsc8cWqynT0RyN4TP1RYVSeVKvMQk4GT1r7JCEC+TNu1ELmbNwMQyzKjsfBXyIOCFU/E94ktvsTZUHF4Oq44DBylCDsS1k7/sfZC2G5EU7Oz0mhG8+Uz6MSEQHtoIi6mc8u64Rwi3Z3tscuWG2ShtsUFuNSAFNkY7LkLn+/hxLCu2bNISMaESa8dG22CIMuIeRLVcAmEWEWH5EEforTg+QIDAQAB\n-----END PUBLIC KEY-----')",[2197]
+"('RsaKeyHelper.java', 'org.springframework.security.jwt.crypto.sign.RsaKeyHelper', 'parsePublicKey', 'ssh-(rsa|dsa) ([A-Za-z0-9/+]+=*) (.*)', '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnGp/Q5lh0P8nPL21oMMrt2RrkT9AW5jgYwLfSUnJVc9G6uR3cXRRDCjHqWU5WYwivcF180A6CWp/ireQFFBNowgc5XaA0kPpzEtgsA5YsNX7iSnUibB004iBTfU9hZ2Rbsc8cWqynT0RyN4TP1RYVSeVKvMQk4GT1r7JCEC+TNu1ELmbNwMQyzKjsfBXyIOCFU/E94ktvsTZUHF4Oq44DBylCDsS1k7/sfZC2G5EU7Oz0mhG8+Uz6MSEQHtoIi6mc8u64Rwi3Z3tscuWG2ShtsUFuNSAFNkY7LkLn+/hxLCu2bNISMaESa8dG22CIMuIeRLVcAmEWEWH5EEforTg+QIDAQAB\n-----END PUBLIC KEY-----')",[2096]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[1042, 1466, 1890]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qoauth\\E', 'login')","[3998, 4051, 4104, 15217, 15270, 15323]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'mappings')",[2255]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@\\[/?#]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*(?:\\{[^/]+?\\})?))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'http://localhost:45837/uaa/oauth/authorize')",[2865]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmetrics.json\\E', 'login')","[7422, 7531, 12131, 12237]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[406, 830, 1254, 1678]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qfavicon.ico\\E', 'oauth')",[2918]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbeans\\E', 'login')","[6114, 6223, 10859, 10965]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthserverApplication$LoginConfig.class')",[1572]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@\\[/?#]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*(?:\\{[^/]+?\\})?))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'http://localhost:45837/uaa/login')",[3839]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmetrics\\E', 'login')","[6986, 7095, 7204, 7313, 11707, 11813, 11919, 12025]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q600_22\\E', '600_22')","[512, 936, 1360, 1784]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'homePageProtected(demo.ApplicationTests)')","[78, 143]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthserverApplication.class')",[1148]
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'configprops')",[2835]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'demo.ApplicationTests')","[36, 15598]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtoken_key\\E', 'authorize')",[3183]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qlogout\\E', 'login')",[15443]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qdump.json\\E', 'login')","[5024, 5133, 9799, 9905]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qerror\\E', 'oauth')",[2971]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhealth.json\\E', 'login')","[6768, 6877, 11495, 11601]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmappings\\E', 'login')","[7640, 7749, 12343, 12449]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthserverApplication$OAuth2Config.class')",[1996]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtrace\\E', 'login')","[5242, 5351, 10011, 10117]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[459, 883, 1307, 1731]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[210]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qinfo\\E', 'login')","[8076, 8185, 12767, 12873]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'loginSucceeds(demo.ApplicationTests)')","[99, 165]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qenv\\E', 'login')","[8512, 8621, 8730, 8839, 13191, 13297, 13403, 13509]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qfavicon.ico\\E', 'authorize')",[3425]
+"('CsrfFilter.java', 'org.springframework.security.web.csrf.CsrfFilter', 'doFilterInternal', '^(GET|HEAD|TRACE|OPTIONS)$', 'POST')",[15379]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qenv.json\\E', 'login')","[8948, 9057, 13615, 13721]"
+"('UrlUtils.java', 'org.springframework.security.web.util.UrlUtils', 'isAbsoluteUrl', '\\A[a-z0-9.+-]+://.*', 'http://localhost:45837/uaa/login')","[3574, 3809]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'metrics')",[2545]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qinfo.json\\E', 'login')","[8294, 8403, 12979, 13085]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')",[618]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ApplicationTests.class')",[724]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@\\[/?#]*)@)?(\\[[\\p{XDigit}\\:\\.]*[%\\p{Alnum}]*\\]|[^\\[/?#:]*)(:(\\d*(?:\\{[^/]+?\\})?))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'http://localhost:45837/uaa/')",[3604]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtoken\\E', 'authorize')",[3077]
+"('CsrfFilter.java', 'org.springframework.security.web.csrf.CsrfFilter', 'doFilterInternal', '^(GET|HEAD|TRACE|OPTIONS)$', 'GET')","[3345, 3660, 4160]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[565, 989, 1413, 1837]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qerror.\\E.*', 'login')","[13830, 14157, 14481, 14799]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qdemo\\E', 'demo')","[671, 1095, 1519, 1943]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'trace')",[2603]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qconfigprops\\E', 'login')","[5678, 5787, 10435, 10541]"
+"('PatternValidator.java', 'org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator', 'isValid', '\\w+', 'shutdown')",[2777]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qoauth\\E', 'oauth')","[3024, 3130, 3236]"
+"('ApplicationTests.java', 'demo.ApplicationTests', 'getCsrf', '(?s).*name=""_csrf"".*?value=""([^""]+).*', '<html>\n<head>\n<link rel=""stylesheet"" href=""css/wro.css""/>\n</head>\n<body>\n\t<div class=""container"">\n\t\t<form role=""form"" action=""login"" method=""post"">\n\t\t  <div class=""form-group"">\n\t\t    <label for=""username"">Username:</label>\n\t\t    <input type=""text"" class=""form-control"" id=""username"" name=""username""/>\n\t\t  </div>\n\t\t  <div class=""form-group"">\n\t\t    <label for=""password"">Password:</label>\n\t\t    <input type=""password"" class=""form-control"" id=""password"" name=""password""/>\n\t\t  </div>\n\t\t  <input type=""hidden"" id=""csrf_token"" name=""_csrf"" value=""ecfe253d-9d54-44b5-b517-85565747d664""/>\n\t\t  <button type=""submit"" class=""btn btn-primary"">Submit</button>\n\t\t</form>\n\t</div>\n\t<script src=""js/wro.js"" type=""text/javascript""></script>\n</body>\n</html>')",[15058]

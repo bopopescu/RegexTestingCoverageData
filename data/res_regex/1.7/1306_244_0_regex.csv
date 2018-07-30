@@ -1,0 +1,42 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'simplePathSetTest(com.nealxyc.json.JSONPathUtilTest)')","[282, 699]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEmailerOrder(com.nealxyc.multipleemailprovider.EmailProcessorTest)')","[447, 804]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nealxyc.multipleemailprovider.ServerTest')","[510, 866]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripHtmlTagPattern(com.nealxyc.multipleemailprovider.email.EmailValidatorTest)')","[120, 594]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nealxyc.multipleemailprovider.email.EmailValidatorTest')","[36, 1329]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'example@example.com.abc.net')",[1280]
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc_123_@example.com.abc.net')",[1303]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nealxyc.multipleemailprovider.ConfigTest')","[221, 1381]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nealxyc.json.JSONPathUtilTest')","[261, 1478]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', '@a')","[1073, 1096]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc.efg-123+.@example.com')",[1142]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDefaultEmailerNoConfig(com.nealxyc.multipleemailprovider.EmailProcessorTest)')","[469, 825]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nealxyc.multipleemailprovider.email.TwoEmailerProviderServiceTest')","[318, 1434]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnwantedTagPattern(com.nealxyc.multipleemailprovider.email.EmailValidatorTest)')","[78, 552]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHtmlPatternGroup(com.nealxyc.multipleemailprovider.email.EmailValidatorTest)')","[141, 615]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc.efg-123.@example.com')",[1211]
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'example@example.com.cn')",[1257]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConfig(com.nealxyc.multipleemailprovider.ConfigTest)')","[242, 678]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOneEmailer(com.nealxyc.multipleemailprovider.email.TwoEmailerProviderServiceTest)')","[340, 720]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStripHtml(com.nealxyc.multipleemailprovider.email.EmailValidatorTest)')","[162, 636]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc')",[958]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidateEmailAddress(com.nealxyc.multipleemailprovider.email.EmailValidatorTest)')","[99, 573]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', '---')",[889]
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc@+.+')",[1119]
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc@qqqq')",[1050]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBlockTagPattern(com.nealxyc.multipleemailprovider.email.EmailValidatorTest)')","[57, 531]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDefaultSetting(com.nealxyc.multipleemailprovider.email.TwoEmailerProviderServiceTest)')","[362, 741]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToFormBody(com.nealxyc.multipleemailprovider.email.MandrillEmailerTest)')","[202, 657]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', '123')",[981]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessAllEmailerFail(com.nealxyc.multipleemailprovider.EmailProcessorTest)')","[425, 783]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nealxyc.multipleemailprovider.email.MandrillEmailerTest')","[181, 1355]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessInputUseSecondEmailer(com.nealxyc.multipleemailprovider.EmailProcessorTest)')","[403, 762]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', '@')",[935]
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', '-@-.-')",[912]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.nealxyc.multipleemailprovider.EmailProcessorTest')","[381, 1456]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc@a')",[1027]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessInputUseFirstEmailer(com.nealxyc.multipleemailprovider.EmailProcessorTest)')","[491, 846]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'example@example.com')",[1234]
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', '123@a.b')",[1188]
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc@a.b')",[1165]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 299]"
+"('EmailValidatorImpl.java', 'com.nealxyc.multipleemailprovider.email.EmailValidatorImpl$Helper', 'validateEmailAddress', '[\\w-\\.]+@\\w+(\\.\\w+)+', 'abc@')",[1004]

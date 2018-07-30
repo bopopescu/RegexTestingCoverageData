@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.codehaus.mojo.build.TestCreateMojo')","[36, 413]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterBranchFromScmUrl(org.codehaus.mojo.build.TestCreateMojo)')","[56, 138]"
+"('TestCreateMojo.java', 'org.codehaus.mojo.build.TestCreateMojo', 'testSequenceFormat', '(\\d+\\.?){3}', '1.1.1')","[344, 390]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLocale(org.codehaus.mojo.build.TestCreateMojo)')","[116, 204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('TestCreateMojo.java', 'org.codehaus.mojo.build.TestCreateMojo', 'testMessageFormat', '^At (\\d{1,2}:?){3} (AM|PM) on \\w{3} \\d{1,2}, \\d{4}, there was a disturbance in the Force on planet 7.', 'At 7:51:37 AM on Jan 16, 2018, there was a disturbance in the Force on planet 7.')","[251, 297]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMessageFormat(org.codehaus.mojo.build.TestCreateMojo)')","[76, 160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSequenceFormat(org.codehaus.mojo.build.TestCreateMojo)')","[96, 182]"

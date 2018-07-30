@@ -1,0 +1,54 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q1604_23\\E', '1604_23')","[1400, 2102, 2804, 3506, 4208, 4910, 5612, 6314, 7016, 7718, 8370, 9085, 9796, 10498, 11200]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testImpactManagerNotNull(com.lch.calm.patrol.PatrolImpactManagerTest)')","[788, 809, 830]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBmciiWsConnect(com.lch.calm.patrol.PatrolImpactManagerTest)')","[683, 1142]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testImpactManagerNotNull(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[246, 267, 288]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpatrol\\E', 'patrol')","[1832, 2534, 3236, 3938, 4640, 5342, 6044, 6746, 7448, 8150, 8810, 9525, 10228, 10930, 11632]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolImpactManagerFactoryTest.class')",[1886]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBmciiWsConnect(com.lch.calm.patrol.PatrolImpactManagerTest)')","[704, 725, 746]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testImpactManagerNotNull(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[225, 997]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolManagerImpl$ErrorCode.class')",[11686]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1238, 1940, 2642, 3344, 4046, 4748, 5450, 6152, 6854, 7556, 8205, 8920, 9634, 10336, 11038]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBmciiWsConnectUrl(com.lch.calm.patrol.PatrolImpactManagerTest)')","[599, 1101]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1616, 2318, 3020, 3722, 4424, 5126]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MockImpactManagerFactory.class')",[9580]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.lch.calm.patrol.PatrolManagerTest')",[391]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBmciiWsConnectUrl(com.lch.calm.patrol.PatrolImpactManagerTest)')","[620, 641, 662, 1121]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.lch.calm.patrol.PatrolManagerTest')","[11804, 11827, 11851, 11874]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolImpactManagerTest.class')",[4694]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.lch.calm.patrol.PatrolImpactManagerFactoryTest')","[11710, 11733, 11757, 11780]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolManagerTest.class')",[2588]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolManagerApp.class')",[5396]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MockImpactManager.class')",[8865]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBmciiWsConnectWired(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[309, 1018]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ImpactManagerFactory.class')",[10984]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'mock')",[10282]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpatrol-interface\\E', 'patrol-interface')","[1508, 2210, 2912, 3614, 4316, 5018, 5720, 6422, 7124, 7826, 8480, 9195, 9904, 10606, 11308]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBmciiWsConnectWired(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[330, 351, 372]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ImpactManagerUrlFactory.class')",[6098]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qlch\\E', 'lch')","[1724, 2426, 3128, 3830, 4532, 5234, 5936, 6638, 7340, 8042, 8700, 9415, 10120, 10822, 11524]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1346, 2048, 2750, 3452, 4154, 4856, 5558, 6260, 6962, 7664, 8315, 9030, 9742, 10444, 11146]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'sendMultiPatrolMessage(com.lch.calm.patrol.PatrolManagerTest)')","[517, 538, 559]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[1670, 2372, 3074, 3776, 4478, 5180, 5882, 6584, 7286, 7988, 8645, 9360, 10066, 10768, 11470]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolSeverity.class')",[7502]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.lch.calm.patrol.PatrolImpactManagerTest')",[578]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.lch.calm.patrol.PatrolImpactManagerFactoryTest')",[36]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolManagerTest$ErrorCode.class')",[3290]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBmciiWsConnectWired(com.lch.calm.patrol.PatrolImpactManagerTest)')","[872, 893, 914]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[1292, 1994, 2696, 3398, 4100, 4802, 5504, 6206, 6908, 7610, 8260, 8975, 9688, 10390, 11092]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBmciiWsConnect(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[162, 183, 204]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[5828, 6530, 7232, 7934, 8590, 9305, 10012, 10714, 11416]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBmciiWsConnectWired(com.lch.calm.patrol.PatrolImpactManagerTest)')","[851, 1184]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBmciiWsConnect(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[141, 976]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolManagerImpl.class')",[6800]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBmciiWsConnectUrl(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[57, 935]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PatrolManagerApp$ErrorCode.class')",[3992]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sendPatrolMessage(com.lch.calm.patrol.PatrolManagerTest)')","[412, 1039]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcalm\\E', 'calm')","[1778, 2480, 3182, 3884, 4586, 5288, 5990, 6692, 7394, 8096, 8755, 9470, 10174, 10876, 11578]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'sendMultiPatrolMessage(com.lch.calm.patrol.PatrolManagerTest)')","[496, 1080]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1562, 2264, 2966, 3668, 4370, 5072, 5774, 6476, 7178, 7880, 8535, 9250, 9958, 10660, 11362]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBmciiWsConnectUrl(com.lch.calm.patrol.PatrolImpactManagerFactoryTest)')","[78, 99, 120, 955]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testImpactManagerNotNull(com.lch.calm.patrol.PatrolImpactManagerTest)')","[767, 1163]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'sendPatrolMessage(com.lch.calm.patrol.PatrolManagerTest)')","[433, 454, 475, 1059]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QCommon\\E', 'Common')","[1454, 2156, 2858, 3560, 4262, 4964, 5666, 6368, 7070, 7772, 8425, 9140, 9850, 10552, 11254]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.lch.calm.patrol.PatrolImpactManagerTest')","[11895, 11915, 11936, 11956]"

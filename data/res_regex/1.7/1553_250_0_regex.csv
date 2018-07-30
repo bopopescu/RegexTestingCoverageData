@@ -1,0 +1,164 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAsymetricDisparities(org.literacybridge.TestConsistencyChecker)')",[874]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStartingSurvey(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[397]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParsingOldFormats(org.literacybridge.stats.model.TestSyncDirId)')",[687]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2013-2')","[6372, 6730]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmptyStatAggregator(org.literacybridge.dashboard.aggregation.TestStatAggregator)')",[1124]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseV1SyncTime', '(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s', 'SyncDevice1')",[1413]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2012-5')",[7078]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', 'ar0035c012pS18d14h22m59s306/217/216V')",[1799]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLoadingFlashData(org.literacybridge.stats.formats.formats.flashData.TestFlashData)')",[21]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'checkForMatch', '(\\S+)\\s+@VOL=(\\d+)\\s+@Volt=(\\S+)\\s*', 'TB0003a2_2156B516 @VOL=03 @Volt=221')","[1994, 2809, 3278]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0145c079p009d18h33m00s340/291/291V:SURVEY:taken')","[4090, 4411]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'taken')","[4216, 4537]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0032c012pS15d02h44m41s297/221/209V')",[1893]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', 'ContentPackage')",[1366]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'RECORDED (secs): 0005')",[3895]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmptyStatAggregator(org.literacybridge.dashboard.aggregation.TestStatAggregator)')",[1144]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '2r0096c008p023d18h18m53s401/314/314V')",[1435]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2012-4')","[7034, 7056]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0027c011pS85d00h00m01s329/279/279V:SHUTTING DOWN')",[3942]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMultipleAggregation(org.literacybridge.dashboard.aggregation.TestAggregations)')",[1248]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRoundTripLongMessageId(org.literacybridge.stats.formats.formats.statsFile.TestStatsFile)')",[522]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0039c012pS18d14h27m59s305/221/221V')","[2560, 2708, 2881, 3498]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleAggregation(org.literacybridge.dashboard.aggregation.TestAggregations)')",[1227]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.dashboard.aggregation.TestUpdateAggregations')","[6942, 6965, 6989, 7012]"
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', '1m3d17h18m4s')","[6056, 6123]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUnpaused(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[292]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCategory(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[250]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testContentDisparitiesNoChanges(org.literacybridge.TestConsistencyChecker)')",[853]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0032c012pS15d02h44m41s297/221/209V:PLAY TB0003a2_2156B516 @VOL=03 @Volt=221')",[1843]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSurveyApplied(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[418]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2013-13')","[6350, 6460, 6482]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0032c012pS15d02h44m27s302/228/222V')",[2239]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGettingAndSettingAnUpdate(org.literacybridge.dashboard.aggregation.TestUpdateAggregations)')",[1082]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLineInfo(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[62]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIds(org.literacybridge.stats.model.TestDeploymentId)')",[749]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseV1SyncTime', '(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s', '1m3d17h18m4s')","[6079, 6146]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0027c011pS85d00h00m01s329/279/279V')",[3992]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'DOWN')",[4068]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', '')","[2636, 2957, 3105, 3426, 3574]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', '00037a_9_3DCBA2D0 -> 9')",[3722]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', 'Unknown')",[6394]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0035c012pS18d14h17m12s311/217/217V')",[3621]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0039c012pS18d14h28m01s303/221/221V')","[3004, 3152, 3325]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIds(org.literacybridge.stats.model.TestDeploymentId)')",[729]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseLogLineInfo(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[82]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.stats.formats.formats.logFile.TestLogFileParser')","[5499, 5522, 5546, 5569]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0035c012pS18d14h17m32s311/217/217V:TIME RECORDED (secs): 0005')",[3769]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPlay(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[187]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'useless')","[5154, 5475]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmptyAggregation(org.literacybridge.dashboard.aggregation.TestAggregations)')",[1186]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', '12m30d17h18m4s')",[6011]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEqualsAndHash(org.literacybridge.stats.model.TestDeploymentId)')",[791]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', '$0-1')",[2488]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSurveyNotApplied(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[439]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0145c079p009d18h33m00s340/291/291V')","[4115, 4263, 4436, 4584, 4732, 4905, 5053, 5201, 5374]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'TB000248_AA94FE16 0732/0732sec @VOL=03 @Volt=228-Ended')",[2315]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseV1SyncTime', '(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s', '8m30d17h18m4s')",[5989]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0032c012pS15d02h44m41s297/221/209V')",[1868]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.stats.formats.formats.statsFile.TestStatsFile')","[5593, 5616, 5640, 5663]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0096c008p023d18h18m53s401/314/314V')",[1526]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSyncDirectoryNameParsing(org.literacybridge.stats.formats.formats.TestSyncProcessingContext)')",[564]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2012-1')",[6686]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '0r', '0')","[1663, 1686, 1754, 1777, 1920, 1946, 2093, 2119, 2266, 2292, 2439, 2465, 2587, 2613, 2735, 2761, 2908, 2934, 3056, 3082, 3204, 3230, 3377, 3403, 3525, 3551, 3673, 3699, 3846, 3872, 4019, 4045, 4167, 4193, 4315, 4341, 4488, 4514, 4636, 4662, 4784, 4810, 4957, 4983, 5105, 5131, 5253, 5279, 5426, 5452]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0032c012pS15d02h44m27s302/228/222V')",[2214]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAsymtricAllDisparities(org.literacybridge.TestConsistencyChecker)')",[937]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDifferentDimensions(org.literacybridge.TestConsistencyChecker)')",[895]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0039c012pS18d14h28m01s303/221/221V')","[3029, 3177, 3350]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0035c012pS18d14h17m12s311/217/217V')",[3646]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'apply')","[4685, 5006]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMultipleAggregations(org.literacybridge.dashboard.aggregation.TestUpdateAggregations)')",[1061]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSyncDirectoryNameParsing(org.literacybridge.stats.formats.formats.TestSyncProcessingContext)')",[584]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'H_0172_FC0929CA 0002/0753sec @VOL=02 @Volt=214')","[2142, 4364, 4833, 5302]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0032c012pS15d02h45m47s295/214/214V')",[2041]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInvalidAction(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[313]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0039c012pS18d14h27m59s305/221/221V:INVALID')",[3448]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'checkForMatch', 'RECORDED\\s+\\(secs\\):\\s*(\\d+)\\s*', 'RECORDED (secs): 0005')",[3920]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.stats.model.TestSyncDirId')","[6258, 6281, 6305, 6328]"
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2013-1')","[5944, 6168, 6708]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '2r', '0')","[1481, 1504]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRoundTrip(org.literacybridge.stats.formats.formats.statsFile.TestStatsFile)')",[501]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0145c079p009d18h33m00s340/291/291V')","[4140, 4288, 4461, 4609, 4757, 4930, 5078, 5226, 5399]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmptyAggregation(org.literacybridge.dashboard.aggregation.TestAggregations)')",[1206]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0035c012pS18d14h22m59s306/217/216V')",[1730]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmptyCheck(org.literacybridge.TestConsistencyChecker)')",[812]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseV1SyncTime', '(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s', '12m30d17h18m4s')",[6034]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPlayedWOEnded(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[208]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0035c012pS18d14h17m32s311/217/217V')",[3819]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0035c012pS18d14h17m32s311/217/217V')",[3794]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIdsWithFlavor(org.literacybridge.stats.model.TestDeploymentId)')",[770]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.dashboard.aggregation.TestAggregations')","[7193, 7213, 7234, 7254]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEndToEnd(org.literacybridge.stats.formats.formats.syncDirectory.TestDirectoryProcessorNew)')",[646]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindContentIdByPackage(org.literacybridge.stats.formats.formats.syncDirectory.TestDirectoryProcessorNew)')",[625]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDifferentThresholdsAllDisparities(org.literacybridge.TestConsistencyChecker)')",[958]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmptyCheck(org.literacybridge.TestConsistencyChecker)')",[832]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2013-12')",[6526]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreatingDeploymentObject(org.literacybridge.content.TestDeploymentObjectWriter)')",[999]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMultipleGettingAndSetting(org.literacybridge.dashboard.aggregation.TestUpdateAggregations)')",[1103]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2013-03')",[5687]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2008-1WillyWonka')",[6438]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPaused(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[271]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0035c012pS18d14h17m12s311/217/217V:RECORD 00037a_9_3DCBA2D0 -> 9')",[3596]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0032c012pS15d02h45m47s295/214/214V:PLAYED H_0172_FC0929CA 0002/0753sec @VOL=02 @Volt=214')",[2016]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0033c012pS18d03h09m25s315/229/229V')",[2387]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'checkForMatch', '(\\S+)\\s+(\\d+)/(\\d+)sec\\s+@VOL=(\\d+)\\s+@Volt=(\\S+)\\s*', 'H_0172_FC0929CA 0002/0753sec @VOL=02 @Volt=214')","[2167, 4389, 4858, 5327]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testShuttingDown(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[376]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseInvalidLogLineInfo(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[166]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', 'ar0035c012pS18d14h22m59s306/217/216V')",[1821]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0145c079p009d18h33m00s340/291/291V:PLAYED H_0172_FC0929CA 0002/0753sec @VOL=02 @Volt=214')","[4238, 4707, 5176]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPlayedWEnded(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[229]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0033c012pS18d03h09m25s315/229/229V:Category: $0-1')",[2362]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0033c012pS18d03h09m25s315/229/229V')",[2412]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0145c079p009d18h33m00s340/291/291V:SURVEY:useless')","[5028, 5349]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.TestConsistencyChecker')","[6754, 6777, 6801, 6824]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0039c012pS18d14h27m59s305/221/221V')","[2535, 2683, 2856, 3473]"
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseV1SyncTime', '(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s', '7m15d18h33m52s')",[5734]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParsingOldFormats(org.literacybridge.stats.model.TestSyncDirId)')",[667]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.stats.formats.formats.syncDirectory.TestDirectoryProcessorNew')","[5852, 5875, 5899, 5922]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRecord(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[334]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0032c012pS15d02h44m27s302/228/222V:PLAYED TB000248_AA94FE16 0732/0732sec @VOL=03 @Volt=228-Ended')",[2189]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.stats.formats.formats.TestSyncProcessingContext')","[5758, 5781, 5805, 5828]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStatsFile(org.literacybridge.stats.formats.formats.statsFile.TestStatsFile)')",[460]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.content.TestDeploymentObjectWriter')","[6848, 6871, 6895, 6918]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseAction', 'VOLTAGE DROP:\\s*([0-9.]+)v\\s*in\\s*(\\d+)\\s+sec', 'TB0003a2_2156B516 @VOL=03 @Volt=221')","[1969, 2784, 3253]"
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2012-13')",[6504]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0032c012pS15d02h45m47s295/214/214V')",[2066]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParsingNewFormats(org.literacybridge.stats.model.TestSyncDirId)')",[708]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFindContentIdByPackage(org.literacybridge.stats.formats.formats.syncDirectory.TestDirectoryProcessorNew)')",[605]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', 'SyncDevice1')",[1389]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreatingDeploymentObject(org.literacybridge.content.TestDeploymentObjectWriter)')",[979]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmptyAggregations(org.literacybridge.dashboard.aggregation.TestUpdateAggregations)')",[1020]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStatsFile(org.literacybridge.stats.formats.formats.statsFile.TestStatsFile)')",[480]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLineInfo2(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[124]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAddingStats(org.literacybridge.dashboard.aggregation.TestStatAggregator)')",[1165]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2013-13b')","[6416, 6548, 6570]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'checkForMatch', '(\\S+)\\s+(\\d+)/(\\d+)sec\\s+@VOL=(\\d+)\\s+@Volt=(\\S+)\\s*', 'TB000248_AA94FE16 0732/0732sec @VOL=03 @Volt=228-Ended')",[2340]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'checkForMatch', '(\\S+)\\s+->\\s+(\\$?\\d+(?:-\\d)*)\\s*', '00037a_9_3DCBA2D0 -> 9')",[3747]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'writeFilesForTests(org.literacybridge.stats.formats.formats.statsFile.TestStatsFile)')",[543]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0039c012pS18d14h28m01s303/221/221V:PLAY TB0003a2_2156B516 @VOL=03 @Volt=221')",[3127]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLineInfoWithFunnyS(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[145]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0145c079p009d18h33m00s340/291/291V:SURVEY:apply')","[4559, 4880]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0r0015c003p004d14h09m42s339/289/289V')",[1639]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.dashboard.aggregation.TestStatAggregator')","[7102, 7125, 7149, 7172]"
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', '7m15d18h33m52s')",[5710]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLoadingFlashData(org.literacybridge.stats.formats.formats.flashData.TestFlashData)')",[41]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.stats.formats.formats.flashData.TestFlashData')","[1272, 1295, 1319, 1342]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDifferentThresholds(org.literacybridge.TestConsistencyChecker)')",[916]
+"('DeploymentId.java', 'org.literacybridge.stats.model.DeploymentId', 'parseContentUpdate', '(\\D*-?)(\\d+)-(?:(?:\\D*-)*)(\\d+)(\\D*)', '2013-6')",[6101]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.literacybridge.stats.model.TestDeploymentId')","[6594, 6617, 6641, 6664]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0027c011pS85d00h00m01s329/279/279V')",[3967]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRecorded(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[355]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', '2014y8m30d17h18m4s-XXX')",[6190]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', '2014y12m30d17h18m4s-ZZZ')",[6212]
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', '2014y1m3d17h18m4s-YYY')",[6234]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLineInfoNoRotation(org.literacybridge.stats.formats.formats.logFile.TestLogFileParser)')",[103]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '0', '0')","[1572, 1595]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0035c012pS18d14h22m59s306/217/216V')",[1708]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '0096c008p023d18h18m53s401/314/314V')",[1548]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '(0|(\\d+)r)(\\d+)c(\\d+)p\\D*(\\d+)d(\\d+)h(\\d+)m(\\d+)s(\\d+)/(\\d+)/(\\d+)V', '2r0096c008p023d18h18m53s401/314/314V')",[1457]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmptyAggregations(org.literacybridge.dashboard.aggregation.TestUpdateAggregations)')",[1040]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0039c012pS18d14h27m59s305/221/221V:PLAY TB0003a2_2156B516 @VOL=03 @Volt=221')",[2658]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parseLogLineInfo', '\\d+p(.*)', '0r0015c003p004d14h09m42s339/289/289V')",[1617]
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0039c012pS18d14h27m59s305/221/221V:PAUSED')","[2510, 2831]"
+"('LogFileParser.java', 'org.literacybridge.stats.formats.logFile.LogFileParser', 'parse', '([^:]*):(\\w+):*\\s*(.*)', '0r0039c012pS18d14h28m01s303/221/221V:UNPAUSED')","[2979, 3300]"
+"('SyncDirId.java', 'org.literacybridge.stats.model.SyncDirId', 'parseSyncDir', '(\\d+)y(\\d+)m(\\d+)d(\\d+)h(\\d+)m(\\d+)s-(.*)', '8m30d17h18m4s')",[5966]

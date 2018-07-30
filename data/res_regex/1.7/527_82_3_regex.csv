@@ -1,0 +1,15 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testException(com.ea.core.kryo.impl.JavaSerializerTest)')","[97, 322]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ea.core.jackson.XmlTest')","[177, 552]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'receive(com.ea.core.mq.client.TestMQ)')","[280, 448]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ea.core.kryo.impl.ObjectSerializerTest')","[36, 474]"
+"('Duration.java', 'ch.qos.logback.core.util.Duration', 'valueOf', '([0-9]*(.[0-9]+)?)\\s*(|milli(second)?|second(e)?|minute|hour|day)s?', '30 seconds')",[597]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ea.core.mq.client.TestMQ')","[238, 619]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToObject(com.ea.core.jackson.XmlTest)')","[198, 385]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ea.core.kryo.impl.JavaSerializerTest')","[76, 500]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToXml(com.ea.core.jackson.XmlTest)')","[219, 406]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'send(com.ea.core.mq.client.TestMQ)')","[259, 427]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToObject(com.ea.core.jackson.JsonTest)')","[137, 343]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ea.core.jackson.JsonTest')","[116, 526]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSerialize(com.ea.core.kryo.impl.ObjectSerializerTest)')","[57, 301]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToJson(com.ea.core.jackson.JsonTest)')","[158, 364]"

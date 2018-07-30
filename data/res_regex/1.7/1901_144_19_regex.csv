@@ -1,0 +1,14 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testQueryMx(io.netty.resolver.dns.DnsNameResolverTest)')","[223, 441]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultAddresses(io.netty.resolver.dns.DnsServerAddressesTest)')","[141, 375]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSingleton(io.netty.resolver.dns.DnsServerAddressesTest)')","[78, 309]"
+"('SystemPropertyUtil.java', 'io.netty.util.internal.SystemPropertyUtil', 'getInt', '-?[0-9]+', '64')",[513]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResolveAAAAorA(io.netty.resolver.dns.DnsNameResolverTest)')","[181, 397]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testShuffled(io.netty.resolver.dns.DnsServerAddressesTest)')","[120, 353]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.netty.resolver.dns.DnsServerAddressesTest')","[36, 540]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResolveAorAAAA(io.netty.resolver.dns.DnsNameResolverTest)')","[202, 419]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSequential(io.netty.resolver.dns.DnsServerAddressesTest)')","[57, 287]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResolveAAAA(io.netty.resolver.dns.DnsNameResolverTest)')","[265, 485]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResolveA(io.netty.resolver.dns.DnsNameResolverTest)')","[244, 463]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.netty.resolver.dns.DnsNameResolverTest')","[160, 563]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRotational(io.netty.resolver.dns.DnsServerAddressesTest)')","[99, 331]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

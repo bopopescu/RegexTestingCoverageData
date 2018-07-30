@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testHMACGenerationFromMethod(soa.governance.chapter5.integrity.hmac.HMACTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHMACGeneration(soa.governance.chapter5.integrity.hmac.HMACTest)')","[57, 309]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testHMACGeneration(soa.governance.chapter5.integrity.hmac.HMACTest)')","[78, 99, 120, 329]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[410]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[449]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMD5Content(soa.governance.chapter5.integrity.hmac.HMACTest)')","[141, 350]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHMACGenerationFromMethod(soa.governance.chapter5.integrity.hmac.HMACTest)')","[225, 371]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'soa.governance.chapter5.integrity.hmac.HMACTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'soa.governance.chapter5.integrity.hmac.HMACTest')","[470, 490, 511, 531]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMD5Content(soa.governance.chapter5.integrity.hmac.HMACTest)')","[162, 183, 204]"

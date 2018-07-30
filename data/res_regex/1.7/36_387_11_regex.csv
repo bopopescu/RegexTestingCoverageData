@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLongToPermissions(org.sdm.timerecord.business.TestAclEntry)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLongToPermissions(org.sdm.timerecord.business.TestAclEntry)')","[225, 487]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.sdm.timerecord.business.TestAclEntry')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testApp(org.sdm.timerecord.business.AppTest)')","[344, 508]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.sdm.timerecord.business.TestAclEntry')","[631, 651, 672, 692]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.sdm.timerecord.business.AppTest')","[549, 569, 590, 610]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 305]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPermissionsToLong(org.sdm.timerecord.business.TestAclEntry)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.sdm.timerecord.business.AppTest')",[324]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPermissionsToLong(org.sdm.timerecord.business.TestAclEntry)')","[141, 466]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAddPermission(org.sdm.timerecord.business.TestAclEntry)')","[57, 425]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testApp(org.sdm.timerecord.business.AppTest)')","[364, 384, 404, 528]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAddPermission(org.sdm.timerecord.business.TestAclEntry)')","[78, 99, 120, 445]"

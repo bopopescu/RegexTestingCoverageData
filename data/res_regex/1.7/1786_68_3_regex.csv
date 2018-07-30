@@ -1,0 +1,104 @@
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'getSuffixID', '[0-9]+[\\.,][0-9]+', '4')",[1239]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', 'abcdef')",[2868]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', '4')","[1880, 2660]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', 'ZWEI')",[1656]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReverseConverter(com.dc2f.cms.gui.converter.TestConverterFactory)')","[448, 945]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWrongClassName(com.dc2f.cms.gui.converter.StringToClassConverterTest)')","[221, 747]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '3l')",[1740]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '3')",[2436]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '4')",[2604]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPathWithSuperClass(com.dc2f.cms.gui.converter.TestConverterFactory)')","[553, 1055]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', '3')",[2492]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', 'ZWEI')",[1544]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIntegerArray(com.dc2f.cms.gui.converter.StringToArrayConverterTest)')","[303, 813]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '0')","[3019, 3175]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', 'C:\\')","[3877, 3929]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testImpossiblePath(com.dc2f.cms.gui.converter.TestConverterFactory)')","[385, 879]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'getSuffixID', '[0-9]+[\\.,]', '4')",[1293]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '2')",[2296]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', 'ZWEI')",[1600]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', '0l')","[3435, 3591]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.dc2f.cms.gui.converter.PathConverterTest')","[97, 1131]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'getSuffixID', '[0-9]+', '2')",[1990]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '2')",[2268]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUselessConversion(com.dc2f.cms.gui.converter.TestConverterFactory)')","[406, 901]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIndirectPath(com.dc2f.cms.gui.converter.TestConverterFactory)')","[511, 1011]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReverseConversion(com.dc2f.cms.gui.converter.TestConverterFactory)')","[490, 989]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClassToStringConversion(com.dc2f.cms.gui.converter.StringToClassConverterTest)')","[179, 703]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', 'abcdef')",[2918]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'getSuffixID', '[.,][0-9]+', '4')",[1266]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '0l')","[3331, 3487]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '/PATH/to/my/file')","[4163, 4189]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', '1')","[1488, 2212]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.dc2f.cms.gui.converter.StringToArrayConverterTest')","[261, 2743]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', '3')","[1824, 2548]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', '2')",[2380]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', '4')","[1908, 2688]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '0')","[3071, 3227]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', 'abcde')",[2843]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '0.0')","[3643, 3721]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', '4')","[1936, 2716]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.dc2f.cms.cms.settings.Dc2fSettingsHelperTest')","[572, 4343]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConversionPath(com.dc2f.cms.gui.converter.PathConverterTest)')","[118, 659]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', 'C:\\PATH\\to\\my\\file')","[4059, 4111]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReverseConversionPath(com.dc2f.cms.gui.converter.PathConverterTest)')","[139, 681]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '3l')",[1712]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', 'abcde')",[2768]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', '0')","[3149, 3305, 3461, 3617]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimplePath(com.dc2f.cms.gui.converter.TestConverterFactory)')","[343, 835]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', '0')","[3097, 3253]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReverseSimplePath(com.dc2f.cms.gui.converter.TestConverterFactory)')","[532, 1033]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGettingProperty(com.dc2f.cms.cms.settings.Dc2fSettingsHelperTest)')","[593, 1077]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.dc2f.cms.gui.converter.TestConverterFactory')","[322, 4320]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGuessingConverter(com.dc2f.cms.gui.converter.TestConverterFactory)')","[427, 923]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '0l')","[3383, 3539]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', 'ZWEI')",[1572]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.dc2f.cms.gui.converter.StringToClassConverterTest')","[158, 1158]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '0')","[3045, 3201]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', '2')",[2324]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', 'PATH\\to\\my\\file')","[3981, 4033]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', 'PATH/to/my/file')","[4215, 4241]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', '1')","[1432, 2156]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '4')",[2576]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLinuxConversion(com.dc2f.cms.gui.converter.StringToFileConverterTest)')","[78, 637]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '0.0')","[3695, 3773, 3799, 3825]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '1')","[1376, 2100]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', 'abcde')",[2793]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClassRecoveryFromString(com.dc2f.cms.gui.converter.StringToClassConverterTest)')","[200, 725]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'getSuffixID', '[0-9]+', '4')","[1320, 2044]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', 'abcdef')",[2893]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNullValues(com.dc2f.cms.gui.converter.StringToClassConverterTest)')","[242, 769]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMixedArray(com.dc2f.cms.gui.converter.StringToArrayConverterTest)')","[282, 791]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '1')","[1404, 2128]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '3')",[2408]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'getSuffixID', '[0-9]+', '3')","[1212, 2017]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', 'abcdef')",[2968]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '2')",[2240]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', '1')","[1460, 2184]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+', 'abcdef')",[2993]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '3l')",[1684]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWindowsConversion(com.dc2f.cms.gui.converter.StringToFileConverterTest)')","[57, 615]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', 'ZWEI')",[1516]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIndirectReversePath(com.dc2f.cms.gui.converter.TestConverterFactory)')","[469, 967]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', 'abcdef')",[2943]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '0.0')","[3669, 3747]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', '3l')",[1768]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', '0')","[3123, 3279]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '4')","[1852, 2632]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '../PATH/to/my/file')","[4267, 4293]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', 'C:\\PATH\\to\\my\\file')","[4085, 4137]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', 'PATH\\to\\my\\file')","[3955, 4007]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,][0-9]+', '3')",[2464]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.dc2f.cms.gui.converter.StringToFileConverterTest')","[36, 1104]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', 'C:\\')","[3851, 3903]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', 'ZWEI')",[1628]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[.,][0-9]+', '0l')","[3409, 3565]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'getSuffixID', '[0-9]+', '1')","[1185, 1963]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', '2')",[2352]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', '3l')",[1796]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '(([^\\r\\n/%]+)?/)+([^\\r\\n/%]+)?', '1')","[1348, 2072]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', '3')",[2520]
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '([a-zA-Z]:|[^\\\\]+)?(\\\\([^\\\\]+)?)+', '0l')","[3357, 3513]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAvoidingStringAsIntermediate(com.dc2f.cms.gui.converter.TestConverterFactory)')","[364, 857]"
+"('ConverterGuesser.java', 'com.dc2f.cms.gui.converter.ConverterGuesser', 'fromString', '[0-9]+[\\.,]', 'abcde')",[2818]

@@ -1,0 +1,20 @@
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/one-name/([^\\/?#]+)$', '/one-name/abcdefghijklmnopqrstuvxyzABCDEFGHIJKLMNOPQRSTUVXYZ01234567890-.')",[305]
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/one-name/([^\\/?#]+)$', '/one-name/apo')",[667]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'callbackParameter(KiRouterTest)')","[118, 202]"
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/sum/([^\\/?#]+)$', '/two-name/apo')",[592]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'KiRouterFilterTest')","[36, 467]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('StrictUrlParameterVerifier.java', 'kirouter.StrictUrlParameterVerifier', 'ok', '^[a-z0-9/\\-\\.]+$', 'abcdefghijklmnopqrstuvxyzABCDEFGHIJKLMNOPQRSTUVXYZ01234567890-.')",[332]
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'compileRoutePattern', '((:\\w+)|\\*)', 'sum')",[492]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'acceptOnlySafeUrlParameters(KiRouterFilterTest)')","[78, 181]"
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'compileRoutePattern', '((:\\w+)|\\*)', 'one-name')","[251, 360, 617]"
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/one-name/([^\\/?#]+)$', '/two-name/apo')",[717]
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/one-name/([^\\/?#]+)$', '/one-name/apo!!')",[414]
+"('StrictUrlParameterVerifier.java', 'kirouter.StrictUrlParameterVerifier', 'ok', '^[a-z0-9/\\-\\.]+$', 'apo!!')",[441]
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/one-name/([^\\/?#]+)$', '/one-name/mikko')",[692]
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'compileRoutePattern', '((:\\w+)|\\*)', ':name')","[279, 388, 517, 642]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'KiRouterTest')","[97, 739]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'singleParameter(KiRouterFilterTest)')","[57, 160]"
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/sum/([^\\/?#]+)$', '/sum/apo')",[542]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'singleParameter(KiRouterTest)')","[139, 223]"
+"('SinatraRouteParser.java', 'kirouter.SinatraRouteParser', 'parse', '^/sum/([^\\/?#]+)$', '/sum/mikko')",[567]

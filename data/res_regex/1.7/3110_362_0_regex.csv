@@ -1,0 +1,375 @@
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Rīgas domes vēlēšanās')","[63088, 63135]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '(\\p{Lu})*', 'AS')",[114696]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'deputāti')","[60675, 60722]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', '""')",[71837]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Aija Krištopane')","[3447, 3493]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Aldaris')",[115194]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Krištopane')","[8995, 9198, 9401, 9954, 10407, 10560, 10713, 11066, 11469, 15180, 15371, 15562, 16082, 16508, 16652, 16796, 17128]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'pakalpojums')","[106467, 106673]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'valde')","[48947, 49153, 49359, 49565, 120126, 120332, 120538, 120744]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Kaspars')","[32085, 32291]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'veiksmīgs')","[66557, 66759, 66961, 67163]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'aldaris')",[115246]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'issue10(lv.lumii.morphotagger.TaggerTest)')","[1439, 3125]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'valdes priekšsēdētāju')","[119873, 119920]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Regīna')",[39101]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Hārvardas')","[84934, 84984, 85034, 85084, 85134, 85184, 85234, 85284, 85334, 85384, 85434, 85484, 85534, 85584, 85634, 85684, 85734, 85784, 85834, 85884, 85934, 85984, 86034, 86084, 86134, 86184, 86234, 86284, 86334, 86384, 86434, 86484, 86534, 86584, 86634, 86684, 86734, 86784, 86834, 86884, 86934, 86984, 87034, 87084]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Aija')","[4083, 4285, 11706, 11991, 12135, 12326, 12517, 12661, 12805, 12949, 13093, 13707, 14133, 14277, 14609, 14988]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'veiksmīgu')","[65673, 65722, 65771, 65820, 65869, 65918, 65967, 66016, 66065, 66114, 66163, 66212, 66261, 66310, 66359, 66408, 66457, 66506, 66708, 66910, 67112, 67314, 67363, 67412, 67461, 67510, 67559, 67608, 67657, 67706, 67755, 67804, 67853, 67902, 67951]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Guntis')",[30084]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_personas_20140414(lv.lumii.expressions.PhraseInflectionTest)')","[265, 1925]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nemācētie(lv.lumii.expressions.PhraseInflectionTest)')","[601, 2275]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Hansa')",[19753]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'izdevniecība ""Liesma""')","[87132, 87179]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Deniss')","[73063, 73269]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'bergers')","[108867, 109069]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'aina')","[58998, 59353]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Jūrmalas')","[89778, 90140, 90502, 90864, 91226, 91276, 91326, 91376, 91426, 91476, 91526, 91576, 91626, 91676, 91726, 91776, 91826, 91876]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Pļaviņas')","[68194, 68718, 68768, 68818, 68868, 68918, 68968, 69018, 69068, 69118, 69168, 69218, 69268, 69318, 69368, 69418, 69468, 69518, 69568, 69618, 69668, 69718, 69768, 69818, 69868, 69918, 69968, 70018, 70068, 70118, 70168, 70218, 70268, 70318, 70368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'gunta19dec_2(lv.lumii.morphotagger.TaggerTest)')","[1367, 3050]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Andra')","[92119, 92169, 92219, 92425, 92475, 92681, 92887, 92937, 92987, 93037, 93087, 93137, 93187, 93237, 93287, 93337, 93387, 93437, 93487, 93537, 93587, 93637, 93687, 93737, 93787, 93837, 93887, 93937, 93987, 94037, 94087, 94137, 94187, 94237, 117847, 117896, 117945, 118147, 118196, 118398, 118600, 118649, 118698, 118747, 118796, 118845, 118894, 118943, 118992, 119041, 119090, 119139, 119188, 119237, 119286, 119335, 119384, 119433, 119482, 119531, 119580, 119629, 119678, 119727, 119776, 119825]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Vaira')","[53713, 53763, 53813, 54019, 54069, 54275, 54481, 54531, 54581, 54631, 54681, 54731, 54781, 54831, 54881, 54931, 54981, 55031, 55081, 55131, 55181, 55231, 55281, 55331, 55381, 55431, 55481, 55531, 55581, 55631, 55681, 55731, 55781, 55831]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Saldus')","[97124, 97326, 97528, 97730]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'aldaris')",[115350]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Seišelu')",[99158]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Aivara')",[22144]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Kaspars Siļķe')","[31734, 31781]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'deputāti')","[60772, 60822, 60872, 60922, 60972, 61178, 61384, 61434, 61484, 61534, 61584, 61634, 61684, 61734, 61784, 61834, 61884, 61934, 61984, 62034, 62084, 62134, 62340, 62390, 62440, 62490, 62540, 62590, 62640, 62690, 62740, 62790, 62840, 62890, 62940, 62990, 63040]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_personas_20141023(lv.lumii.expressions.PhraseInflectionTest)')","[313, 1975]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'laiki(lv.lumii.expressions.PhraseInflectionTest)')","[697, 2375]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tagset_update_2017okt(lv.lumii.morphotagger.TaggerTest)')","[1415, 3100]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Jurijs')","[36899, 37105]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_sacija2(lv.lumii.ner.NerTest)')","[1653, 3325]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Kristiāna')","[34792, 34998]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Aija')","[3638, 3687, 3736, 3785, 3834, 3883, 3932, 3981, 4183, 4385, 4434, 4483, 4532, 4581, 4630, 4679, 4728, 4777, 4826, 4875, 4924, 4973, 5022, 5071, 5120, 5169, 5218, 5267, 5316, 5365, 5414, 5463, 5512, 5561, 5610, 5659, 5708, 5757, 5806, 5855, 5904, 5953, 6002, 6051, 6100, 6149, 6198, 6247, 6296, 6345, 6394, 6443]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'biedrs-kandidāts')","[110833, 110879]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Bergers')",[108668]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'aina')","[58947, 59302]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', '""Mis Foto"" tituls')","[70415, 70461]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Guntis')",[29480]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'AS')",[113240]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Olimpiskās')",[56072]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Dace')",[103909]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test1(lv.lumii.expressions.PhraseInflectionTest)')","[721, 2400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lv.lumii.expressions.PhraseInflectionTest')","[17, 73, 124370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tagera_problēmas(lv.lumii.expressions.PhraseInflectionTest)')","[1177, 2875]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Latvijas Kultūras fondā')","[17317, 17364]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Aija')","[4134, 4336, 11754, 12039, 12183, 12374, 12565, 12709, 12853, 12997, 13141, 13755, 14181, 14325, 14657, 15036]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Latvija tēla veidošanas institūtā')","[122141, 122187]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'personas_ar_amatiem(lv.lumii.expressions.PhraseInflectionTest)')","[433, 2100]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'olimpisks')","[56372, 56574, 56776, 56978, 57180]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Jurijs')","[36847, 37053]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'double_surnames(lv.lumii.expressions.PhraseInflectionTest)')","[481, 2150]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Jelgavas')",[46349]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '[\\d., ]*\\d+([.,][-‐‑‒–—―])?', '5.')",[76918]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'jūrmala')","[90090, 90452, 90814, 91176]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'pārākā(lv.lumii.expressions.PhraseInflectionTest)')","[409, 2075]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Jelgava')","[46760, 47122, 47484, 47846]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Deniss')","[73115, 73321]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_katra(lv.lumii.ner.NerTest)')","[1701, 3375]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Jurijs')",[36745]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'guessByEnding', '\\p{Lu}.*', 'Krištopane')","[9045, 9248, 9451, 9501, 9551, 9601, 9651, 9701, 9751, 9801, 10004, 10054, 10104, 10154, 10204, 10254, 10763, 10813, 10863, 10913, 11116, 11166, 11216, 11266, 11316, 15227, 15418, 15609, 15656, 15703, 15750, 15797, 15844, 15891, 15938, 16129, 16176, 16223, 16270, 16317, 16364, 16843, 16890, 16937, 16984, 17175, 17222, 17269]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'šķirties')",[94481]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'īpašvārdi_2017mar(lv.lumii.morphotagger.TaggerTest)')","[1295, 2975]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Kristiāna')",[34285]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'galvenais')","[101959, 102165]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'pļava')",[68404]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'deputāts')","[61076, 61282]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Deniss')","[73011, 73217, 73423, 73473, 73523, 73573, 73623, 73673, 73723, 73773, 73823, 73873, 73923, 73973, 74023, 74073, 74123, 74173, 74223, 74273, 74323, 74373, 74423, 74473, 74523, 74573, 74623, 74673, 74723, 74773, 74823, 74873, 74923, 74973, 75023, 75073, 75123, 75173]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'siaCirvis(lv.lumii.ner.NerTest)')","[1509, 3175]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Rīgas')",[63184]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'deputāte')",[62290]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Aija')","[4032, 4234, 11658, 11943, 12087, 12278, 12469, 12613, 12757, 12901, 13045, 13659, 14085, 14229, 14561, 14940]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Saldus')","[96828, 96877, 96926, 96975, 97024, 97073, 97275, 97477, 97679, 97881, 98083, 98132, 98181, 98230, 98279, 98328, 98377, 98426, 98475, 98524, 98573, 98622, 98671, 98720, 98769, 98818, 98867, 98916, 98965]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Vairis')",[53969]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Mis')",[72278]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Triju')",[24596]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Hansa Kristiana Andersena')","[19608, 19655]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Vairis')",[53917]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Vaira')","[54225, 54431]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Andra')","[92020, 117750]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'as')",[114646]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Deniss')",[72961]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'AS Aldaris')","[113095, 113142]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Raivis')",[41752]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Deniss Gorba')","[72816, 72863]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'jūrmala')","[89986, 90348, 90710, 91072]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Regīna Laudere')","[39005, 39052]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Kaspars')",[31830]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'latvija')","[17924, 18286, 18648, 19010, 27501, 27863, 28225, 28587, 44405, 44760, 45115, 45470, 78273, 78635, 78997, 79359, 80664, 81026, 81388, 81750, 83005, 83367, 83729, 84091, 122981, 123336]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Aija')",[3589]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'as')",[114594]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'VentspilsDomesPriekšēdētājs(lv.lumii.ner.NerTest)')","[1557, 3225]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'jelgava')","[46552, 46914, 47276, 47638]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'galvenais')","[101907, 102113]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Hansa')",[19704]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Latvijas')","[17462, 27039, 43952, 77811, 80202, 82543]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test7(lv.lumii.expressions.PhraseInflectionTest)')","[841, 2525]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Kristiāns')",[34436]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Regīna')","[39452, 39658]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'dzimtes(lv.lumii.expressions.PhraseInflectionTest)')","[97, 1750]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Andra Vilka')","[117656, 117702]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Vaira')",[53614]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Hārvardas')",[84835]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'šanās(lv.lumii.expressions.PhraseInflectionTest)')","[889, 2575]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Saldus')","[97226, 97428, 97630, 97832]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'vietvārdi_īpašie(lv.lumii.expressions.PhraseInflectionTest)')","[625, 2300]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Kristiāna')","[34844, 35050]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'galvenais redaktors')","[101406, 101453]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Vairis')",[53865]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_personas_20141204(lv.lumii.expressions.PhraseInflectionTest)')","[337, 2000]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_var_klut(lv.lumii.ner.NerTest)')","[1677, 3350]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'vienskaitļi(lv.lumii.expressions.PhraseInflectionTest)')","[1153, 2850]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'AS')","[113290, 113340, 113390, 113440, 113490, 113540, 113590, 113640, 113690, 113740, 113790, 113840, 113890, 113940, 113990, 114040, 114090, 114140, 114190, 114240, 114290, 114340, 114390, 114440, 114490, 114746, 114796, 114846, 114896, 114946, 114996, 115046]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Jelgavas')","[46448, 46810, 47172, 47534, 47896, 47946, 47996, 48046, 48096, 48146, 48196, 48246, 48296, 48346, 48396, 48446, 48496, 48546, 48596, 48646]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Jūrmala')","[89934, 90296, 90658, 91020]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Pļaviņas')","[67999, 68046]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'rīga')","[63595, 63957, 64319, 64681]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Seišelu')","[99208, 99258, 99308, 99358, 99408, 99458, 99508, 99558, 99608, 99658, 99708, 99758, 99808, 99858, 99908, 99958, 100008, 100058, 100108, 100158, 100208, 100258, 100308, 100358, 100408, 100458, 100508, 100558, 100608, 100658, 100708, 100758, 100808, 100858, 100908, 100958, 101008, 101058, 101108, 101158, 101208, 101258, 101308, 101358]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Olimpiskās spēles')","[55930, 55976]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'defises(lv.lumii.expressions.PhraseInflectionTest)')","[1057, 2750]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test3(lv.lumii.expressions.PhraseInflectionTest)')","[769, 2450]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Kristiāna')","[34896, 35102]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Aina')",[58399]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'datums(lv.lumii.ner.NerTest)')","[1485, 3150]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Olimpiskās')","[56121, 56170, 56219, 56421, 56623, 56825, 57027, 57229, 57278, 57327, 57376, 57425, 57474, 57523, 57572, 57621, 57670, 57719, 57768, 57817, 57866, 57915, 57964, 58013, 58062, 58111, 58160, 58209, 58258]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'vietas2(lv.lumii.expressions.PhraseInflectionTest)')","[937, 2625]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'jelgava')","[46604, 46966, 47328, 47690]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\d+\\.', 'krištopane')",[8646]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Kaspars')","[31929, 32135, 32341, 32391, 32441, 32491, 32541, 32591, 32641, 32691, 32741, 32791, 32841, 32891, 32941, 32991, 33041, 33091, 33141, 33191, 33241, 33291, 33341, 33391, 33441, 33491, 33541, 33591, 33641, 33691, 33741, 33791, 33841, 33891, 33941, 33991, 34041, 34091, 34141]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'AS')",[113191]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'galvenais')","[101855, 102061]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Guntis')",[30032]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'awards(lv.lumii.expressions.PhraseInflectionTest)')","[193, 1850]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Pļaviņas')",[68095]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Jūrmalas')",[89679]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Apvienotais štābs')","[115397, 115443]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'olimpisks')","[56321, 56523, 56725, 56927, 57129]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'izdevniecība')",[87481]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', '""')","[70510, 70559, 70608, 70657, 70706, 70755, 70804, 70853, 70902, 70951, 71000, 71049, 71098, 71147, 71196, 71245, 71294, 71343, 71392, 71441, 71490, 71539, 71588, 71637, 71686, 71735, 71937, 71986, 72035, 72084, 72133, 72182]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Jelgava')","[46656, 47018, 47380, 47742]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'biedrs')","[111030, 111232]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'bergers')","[108918, 109120]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Rīga')","[63387, 63749, 64111, 64473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_personas_20150126(lv.lumii.expressions.PhraseInflectionTest)')","[361, 2025]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_mūsu(lv.lumii.ner.NerTest)')","[1533, 3200]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Triju')","[24646, 24696, 24746, 24796, 24846, 24896, 24946, 24996, 25046, 25096, 25146, 25196, 25246, 25296, 25346, 25396, 25446, 25496, 25546, 25596, 25646, 25696, 25746, 25796, 25846, 25896, 25946, 25996, 26046, 26096, 26146, 26196, 26246, 26296, 26346, 26396, 26446, 26496, 26546, 26596, 26646, 26696, 26746, 26796, 26846]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Latvija')",[122235]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'pļava')",[68512]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Aivars')",[22292]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'šķirties')",[94532]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'gunta19dec_3(lv.lumii.morphotagger.TaggerTest)')","[1391, 3075]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Ragaciems')",[51209]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Regīna')","[39200, 39250, 39300, 39350, 39400, 39606, 39812, 39862, 39912, 39962, 40012, 40062, 40112, 40162, 40212, 40262, 40312, 40362, 40412, 40462, 40512, 40562, 40612, 40662, 40712, 40762, 40812, 40862, 40912, 40962, 41012, 41062, 41112, 41162, 41212, 41262, 41312, 41362, 41412]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Deniss')","[73167, 73373]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'biedrs')","[110928, 111130, 111332, 111381, 111430, 111479, 111528, 111577, 111626, 111675, 111724, 111773, 111822, 111871, 111920, 111969, 112018, 112067, 112116, 112165, 112214, 112263, 112312, 112361, 112410, 112459, 112508, 112557, 112606, 112655, 112704, 112753, 112802, 112851, 112900, 112949, 112998, 113047]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Raivis')",[41701]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', '5.')","[75318, 75368, 75418, 75468, 75518, 75568, 75618, 75668, 75718, 75768, 75818, 75868, 75918, 75968, 76018, 76068, 76118, 76168, 76218, 76268, 76318, 76368, 76418, 76468, 76518, 76568, 76618, 76668, 76718, 76768, 76818, 76868]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'jūrmala')","[90038, 90400, 90762, 91124]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test_sacija(lv.lumii.ner.NerTest)')","[1629, 3300]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Latvijas Republikas vēstniecība Dānijā')","[43810, 43856]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', '5. martā')","[75221, 75268]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Jūrmalas 1. vidusskola')","[89583, 89630]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Guntis')",[30136]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'CVbugi20131104(lv.lumii.expressions.PhraseInflectionTest)')","[553, 2225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_veelmes_uz_20150411(lv.lumii.expressions.PhraseInflectionTest)')","[529, 2200]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Regīna')",[39150]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Jūrmala')","[89882, 90244, 90606, 90968]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'guessByEnding', '\\p{Lu}.*', 'Aija')","[11516, 11563, 11610, 11801, 11848, 11895, 12230, 12421, 13188, 13235, 13282, 13329, 13376, 13423, 13470, 13517, 13564, 13611, 13802, 13849, 13896, 13943, 13990, 14037, 14372, 14419, 14466, 14513, 14704, 14751, 14798, 14845, 14892]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'salds')",[98034]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Pļaviņas')","[68298, 68616]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Latvija')","[17716, 18078, 18440, 18802, 27293, 27655, 28017, 28379, 44201, 44556, 44911, 45266, 78065, 78427, 78789, 79151, 80456, 80818, 81180, 81542, 82797, 83159, 83521, 83883, 122777, 123132]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'atkal_ģenitīvi(lv.lumii.expressions.PhraseInflectionTest)')","[913, 2600]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'noliegumi(lv.lumii.morphotagger.TaggerTest)')","[1271, 2950]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\d+\\.', '5.')",[77018]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'nemācētie_salabotie(lv.lumii.expressions.PhraseInflectionTest)')","[217, 1875]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Regīna')","[39556, 39762]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\w+\\.', 'krištopane')",[8695]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Ragaciems')","[51113, 51160]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Rīgas')","[63283, 63645, 64007, 64369, 64731, 64781, 64831, 64881, 64931, 64981, 65031, 65081, 65131, 65181, 65231, 65281, 65331, 65381, 65431, 65481, 65531]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Jelgavas tehniskais licejs')","[46253, 46300]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'biedrs')","[111081, 111283]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\d+[\\\\/]\\d+', '5.')",[76968]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'valdes priekšsēdētājs Ivars Zariņš')","[48694, 48741]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Seišelu')",[99109]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Aina')","[58794, 59149]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'sample(lv.lumii.ner.NerTest)')","[1605, 3275]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lokatīvnieki(lv.lumii.expressions.PhraseInflectionTest)')","[385, 2050]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Vaira')",[53663]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'deputāte')",[62186]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Olimpiskās')",[56024]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Krištopane')",[6539]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Saldus')",[96779]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'izdevniecība')","[87229, 87279, 87329, 87379, 87429, 87635, 87685, 87735, 87785, 87835, 87885, 87935, 87985, 88035, 88085, 88135, 88185, 88235, 88285, 88335, 88385, 88435, 88485, 88535, 88585, 88635, 88685, 88735, 88785, 88835, 88885, 88935, 88985, 89035, 89085, 89135, 89185, 89235, 89285, 89335, 89385, 89435, 89485, 89535]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'salds')",[97932]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'pakalpojumi')","[106315, 106365, 106415, 106621, 106827, 106877, 106927, 106977, 107027, 107077, 107127, 107177, 107227, 107277, 107327, 107377, 107427, 107477, 107527, 107577, 107627, 107677, 107727, 107777, 107827, 107877, 107927, 107977, 108027, 108077, 108127, 108177, 108227, 108277, 108327, 108377, 108427, 108477, 108527]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Bergers')",[108716]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'valdes')","[48791, 48997, 49203, 49409, 49615, 49665, 49715, 49765, 49815, 49865, 49915, 49965, 50015, 50065, 50115, 50165, 50215, 50265, 50315, 50365, 50415, 50465, 50515, 50565, 50615, 50665, 50715, 50765, 50815, 50865, 50915, 50965, 51015, 51065, 119970, 120176, 120382, 120588, 120794, 120844, 120894, 120944, 120994, 121044, 121094, 121144, 121194, 121244, 121294, 121344, 121394, 121444, 121494, 121544, 121594, 121644, 121694, 121744, 121794, 121844, 121894, 121944, 121994, 122044, 122094]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'aina')","[58896, 59251]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '[\\d., ]*\\d+([.,][-‐‑‒–—―])?', 'krištopane')",[8548]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_gļuks(lv.lumii.expressions.PhraseInflectionTest)')","[169, 1825]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Aivars')",[22394]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'as')",[114542]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'jelgava')","[46500, 46862, 47224, 47586]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Dace Markus')","[103813, 103860]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'biedrs')","[110979, 111181]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'sanity(lv.lumii.morphotagger.TaggerTest)')","[1247, 2925]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'olimpisks')","[56270, 56472, 56674, 56876, 57078]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Aina')","[58743, 59098]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Andris')","[92375, 118098]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Jurijs')",[36696]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'deputāte')",[62238]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Ragaciems')","[51308, 51358, 51408, 51614, 51820, 51870, 51920, 51970, 52020, 52070, 52120, 52170, 52220, 52270, 52320, 52370, 52420, 52470, 52520, 52570, 52620, 52670, 52720, 52770, 52820, 52870, 52920, 52970, 53020, 53070, 53120, 53170, 53220, 53270, 53320, 53370, 53420, 53470]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Andris')","[92323, 118047]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'apvienot')","[115839, 116041]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Latvijas Lielo pilsētu asociācija')","[26894, 26941]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Kaspars')","[32033, 32239]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Jelgavas')",[46398]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Latvija')","[17664, 18026, 18388, 18750, 27241, 27603, 27965, 28327, 44150, 44505, 44860, 45215, 78013, 78375, 78737, 79099, 80404, 80766, 81128, 81490, 82745, 83107, 83469, 83831, 122726, 123081]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Guntis')","[29530, 29580, 29630, 29680, 29730, 29780, 29830, 29880, 29930, 29980, 30186, 30236, 30286, 30336, 30386, 30436, 30486, 30536, 30586, 30636, 30686, 30736, 30786, 30836, 30886, 30936, 30986, 31036, 31086, 31136, 31186, 31236, 31286, 31336, 31386, 31436, 31486, 31536, 31586, 31636, 31686]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'apvienot')","[115737, 115939]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', '""')",[71888]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Raivis')",[41553]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Rīga')","[63439, 63801, 64163, 64525]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNormalizeAndraAmbaina(lv.lumii.expressions.PhraseInflectionTest)')","[1129, 2825]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'latvija')","[17872, 18234, 18596, 18958, 27449, 27811, 28173, 28535, 44354, 44709, 45064, 45419, 78221, 78583, 78945, 79307, 80612, 80974, 81336, 81698, 82953, 83315, 83677, 84039, 122930, 123285]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'deputāts')","[61024, 61230]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'šķirties')",[94430]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Kristiāna')",[34334]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Ragaciems')","[51564, 51770]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Aivara')",[22192]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Krištopane')","[6588, 6637, 6686, 6735, 6784, 6833, 6882, 6931, 6980, 7029, 7078, 7127, 7176, 7225, 7274, 7323, 7372, 7421, 7470, 7519, 7568, 7617, 7666, 7715, 7764, 7813, 7862, 7911, 7960, 8009, 8058, 8107, 8156, 8205, 8254, 8303, 8352, 8401, 8450, 8499]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'veiksmīgu atgriešanos')","[65578, 65624]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '(\\p{L})', 'krištopane')",[8793]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Kristiāns')",[34540]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Rīgas')",[63233]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Andris')","[92271, 117996]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'veiksmīgs')","[66659, 66861, 67063, 67265]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Kaspars')","[31981, 32187]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Hārvardas universitāte')","[84739, 84786]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'too_chatty(lv.lumii.expressions.PhraseInflectionTest)')","[1033, 2725]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Dace')","[104164, 104370]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Andra')","[92069, 117798]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Aivara')","[22241, 22443, 22492, 22541, 22590, 22639, 22688, 22737, 22786, 22835, 22884, 22933, 22982, 23031, 23080, 23129, 23178, 23227, 23276, 23325, 23374, 23423, 23472, 23521, 23570, 23619, 23668, 23717, 23766, 23815, 23864, 23913, 23962, 24011, 24060, 24109, 24158, 24207, 24256, 24305, 24354, 24403]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Vaira Vīķe-Freiberga')","[53518, 53565]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', '""')",[71786]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Kaspars')",[31879]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Aija')",[3541]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'latvija')","[17820, 18182, 18544, 18906, 27397, 27759, 28121, 28483, 44303, 44658, 45013, 45368, 78169, 78531, 78893, 79255, 80560, 80922, 81284, 81646, 82901, 83263, 83625, 83987, 122879, 123234]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Dace')",[103958]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'Ilzes_todo(lv.lumii.expressions.PhraseInflectionTest)')","[1105, 2800]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Pļaviņas')","[68350, 68668]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Aina')","[58845, 59200]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Krištopane')","[8944, 9147, 9350, 9903, 10356, 10509, 10662, 11015, 11418, 15132, 15323, 15514, 16034, 16460, 16604, 16748, 17080]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Latvijas')","[17413, 26990, 43904, 77762, 80153, 82494]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'izdevniecība')",[87533]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Andra Bērziņa')","[91924, 91971]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'OOV_uzvārdi(lv.lumii.expressions.PhraseInflectionTest)')","[241, 1900]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Jelgava')","[46708, 47070, 47432, 47794]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'galvenais(lv.lumii.expressions.PhraseInflectionTest)')","[961, 2650]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'neizloka(lv.lumii.expressions.PhraseInflectionTest)')","[1009, 2700]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Andra')","[92579, 92785, 118298, 118500]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'pakalpojumi saistīti ar uzturēšanu')","[106218, 106265]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Raivis')","[41650, 41852, 41901, 41950, 41999, 42048, 42097, 42146, 42195, 42244, 42293, 42342, 42391, 42440, 42489, 42538, 42587, 42636, 42685, 42734, 42783, 42832, 42881, 42930, 42979, 43028, 43077, 43126, 43175, 43224, 43273, 43322, 43371, 43420, 43469, 43518, 43567, 43616, 43665, 43714, 43763]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lv.lumii.morphotagger.TaggerTest')","[34, 1199, 124397]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'cilveeki(lv.lumii.expressions.PhraseInflectionTest)')","[145, 1800]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Jurijs Sova')","[36600, 36647]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'vietas(lv.lumii.expressions.PhraseInflectionTest)')","[457, 2125]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Kristiāna Lībane')","[34189, 34236]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Dace')","[104008, 104214, 104420, 104470, 104520, 104570, 104620, 104670, 104720, 104770, 104820, 104870, 104920, 104970, 105020, 105070, 105120, 105170, 105220, 105270, 105320, 105370, 105420, 105470, 105520, 105570, 105620, 105670, 105720, 105770, 105820, 105870, 105920, 105970, 106020, 106070, 106120, 106170]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Ragaciems')","[51460, 51666]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test4(lv.lumii.expressions.PhraseInflectionTest)')","[793, 2475]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'siaCirvis2(lv.lumii.ner.NerTest)')","[1725, 3400]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Latvijas vēstures un filoloģijas fakultāte')","[77666, 77713]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'izdevniecība')",[87585]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Guntis')",[29431]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Bergers')","[108574, 108620]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'pļava')",[68458]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Seišelu Salas')","[99013, 99060]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Aina')",[58447]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'bergers')","[108816, 109018]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Pļaviņas')",[68144]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test6(lv.lumii.expressions.PhraseInflectionTest)')","[817, 2500]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Rīga')","[63335, 63697, 64059, 64421]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Jūrmala')","[89830, 90192, 90554, 90916]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Mis')",[72230]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Triju')",[24547]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Hansa')","[19803, 19853, 19903, 19953, 20003, 20053, 20103, 20153, 20203, 20253, 20303, 20353, 20403, 20453, 20503, 20553, 20603, 20653, 20703, 20753, 20803, 20853, 20903, 20953, 21003, 21053, 21103, 21153, 21203, 21253, 21303, 21353, 21403, 21453, 21503, 21553, 21603, 21653, 21703, 21753, 21803, 21853, 21903, 21953, 22003]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Krištopane')","[8893, 9096, 9299, 9852, 10305, 10458, 10611, 10964, 11367, 15084, 15275, 15466, 15986, 16412, 16556, 16700, 17032]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'gunta19dec_1(lv.lumii.morphotagger.TaggerTest)')","[1343, 3025]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Jurijs')","[36951, 37157]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'aldaris')",[115298]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Deniss')",[72912]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'orgNames2(lv.lumii.expressions.PhraseInflectionTest)')","[1081, 2775]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'profesija(lv.lumii.ner.NerTest)')","[1581, 3250]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Saldus novads')","[96637, 96683]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Kristiāna')","[34384, 34590, 34640, 34690, 34740, 34946, 35152, 35202, 35252, 35302, 35352, 35402, 35452, 35502, 35552, 35602, 35652, 35702, 35752, 35802, 35852, 35902, 35952, 36002, 36052, 36102, 36152, 36202, 36252, 36302, 36352, 36402, 36452, 36502, 36552]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Latvija')","[122332, 122381, 122430, 122479, 122528, 122577, 122626, 122675, 123030, 123385, 123434, 123483, 123532, 123581, 123630, 123679, 123728, 123777, 123826, 123875, 123924, 123973, 124022, 124071, 124120, 124169, 124218, 124267, 124316]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Latvija')","[17768, 18130, 18492, 18854, 27345, 27707, 28069, 28431, 44252, 44607, 44962, 45317, 78117, 78479, 78841, 79203, 80508, 80870, 81232, 81594, 82849, 83211, 83573, 83935, 122828, 123183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'CV50(lv.lumii.expressions.PhraseInflectionTest)')","[673, 2350]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test2(lv.lumii.expressions.PhraseInflectionTest)')","[745, 2425]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lemmas(lv.lumii.morphotagger.TaggerTest)')","[1223, 2900]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Latvijas rakstnieku savienība')","[82398, 82445]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Latvijas vēstures un filoloģijas fakultāti')","[80057, 80104]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'roka(lv.lumii.morphotagger.TaggerTest)')","[1319, 3000]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_veelmes_uz_20150215(lv.lumii.expressions.PhraseInflectionTest)')","[505, 2175]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'galvenais')","[101503, 101553, 101603, 101653, 101703, 101753, 101803, 102009, 102215, 102265, 102315, 102365, 102415, 102465, 102515, 102565, 102615, 102665, 102715, 102765, 102815, 102865, 102915, 102965, 103015, 103065, 103115, 103165, 103215, 103265, 103315, 103365, 103415, 103465, 103515, 103565, 103615, 103665, 103715, 103765]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Hārvardas')",[84884]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Andra')","[92631, 92837, 118349, 118551]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Latvija')",[122283]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'martā')","[77068, 77118, 77168, 77218, 77268, 77318, 77368, 77418, 77468, 77518, 77568, 77618]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Ragaciems')","[51512, 51718]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Jurijs')","[36795, 37001, 37207, 37257, 37307, 37357, 37407, 37457, 37507, 37557, 37607, 37657, 37707, 37757, 37807, 37857, 37907, 37957, 38007, 38057, 38107, 38157, 38207, 38257, 38307, 38357, 38407, 38457, 38507, 38557, 38607, 38657, 38707, 38757, 38807, 38857, 38907, 38957]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Aina')","[58496, 58545, 58594, 58643, 58692, 59047, 59402, 59451, 59500, 59549, 59598, 59647, 59696, 59745, 59794, 59843, 59892, 59941, 59990, 60039, 60088, 60137, 60186, 60235, 60284, 60333, 60382, 60431, 60480, 60529, 60578, 60627]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Vaira')","[54121, 54327]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'valde')","[48895, 49101, 49307, 49513, 120074, 120280, 120486, 120692]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Aldaris')",[115144]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Dace')","[104060, 104266]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Apvienotais')",[115539]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Saldus')","[97175, 97377, 97579, 97781]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'CVbugi20131105(lv.lumii.expressions.PhraseInflectionTest)')","[577, 2250]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Aivara Aizkalnietis')","[22050, 22096]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lv.lumii.ner.NerTest')","[51, 1461, 124343]"
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Aina Vītola')","[58305, 58351]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Kristiāns')",[34488]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Raivis')",[41601]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'šķīrusies')","[94284, 94330]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Latvijas')","[17512, 17562, 17612, 17974, 18336, 18698, 19060, 19110, 19160, 19210, 19260, 19310, 19360, 19410, 19460, 19510, 19560, 27089, 27139, 27189, 27551, 27913, 28275, 28637, 28687, 28737, 28787, 28837, 28887, 28937, 28987, 29037, 29087, 29137, 29187, 29237, 29287, 44001, 44050, 44099, 44454, 44809, 45164, 45519, 45568, 45617, 45666, 45715, 45764, 45813, 45862, 45911, 45960, 46009, 46058, 46107, 46156, 46205, 77861, 77911, 77961, 78323, 78685, 79047, 79409, 79459, 79509, 79559, 79609, 79659, 79709, 79759, 79809, 79859, 79909, 79959, 80009, 80252, 80302, 80352, 80714, 81076, 81438, 81800, 81850, 81900, 81950, 82000, 82050, 82100, 82150, 82200, 82250, 82300, 82350, 82593, 82643, 82693, 83055, 83417, 83779, 84141, 84191, 84241, 84291, 84341, 84391, 84441, 84491, 84541, 84591, 84641, 84691]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '[.\\w]+\\.(lv|com|org)', 'krištopane')",[8842]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Apvienotais')",[115491]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Guntis Bārzdiņš')","[29335, 29382]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Pļaviņas')","[68246, 68564]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'LETA_personas_20140819(lv.lumii.expressions.PhraseInflectionTest)')","[289, 1950]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'WTFnames(lv.lumii.expressions.PhraseInflectionTest)')","[985, 2675]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'Andra')","[92527, 92733, 118247, 118449]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'apvienot')","[115788, 115990]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'rīga')","[63543, 63905, 64267, 64629]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Aldaris')",[115095]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'Raivis')",[41803]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Aivars')",[22343]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Triju zvaigžņu ordeni')","[24451, 24498]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'x20140703(lv.lumii.expressions.PhraseInflectionTest)')","[865, 2550]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Vaira')","[54173, 54379]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'valde')","[48843, 49049, 49255, 49461, 120022, 120228, 120434, 120640]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Bergers')","[108765, 108967, 109169, 109218, 109267, 109316, 109365, 109414, 109463, 109512, 109561, 109610, 109659, 109708, 109757, 109806, 109855, 109904, 109953, 110002, 110051, 110100, 110149, 110198, 110247, 110296, 110345, 110394, 110443, 110492, 110541, 110590, 110639, 110688, 110737, 110786]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'pakalpojums')","[106571, 106777]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Apvienotais')","[115588, 115637, 115686, 115888, 116090, 116139, 116188, 116237, 116286, 116335, 116384, 116433, 116482, 116531, 116580, 116629, 116678, 116727, 116776, 116825, 116874, 116923, 116972, 117021, 117070, 117119, 117168, 117217, 117266, 117315, 117364, 117413, 117462, 117511, 117560, 117609]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Dace')","[104112, 104318]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'organizācijas(lv.lumii.expressions.PhraseInflectionTest)')","[121, 1775]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'pakalpojums')","[106519, 106725]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Jūrmalas')",[89728]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'veiksmīgs')","[66608, 66810, 67012, 67214]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'rīga')","[63491, 63853, 64215, 64577]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.*', 'vairīt')",[55883]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'pēdiņas(lv.lumii.expressions.PhraseInflectionTest)')","[649, 2325]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'Regīna')","[39504, 39710]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '(\\p{Lu}){2,5}', 'Krištopane')",[8744]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'Mis')","[72327, 72376, 72425, 72474, 72523, 72572, 72621, 72670, 72719, 72768]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\d+[\\\\/]\\d+', 'krištopane')",[8597]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Krištopane')",[6491]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '\\p{Lu}.*', 'Saldus')",[96731]
+"('Expression.java', 'lv.lumii.expressions.Expression', 'loadUsingTagger', '\\p{IsLatin}+-\\p{IsLatin}+', 'Raivis Zeltīts')","[41459, 41505]"
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '(\\p{Lu})*', 'salds')",[97983]
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyzeLowercase', '\\p{Lu}.*', 'šķīrusies')","[94379, 94581, 94630, 94679, 94728, 94777, 94826, 94875, 94924, 94973, 95022, 95071, 95120, 95169, 95218, 95267, 95316, 95365, 95414, 95463, 95512, 95561, 95610, 95659, 95708, 95757, 95806, 95855, 95904, 95953, 96002, 96051, 96100, 96149, 96198, 96247, 96296, 96345, 96394, 96443, 96492, 96541, 96590]"
+"('Analyzer.java', 'lv.semti.morphology.analyzer.Analyzer', 'analyze', '(\\p{Lu})*', 'Ragaciems')",[51258]
+"('Lexicon.java', 'lv.semti.morphology.lexicon.Lexicon', 'recapitalize', '\\p{Lu}.+-\\p{Lu}.+', 'deputāts')","[61128, 61334]"

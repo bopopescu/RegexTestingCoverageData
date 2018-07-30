@@ -1,0 +1,14 @@
+"('RQMObject.java', 'net.praqma.jenkins.rqm.model.RQMObject', 'validateTERId', 'jenkins:ter:\\d+', 'jenkins:ter:222')",[418]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRqmJenkinsTCERResourceId(net.praqma.jenkins.rqm.unit.TestRQMObjectMethods)')","[57, 223]"
+"('RQMObject.java', 'net.praqma.jenkins.rqm.model.RQMObject', 'validateTCERId', 'jenkins:tcer:\\d+', 'jenkins:tcer:222')",[372]
+"('RQMObject.java', 'net.praqma.jenkins.rqm.model.RQMObject', 'validateTERId', 'jenkins:ter:\\d+', 'jenkins:ter:2a22')",[441]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.praqma.jenkins.rqm.unit.TestRQMObjectMethods')","[36, 467]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRqmJenkinsTERResourceId(net.praqma.jenkins.rqm.unit.TestRQMObjectMethods)')","[78, 244]"
+"('RQMObject.java', 'net.praqma.jenkins.rqm.model.RQMObject', 'validateTCERId', 'jenkins:tcer:\\d+', 'jenkins:tcer:2a22')",[395]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.praqma.jenkins.rqm.unit.TestSingleResourceParsing')","[139, 489]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getInternaIdNumber(net.praqma.jenkins.rqm.unit.TestRQMObjectMethods)')","[99, 265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testScriptParsing(net.praqma.jenkins.rqm.unit.TestSingleResourceParsing)')","[181, 328]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProperSerialization(net.praqma.jenkins.rqm.unit.TestRQMObjectMethods)')","[120, 286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCaseParsing(net.praqma.jenkins.rqm.unit.TestSingleResourceParsing)')","[160, 307]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'TestSerializationOfAllObjects(net.praqma.jenkins.rqm.unit.TestSingleResourceParsing)')","[202, 349]"

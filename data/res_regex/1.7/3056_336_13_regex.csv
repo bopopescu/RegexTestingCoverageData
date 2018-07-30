@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTwoPlusOne(org.echocat.jomon.demo.repository.EmployeeRepositoryUnitTest)')","[78, 122]"
+"('EmployeeQuery.java', 'org.echocat.jomon.demo.repository.EmployeeQuery', 'applyName', '\\Qbe\\E.*', 'philipp')","[368, 463, 538]"
+"('EmployeeQuery.java', 'org.echocat.jomon.demo.repository.EmployeeQuery', 'applyName', '\\Qbe\\E.*', 'bert')","[308, 399, 488]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.echocat.jomon.demo.repository.EmployeeRepositoryUnitTest')","[36, 561]"
+"('EmployeeQuery.java', 'org.echocat.jomon.demo.repository.EmployeeQuery', 'applyName', '\\Qbert\\E', 'bettina')",[278]
+"('EmployeeQuery.java', 'org.echocat.jomon.demo.repository.EmployeeQuery', 'applyName', '\\Qbe\\E.*', 'bettina')","[338, 431, 513]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOnePlusOne(org.echocat.jomon.demo.repository.EmployeeRepositoryUnitTest)')","[57, 100]"
+"('EmployeeQuery.java', 'org.echocat.jomon.demo.repository.EmployeeQuery', 'applyName', '\\Qbert\\E', 'bert')","[153, 184, 215, 246]"

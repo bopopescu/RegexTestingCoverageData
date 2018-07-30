@@ -1,0 +1,23 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesEmptyRangeSpec(com.hadoopbook.pig.RangeTest)')","[517, 538, 559, 977]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesMultipleRangeSpec(com.hadoopbook.pig.RangeTest)')","[664, 1019]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'failsOnInvalidSpec(com.hadoopbook.pig.RangeTest)')","[748, 1040]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'goodQuality(com.hadoopbook.pig.IsGoodQualityTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hadoopbook.pig.RangeTest')","[1159, 1179, 1200, 1220]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesSingleRangeSpec(com.hadoopbook.pig.RangeTest)')","[580, 998]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.hadoopbook.pig.RangeTest')",[475]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.hadoopbook.pig.IsGoodQualityTest')","[1065, 1089, 1114, 1138]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.hadoopbook.pig.IsGoodQualityTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'badQuality(com.hadoopbook.pig.IsGoodQualityTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'emptyTuple(com.hadoopbook.pig.IsGoodQualityTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesSingleRangeSpec(com.hadoopbook.pig.RangeTest)')","[601, 622, 643]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'parsesMultipleRangeSpec(com.hadoopbook.pig.RangeTest)')","[685, 706, 727]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'badQuality(com.hadoopbook.pig.IsGoodQualityTest)')","[141, 873]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'goodQuality(com.hadoopbook.pig.IsGoodQualityTest)')","[225, 894]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'failsOnInvalidSpec(com.hadoopbook.pig.RangeTest)')","[769, 790, 811]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nullTuple(com.hadoopbook.pig.IsGoodQualityTest)')","[309, 915]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'parsesEmptyRangeSpec(com.hadoopbook.pig.RangeTest)')","[496, 957]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'tupleWithNullField(com.hadoopbook.pig.IsGoodQualityTest)')","[57, 832]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'tupleWithNullField(com.hadoopbook.pig.IsGoodQualityTest)')","[78, 99, 120, 852]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'emptyTuple(com.hadoopbook.pig.IsGoodQualityTest)')","[393, 936]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nullTuple(com.hadoopbook.pig.IsGoodQualityTest)')","[330, 351, 372]"

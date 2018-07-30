@@ -1,0 +1,38 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_ValidFilm(com.xandrev.jdorg.organizers.impl.MovieOrganizerTest)')","[429, 971]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_ValidEpisodeUSA(com.xandrev.jdorg.organizers.impl.FileOrganizerTest)')","[532, 1055]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_Null(com.xandrev.jdorg.organizers.impl.MovieOrganizerTest)')","[450, 992]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testOrganizerManager(com.xandrev.jdorg.organizers.service.OrganizerManagerTest)')","[389, 950]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoadProperties(com.xandrev.jdorg.configuration.ConfigurationTest)')","[307, 887]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCheckExtensions_Name_Null(com.xandrev.jdorg.utils.UtilsTest)')","[57, 656]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_ValidEpisodeUSA(com.xandrev.jdorg.organizers.impl.TVShowsOrganizerTest)')","[614, 1118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCheckExtensions_Array_Null(com.xandrev.jdorg.utils.UtilsTest)')","[204, 803]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.xandrev.jdorg.configuration.ConfigurationTest')","[265, 1260]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.xandrev.jdorg.utils.UtilsTest')","[36, 1234]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoadProperties_NotExists(com.xandrev.jdorg.configuration.ConfigurationTest)')","[328, 908]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtractEpisodeFromFile_NotContained(com.xandrev.jdorg.utils.UtilsTest)')","[120, 719]"
+"('TVShowsOrganizer.java', 'com.xandrev.jdorg.organizers.impl.TVShowsOrganizer', 'generateFolder', '(.*)\\s*[\\.\\-]\\s*([sS]([0-9]?[0-9])[eE]?([0-9]?[0-9])|([0-9]?[0-9])x([0-9]?[0-9])|([0-9]?[0-9])of([0-9]?[0-9])|[0-9]{3,4}\\.).*', '')",[1310]
+"('Utils.java', 'com.xandrev.jdorg.utils.Utils', 'extractEpisodeFromFile', '(.*)\\.(S[0-9][0-9]E[0-9][0-9]|[0-9]?[0-9]X[0-9]?[0-9]).*', 'SHOW.S01E02.AVI')",[1208]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCheckExtensions_ReNull(com.xandrev.jdorg.utils.UtilsTest)')","[162, 761]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_NoSeason(com.xandrev.jdorg.organizers.impl.MovieOrganizerTest)')","[471, 1013]"
+"('TVShowsOrganizer.java', 'com.xandrev.jdorg.organizers.impl.TVShowsOrganizer', 'generateFolder', '(.*)\\s*[\\.\\-]\\s*([sS]([0-9]?[0-9])[eE]?([0-9]?[0-9])|([0-9]?[0-9])x([0-9]?[0-9])|([0-9]?[0-9])of([0-9]?[0-9])|[0-9]{3,4}\\.).*', 'Show.S01E01.Episode.avi')",[1358]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.xandrev.jdorg.organizers.impl.FileOrganizerTest')","[511, 1448]"
+"('Utils.java', 'com.xandrev.jdorg.utils.Utils', 'extractEpisodeFromFile', '(.*)\\.(S[0-9][0-9]E[0-9][0-9]|[0-9]?[0-9]X[0-9]?[0-9]).*', 'MP3')",[1162]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAvailabeFeatures(com.xandrev.jdorg.utils.UtilsTest)')","[78, 677]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_NoSeason(com.xandrev.jdorg.organizers.impl.TVShowsOrganizerTest)')","[635, 1139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.xandrev.jdorg.organizers.service.OrganizerManagerTest')","[368, 1286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtractEpisodeFromFile_AmericanStyle(com.xandrev.jdorg.utils.UtilsTest)')","[225, 824]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.xandrev.jdorg.organizers.impl.MovieOrganizerTest')","[408, 1404]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.xandrev.jdorg.organizers.impl.TVShowsOrganizerTest')","[551, 1426]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCheckExtensions_Contained(com.xandrev.jdorg.utils.UtilsTest)')","[183, 782]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCheckExtensions_NotContained(com.xandrev.jdorg.utils.UtilsTest)')","[99, 698]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoadProperties_NotValid(com.xandrev.jdorg.configuration.ConfigurationTest)')","[349, 929]"
+"('TVShowsOrganizer.java', 'com.xandrev.jdorg.organizers.impl.TVShowsOrganizer', 'generateFolder', '(.*)\\s*[\\.\\-]\\s*([sS]([0-9]?[0-9])[eE]?([0-9]?[0-9])|([0-9]?[0-9])x([0-9]?[0-9])|([0-9]?[0-9])of([0-9]?[0-9])|[0-9]{3,4}\\.).*', 'No season')",[1382]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoadProperties_Null(com.xandrev.jdorg.configuration.ConfigurationTest)')","[286, 866]"
+"('Utils.java', 'com.xandrev.jdorg.utils.Utils', 'extractEpisodeFromFile', '(.*)\\.(S[0-9][0-9]E[0-9][0-9]|[0-9]?[0-9]X[0-9]?[0-9]).*', 'SHOW.01X02.AVI')",[1185]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_Null(com.xandrev.jdorg.organizers.impl.TVShowsOrganizerTest)')","[572, 1076]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('TVShowsOrganizer.java', 'com.xandrev.jdorg.organizers.impl.TVShowsOrganizer', 'generateFolder', '(.*)\\s*[\\.\\-]\\s*([sS]([0-9]?[0-9])[eE]?([0-9]?[0-9])|([0-9]?[0-9])x([0-9]?[0-9])|([0-9]?[0-9])of([0-9]?[0-9])|[0-9]{3,4}\\.).*', 'Show.1x01.Episode.avi')",[1334]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtractEpisodeFromFile_SpanishStyle(com.xandrev.jdorg.utils.UtilsTest)')","[141, 740]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtractEpisodeFromFile_Null(com.xandrev.jdorg.utils.UtilsTest)')","[246, 845]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGenerateFolder_ValidEpisodeSpanish(com.xandrev.jdorg.organizers.impl.TVShowsOrganizerTest)')","[593, 1097]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExtractMovieName_Extract(com.xandrev.jdorg.organizers.impl.MovieOrganizerTest)')","[492, 1034]"

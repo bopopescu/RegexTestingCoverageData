@@ -1,0 +1,5 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPatterns(com.madgag.globs.openjdk.GlobsTest)')","[57, 78]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.madgag.globs.openjdk.GlobsTest')","[36, 144]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('GlobsTest.java', 'com.madgag.globs.openjdk.GlobsTest', 'testPatterns', '^[^/]*\\.xml$', 'foo.xml')",[100]
+"('GlobsTest.java', 'com.madgag.globs.openjdk.GlobsTest', 'testPatterns', '^[^/]*\\.xml$', 'bar.java')",[122]

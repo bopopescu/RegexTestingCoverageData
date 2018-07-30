@@ -1,0 +1,73 @@
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/sheet3.xml')","[804, 842, 1978, 2015, 4434, 4471, 7491, 7526]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-package.relationships+xml')","[1293, 1436, 1797]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/sheet3.xml')","[1940, 4396]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/workbook.xml')","[496, 534, 1508, 1545, 3177, 3214, 7204, 7240]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/')","[265, 303]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/_rels/sheet3.xml.rels')",[4547]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'theme/theme1.xml')",[3661]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/styles.xml')","[419, 457, 2305, 2342, 5302, 5339, 7704, 7739]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.extended-properties+xml')",[6753]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/_rels/sheet4.xml.rels')",[3886]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/theme/theme1.xml')","[342, 380, 2414, 2451, 5578, 5615, 7633, 7668]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-package.core-properties+xml')","[34, 68, 6477, 6920]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/_rels/sheet1.xml.rels')","[1726, 1763, 4049, 4086, 4869, 4914]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml')",[5373]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/sheet1.xml')","[881, 919, 2087, 2124, 4710, 4747, 7276, 7311]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/sharedStrings.xml')","[2158, 4988]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/theme/_rels/theme1.xml.rels')",[5691]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'calcChain.xml')",[3421]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/_rels/core.xml.rels')","[6519, 6962]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'sharedStrings.xml')",[3501]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'worksheets/sheet1.xml')",[3581]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/printerSettings/_rels/printerSettings1.bin.rels')","[6289, 6334]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.theme+xml')",[5649]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/sheet2.xml')","[727, 765, 1869, 1906, 4158, 4195, 7420, 7455]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/_rels/.rels')","[1184, 2921]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/calcChain.xml')","[958, 996, 2523, 2560, 5854, 5891, 7846, 7881]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/_rels/styles.xml.rels')","[5461, 5506]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/core.xml')","[2703, 6368]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'docProps/app.xml')",[7091]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/_rels/workbook.xml.rels')","[1327, 3030, 3290]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'xl/workbook.xml')",[7167]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'worksheets/sheet2.xml')",[3541]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/core.xml')","[187, 226, 1112, 1150, 2741, 2778, 6406, 6443]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '../printerSettings/printerSettings1.bin')",[4954]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/calcChain.xml')","[2485, 5816]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml')",[3248]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'worksheets/sheet4.xml')",[3701]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'docProps/core.xml')",[7129]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/printerSettings/printerSettings1.bin')","[2594, 6092]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml')",[5097]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/_rels/calcChain.xml.rels')","[6013, 6058]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/_rels/core.xml.rels')","[6565, 6610, 7008, 7053]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'styles.xml')",[3621]
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml')","[3844, 4229, 4505, 4781]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/_rels/.rels')","[108, 147, 1222, 1259, 2959, 2996]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/theme/_rels/theme1.xml.rels')","[5737, 5782]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/styles.xml')","[2267, 5264]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.printerSettings')",[6201]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/printerSettings/_rels/printerSettings1.bin.rels')",[6243]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/_rels/workbook.xml.rels')","[1365, 1402, 3068, 3105, 3336, 3381]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/_rels/sheet1.xml.rels')","[1688, 4011, 4823]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/workbook.xml')","[1470, 3139]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/_rels/styles.xml.rels')",[5415]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/_rels/sharedStrings.xml.rels')",[5139]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/_rels/sheet4.xml.rels')","[3932, 3977]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/_rels/sharedStrings.xml.rels')","[5185, 5230]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/sheet4.xml')","[573, 611, 1617, 1654, 3773, 3810, 7562, 7597]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/_rels/sheet2.xml.rels')",[4271]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/sheet1.xml')","[2049, 4672]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/_rels/sheet3.xml.rels')","[4593, 4638]"
+"('ContentType.java', 'org.apache.poi.openxml4j.opc.internal.ContentType', '<init>', '^([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)/([\\x21-\\x7E&&[^\\(\\)<>@,;:\\\\/""\\[\\]\\?={}\\x20\\x09]]+)$', 'application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml')",[5925]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/worksheets/_rels/sheet2.xml.rels')","[4317, 4362]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/printerSettings/printerSettings1.bin')","[2632, 2669, 6130, 6167, 7348, 7384]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/app.xml')","[2812, 6644]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/theme/theme1.xml')","[2376, 5540]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/_rels/calcChain.xml.rels')",[5967]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/xl/sharedStrings.xml')","[1035, 1073, 2196, 2233, 5026, 5063, 7775, 7810]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', 'worksheets/sheet3.xml')",[3461]
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/sheet2.xml')","[1831, 4120]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/xl/worksheets/sheet4.xml')","[1579, 3735]"
+"('PackagingURIHelper.java', 'org.apache.poi.openxml4j.opc.PackagingURIHelper', 'toURI', '\\w+://', '/docProps/_rels/app.xml.rels')",[6795]
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/_rels/app.xml.rels')","[6841, 6886]"
+"('PackagePartName.java', 'org.apache.poi.openxml4j.opc.PackagePartName', 'isRelationshipPartURI', '^.*/_rels/.*\\.rels$', '/docProps/app.xml')","[650, 688, 2850, 2887, 6682, 6719]"

@@ -1,0 +1,6 @@
+"('ParticipantId.java', 'org.waveprotocol.wave.model.wave.ParticipantId', 'validate', '^.*@.+$', 'test')","[140, 167, 196, 224]"
+"('ParticipantId.java', 'org.waveprotocol.wave.model.wave.ParticipantId', 'validate', '^.*@.+$', 'test@')","[252, 279, 308, 336]"
+"('ParticipantId.java', 'org.waveprotocol.wave.model.wave.ParticipantId', 'validate', '^.*@.+$', '')","[28, 55, 84, 112]"
+"('ParticipantId.java', 'org.waveprotocol.wave.model.wave.ParticipantId', 'validate', '^.*@.+$', 'test@example.com')","[588, 615, 644, 672]"
+"('ParticipantId.java', 'org.waveprotocol.wave.model.wave.ParticipantId', 'validate', '^.*@.+$', '@')","[364, 391, 420, 448]"
+"('ParticipantId.java', 'org.waveprotocol.wave.model.wave.ParticipantId', 'validate', '^.*@.+$', '@example.com')","[476, 503, 532, 560]"

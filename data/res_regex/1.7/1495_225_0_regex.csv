@@ -1,0 +1,19 @@
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[414]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createANewList(it.xpug.todolists.main.TodoListsTest)')","[141, 267]"
+"('Resource.java', 'it.xpug.todolists.main.Resource', 'uriMatches', '/todolists/(\\d+)/items', '/todolists/0/items')",[472]
+"('Resource.java', 'it.xpug.todolists.main.Resource', 'uriMatches', '/todolists/(\\d+)', '/todolists')","[647, 919]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parameterNameRequiredForNewList(it.xpug.todolists.main.TodoListsTest)')","[78, 204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('TodoListsServlet.java', 'it.xpug.todolists.main.TodoListsServlet', 'getResource', '/todolists(/\\d+)?', '/todolists/0')","[706, 725]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'showListWithItems(it.xpug.todolists.main.TodoListsTest)')","[120, 246]"
+"('TodoListsServlet.java', 'it.xpug.todolists.main.TodoListsServlet', 'getResource', '/todolists/\\d+/items', '/todolists/0')","[667, 686]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'noTodoLists(it.xpug.todolists.main.TodoListsTest)')","[99, 225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createATodoItem(it.xpug.todolists.main.TodoListsTest)')","[57, 183]"
+"('TodoListsServlet.java', 'it.xpug.todolists.main.TodoListsServlet', 'getResource', '/todolists/\\d+/items', '/todolists')","[492, 511, 570, 589, 764, 783, 842, 861]"
+"('Resource.java', 'it.xpug.todolists.main.Resource', 'uriMatches', '/todolists/(\\d+)', '/todolists/0')",[744]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'showListOfTodoLists(it.xpug.todolists.main.TodoListsTest)')","[162, 288]"
+"('TodoListsServlet.java', 'it.xpug.todolists.main.TodoListsServlet', 'getResource', '/todolists/\\d+/items', '/todolists/0/items')","[434, 453]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[330]
+"('TodoListsServlet.java', 'it.xpug.todolists.main.TodoListsServlet', 'getResource', '/todolists(/\\d+)?', '/todolists')","[531, 550, 609, 628, 803, 822, 881, 900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'it.xpug.todolists.main.TodoListsTest')","[36, 941]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[372]

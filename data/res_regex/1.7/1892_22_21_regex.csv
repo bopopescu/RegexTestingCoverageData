@@ -1,0 +1,977 @@
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1]')",[92008]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].booleanField')",[77144]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1]')",[80780]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].floatField')",[103452]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].actionErrors')",[72924]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].date2')",[94302]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].booleanField')",[81958]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].byteField')",[66496]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDNoMethod(org.apache.struts2.json.JSONInterceptorTest)')","[1212, 3013]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].result')",[91148]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[3][0]')",[113852]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].bigInteger')",[61056]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].stringField')",[104922]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'set')",[68726]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadJSON4(org.apache.struts2.json.JSONInterceptorTest)')","[1152, 2947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHierarchy(org.apache.struts2.json.JSONResultTest)')","[494, 2265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidationSucceedsValidateOnlyWithDifferentParamName(org.apache.struts2.json.JSONValidationInterceptorTest)')","[196, 1979]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].foo')",[94984]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].enumField')",[83778]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.DefaultJSONWriterTest')","[1668, 112625]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[2]')",[113435]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].byteField')",[96888]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].longField')",[84828]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getText')","[6866, 6984, 7102, 7220, 7338, 7456, 7574, 7692, 7810, 9521, 9639, 9757, 9875, 9993, 10111, 10229, 10347, 10465, 13994, 17539, 17657, 17775, 17893, 18011, 18129, 18247, 18365, 18483, 20194, 20312, 20430, 20548, 20666, 20784, 20902, 21020, 21138, 24667, 28212, 28330, 28448, 28566, 28684, 28802, 28920, 29038, 29156, 30867, 30985, 31103, 31221, 31339, 31457, 31575, 31693, 31811, 35340, 38885, 39003, 39121, 39239, 39357, 39475, 39593, 39711, 39829, 41540, 41658, 41776, 41894, 42012, 42130, 42248, 42366, 42484, 46013, 49558, 49676, 49794, 49912, 50030, 50148, 50266, 50384, 50502, 52213, 52331, 52449, 52567, 52685, 52803, 52921, 53039, 53157, 56686]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].stringField')",[90132]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].enumBean')",[98008]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].objectField')",[104502]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].bigInteger')",[76654]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].booleanField')",[81888]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].bigDecimal')",[100512]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].longField')",[104012]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBaseClassOnly(org.apache.struts2.json.SMDMethodInterfaceTest)')","[1570, 3365]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'clearErrorsAndMessages')","[13179, 23852, 34525, 45198, 55871]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].array')",[92814]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].enumBean')",[88102]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test2WithEnumBean(org.apache.struts2.json.JSONResultTest)')","[654, 2441]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].floatField')",[79174]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEnumAsBean(org.apache.struts2.json.JSONEnumTest)')","[1649, 3431]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJSONArray(org.apache.struts2.json.JSONInterceptorTest)')","[1352, 3167]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].enumBean')",[64582]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].objectField')",[85038]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].objectField')",[89852]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].objectField')",[65450]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'date2')",[71148]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].foo')",[75652]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list')",[75900]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].objectField')",[99758]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].intField')",[84338]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.y', 'a')",[110233]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0]')",[60750]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'b', 'd.y')",[109795]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].floatField')",[98498]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].booleanField')",[86632]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].byteField')",[77494]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].longField')",[62730]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].fieldErrors')",[94674]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWithProxy(org.apache.struts2.json.SMDMethodInterfaceTest)')","[1550, 3343]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].bigDecimal')",[65938]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].objectField')",[99478]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].objectField')",[99548]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].enumField')",[88452]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1]')",[63284]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].enumBean')",[83358]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSuffix(org.apache.struts2.json.JSONResultTest)')","[854, 2661]"
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.x', 'b')",[111401]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getContainer')","[9226, 19899, 30572, 41245, 51918]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setPassword')","[13878, 24551, 35224, 45897, 56570]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].doubleField')",[66930]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getFormatted')","[12589, 23262, 33935, 44608, 55281]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].floatField')",[88802]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'addFieldError')","[6748, 12412, 17421, 23085, 28094, 33758, 38767, 44431, 49440, 55104]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].floatField')",[64892]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].charField')",[87402]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].byteField')",[64086]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].floatField')",[88732]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].byteField')",[66620]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExcludeNullPropeties(org.apache.struts2.json.JSONResultTest)')","[734, 2529]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].texts')",[91830]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].bigInteger')",[81398]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].doubleField')",[97448]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.apache.struts2.json.JSONInterceptorTest)')","[1332, 3145]"
+"('RegexFieldValidator.java', 'com.opensymphony.xwork2.validator.validators.RegexFieldValidator', 'validateFieldValue', ""\\b^['_a-z0-9-\\+]+(\\.['_a-z0-9-\\+]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*\\.([a-z]{2,6})$\\b"", 'x')",[35626]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].booleanField')",[61304]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'c', 'b')","[110425, 111305]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'hasActionErrors')","[6453, 11881, 17126, 22554, 27799, 33227, 38472, 43900, 49145, 54573]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2]')",[65876]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'bean')",[70176]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'addActionMessage')","[5922, 11350, 16595, 22023, 27268, 32696, 37941, 43369, 48614, 54042]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[4]')",[114029]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidationFails(org.apache.struts2.json.JSONValidationInterceptorTest)')","[216, 2001]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].collection')",[74164]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'skipMe')","[14168, 24841, 35514, 46187, 56860]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].actionMessages')",[73110]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNulls(org.apache.struts2.json.JSONPopulatorTest)')","[335, 2111]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'hasKey')","[7869, 10524, 18542, 21197, 29215, 31870, 39888, 42543, 50561, 53216]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].objectField')",[67984]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0]')",[72556]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'pause')","[13297, 23970, 34643, 45316, 55989]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'list')",[71904]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].actionMessages')",[92504]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].charField')",[101982]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getActionMessages')","[5686, 11114, 16359, 21787, 27032, 32460, 37705, 43133, 48378, 53806]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].booleanField')",[66310]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].longField')",[104082]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getClass')","[4615, 15288, 25961, 36634, 47307]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getActionErrors')","[6630, 12058, 17303, 22731, 27976, 33404, 38649, 44077, 49322, 54750]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].fieldErrors')",[94798]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'date')",[71094]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].bigDecimal')",[81048]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '.*', '[0]')",[69478]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].enumField')",[67302]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].locale')",[90528]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].stringField')",[90062]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].charField')",[61614]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'a', 'd.x')",[111059]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].date')",[74784]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJSONP(org.apache.struts2.json.JSONResultTest)')","[534, 2309]"
+"('DefaultActionMapper.java', 'org.apache.struts2.dispatcher.mapper.DefaultActionMapper', 'cleanupActionName', '[a-zA-Z0-9._!/\\-]*', '')","[106791, 106951, 107111]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].byteField')",[96958]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getLocaleProvider')","[12471, 23144, 33817, 44490, 55163]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].map')",[90962]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].floatField')",[67426]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].actionErrors')",[92070]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getPassword')","[14110, 24783, 35456, 46129, 56802]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].doubleField')",[78194]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.x', 'd')",[110809]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].stringField')",[63102]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].enumBean')",[83428]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].objectField')",[65512]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'b', 'd.x')",[109895]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].array')",[73420]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1]')",[91950]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'notify')","[5035, 15708, 26381, 37054, 47727]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'collection2')",[60098]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'foo')",[71418]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].intField')",[98918]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'collection2')",[70716]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'execute')","[5214, 8695, 13588, 15887, 19368, 24261, 26560, 30041, 34934, 37233, 40714, 45607, 47906, 51387, 56280]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getContainer')","[9167, 19840, 30513, 41186, 51859]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].byteField')",[82308]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].longField')",[79734]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'input')","[8872, 19545, 30218, 40891, 51564]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'hasFieldErrors')","[6276, 11704, 16949, 22377, 27622, 33050, 38295, 43723, 48968, 54396]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].intField')",[65078]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setContainer')","[9403, 20076, 30749, 41422, 52095]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'clearFieldErrors')","[12707, 23380, 34053, 44726, 55399]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].longField')",[99268]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2]')",[85594]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set')",[72498]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'a', 'a')","[110569, 111641]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'array')",[70014]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'date')",[70932]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].floatField')",[65016]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].bigInteger')",[100862]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].enumField')",[98078]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.x', 'c')",[111593]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getText')","[6807, 6925, 7043, 7161, 7279, 7397, 7515, 7633, 7751, 9462, 9580, 9698, 9816, 9934, 10052, 10170, 10288, 10406, 13936, 17480, 17598, 17716, 17834, 17952, 18070, 18188, 18306, 18424, 20135, 20253, 20371, 20489, 20607, 20725, 20843, 20961, 21079, 24609, 28153, 28271, 28389, 28507, 28625, 28743, 28861, 28979, 29097, 30808, 30926, 31044, 31162, 31280, 31398, 31516, 31634, 31752, 35282, 38826, 38944, 39062, 39180, 39298, 39416, 39534, 39652, 39770, 41481, 41599, 41717, 41835, 41953, 42071, 42189, 42307, 42425, 45955, 49499, 49617, 49735, 49853, 49971, 50089, 50207, 50325, 50443, 52154, 52272, 52390, 52508, 52626, 52744, 52862, 52980, 53098, 56628]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].doubleField')",[87612]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadToTheBoneJSON4(org.apache.struts2.json.JSONInterceptorTest)')","[1052, 2837]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].date2')",[74846]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.y', 'd.y')",[109845]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'result')",[72336]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].doubleField')",[66868]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'addFieldError')","[6689, 12353, 17362, 23026, 28035, 33699, 38708, 44372, 49381, 55045]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].stringField')",[65760]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].intField')",[79454]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].floatField')",[79244]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].set')",[91458]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].doubleField')",[87822]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].foo')",[75590]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].booleanField')",[77074]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setValue')","[13530, 24203, 34876, 45549, 56222]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].actionErrors')",[92318]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'collection')",[59990]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].objectField')",[89712]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].fieldErrors')",[75156]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].enumField')",[83568]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].longField')",[62792]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].byteField')",[101772]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].byteField')",[64024]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].charField')",[82518]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].bigDecimal')",[100722]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.x', 'a')",[111785]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[1][0]')",[113258]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONValidationInterceptorTest')","[156, 57023]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].bigInteger')",[96118]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONReaderTest')","[36, 114292]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'array')",[69960]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].byteField')",[61490]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'set')",[57884]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].locale')",[104984]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].bean')",[73730]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'collection')",[70554]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].doubleField')",[97518]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].enumField')",[88312]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'collection2')",[57506]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'date2')",[60368]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].bigDecimal')",[60994]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].enumField')",[88382]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getValue')","[13472, 24145, 34818, 45491, 56164]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].objectField')",[104572]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].charField')",[87472]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].enumBean')",[78474]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].map')",[105418]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].bigDecimal')",[100582]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getValue')","[13414, 24087, 34760, 45433, 56106]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNoCache(org.apache.struts2.json.JSONResultTest)')","[834, 2639]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].foo')",[95046]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].collection')",[93558]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list')",[95232]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'foo')",[71634]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'bean')",[59774]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadJSON3(org.apache.struts2.json.JSONInterceptorTest)')","[1132, 2925]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].enumField')",[98218]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].actionMessages')",[73172]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].enumField')",[83498]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].booleanField')",[63838]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'pause')","[13356, 24029, 34702, 45375, 56048]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].stringField')",[99968]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].charField')",[64272]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].enumField')",[78964]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[4][0]')",[114089]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].longField')",[104152]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].stringField')",[104782]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'result')",[72282]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].stringField')",[63164]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].floatField')",[79104]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'c', 'c')","[110521, 111497]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'isValidLocale')","[8400, 12176, 19073, 22849, 29746, 33522, 40419, 44195, 51092, 54868]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].doubleField')",[87682]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'hasActionMessages')","[5981, 11409, 16654, 22082, 27327, 32755, 38000, 43428, 48673, 54101]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'date2')",[60476]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].charField')",[101912]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'collection')",[59936]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1]')",[100306]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].doubleField')",[97588]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].intField')",[98848]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[1][1]')",[113378]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].intField')",[103662]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].longField')",[99198]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'hashCode')","[4495, 15168, 25841, 36514, 47187]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].doubleField')",[78124]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'date')",[57560]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'date')",[60314]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].longField')",[79804]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].collection')",[93372]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[2][1]')",[113675]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].stringField')",[85458]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].charField')",[97308]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'foo')",[71472]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].collection2')",[74474]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].floatField')",[83918]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].stringField')",[80714]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].intField')",[89082]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].objectField')",[104362]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'a', 'd')","[110281, 110665]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].enumField')",[62296]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadJSON1(org.apache.struts2.json.JSONInterceptorTest)')","[1092, 2881]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].result')",[91210]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].date2')",[94488]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONInterceptorTest')","[1032, 109265]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'finalize')","[3835, 14508, 25181, 35854, 46527]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].array')",[92690]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].enumField')",[64706]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].enumField')",[98358]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].booleanField')",[96328]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].actionErrors')",[72738]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists')",[112731]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].bigDecimal')",[76514]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].objectField')",[80364]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].floatField')",[79314]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'registerNatives')","[4915, 15588, 26261, 36934, 47607]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].map')",[105294]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].stringField')",[100108]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].booleanField')",[96538]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].byteField')",[86912]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setActionMessages')","[5627, 11055, 16300, 21728, 26973, 32401, 37646, 43074, 48319, 53747]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].longField')",[67860]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].actionErrors')",[72676]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].longField')",[84548]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].intField')",[98988]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list')",[95170]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[3][1]')",[113972]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].byteField')",[87122]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[0][0]')",[112901]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInterfaces(org.apache.struts2.json.SMDMethodInterfaceTest)')","[1590, 3387]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].bigDecimal')",[86142]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'map')",[68348]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].doubleField')",[87752]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].intField')",[65202]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].date2')",[75032]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].floatField')",[67488]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDDisabledSMD(org.apache.struts2.json.JSONInterceptorTest)')","[1072, 2859]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].bigInteger')",[63652]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].intField')",[103872]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidationSucceeds(org.apache.struts2.json.JSONValidationInterceptorTest)')","[236, 2023]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists')",[112678]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadJSON2(org.apache.struts2.json.JSONInterceptorTest)')","[1112, 2903]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'date2')",[71256]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].enumField')",[67364]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].floatField')",[67550]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'array')",[69852]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].set')",[105976]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].bean')",[93248]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].bigInteger')",[86212]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1]')",[100240]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].bigDecimal')",[86002]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].bigInteger')",[100792]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].longField')",[89362]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].longField')",[67922]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].charField')",[66744]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].bigDecimal')",[66000]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].charField')",[101842]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0]')",[75966]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].foo')",[94860]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].byteField')",[77424]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExponentialNumber2(org.apache.struts2.json.JSONReaderTest)')","[78, 1891]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].bigInteger')",[96188]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].bigInteger')",[81468]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].enumField')",[102892]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].intField')",[79664]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].floatField')",[62420]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getLocaleProvider')","[12530, 23203, 33876, 44549, 55222]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].byteField')",[77354]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].bigInteger')",[95978]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].enumBean')",[83288]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].bean')",[73792]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].enumBean')",[102752]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].enumBean')",[102682]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'b', 'a')","[109601, 110185]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'clearErrors')","[13061, 23734, 34407, 45080, 55753]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].longField')",[89642]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].bigInteger')",[76864]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].locale')",[105170]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testObjectBean(org.apache.struts2.json.JSONPopulatorTest)')","[375, 2155]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'execute')","[5273, 8754, 13646, 15946, 19427, 24319, 26619, 30100, 34992, 37292, 40773, 45665, 47965, 51446, 56338]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].enumBean')",[61986]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].enumBean')",[83218]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].intField')",[62606]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].map')",[105480]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].fieldErrors')",[75342]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].texts')",[106286]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].actionMessages')",[73234]
+"('RegexFieldValidator.java', 'com.opensymphony.xwork2.validator.validators.RegexFieldValidator', 'validateFieldValue', ""\\b^['_a-z0-9-\\+]+(\\.['_a-z0-9-\\+]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*\\.([a-z]{2,6})$\\b"", 'abcd@ggg.com')","[14280, 24953, 46299, 56972]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[1]')",[113138]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getTexts')","[7987, 8105, 10642, 10760, 18660, 18778, 21315, 21433, 29333, 29451, 31988, 32106, 40006, 40124, 42661, 42779, 50679, 50797, 53334, 53452]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].intField')",[62668]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getTexts')","[8046, 8164, 10701, 10819, 18719, 18837, 21374, 21492, 29392, 29510, 32047, 32165, 40065, 40183, 42720, 42838, 50738, 50856, 53393, 53511]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].enumField')",[62234]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].enumField')",[98288]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].array')",[92938]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'addActionMessage')","[5863, 11291, 16536, 21964, 27209, 32637, 37882, 43310, 48555, 53983]"
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd', 'd.y')",[110959]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].bigInteger')",[61118]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].byteField')",[63962]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].floatField')",[88662]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContentType(org.apache.struts2.json.JSONResultTest)')","[554, 2331]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].enumField')",[62172]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].bigDecimal')",[60870]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].booleanField')",[86842]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].longField')",[103942]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].actionMessages')",[92566]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].bigDecimal')",[63466]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].actionMessages')",[72986]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].enumField')",[83708]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'array')",[59612]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].floatField')",[98428]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getActionErrors')","[6571, 11999, 17244, 22672, 27917, 33345, 38590, 44018, 49263, 54691]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteExcludeNull(org.apache.struts2.json.DefaultJSONWriterTest)')","[1728, 3497]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].byteField')",[77564]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getActionMessages')","[5745, 11173, 16418, 21846, 27091, 32519, 37764, 43192, 48437, 53865]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'toString')","[4375, 15048, 25721, 36394, 47067]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].doubleField')",[78264]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].booleanField')",[66434]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1]')",[100372]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultEncoding(org.apache.struts2.json.JSONResultTest)')","[574, 2353]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].stringField')",[80434]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].collection2')",[74226]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].bigInteger')",[100932]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0]')",[95426]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].bigDecimal')",[81188]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].collection')",[93310]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].objectField')",[99688]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].bigInteger')",[76584]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultAllow2(org.apache.struts2.json.JSONCleanerTest)')","[1471, 3277]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].array')",[73544]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].bigDecimal')",[95698]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].floatField')",[103382]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0]')",[95360]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadJSON5(org.apache.struts2.json.JSONInterceptorTest)')","[1172, 2969]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].byteField')",[101492]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.y', 'b')",[110041]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].foo')",[75714]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].set')",[91582]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'isValidLocaleString')","[8459, 12235, 19132, 22908, 29805, 33581, 40478, 44254, 51151, 54927]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteAnnotatedBean(org.apache.struts2.json.DefaultJSONWriterTest)')","[1768, 3541]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].charField')",[66682]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRoot(org.apache.struts2.json.JSONInterceptorTest)')","[1232, 3035]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].doubleField')",[61862]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].charField')",[97028]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'equals')","[4315, 14988, 25661, 36334, 47007]"
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'b', 'd')","[109313, 109697]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].enumBean')",[88032]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].booleanField')",[101142]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].charField')",[77914]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].doubleField')",[102402]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].locale')",[90652]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].intField')",[89012]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'collection2')",[70770]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].floatField')",[83848]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'result')",[68510]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'hasFieldErrors')","[6217, 11645, 16890, 22318, 27563, 32991, 38236, 43664, 48909, 54337]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].collection')",[93434]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'map')",[72066]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].intField')",[99058]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'foo')",[71580]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'foo')",[71526]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].intField')",[89222]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'collection2')",[70608]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].longField')",[99338]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].stringField')",[65636]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCanSetDefaultDateFormat(org.apache.struts2.json.DefaultJSONWriterTest)')","[1788, 3563]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].intField')",[67612]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].bigDecimal')",[86072]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1]')",[80978]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getLocale')","[8282, 9344, 18955, 20017, 29628, 30690, 40301, 41363, 50974, 52036]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].longField')",[99128]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].byteField')",[86982]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'array')",[59666]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].bigInteger')",[66248]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].charField')",[97098]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].charField')",[64210]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].objectField')",[89782]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'c', 'd')","[110329, 110713]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1]')",[100174]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].actionErrors')",[72800]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].byteField')",[96818]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].bigDecimal')",[95838]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].foo')",[75528]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'isExecuted')","[13704, 24377, 35050, 45723, 56396]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'wait')","[3955, 4075, 4195, 14628, 14748, 14868, 25301, 25421, 25541, 35974, 36094, 36214, 46647, 46767, 46887]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCommentWrap(org.apache.struts2.json.JSONResultTest)')","[774, 2573]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].doubleField')",[64458]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].enumField')",[64768]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'bean')",[70284]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].stringField')",[104642]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].bigInteger')",[61180]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].enumBean')",[78544]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIncludePropertiesWithList(org.apache.struts2.json.JSONResultTest)')","[754, 2551]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].byteField')",[87192]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd', 'a')","[109649, 111737]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].bigDecimal')",[76304]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')","[17, 137]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].stringField')",[104712]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].foo')",[75466]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].actionMessages')",[92442]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'clearActionErrors')","[12884, 23557, 34230, 44903, 55576]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].collection')",[74102]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].objectField')",[80294]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].booleanField')",[66372]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[4][1]')",[114269]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].enumBean')",[64520]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'a', 'b')","[110377, 111257]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].bigInteger')",[86352]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].bigInteger')",[86422]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadEmpty(org.apache.struts2.json.JSONInterceptorTest)')","[1312, 3123]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getTextProvider')","[10937, 21610, 32283, 42956, 53629]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'addActionError')","[5509, 8990, 16182, 19663, 26855, 30336, 37528, 41009, 48201, 51682]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].byteField')",[77284]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDPrimitivesNoResult(org.apache.struts2.json.JSONInterceptorTest)')","[1252, 3057]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPrimitiveBean(org.apache.struts2.json.JSONPopulatorTest)')","[315, 2089]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].intField')",[84478]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].charField')",[61676]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].charField')",[61738]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '.*', '[1]')",[69528]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].foo')",[94922]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].enumBean')",[83148]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].charField')",[87332]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].locale')",[105108]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].bean')",[73606]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].enumBean')",[102542]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultBlock1(org.apache.struts2.json.JSONCleanerTest)')","[1491, 3299]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].enumBean')",[78404]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].bean')",[93062]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'date')",[60260]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].bigDecimal')",[60932]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].bigInteger')",[101072]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONResultTest')","[414, 106631]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].actionErrors')",[92194]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd', 'b')","[109457, 111353]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONCleanerTest')","[1431, 111836]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].longField')",[65326]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].byteField')",[96678]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].enumField')",[78684]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].bigInteger')",[96048]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].booleanField')",[86772]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].texts')",[91768]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].floatField')",[88942]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'bean')",[59720]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].date2')",[75094]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].enumField')",[78894]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].charField')",[82448]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2]')",[65818]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].set')",[106038]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].doubleField')",[64396]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.SMDMethodInterfaceTest')","[1530, 111887]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0]')",[95492]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWriteBeanWithList(org.apache.struts2.json.DefaultJSONWriterTest)')","[1688, 3453]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].map')",[105542]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].charField')",[82658]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].enumBean')",[62048]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'hasKey')","[7928, 10583, 18601, 21256, 29274, 31929, 39947, 42602, 50620, 53275]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'array')",[69798]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[2][0]')",[113555]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].stringField')",[68170]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'b', 'b')","[109409, 109993]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].enumField')",[83638]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].bigInteger')",[66186]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].stringField')",[90342]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].floatField')",[64954]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].doubleField')",[61800]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].longField')",[62854]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].bigDecimal')",[66062]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].charField')",[66806]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEnumAsNameValue(org.apache.struts2.json.JSONEnumTest)')","[1629, 3409]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].array')",[92752]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].doubleField')",[102332]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].enumField')",[88592]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].doubleField')",[82798]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'collection')",[70500]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].floatField')",[98708]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].bigInteger')",[63714]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].stringField')",[80574]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].bigInteger')",[76794]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].byteField')",[61428]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].charField')",[102052]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].charField')",[97168]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'collection')",[59882]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2]')",[85660]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].booleanField')",[101422]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].actionErrors')",[92256]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].objectField')",[65574]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'clearMessages')","[12943, 23616, 34289, 44962, 55635]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'list')",[71742]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].booleanField')",[63900]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].bigInteger')",[63590]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'registerNatives')","[4855, 15528, 26201, 36874, 47547]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].bigInteger')",[101002]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONEnumTest')","[1609, 111938]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list')",[95294]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].charField')",[77704]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].collection')",[93496]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].charField')",[77634]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getFieldErrors')","[6335, 11763, 17008, 22436, 27681, 33109, 38354, 43782, 49027, 54455]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].set')",[91334]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].booleanField')",[76934]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].stringField')",[85388]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'set')",[68780]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].floatField')",[83988]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].floatField')",[84058]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].objectField')",[68046]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].array')",[73358]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'list')",[71688]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].booleanField')",[96468]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].enumBean')",[97728]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].doubleField')",[87892]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'collection2')",[60152]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParseBadInput(org.apache.struts2.json.JSONPopulatorTest)')","[355, 2133]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].stringField')",[85528]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].intField')",[103592]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].date2')",[94240]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].bigDecimal')",[63528]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].objectField')",[104292]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].byteField')",[87052]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].bigDecimal')",[95768]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].actionErrors')",[72862]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].doubleField')",[97378]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].bigDecimal')",[81118]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].longField')",[84688]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].intField')",[103802]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'bean')",[59828]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'clearErrorsAndMessages')","[13238, 23911, 34584, 45257, 55930]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'result')",[72390]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'collection2')",[60044]
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1892_22/core/target/classes/struts-default.xml')","[3661, 14334, 25007, 35680, 46353, 57128, 57236, 57938, 58046, 58154, 58262, 58370, 58478, 58586, 58694, 58802, 58910, 59018, 59126, 59234, 59342, 59450, 68834, 68942, 69050, 69158, 69266, 69374, 69582, 69690, 106526, 106685, 106845, 107005, 107216, 107324, 107432, 107540, 107648, 107756, 107864, 107972, 108080, 108188, 108296, 108404, 108512, 108620, 108728, 108836, 108944, 109052, 109160, 111991, 112097, 112203, 112309, 112415, 112521]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].enumField')",[103032]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].enumField')",[103102]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'wait')","[3895, 4015, 4135, 14568, 14688, 14808, 25241, 25361, 25481, 35914, 36034, 36154, 46587, 46707, 46827]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].map')",[90838]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0]')",[72614]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'clone')","[4735, 8577, 15408, 19250, 26081, 29923, 36754, 40596, 47427, 51269]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'date2')",[60422]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd', 'd')","[109361, 110761]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].stringField')",[63226]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'foo')",[60530]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNotTraverseOrIncludeProxyInfo(org.apache.struts2.json.JSONResultTest)')","[794, 2595]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'bean')",[70122]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].objectField')",[80084]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].longField')",[89502]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getPassword')","[14052, 24725, 35398, 46071, 56744]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDReturnObject(org.apache.struts2.json.JSONInterceptorTest)')","[1292, 3101]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].enumField')",[67240]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].fieldErrors')",[75404]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].floatField')",[88872]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'list')",[57722]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.x', 'd.y')",[111009]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].longField')",[67798]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].date')",[74536]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].charField')",[82728]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].collection2')",[93744]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].collection2')",[93806]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].map')",[105356]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'equals')","[4255, 14928, 25601, 36274, 46947]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].date')",[74722]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[2][1]')",[113615]
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1892_22/plugins/json/target/classes/struts-plugin.xml')","[3715, 14388, 25061, 35734, 46407, 57182, 57290, 57992, 58100, 58208, 58316, 58424, 58532, 58640, 58748, 58856, 58964, 59072, 59180, 59288, 59396, 59504, 68888, 68996, 69104, 69212, 69320, 69428, 69636, 69744, 106580, 106739, 106899, 107059, 107270, 107378, 107486, 107594, 107702, 107810, 107918, 108026, 108134, 108242, 108350, 108458, 108566, 108674, 108782, 108890, 108998, 109106, 109214, 112044, 112150, 112256, 112362, 112468, 112574]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInfiniteLoop(org.apache.struts2.json.JSONPopulatorTest)')","[295, 2067]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].booleanField')",[63776]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].enumBean')",[102612]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].booleanField')",[101212]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'isExecuted')","[13762, 24435, 35108, 45781, 56454]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'notify')","[4975, 15648, 26321, 36994, 47667]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].bigInteger')",[66124]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].locale')",[105046]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getFieldErrors')","[6394, 11822, 17067, 22495, 27740, 33168, 38413, 43841, 49086, 54514]"
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.y', 'd')",[109745]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].booleanField')",[86702]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJsonRedirect(org.apache.struts2.json.JSONActionRedirectResultTest)')","[973, 2771]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].enumField')",[78824]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].doubleField')",[66992]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.x', 'd.x')",[111209]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].fieldErrors')",[94612]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].booleanField')",[101282]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].enumBean')",[62110]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'hasActionErrors')","[6512, 11940, 17185, 22613, 27858, 33286, 38531, 43959, 49204, 54632]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].intField')",[65140]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].objectField')",[63040]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].enumField')",[64830]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].floatField')",[103522]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'result')",[68618]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].bigInteger')",[81678]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].bigDecimal')",[95628]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].bigDecimal')",[76444]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].fieldErrors')",[75218]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].map')",[90776]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].objectField')",[84968]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].longField')",[65264]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'date2')",[71202]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultAllow1(org.apache.struts2.json.JSONCleanerTest)')","[1451, 3255]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[2].enumBean')",[67054]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'validate')","[5391, 9108, 16064, 19781, 26737, 30454, 37410, 41127, 48083, 51800]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].doubleField')",[97658]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].charField')",[102122]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'hasErrors')","[6099, 11527, 16772, 22200, 27445, 32873, 38118, 43546, 48791, 54219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test2(org.apache.struts2.json.JSONResultTest)')","[694, 2485]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].enumField')",[102962]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].bigDecimal')",[100442]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].set')",[91396]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'collection')",[70446]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'b', 'c')","[109505, 110089]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].enumBean')",[102822]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].stringField')",[90272]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIncludeProperties(org.apache.struts2.json.JSONResultTest)')","[454, 2221]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].bigInteger')",[76724]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].collection2')",[74412]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].collection2')",[74350]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].doubleField')",[82938]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'date')",[70878]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[4][0]')",[114149]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].objectField')",[89992]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].byteField')",[101702]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].doubleField')",[61924]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].byteField')",[101632]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'addActionError')","[5450, 8931, 16123, 19604, 26796, 30277, 37469, 40950, 48142, 51623]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'date')",[71040]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'collection2')",[70662]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].doubleField')",[83078]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].floatField')",[103312]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'clearErrors')","[13120, 23793, 34466, 45139, 55812]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].stringField')",[80504]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'map')",[72120]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1]')",[80912]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].collection2')",[93682]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].enumBean')",[87962]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].intField')",[89152]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'foo')",[60584]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'c', 'd.y')",[110909]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].charField')",[77844]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'map')",[71958]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].stringField')",[85248]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].booleanField')",[61242]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].stringField')",[68294]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].charField')",[64148]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'bean')",[70230]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2]')",[85792]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].actionErrors')",[92132]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'list')",[71796]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].doubleField')",[78054]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'list')",[71850]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].enumField')",[103172]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].doubleField')",[64334]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].bigDecimal')",[81258]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].longField')",[80014]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'skipMe')","[14226, 24899, 35572, 46245, 56918]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDAliasedMethodCall2(org.apache.struts2.json.JSONInterceptorTest)')","[1412, 3233]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].longField')",[84758]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].collection2')",[74288]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].date2')",[94364]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'c', 'd.x')",[111109]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].objectField')",[104432]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJSONUtilNPEOnNullMehtod(org.apache.struts2.json.JSONResultTest)')","[614, 2397]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].objectField')",[80224]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'a', 'c')","[110473, 111449]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].result')",[105728]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'clearActionErrors')","[12825, 23498, 34171, 44844, 55517]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDecimalNumber(org.apache.struts2.json.JSONReaderTest)')","[99, 1913]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].byteField')",[96748]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].enumBean')",[97798]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0].objectField')",[62978]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].objectField')",[85108]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].map')",[90714]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].collection')",[73916]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].stringField')",[99898]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'result')",[57830]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].bean')",[73854]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].objectField')",[85178]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0]')",[76032]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists', 'listOfLists')",[112784]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].enumBean')",[97868]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].longField')",[89572]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].foo')",[95108]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].fieldErrors')",[94550]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEncoding(org.apache.struts2.json.JSONResultTest)')","[474, 2243]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'array')",[69906]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].enumBean')",[97938]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'isValidLocaleString')","[8518, 12294, 19191, 22967, 29864, 33640, 40537, 44313, 51210, 54986]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].texts')",[91644]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].texts')",[91706]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].intField')",[67674]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.y', 'd.x')",[109945]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].fieldErrors')",[94736]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.apache.struts2.json.JSONResultTest)')","[674, 2463]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'foo')",[57668]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].texts')",[106224]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].bean')",[93186]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].bean')",[93124]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].date')",[74660]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[3]')",[113732]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCanSerializeADate(org.apache.struts2.json.DefaultJSONWriterTest)')","[1748, 3519]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].texts')",[106410]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].booleanField')",[82028]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'clone')","[4795, 8636, 15468, 19309, 26141, 29982, 36814, 40655, 47487, 51328]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].byteField')",[66558]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'input')","[8813, 19486, 30159, 40832, 51505]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].byteField')",[101562]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].objectField')",[84898]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].date')",[74598]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].result')",[105790]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].enumBean')",[67178]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].stringField')",[85318]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].bigInteger')",[81538]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'result')",[72444]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'notifyAll')","[5095, 15768, 26441, 37114, 47787]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].actionMessages')",[92628]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].booleanField')",[86562]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].floatField')",[103242]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].objectField')",[99618]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCustomDateFormat(org.apache.struts2.json.JSONResultTest)')","[594, 2375]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].set')",[106100]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'bean')",[70068]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0]')",[76098]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0]')",[76164]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1].stringField')",[65698]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].charField')",[82588]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].longField')",[89432]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list')",[60692]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidationSucceedsValidateOnly(org.apache.struts2.json.JSONValidationInterceptorTest)')","[176, 1957]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'collection')",[57452]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].booleanField')",[101352]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].set')",[105914]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].date')",[93930]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].longField')",[99408]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'set')",[68672]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].bigDecimal')",[76374]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].stringField')",[104852]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSerializeListOfList(org.apache.struts2.json.JSONUtilTest)')","[1847, 3607]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list')",[75838]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].date')",[94116]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].intField')",[62544]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[1]')",[63342]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'toString')","[4435, 15108, 25781, 36454, 47127]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'hasErrors')","[6158, 11586, 16831, 22259, 27504, 32932, 38177, 43605, 48850, 54278]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'array')",[57344]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testObjectBeanWithStrings(org.apache.struts2.json.JSONPopulatorTest)')","[395, 2177]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].intField')",[79594]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'validate')","[5332, 9049, 16005, 19722, 26678, 30395, 37351, 41068, 48024, 51741]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateOnlyFalse(org.apache.struts2.json.JSONActionRedirectResultTest)')","[1013, 2815]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getClass')","[4675, 15348, 26021, 36694, 47367]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].locale')",[90404]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2].stringField')",[90202]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[2][0]')",[113495]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].collection2')",[93868]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0]')",[95558]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'date')",[60206]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].longField')",[84618]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIncludePropertiesWithSetList(org.apache.struts2.json.JSONResultTest)')","[914, 2727]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'hasActionMessages')","[6040, 11468, 16713, 22141, 27386, 32814, 38059, 43487, 48732, 54160]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].booleanField')",[77214]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].locale')",[90590]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJSONArray2(org.apache.struts2.json.JSONInterceptorTest)')","[1192, 2991]"
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd', 'c')","[109553, 111545]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].bigDecimal')",[81328]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].enumBean')",[88172]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].intField')",[84408]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'c', 'a')","[110617, 111689]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'date')",[70986]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'date2')",[71364]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[1].bigDecimal')",[100652]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].booleanField')",[96398]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[1][0]')",[113198]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].array')",[73296]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[0].enumField')",[98148]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[0][0]')",[112961]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1]')",[80846]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].booleanField')",[77004]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].list[1].doubleField')",[102262]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].bigInteger')",[86282]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].bigInteger')",[86492]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].array')",[73482]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].intField')",[79384]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'map')",[68402]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDObjectsNoResult(org.apache.struts2.json.JSONInterceptorTest)')","[1372, 3189]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].booleanField')",[81748]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].longField')",[79874]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].byteField')",[82098]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].result')",[91024]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setText')","[13820, 24493, 35166, 45839, 56512]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[1].doubleField')",[102192]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].charField')",[77774]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].set')",[91520]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[1].bigDecimal')",[63404]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNormalRedirect(org.apache.struts2.json.JSONActionRedirectResultTest)')","[993, 2793]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].stringField')",[68232]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].bigDecimal')",[95908]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[2]')",[85726]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].objectField')",[68108]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'foo')",[60638]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].enumBean')",[88242]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].floatField')",[62358]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].bigDecimal')",[85862]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'a', 'd.y')",[110859]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'notifyAll')","[5155, 15828, 26501, 37174, 47847]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'map')",[68456]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONUtilTest')","[1807, 114315]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'collection2')",[70824]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'result')",[68564]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].intField')",[98778]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'collection')",[70392]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].doubleField')",[82868]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[1].intField')",[103732]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].date2')",[94426]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[0].enumBean')",[78614]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].locale')",[90466]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].result')",[105666]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'date2')",[57614]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidationSucceedsWithDifferentParamName(org.apache.struts2.json.JSONValidationInterceptorTest)')","[256, 2045]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].floatField')",[79034]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].longField')",[104222]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].booleanField')",[61366]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'result')",[72228]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[1].byteField')",[82238]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].array')",[92876]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].booleanField')",[96608]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[0][1]')",[113021]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list')",[75776]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].fieldErrors')",[75280]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].objectField')",[89922]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[1].intField')",[84198]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getFormatted')","[12648, 23321, 33994, 44667, 55340]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].result')",[105604]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[1].date')",[93992]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].date2')",[74970]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDDefaultAnnotations(org.apache.struts2.json.JSONResultTest)')","[894, 2705]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[1].doubleField')",[102472]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStatusCode(org.apache.struts2.json.JSONResultTest)')","[634, 2419]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].texts')",[106472]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'clearMessages')","[13002, 23675, 34348, 45021, 55694]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].booleanField')",[81818]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[0]')",[60808]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJSONWriterEndlessLoopOnExludedProperties(org.apache.struts2.json.JSONResultTest)')","[874, 2683]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNaturalNumber(org.apache.struts2.json.JSONReaderTest)')","[120, 1935]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].collection')",[74040]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].enumField')",[78754]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'hashCode')","[4555, 15228, 25901, 36574, 47247]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONActionRedirectResultTest')","[953, 107162]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].byteField')",[61552]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[2].enumField')",[88522]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[2].intField')",[67736]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].actionMessages')",[73048]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].collection2')",[93620]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].collection')",[73978]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setFieldErrors')","[5804, 11232, 16477, 21905, 27150, 32578, 37823, 43251, 48496, 53924]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].bean')",[73668]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].enumBean')",[78334]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[2].charField')",[87262]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'finalize')","[3775, 14448, 25121, 35794, 46467]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'array')",[59558]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[4][1]')",[114209]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list', 'list[0].objectField')",[62916]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]', 'list[2].enumBean')",[67116]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPrefix(org.apache.struts2.json.JSONResultTest)')","[814, 2617]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[3][1]')",[113912]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getLocale')","[8223, 9285, 18896, 19958, 29569, 30631, 40242, 41304, 50915, 51977]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].longField')",[65388]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].bigInteger')",[81608]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].map')",[90900]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setActionErrors')","[5568, 10996, 16241, 21669, 26914, 32342, 37587, 43015, 48260, 53688]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDDefault(org.apache.struts2.json.JSONResultTest)')","[434, 2199]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[3][0]')",[113792]
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'clearFieldErrors')","[12766, 23439, 34112, 44785, 55458]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].date')",[94178]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultBlock2(org.apache.struts2.json.JSONCleanerTest)')","[1511, 3321]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDMethodWithoutAnnotations(org.apache.struts2.json.JSONInterceptorTest)')","[1272, 3079]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[0].floatField')",[62482]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'date2')",[71310]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].result')",[91272]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].charField')",[87542]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].byteField')",[82378]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[1].floatField')",[84128]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].stringField')",[80644]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].list[2].intField')",[89292]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'map')",[72174]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].list[0].stringField')",[99828]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[0].list[0].intField')",[79524]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].list[0].floatField')",[98568]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].texts')",[106348]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWrite(org.apache.struts2.json.DefaultJSONWriterTest)')","[1708, 3475]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].actionMessages')",[92380]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list', 'set[1].date')",[94054]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDDisabledSMD(org.apache.struts2.json.JSONResultTest)')","[514, 2287]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[0].texts')",[91892]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].bigDecimal')",[76234]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].intField')",[84268]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].floatField')",[98638]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.struts2.json.JSONPopulatorTest')","[275, 57074]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].stringField')",[100038]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].list[0].bigInteger')",[96258]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPrefixAndSuffix(org.apache.struts2.json.JSONResultTest)')","[714, 2507]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'isValidLocale')","[8341, 12117, 19014, 22790, 29687, 33463, 40360, 44136, 51033, 54809]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[0].objectField')",[80154]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'map')",[57776]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].date2')",[74908]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]\\[\\d+\\]', 'listOfLists[0][1]')",[113081]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd\\.y', 'c')",[110137]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[1][1]')",[113318]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'foo', 'bean')",[57398]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSerializeDeserialize(org.apache.struts2.json.JSONUtilTest)')","[1827, 3585]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[1].doubleField')",[83008]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'collection')",[70338]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSMDAliasedMethodCall1(org.apache.struts2.json.JSONInterceptorTest)')","[1392, 3211]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].locale')",[105232]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[1].bean')",[93000]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set', 'set[0].list[0].doubleField')",[77984]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].result')",[105852]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[2].bigDecimal')",[85932]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWrapPrefix(org.apache.struts2.json.JSONResultTest)')","[934, 2749]"
+"('AnnotationUtils.java', 'com.opensymphony.xwork2.util.AnnotationUtils', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getTextProvider')","[10878, 21551, 32224, 42897, 53570]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'map')",[72012]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]\\.booleanField', 'set[1].set')",[106162]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExponentialNumber(org.apache.struts2.json.JSONReaderTest)')","[57, 1869]"
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', 'listOfLists\\[\\d+\\]', 'listOfLists[0]')",[112841]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].result')",[91086]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]', 'set[0].list[1].byteField')",[82168]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^list\\[\\d+\\]\\.booleanField', 'list[1].enumBean')",[64644]
+"('JSONCleaner.java', 'org.apache.struts2.json.JSONCleaner', 'allow', 'd', 'd.x')",[111159]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[1].list[0].charField')",[97238]
+"('DefaultJSONWriter.java', 'org.apache.struts2.json.DefaultJSONWriter', 'shouldExcludeProperty', '^set\\[\\d+\\]\\.list\\[\\d+\\]', 'set[0].list[0].longField')",[79944]

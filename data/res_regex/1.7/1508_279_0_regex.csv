@@ -1,0 +1,56 @@
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'cash:bigDecimal-1')",[678]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', 'r')",[830]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'somedate:date')",[617]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', 'r8')","[1745, 3628, 3874]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', '20')",[1013]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'custom_id:primary_key')","[3300, 3431]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'name:string-r8')","[1715, 3604, 3850]"
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Foo')","[3267, 3398, 3529]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'pippo:string-r100')",[1227]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Person')","[2064, 2292, 2516, 2712, 2875, 3071]"
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'org.entando.entando.plugins.jppet')",[3554]
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'xxx.yyy.XXXX.xx')",[500]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Xxx')",[175]
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'xxx.yyy.')",[475]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'xxx.yyy')",[50]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', '')","[586, 647, 769, 891, 1074, 1196, 1318, 1379, 1440, 1562, 1684, 1808, 1871, 1966, 2129, 2194, 2357, 2581, 2777, 2940, 3136, 3332, 3463, 3677, 3726, 3775, 3923, 3972, 4021]"
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'xxx.yyy')",[350]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'name:string-8r')",[1593]
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'com.agiletec.xxx')","[3038, 3365, 3496]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'createdat:date')","[3751, 3997]"
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'com.entando.plugins.jpacme')","[2031, 2483, 3234]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', 'r100')","[952, 1257]"
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Xxx1Yxx')",[250]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'xxx')","[25, 150]"
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'Xxx.yyy')",[375]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'id:primary_key')","[1288, 1410, 1532, 1654, 1777, 2097]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', 'r20')","[2259, 2422, 2646, 2842, 3005, 3201]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'name:string')","[556, 739, 861, 1044, 1166, 1349, 1840, 1935, 2162, 2325, 2549, 2745, 2908, 3104]"
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'xXX.yYY')",[425]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'name:string-8')",[1471]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', '8')",[1501]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'age:int')","[3653, 3899]"
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Xxx1 Yxx')",[275]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', '8r')",[1623]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'weight:bigdecimal')","[3702, 3948]"
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'xxx')",[325]
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'com.myportal')","[2450, 3800]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'wrong:primary_key')","[1903, 1998]"
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'xxx.')",[450]
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'org.entando.entando.plugins.jpZZZZoOOObie')",[525]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'pippo:string-20')",[983]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', '1')",[708]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Cat')","[3579, 3825]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'pippo:string-100r')",[1105]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'parse', '(\\D*)(\\d+)(\\D*)', '100r')",[1135]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'XxxYxx')",[200]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Xxx-Yxx')",[225]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'xxx-')",[100]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', '1Xxx')",[75]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'surname:string-r20')","[2227, 2390, 2614, 2810, 2973, 3169]"
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'somedate:date-r100')",[922]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'Xxx1Yxx0')",[300]
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'org.acme')",[2679]
+"('FieldsParser.java', 'org.entando.edo.parser.FieldsParser', 'isFieldArg', '(\\w*:\\w*)(-r(\\d*)?|-\\d*(r)?)*', 'somedate:date-r')",[800]
+"('PackageValidator.java', 'org.entando.edo.parser.PackageValidator', 'isValidPackageName', '([a-z]\\w*)(\\.[a-z][a-z]*)*', 'xxx.Yyy')",[400]
+"('NameParser.java', 'org.entando.edo.parser.NameParser', 'checkClassName', '([A-Z])([\\w]*)*', 'xXX')",[125]

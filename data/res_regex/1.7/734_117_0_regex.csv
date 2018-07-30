@@ -1,0 +1,6 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInterception(org.apache.hadoop.flume.interceptor.HeaderRegexInterceptorTest)')","[57, 141]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.hadoop.flume.interceptor.HeaderRegexInterceptorTest')",[36]
+"('HeaderRegexInterceptor.java', 'org.apache.hadoop.flume.interceptor.HeaderRegexInterceptor', 'intercept', '^(?<basename>\\w+)-on-(?<date>\\d+\\.\\d+\\.\\d+)\\.txt', 'testfile-on-12.10.2014.txt')",[185]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.hadoop.flume.interceptor.HeaderRegexInterceptorTest')","[206, 226, 247, 267]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInterception(org.apache.hadoop.flume.interceptor.HeaderRegexInterceptorTest)')","[78, 99, 120, 161]"

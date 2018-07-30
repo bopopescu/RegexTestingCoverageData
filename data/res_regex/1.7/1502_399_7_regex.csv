@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 35, 584, 1111]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.esigate.cas.CasTest')","[56, 77, 348, 607, 630, 857, 1136, 1166, 1454]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUnauthenthorized(org.esigate.cas.CasTest)')","[215, 238, 261, 510, 537, 564, 780, 805, 830, 1031, 1060, 1089, 1358, 1390, 1422, 1658, 1692, 1726]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAuthenticationOk(org.esigate.cas.CasTest)')","[123, 146, 169, 302, 402, 429, 456, 680, 705, 730, 915, 944, 973, 1230, 1262, 1294, 1522, 1556, 1590]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAuthenticationOk(org.esigate.cas.CasTest)')","[100, 282, 375, 655, 886, 1198, 1488]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUnauthenthorized(org.esigate.cas.CasTest)')","[192, 323, 483, 755, 1002, 1326, 1624]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.esigate.cas.CasTest')","[1747, 1767, 1788, 1808]"

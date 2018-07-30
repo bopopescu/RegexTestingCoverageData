@@ -1,0 +1,117 @@
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""description 0""')","[4290, 4939, 6193, 8195, 11512, 13885]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResourcesJsonIncludesBasePath(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[156, 176, 196]"
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AapiVersion=(.+)', '-AbasePath=http://wotsync.wotifgroup.com')",[2756]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""created""')",[15516]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResourcesJsonIncludesBasePath(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[136, 1797]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""string""')","[6716, 8718, 9409, 12035, 15442, 16341]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""notes0""')",[7016]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetFileNameShouldUseWholePathForRootLevel(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[876, 896, 916]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""notes""')",[6941]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveLong(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1215, 1235, 1255]"
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AapiVersion=(.+)', '-AapiVersion=1.2.1')","[2276, 3235, 5144, 7146, 10463, 12836]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""Array""')",[16114]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldContainOperations(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[376, 1860]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""Resource Not Found""')",[12408]
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AbasePath=(.+)', '-AapiVersion=1.2.1')","[2336, 3294, 5203, 7205, 10522, 12895]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""summary0""')",[6866]
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AbasePath=(.+)', '-AbasePath=http://wotsync.wotifgroup.com')","[2816, 3353, 5262, 7264, 10581, 12954]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""resourcePath""')","[3856, 5759, 7761, 11078, 13451]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""paramDescription0""')",[9101]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""body""')",[10025]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFileNameShouldUseLastPathElement(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[936, 2007]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType', 'matching', '-?\\d+(\\.\\d+)?((e|E)(\\+|-)?\\d+)?', '400')",[12552]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOptionShouldReturnValueIfMatchingKey(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[696, 1944]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""operations""')","[4363, 6266, 8268, 11585, 13958]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""responseClass""')","[6641, 8643, 11960, 14333]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""nickname""')","[6341, 8343, 11660, 14033]"
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AoptionName1=(.+)', '-AoptionName1=optionValue1')",[16679]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOptionShouldReturnNullIfNoMatchingKey(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[776, 1965]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""boolean""')",[15218]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFileNameShouldUseWholePathForRootLevel(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[856, 1986]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""code""')","[12187, 12485]"
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AoptionName1=(.+)', 'optionName0')",[16622]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""1.2.1""')","[2624, 3641, 5546, 7548, 10865, 13238]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandleListOfComplexTypes(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1595, 2195]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""description""')","[4217, 4866, 6120, 8122, 9024, 9794, 11439, 13812]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveLong(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1195, 2090]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOptionShouldReturnNullIfNoMatchingKey(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[796, 816, 836]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveDouble(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1275, 2111]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest')","[16842, 16890, 16939, 16987]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveDate(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1435, 2153]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest')",[1015]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFlushAndCloseShouldWriteResourcesJson(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[316, 336, 356]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""Malformed request""')",[12706]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldContainOperationErrorResponses(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[536, 1902]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""name""')","[8870, 9640]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldContainOperationParameters(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[476, 496, 516]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""int""')",[15890]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldBeWritten(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[216, 1818]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""basePath""')","[3032, 3713, 5617, 7619, 10936, 13309]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""models""')","[4434, 7087, 10404, 12777, 14479]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""errorResponses""')",[12110]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandleListOfPrimitiveTypes(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1695, 1715, 1735]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest')","[17008, 17028, 17049, 17069]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""/path0""')","[3927, 4793, 5830, 6047, 7832, 8049, 11149, 11366, 13522, 13739]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""summary""')",[6791]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""Date""')",[15666]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType', 'matching', '-?\\d+(\\.\\d+)?((e|E)(\\+|-)?\\d+)?', '404')",[12254]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandleComplexType(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1515, 2174]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""ModelSample""')","[14551, 14697]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""properties""')",[14770]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""param0""')",[8947]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""reason""')","[12331, 12629]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""Locale""')","[10179, 14994]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""modelSample""')",[14408]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""id""')","[14624, 16415]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""allowMultiple""')","[9563, 10333]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldContainOperationParameters(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[456, 1881]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveDouble(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1295, 1315, 1335]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""GET""')","[6566, 8568, 11885, 14258]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""param1""')",[9717]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResourceDescriptionShouldContainModels(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[616, 1923]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveBoolean(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1355, 2132]"
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AoptionName0=(.+)', '-AoptionName1=optionValue1')",[16793]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testResourcesJsonIncludesApiVersion(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[56, 1756]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""enabled""')",[15068]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""apiVersion""')","[2552, 3569, 5475, 7477, 10794, 13167]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldContainOperationErrorResponses(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[556, 576, 596]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('SwaggerJsonWriter.java', 'com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriter', 'getOption', '-AoptionName0=(.+)', 'optionName0')",[16736]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveInteger(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1135, 1155, 1175]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""status""')",[15292]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetFileNameShouldUseLastPathElement(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[956, 976, 996]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""nestedValues""')",[15964]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""parameters""')",[8793]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""httpMethod""')","[6491, 8493, 11810, 14183]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveDate(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1455, 1475, 1495]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""dataType""')","[9332, 10102]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""http://wotsync.wotifgroup.com""')","[3104, 3785, 5688, 7690, 11007, 13380]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""1.0""')","[2480, 2960, 3497, 4576, 5404, 7406, 10723, 13096]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldContainOperations(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[396, 416, 436]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFlushAndCloseShouldWriteResourcesJson(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[296, 1839]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandleListOfComplexTypes(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1615, 1635, 1655]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""path""')","[4071, 4720, 5012, 5974, 7976, 9255, 11293, 13666]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveBoolean(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1375, 1395, 1415]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResourceDescriptionShouldContainModels(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[636, 656, 676]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""/path1""')",[5085]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResourcesJsonIncludesApiVersion(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[76, 96, 116, 1776]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""paramDescription1""')",[9871]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""paramType""')","[9178, 9948]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandleComplexType(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1535, 1555, 1575]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""locale""')",[14844]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""type""')","[14919, 15143, 15367, 15591, 15815, 16039, 16265, 16490]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOptionShouldReturnValueIfMatchingKey(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[716, 736, 756]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""apis""')","[2696, 3176, 3998, 4647, 5901, 7903, 11220, 13593]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveString(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1055, 1075, 1095, 2048]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveInteger(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1115, 2069]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""quantity""')",[15740]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testResourceDescriptionFileShouldBeWritten(com.wotifgroup.swaggerstandalonegenerator.SwaggerJsonWriterTest)')","[236, 256, 276]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""/operation0""')",[4144]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""getById""')","[6416, 8418, 11735, 14108]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandlePrimtiveString(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1035, 2028]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""long""')",[16565]
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""required""')","[9486, 10256]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetResponseTypeShouldHandleListOfPrimitiveTypes(com.wotifgroup.swaggerstandalonegenerator.model.ValueTypeTest)')","[1675, 2216]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""swaggerVersion""')","[2408, 2888, 3425, 4505, 5333, 7335, 10652, 13025]"
+"('JsonTokenType.java', 'groovy.json.JsonTokenType$1', 'doCall', '""[^""\\\\]*""', '""items""')",[16189]

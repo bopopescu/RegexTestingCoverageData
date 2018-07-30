@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.apache.tika.metadata.serialization.JsonMetadataTest')","[36, 268]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLargeValues(org.apache.tika.metadata.serialization.JsonMetadataTest)')","[57, 162]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDeserializationException(org.apache.tika.metadata.serialization.JsonMetadataTest)')","[78, 183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNull(org.apache.tika.metadata.serialization.JsonMetadataTest)')","[99, 204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLargeNumberOfKeys(org.apache.tika.metadata.serialization.JsonMetadataTest)')","[141, 246]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBasicSerializationAndDeserialization(org.apache.tika.metadata.serialization.JsonMetadataTest)')","[120, 225]"

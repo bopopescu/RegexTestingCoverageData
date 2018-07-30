@@ -1,0 +1,5 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.gytheio.messaging.camel.dataformat.JacksonDataFormatTest')","[36, 188]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUnmarshalJsonToPojo(org.gytheio.messaging.camel.dataformat.JacksonDataFormatTest)')","[78, 143]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUnmarshalQpidBodyJsonToPojo(org.gytheio.messaging.camel.dataformat.JacksonDataFormatTest)')","[99, 165]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMarshalPojoToJson(org.gytheio.messaging.camel.dataformat.JacksonDataFormatTest)')","[57, 121]"

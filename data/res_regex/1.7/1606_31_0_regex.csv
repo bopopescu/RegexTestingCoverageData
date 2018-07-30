@@ -1,0 +1,234 @@
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', '17133485930')","[3823, 3873]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldFailToCreateLineWhenNoPageProvided(br.ufrgs.artic.model.LineTest)')","[1851, 2495]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', '-')",[5557]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'all')","[6991, 7041]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldFailToCreateLineWhenNoPageProvided(br.ufrgs.artic.model.LineTest)')","[1872, 1893, 1914]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'þ1-713-348-5930.')",[3923]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldParseAuthorInformationWordsToCRFWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[889, 2204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldCreateWordWhenRequiredParamsProvided(br.ufrgs.artic.model.WordTest)')","[1412, 2350]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'All')",[6940]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldCreateAValidJSONWhenProvidingAValidPaperInstance(br.ufrgs.artic.output.model.PaperTest)')","[181, 202, 223, 1996]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'þ1-713-348-5930.')",[3797]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", '0010-4485//$')",[5356]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'Schaefer).')",[5256]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'Corresponding')",[3018]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'addresses:')",[4250]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'fax:')",[3747]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'j')","[4527, 4577]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'matter')",[6186]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumeral', '(\\d)+(th|st|nd|rd)', 'Design')",[7720]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', '2004')","[6463, 6513, 7897, 7923]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', '15011510')","[7973, 7999]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'reserved.')",[7368]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForIEEESample(br.ufrgs.artic.output.PaperHandlerTest)')","[452, 473, 494]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'Tel.:')",[3320]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'see')","[5759, 5809]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'þ1-713-348-5728;')",[3546]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'fax:')",[3722]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'Warren);')",[4652]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'front')",[5960]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'E-mail')",[4099]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.ufrgs.artic.parser.omnipage.OmniPageParserTest')",[36]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'E-mail')",[4074]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'author.')",[3068]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSampleWithHeader(br.ufrgs.artic.output.PaperHandlerTest)')","[683, 2142]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'Elsevier')",[6714]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', '-')",[5658]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSample(br.ufrgs.artic.output.PaperHandlerTest)')","[368, 389, 410]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSampleNoFootnote(br.ufrgs.artic.output.PaperHandlerTest)')","[599, 2121]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', '©')",[6261]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSample(br.ufrgs.artic.output.PaperHandlerTest)')","[347, 2058]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', '2004')",[6437]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 's')","[5055, 5105]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.ufrgs.artic.model.WordTest')","[8100, 8124, 8149, 8173]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldCreateLinesWithValidXMLProvided(br.ufrgs.artic.parser.omnipage.OmniPageParserTest)')","[57, 1935]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'matter')",[6211]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'see')",[5784]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.ufrgs.artic.output.model.PaperTest')","[2618, 2642, 2667, 2691]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', '*')",[2867]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'fax')","[3647, 3697]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.ufrgs.artic.ArticRunnerTest')",[765]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', '2004')",[6538]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'Ltd.')",[6764]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.ufrgs.artic.output.model.PaperTest')",[139]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'Schaefer).')",[5180]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', '0010-4485//$')",[5432]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'Schaefer).')",[5331]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'front')",[5909]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'wwwelseviercomlocatecad')","[8049, 8075]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', '(J.')",[4627]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'addresses')","[4175, 4225]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldParseHeaderWordsToCRFWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1246, 1267, 1288]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'Elsevier')",[6739]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldCreateAValidJSONWhenProvidingAValidPaperInstance(br.ufrgs.artic.output.model.PaperTest)')","[160, 1976]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', '©')",[6312]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', '(S.')",[5155]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldParseAuthorInformationWordsToCRFWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[910, 931, 952, 2224]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldCreateWordWhenRequiredParamsProvided(br.ufrgs.artic.model.WordTest)')","[1433, 1454, 1475, 2370]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'Elsevier')",[6613]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', '00104485')","[5407, 5457]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', '-')",[5608]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'Ltd.')",[6840]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldFailToCreateWordWhenNoContentProvided(br.ufrgs.artic.model.WordTest)')","[1601, 1622, 1643]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldCreateLineWhenOptionalParamsProvided(br.ufrgs.artic.model.LineTest)')","[1767, 2474]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'Tel.:')",[3244]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'reserved.')",[7292]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'addresses:')",[4149]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'rights')",[7267]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', '0010-4485//$')",[5482]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'rights')",[7192]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.ufrgs.artic.output.PaperHandlerTest')","[8276, 8296, 8317, 8337]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForIEEESample(br.ufrgs.artic.output.PaperHandlerTest)')","[431, 2079]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'reserved.')",[7418]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.ufrgs.artic.model.WordTest')",[1391]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'rights')",[7141]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.ufrgs.artic.ArticRunnerTest')","[8194, 8214, 8235, 8255]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'þ1-713-348-5728;')",[3445]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'reserved.')",[7317]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'see')",[5834]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'sschaefe@rice.edu')",[4853]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'addresses:')",[4200]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', '-')",[5683]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'Ltd.')",[6915]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.ufrgs.artic.crf.CRFClassifierTest')",[868]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'jwarren@cs.rice.edu')",[4451]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSampleNoFootnote(br.ufrgs.artic.output.PaperHandlerTest)')","[620, 641, 662]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'E-mail')",[3973]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', '©')",[6362]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", '(S.')",[5004]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldCreateLineWhenOptionalParamsProvided(br.ufrgs.artic.model.LineTest)')","[1788, 1809, 1830]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', '17133485728')","[3471, 3521]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.ufrgs.artic.output.PaperHandlerTest')",[242]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'E-mail')",[4024]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'þ1-713-348-5930.')",[3772]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'rights')",[7242]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", '-')",[5532]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'doi:10.1016/j.cad.2003.10.006')",[7493]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'author')","[3119, 3169]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'fax:')",[3672]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'þ1-713-348-5728;')",[3496]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldClassifyWordsWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1078, 1099, 1120]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'Tel.:')",[3370]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", '*')",[2716]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumeral', '(\\d)+(th|st|nd|rd)', '36')",[7796]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'matter')",[6136]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'All')",[7091]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'see')",[5859]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'sschaefericeedu')","[4879, 4929]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'sschaefe@rice.edu')",[4828]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'Corresponding')",[2968]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'ltd')","[6815, 6865]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'front')",[6035]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'elsevier')","[6639, 6689]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSampleWithSingleAuthor(br.ufrgs.artic.output.PaperHandlerTest)')","[536, 557, 578]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'see')",[5733]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'author.')",[3093]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'jwarren@cs.rice.edu')",[4300]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', '(S.')",[5029]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldFailToCreateWordWhenNoContentProvided(br.ufrgs.artic.model.WordTest)')","[1580, 2412]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'reserved')","[7343, 7393]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRunner(br.ufrgs.artic.ArticRunnerTest)')","[786, 2163]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumeral', '(\\d)+(th|st|nd|rd)', 'ComputerAided')",[7644]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'author.')",[3219]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'tel')","[3295, 3345]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRunner(br.ufrgs.artic.ArticRunnerTest)')","[807, 828, 849, 2183]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldCreateLineWhenRequiredParamsProvided(br.ufrgs.artic.model.LineTest)')","[1704, 1725, 1746, 2453]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'schaefer')","[5231, 5281]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'rights')",[7116]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', '')","[2767, 2817, 5583, 5633, 6287, 6337]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.ufrgs.artic.parser.omnipage.OmniPageParserTest')","[2520, 2544, 2569, 2593]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldCreateLineWhenRequiredParamsProvided(br.ufrgs.artic.model.LineTest)')","[1683, 2433]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'reserved.')",[7443]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'doi:10.1016/j.cad.2003.10.006')",[7594]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'Tel.:')",[3395]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', '*')",[2741]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', '0010-4485//$')",[5381]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'front')",[6010]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', '36')","[7821, 7847]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'email')","[3999, 4049]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'matter')","[6111, 6161]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'Tel.:')",[3269]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', '(J.')",[4501]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumeral', '(\\d)+(th|st|nd|rd)', '15011510')",[7948]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', '©')",[6387]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumeral', '(\\d)+(th|st|nd|rd)', '2004')",[7872]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'Warren);')",[4778]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'þ1-713-348-5728;')",[3571]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'Schaefer).')",[5306]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSampleWithSingleAuthor(br.ufrgs.artic.output.PaperHandlerTest)')","[515, 2100]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', '*')",[2792]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'computeraided')","[7669, 7695]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'front')",[5884]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'sschaefe@rice.edu')",[4954]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'Ltd.')",[6789]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'jwarrencsriceedu')","[4351, 4401]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'author.')",[3194]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'Elsevier')",[6588]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'þ1-713-348-5930.')",[3848]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'jwarren@cs.rice.edu')",[4325]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'All')",[7016]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'Warren);')",[4803]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForElsevierSample(br.ufrgs.artic.output.PaperHandlerTest)')","[284, 305, 326, 2037]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldCreateWordWhenOptionalParamsProvided(br.ufrgs.artic.model.WordTest)')","[1496, 2391]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldParseFootnoteWordsToCRFWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[973, 2245]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'All')",[6965]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'jwarren@cs.rice.edu')",[4376]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldCreateWordWhenOptionalParamsProvided(br.ufrgs.artic.model.WordTest)')","[1517, 1538, 1559]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldParseFootnoteWordsToCRFWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[994, 1015, 1036]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldParseHeaderWordsToCRFWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1225, 2308]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", '2004')",[6412]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', '(S.')",[5080]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'matter')",[6060]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', '2004')",[6563]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForElsevierSample(br.ufrgs.artic.output.PaperHandlerTest)')","[263, 2017]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', '*')",[2842]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', '(J.')",[4552]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'Corresponding')",[2892]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'doi:10.1016/j.cad.2003.10.006')",[7468]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'addresses:')",[4124]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'doi101016jcad200310006')","[7519, 7569]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'Warren);')",[4728]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'front')","[5935, 5985]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'þ1-713-348-5728;')",[3420]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'fax:')",[3596]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'rights')","[7167, 7217]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'Elsevier')",[6664]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'Schaefer).')",[5205]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'Ltd.')",[6890]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'corresponding')","[2943, 2993]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'E-mail')",[3948]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', '(S.')",[5130]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', '2004')",[6488]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'jwarren@cs.rice.edu')",[4426]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldClassifyLineWhenProvidingValidLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1162, 1183, 1204]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldParseLinesToCRFWhenProvidingValidLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1309, 2329]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'All')",[7066]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldGenerateMetadataForACMSampleWithHeader(br.ufrgs.artic.output.PaperHandlerTest)')","[704, 725, 746]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldClassifyLineWhenProvidingValidLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1141, 2287]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldParseLinesToCRFWhenProvidingValidLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1330, 1351, 1372]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'author.')",[3144]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumeral', '(\\d)+(th|st|nd|rd)', 'wwwelseviercomlocatecad')",[8024]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.ufrgs.artic.crf.CRFClassifierTest')","[8440, 8460, 8481, 8501]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', 'þ1-713-348-5930.')",[3898]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'Corresponding')",[2917]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'sschaefe@rice.edu')",[4904]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", '©')",[6236]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', '0010-4485//$')",[5507]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'br.ufrgs.artic.model.LineTest')",[1662]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'matter')",[6085]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'warren')","[4703, 4753]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'addresses:')",[4275]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'doi:10.1016/j.cad.2003.10.006')",[7619]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'Corresponding')",[3043]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'br.ufrgs.artic.model.LineTest')","[8358, 8378, 8399, 8419]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDOI', '(doi:)?(\\d\\d\\.\\d\\d\\d\\d)/[[A-Za-z0-9]+\\.]+', 'sschaefe@rice.edu')",[4979]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISSN', '(\\d\\d\\d\\d)(-|–)(\\d\\d\\d\\d)[/|$]*(,|\\.|;)?', '(J.')",[4602]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", 'see')",[5708]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'Warren);')",[4677]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isDays', '(\\d\\d)(-|–)(\\d\\d)(th|st|nd|rd)?(,|\\.|;)?', 'fax:')",[3621]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'itShouldCreateLinesWithValidXMLProvided(br.ufrgs.artic.parser.omnipage.OmniPageParserTest)')","[78, 99, 120, 1955]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isISBN', '(\\d+(\\-|–))(\\d+(\\-|–))(\\d+(\\-|–))[\\d+(\\-|–)]+(/)?([/\\d+]+)(\\.\\.\\.[$|\\.|,|\\d]+)?(,|\\.|;)*', 'doi:10.1016/j.cad.2003.10.006')",[7544]
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isPossibleConferenceName', ""[A-Z]+(('|’|`)?\\d\\d)?(,|\\.|;)?"", '(J.')",[4476]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'itShouldClassifyWordsWhenProvidingValidCRFLineList(br.ufrgs.artic.crf.CRFClassifierTest)')","[1057, 2266]"
+"('Word.java', 'br.ufrgs.artic.model.Word', 'isNumberOnly', '\\d+', 'design')","[7745, 7771]"

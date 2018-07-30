@@ -1,0 +1,13 @@
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', '<init>', '[a-zA-Z_]\\w*', 'query')","[234, 438]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.jdbc.JDBCServicesTest')","[36, 386]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'createFromXml1(org.epics.pvmanager.jdbc.JDBCServicesTest)')","[57, 140]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addArgument', '[a-zA-Z_]\\w*', 'value')","[359, 568]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.epics.pvmanager.jdbc.JDBCXMLServiceFactoryTest')","[76, 591]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addArgument', '[a-zA-Z_]\\w*', 'name')","[309, 516]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', '<init>', '[a-zA-Z_]\\w*', 'insert')","[284, 490]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addArgument', '[a-zA-Z_]\\w*', 'index')","[334, 542]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new2(org.epics.pvmanager.jdbc.JDBCXMLServiceFactoryTest)')","[118, 184]"
+"('ServiceMethodDescription.java', 'org.epics.pvmanager.service.ServiceMethodDescription', 'addResult', '[a-zA-Z_]\\w*', 'result')","[259, 464]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'new1(org.epics.pvmanager.jdbc.JDBCXMLServiceFactoryTest)')","[97, 162]"
+"('ServiceDescription.java', 'org.epics.pvmanager.service.ServiceDescription', '<init>', '[a-zA-Z_]\\w*', 'jdbcSample')","[209, 412]"

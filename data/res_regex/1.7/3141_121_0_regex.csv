@@ -1,0 +1,7 @@
+"('JSON.java', 'org.openapplication.json.JSON', 'parseChar', '-?(?=[1-9]|0(?!\\d))\\d+(\\.\\d+)?([eE][+-]?\\d+)?', '3')",[247]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openapplication.json.test.JSONTest')","[36, 270]"
+"('JSON.java', 'org.openapplication.json.JSON', 'parseChar', '-?(?=[1-9]|0(?!\\d))\\d+(\\.\\d+)?([eE][+-]?\\d+)?', '1234')","[107, 163]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParse(org.openapplication.json.test.JSONTest)')","[57, 79]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('JSON.java', 'org.openapplication.json.JSON', 'parseChar', '-?(?=[1-9]|0(?!\\d))\\d+(\\.\\d+)?([eE][+-]?\\d+)?', '5')",[219]
+"('JSON.java', 'org.openapplication.json.JSON', 'parseChar', '-?(?=[1-9]|0(?!\\d))\\d+(\\.\\d+)?([eE][+-]?\\d+)?', '5.567E-5')","[135, 191]"

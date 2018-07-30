@@ -1,0 +1,16 @@
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'equals')","[382, 862, 1336, 1803, 2270, 2737, 3210, 3690, 4170, 4662, 5162, 5617]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'hashCode')","[456, 936, 1408, 1875, 2342, 2809, 3284, 3764, 4244, 4740, 5238, 5653]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'toString')","[419, 899, 1372, 1839, 2306, 2773, 3247, 3727, 4207, 4701, 5200, 5635]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'createService')","[197, 677, 1156, 1623, 2090, 2557, 3025, 3505, 3985, 4467, 4972, 5527]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'wait')","[271, 308, 345, 751, 788, 825, 1228, 1264, 1300, 1695, 1731, 1767, 2162, 2198, 2234, 2629, 2665, 2701, 3099, 3136, 3173, 3579, 3616, 3653, 4059, 4096, 4133, 4545, 4584, 4623, 5048, 5086, 5124, 5563, 5581, 5599]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'notifyAll')","[641, 1121, 1588, 2055, 2522, 2989, 3469, 3949, 4429, 4935, 5428, 5743]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'notify')","[604, 1084, 1552, 2019, 2486, 2953, 3432, 3912, 4392, 4896, 5390, 5725]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'spring.conf.a_basic.BasicTest')",[36]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'clone')","[530, 1010, 1480, 1947, 2414, 2881, 3358, 3838, 4318, 4818, 5314, 5689]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDummyService(spring.conf.a_basic.BasicTest)')","[78, 99, 120, 161]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'spring.conf.a_basic.BasicTest')","[5449, 5469, 5490, 5510]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'registerNatives')","[567, 1047, 1516, 1983, 2450, 2917, 3395, 3875, 4355, 4857, 5352, 5707]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDummyService(spring.conf.a_basic.BasicTest)')","[57, 141]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'getClass')","[493, 973, 1444, 1911, 2378, 2845, 3321, 3801, 4281, 4779, 5276, 5671]"
+"('ReflectionUtils.java', 'org.springframework.util.ReflectionUtils', 'isCglibRenamedMethod', 'CGLIB\\$(.+)\\$\\d+', 'finalize')","[234, 714, 1192, 1659, 2126, 2593, 3062, 3542, 4022, 4506, 5010, 5545]"

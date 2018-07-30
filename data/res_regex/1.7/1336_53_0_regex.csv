@@ -1,0 +1,107 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.RecordableInputStreamTest')","[1219, 3851]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractParentInjected(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[727, 2314]"
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'au.t', 'grandparent')","[3271, 3359]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadForUTF8(de.elakito.misc.xml.util.RecordableInputStreamTest)')","[1240, 2732]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*t.*a', 'patricia')",[4131]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractUnqualifiedChild(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[664, 2248]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildNSMixedInjected(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[790, 2380]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractInjectedSize5(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[309, 1896]"
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'c.*d', 'child')","[3473, 3500, 3554, 3581, 3635, 3662]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedSize5L(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[162, 1742]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildWithAncestorGPdP(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[496, 2072]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortUTF8(de.elakito.misc.xml.util.XMLEventReaderReaderTest)')","[1589, 3018]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadAndGetTextsBufferPurge(de.elakito.misc.xml.util.RecordableReaderTest)')","[1057, 2600]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.TestDataGeneratorTest')","[1158, 3824]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.t.a', 'petra')",[4154]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractSomeQualifiedChild(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[622, 2204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedLeftOver(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[204, 1786]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildNSMixed(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[538, 2116]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.tokenize.XMLTokenIteratorCharsetTest')","[893, 3716]"
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'a.*t', 'uncle')","[3127, 3213]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*a', 'peach')",[4361]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTokenizeWithReader(de.elakito.misc.xml.tokenize.XMLTokenIteratorCharsetTest)')","[914, 2490]"
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'c.*d', 'parent')","[3444, 3527, 3608]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', '.*tra', 'astra')",[3924]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractSomeUnqualifiedChildInjected(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[412, 1984]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', '.*tra', 'sandra')",[3947]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractAuntWC1(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[370, 1940]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildWithAncestorGGPdP(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[559, 2138]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.tokenize.XMLTokenIteratorInvalidXMLTest')","[975, 3743]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractGrandParentText(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[706, 2292]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', '.*tra', 'petra')",[3901]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortUTF8(de.elakito.misc.xml.util.XMLEventReaderInputStreamTest)')","[1385, 2864]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleLong(de.elakito.misc.xml.util.XMLEventReaderReaderTest)')","[1568, 2996]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'de\\.pe.*', 'de.petra')",[4223]
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*a', 'patricia')",[4338]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildWithAncestorP(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[811, 2402]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTokenizeWithISOLatin(de.elakito.misc.xml.tokenize.XMLTokenIteratorCharsetTest)')","[956, 2534]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*a', 'petra')",[4292]
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.t.a', 'patia')",[4177]
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'pe.*', 'petra')",[3970]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadAndGetTextsAutoStopRecord(de.elakito.misc.xml.util.RecordableInputStreamTest)')","[1282, 2776]"
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'au.t', 'uncle')","[3301, 3387]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortLatin(de.elakito.misc.xml.util.XMLEventReaderReaderTest)')","[1610, 3040]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractToken(de.elakito.misc.xml.tokenize.XMLTokenIteratorInvalidXMLTest)')","[996, 2556]"
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'a.*t', 'aunt')","[3157, 3241]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'de\\.pe.*', 'delpeach')",[4269]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.RecordableReaderTest')","[1015, 3770]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractAuntWC2(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[391, 1962]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractInjectedSize4(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[288, 1874]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadAndGetTextsBufferPurge(de.elakito.misc.xml.util.RecordableInputStreamTest)')","[1303, 2798]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChild(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[832, 2424]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadForNoCharset(de.elakito.misc.xml.util.RecordableInputStreamTest)')","[1261, 2754]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractAunt(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[748, 2336]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildWithAncestorGGPdGP(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[433, 2006]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'pe.*', 'peteria')",[4039]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractInjectedSize2(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[246, 1830]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildWithAncestorGGPdGPdP(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[874, 2468]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleVariableData(de.elakito.misc.xml.util.TestDataGeneratorTest)')","[1200, 2710]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadAndGetTextsAutoStopRecord(de.elakito.misc.xml.util.RecordableReaderTest)')","[1036, 2578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMatches(de.elakito.misc.xml.util.AttributedQNameTest)')","[1446, 2908]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractInjectedSize3(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[267, 1852]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleData(de.elakito.misc.xml.util.TestDataGeneratorTest)')","[1179, 2688]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.XMLEventReaderInputStreamTest')","[1343, 3878]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildWithAncestorGPddP(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[580, 2160]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*a', 'patia')",[4315]
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*t.*a', 'petra')",[4062]
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*t.*a', 'pesandra')",[4108]
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'au.t', 'aunt')","[3331, 3415]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractAuntInjected(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[349, 1918]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedSize2(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[78, 1654]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleLong(de.elakito.misc.xml.util.XMLStreamReaderReaderTest)')","[1097, 2622]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractParent(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[769, 2358]"
+"('XMLTokenIterator.java', 'de.elakito.misc.xml.tokenize.XMLTokenIterator', 'getNextToken', 'a.*t', 'grandparent')","[3097, 3185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortLatin(de.elakito.misc.xml.util.XMLEventReaderInputStreamTest)')","[1406, 2886]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractChildInjected(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[454, 2028]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTokenzeWithUTF8(de.elakito.misc.xml.tokenize.XMLTokenIteratorCharsetTest)')","[935, 2512]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest')","[36, 3067]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractAnyChild(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[475, 2050]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedSize5U(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[183, 1764]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.XMLEventReaderReaderTest')","[1547, 4438]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.tokenize.XMLTokenIteratorTest')","[328, 3689]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedSize4(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[99, 1676]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortUTF8(de.elakito.misc.xml.util.XMLStreamReaderInputStreamTest)')","[1507, 2952]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'pe.*', 'peach')",[4016]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedSize1(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[57, 1632]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortUTF8(de.elakito.misc.xml.util.XMLStreamReaderReaderTest)')","[1118, 2644]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractInjectedSize1(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[225, 1808]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractSomeQualifiedChildInjected(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[601, 2182]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortLatin(de.elakito.misc.xml.util.XMLStreamReaderInputStreamTest)')","[1528, 2974]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.AttributedQNameTest')","[1425, 4388]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testReadForISO8859(de.elakito.misc.xml.util.RecordableInputStreamTest)')","[1324, 2820]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.XMLStreamReaderInputStreamTest')","[1465, 4415]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleLong(de.elakito.misc.xml.util.XMLStreamReaderInputStreamTest)')","[1486, 2930]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleLong(de.elakito.misc.xml.util.XMLEventReaderInputStreamTest)')","[1364, 2842]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSampleShortLatin(de.elakito.misc.xml.util.XMLStreamReaderReaderTest)')","[1139, 2666]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'pe.*', 'astra')",[3993]
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.t.a', 'patricia')",[4200]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedSize3L(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[120, 1698]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractSomeUnqualifiedChild(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[517, 2094]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'de.elakito.misc.xml.util.XMLStreamReaderReaderTest')","[1076, 3797]"
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'p.*t.*a', 'astra')",[4085]
+"('AttributedQNameTest.java', 'de.elakito.misc.xml.util.AttributedQNameTest', 'testMatches', 'de\\.pe.*', 'de.peach')",[4246]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractAuntUnwrapped(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[643, 2226]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractCxxxd(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[853, 2446]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWithNullNamespaceMap(de.elakito.misc.xml.tokenize.XMLTokenIteratorTest)')","[685, 2270]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractWrappedSize3U(de.elakito.misc.xml.tokenize.XMLTokenIteratorGroupingTest)')","[141, 1720]"

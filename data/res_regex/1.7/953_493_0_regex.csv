@@ -1,0 +1,6 @@
+"('GitChangelogFileMojoTest.java', 'fr.norad.git.changelog.maven.plugin.mojo.GitChangelogFileMojoTest', 'should_detect_maven_release_plugin_log_and_capture_version', '^\\[maven-release-plugin\\] prepare release .*-(?<version>\\d+[.\\d]*)', '[maven-release-plugin] prepare release server-3.0')",[161]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_detect_maven_release_plugin_log_and_capture_version(fr.norad.git.changelog.maven.plugin.mojo.GitChangelogFileMojoTest)')","[57, 118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'should_list_commit(fr.norad.git.changelog.maven.plugin.GitLogsTest)')","[97, 139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'fr.norad.git.changelog.maven.plugin.GitLogsTest')","[76, 209]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'fr.norad.git.changelog.maven.plugin.mojo.GitChangelogFileMojoTest')","[36, 187]"

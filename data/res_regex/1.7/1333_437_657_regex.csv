@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClientCloseConnection(com.sun.grizzly.comet.BasicCometTest)')","[155, 285]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOnInterruptExpirationDelay(com.sun.grizzly.comet.BasicCometTest)')","[115, 241]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.sun.grizzly.comet.CometUnitTest')","[36, 368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.sun.grizzly.comet.BasicCometTest')","[75, 391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStreaming1(com.sun.grizzly.comet.CometUnitTest)')","[56, 197]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHttpPipeline(com.sun.grizzly.comet.BasicCometTest)')","[175, 307]"
+"('Grizzly.java', 'com.sun.grizzly.util.Grizzly', 'populate', '((\\d+)\\.(\\d+)\\.(\\d+)){1}(.+)?', '1.9.50')",[317]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testOnEvent(com.sun.grizzly.comet.BasicCometTest)')","[95, 219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHttpPipeline2(com.sun.grizzly.comet.BasicCometTest)')","[135, 263]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

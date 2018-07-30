@@ -1,0 +1,9 @@
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[165]
+"('CrawlerConfiguration.java', 'com.bupt.spider.config.CrawlerConfiguration', '<init>', '(?s)^http[s]?://.*$', 'http://www')","[288, 318]"
+"('CrawlerConfiguration.java', 'com.bupt.spider.config.CrawlerConfiguration', '<init>', '(?s)^http[s]?://.*$', 'url')","[196, 346]"
+"('CrawlerConfiguration.java', 'com.bupt.spider.config.CrawlerConfiguration', '<init>', '(?s)^http[s]?://.*$', 'https://')",[402]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[55]
+"('CrawlerConfiguration.java', 'com.bupt.spider.config.CrawlerConfiguration', '<init>', '(?s)^http[s]?://.*$', 'http://test.com')",[258]
+"('CrawlerConfiguration.java', 'com.bupt.spider.config.CrawlerConfiguration', '<init>', '(?s)^http[s]?://.*$', 'http://asdasdasdasdasd')",[227]
+"('CrawlerConfiguration.java', 'com.bupt.spider.config.CrawlerConfiguration', '<init>', '(?s)^http[s]?://.*$', 'http://')",[374]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[110]

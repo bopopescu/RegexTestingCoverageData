@@ -1,0 +1,133 @@
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'getProjectVersion', '/project/version', '/project/version')","[2849, 2895, 3907, 3953]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany\\E.*', 'other.company')","[5780, 6682]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qc\\E.*\\Qoo\\E.*\\Qr\\E', 'com.foo.bar')",[5584]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMavenVersionComparator(org.codehaus.mojo.versions.ordering.VersionComparatorsTest)')","[432, 1422]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Version_LeftOpenRange_Disjoint(org.codehaus.mojo.versions.api.PomHelperTest)')","[928, 1863]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.bar\\E.*', 'com-bar')",[5446]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*', 'com.foo.bar')",[5400]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSeparatePatternsWithSeveralCommaSeparatedPatterns(org.codehaus.mojo.versions.SeparatePatternsForIncludesAnExcludesTest)')","[610, 1569]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany\\E.*', 'org.apache.maven')",[7458]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qold-maven-plugin\\E.*', 'new-maven-plugin')",[9090]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Version_Range_Intersect(org.codehaus.mojo.versions.api.PomHelperTest)')","[688, 1611]"
+"('ArtifactUtils.java', 'org.apache.maven.artifact.ArtifactUtils', 'isSnapshot', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '1.0.1')","[9620, 9812, 10010, 10264, 10568, 10720, 10872]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*\\Q.maven\\E', 'net.foo')",[6930]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany.maven\\E.*', 'org.apache.maven')","[7554, 7650]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRuleSets(org.codehaus.mojo.versions.api.DefaultVersionsHelperTest)')","[1047, 1968]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'getProjectVersion', '/project/version', '/project/modelVersion')","[2481, 2527, 3539, 3585]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*\\Q.maven\\E', 'org.apache.maven')",[7314]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSmokes(org.codehaus.mojo.versions.api.ArtifactVersionsTest)')","[1086, 1989]"
+"('ArtifactUtils.java', 'org.apache.maven.artifact.ArtifactUtils', 'isSnapshot', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '1.1')","[9668, 9860, 10061, 10315, 10416, 10619, 10770, 10923]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*\\Q.maven\\E', 'com.mycompany.maven')","[4052, 4954, 8706, 9138]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNumericVersionComparator(org.codehaus.mojo.versions.ordering.VersionComparatorsTest)')","[412, 1401]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany\\E.*', 'com.mycompany.maven.plugins')",[8274]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.ordering.VersionComparatorsTest')","[372, 2239]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMercuryVersionComparator(org.codehaus.mojo.versions.ordering.VersionComparatorsTest)')","[392, 1380]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-alpha', 'three-beta')",[6252]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qco\\E.*\\Q.foo.b\\E.\\Qr\\E', 'com.foo.bar')",[5538]
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'getProjectVersion', '/project/version', '/project/packaging')","[2757, 2803, 3815, 3861]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'getProjectVersion', '/project/version', '/project/groupId')","[2573, 2619, 3631, 3677]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBigValues(org.codehaus.mojo.versions.ordering.NumericVersionComparatorTest)')","[293, 1296]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-alpha', 'three-alpha')",[6206]
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'setProjectVersion', '/project/version', '/project/version')","[3355, 3401]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany\\E', 'com.mycompany.maven')","[4150, 5054, 8802, 9234]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-beta', 'three')","[4720, 6390]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany\\E.*', 'com.mycompany.custom.maven')",[7842]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Version_Range_Disjoint(org.codehaus.mojo.versions.api.PomHelperTest)')","[708, 1632]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Range_Range_Intersect(org.codehaus.mojo.versions.api.PomHelperTest)')","[908, 1842]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Range_Empty(org.codehaus.mojo.versions.api.PomHelperTest)')","[868, 1800]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWildcardMatching(org.codehaus.mojo.versions.api.DefaultVersionsHelperTest)')","[987, 1905]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.api.DefaultVersionsHelperTest')","[947, 9524]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qold-maven-plugin\\E', 'artifact-one')","[4395, 5304]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSeparatePatternsWithTwoCommaSeparatedPatterns(org.codehaus.mojo.versions.SeparatePatternsForIncludesAnExcludesTest)')","[510, 1464]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-alpha', 'one')","[4490, 6022]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Version_Version_Equal(org.codehaus.mojo.versions.api.PomHelperTest)')","[788, 1716]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.api.ArtifactVersionsTest')","[1066, 10996]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany.maven\\E', 'com.mycompany.maven')","[4248, 4346, 5154, 5254, 8898, 8994, 9330, 9426]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Range_Range_Disjoint(org.codehaus.mojo.versions.api.PomHelperTest)')","[828, 1758]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSmokes(org.codehaus.mojo.versions.SmokeTest)')","[649, 1590]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany.maven\\E', 'org.apache.maven')","[7506, 7602]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-alpha', 'two')","[4582, 6114]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'setProjectVersion', '/project/version', '/project/groupId')","[3079, 3125]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testQualifiers(org.codehaus.mojo.versions.ordering.NumericVersionComparatorTest)')","[253, 1254]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qold-maven-plugin\\E.*', 'artifact-one')","[4444, 5354]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany.maven\\E', 'net.foo')","[7122, 7218]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qold-maven-plugin\\E', 'plugins')",[8610]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLongProperties(org.codehaus.mojo.versions.api.PomHelperTest)')","[748, 1674]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-beta', 'two')","[4628, 6160]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '.*\\Q.maven\\E.*', 'other.company')","[5682, 6582]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany\\E', 'net.foo')",[7026]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany\\E.*', 'com.mycompany.maven')","[4199, 5104, 8850, 9282]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'setProjectVersion', '/project/version', '/project/packaging')","[3263, 3309]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'setProjectVersion', '/project/version', '/project/modelVersion')","[2987, 3033]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany.maven\\E.*', 'other.company')","[5878, 5976, 6782, 6882]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qold-maven-plugin\\E', 'old-maven-plugin')",[9474]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-alpha', '1.200')",[4766]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMVERSIONS159_ExcludedAndNotIncluded(org.codehaus.mojo.versions.api.DefaultVersionsHelperTest)')","[1027, 1947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSegmentIncrementing(org.codehaus.mojo.versions.ordering.MavenVersionComparatorTest)')","[135, 1170]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'setProjectVersion', '/project/version', '/project/name')",[3447]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-beta', 'one')","[4536, 6068]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany.maven\\E', 'other.company')","[5829, 5927, 6732, 6832]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*', 'plugins')","[7362, 7746, 8178, 8322, 8466]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBasic(org.codehaus.mojo.versions.AbstractVersionsUpdaterMojoTest)')","[471, 1443]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany.maven\\E', 'com.mycompany.maven.plugins')","[8370, 8514]"
+"('ArtifactUtils.java', 'org.apache.maven.artifact.ArtifactUtils', 'isSnapshot', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '1.0')","[9572, 9764, 9959, 10213, 10517, 10821]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany\\E', 'com.mycompany.custom.maven')",[7794]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSegmentCounting(org.codehaus.mojo.versions.ordering.NumericVersionComparatorTest)')","[353, 1359]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*', 'new-maven-plugin')","[8754, 8946]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSeparatePatternWithSeveralPatternsAndRanges(org.codehaus.mojo.versions.SeparatePatternsForIncludesAnExcludesTest)')","[570, 1527]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSegmentCounting(org.codehaus.mojo.versions.ordering.MercuryVersionComparatorTest)')","[214, 1233]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.api.PomHelperTest')","[668, 4003]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBasic(org.codehaus.mojo.versions.RewriteWithStAXTest)')","[56, 1107]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPerRuleVersionsIgnored(org.codehaus.mojo.versions.api.DefaultVersionsHelperTest)')","[967, 1884]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*\\Q.maven\\E', 'com.mycompany.maven.plugins')",[8082]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*\\Q.maven\\E', 'other.company')","[5633, 6532]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStringValues(org.codehaus.mojo.versions.ordering.NumericVersionComparatorTest)')","[273, 1275]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSegmentCounting(org.codehaus.mojo.versions.ordering.MavenVersionComparatorTest)')","[155, 1191]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSegmentIncrementing(org.codehaus.mojo.versions.ordering.NumericVersionComparatorTest)')","[333, 1338]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany\\E', 'com.mycompany.maven.plugins')",[8226]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSmokes(org.codehaus.mojo.versions.ordering.NumericVersionComparatorTest)')","[313, 1317]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*\\Q.maven\\E', 'com.mycompany.custom.maven')",[7698]
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'setProjectVersion', '/project/version', '/project/artifactId')","[3171, 3217]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany.maven\\E.*', 'com.mycompany.custom.maven')","[7938, 8034]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Version_RightOpenRange_Disjoint(org.codehaus.mojo.versions.api.PomHelperTest)')","[808, 1737]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-alpha', 'three')","[4674, 6344]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.RewriteWithStAXTest')","[36, 2039]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany\\E', 'other.company')","[5731, 6632]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSeparatePatternsWithNull(org.codehaus.mojo.versions.SeparatePatternsForIncludesAnExcludesTest)')","[550, 1506]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-alpha', 'illegalVersion')","[4858, 6436]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'getProjectVersion', '/project/version', '/project')","[2435, 3493]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReplaceFancy(org.codehaus.mojo.versions.RewriteWithStAXTest)')","[96, 1149]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany\\E.*', 'net.foo')",[7074]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSeparatePatternWithSingleRange(org.codehaus.mojo.versions.SeparatePatternsForIncludesAnExcludesTest)')","[530, 1485]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReplace(org.codehaus.mojo.versions.RewriteWithStAXTest)')","[76, 1128]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '.*\\Q.maven\\E.*', 'com.mycompany.maven.plugins')",[8130]
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'getProjectVersion', '/project/version', '/project/artifactId')","[2665, 2711, 3723, 3769]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Range_Version_Intersect(org.codehaus.mojo.versions.api.PomHelperTest)')","[888, 1821]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*', 'artifact-one')","[4101, 4297, 5004, 5204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.AbstractVersionsUpdaterMojoTest')","[451, 2289]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Version_Version_Differ(org.codehaus.mojo.versions.api.PomHelperTest)')","[768, 1695]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Empty_Range(org.codehaus.mojo.versions.api.PomHelperTest)')","[728, 1653]"
+"('PomHelper.java', 'org.codehaus.mojo.versions.api.PomHelper', 'setProjectVersion', '/project/version', '/project')",[2941]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.ordering.MavenVersionComparatorTest')","[115, 2089]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-beta', 'three-beta')",[6298]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom\\E.\\Qfoo.bar\\E', 'com.foo.bar')",[5492]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.ordering.MercuryVersionComparatorTest')","[174, 2139]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '.*', 'old-maven-plugin')","[9186, 9378]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qold-maven-plugin\\E.*', 'plugins')",[8658]
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany.maven\\E.*', 'net.foo')","[7170, 7266]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '\\Qcom.mycompany.maven\\E.*', 'com.mycompany.maven.plugins')","[8418, 8562]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-beta', 'illegalVersion')","[4904, 6482]"
+"('ArtifactUtils.java', 'org.apache.maven.artifact.ArtifactUtils', 'isSnapshot', '^(.*)-([0-9]{8}.[0-9]{6})-([0-9]+)$', '3.0')","[9716, 9908, 10112, 10162, 10366, 10466, 10670, 10974]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany\\E', 'org.apache.maven')",[7410]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.SeparatePatternsForIncludesAnExcludesTest')","[490, 2339]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qcom.mycompany.maven\\E', 'com.mycompany.custom.maven')","[7890, 7986]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'lookupArtifactVersions', '.*-beta', '1.200')",[4812]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSegmentIncrementing(org.codehaus.mojo.versions.ordering.MercuryVersionComparatorTest)')","[194, 1212]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'match', '.*\\Q.maven\\E.*', 'net.foo')",[6978]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test_Range_Version_Disjoint(org.codehaus.mojo.versions.api.PomHelperTest)')","[848, 1779]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.ordering.NumericVersionComparatorTest')","[233, 2189]"
+"('DefaultVersionsHelper.java', 'org.codehaus.mojo.versions.api.DefaultVersionsHelper', 'exactMatch', '\\Qold-maven-plugin\\E', 'new-maven-plugin')",[9042]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSeparatePatternsWithSinglePattern(org.codehaus.mojo.versions.SeparatePatternsForIncludesAnExcludesTest)')","[590, 1548]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGlobalRuleVersionsIgnored(org.codehaus.mojo.versions.api.DefaultVersionsHelperTest)')","[1007, 1926]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.codehaus.mojo.versions.SmokeTest')","[629, 2389]"

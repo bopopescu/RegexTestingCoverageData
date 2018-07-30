@@ -1,0 +1,17 @@
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', 'count(*)')","[1813, 1889, 2289, 2365, 2765, 2841]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[223]
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', '`date`')",[3002]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ru.ydn.wicket.wicketorientdb.demo.TestHomePage')","[36, 3189]"
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', 'name')","[305, 388, 760, 1128, 1492, 1573, 1654, 1738]"
+"('ODocument.java', 'com.orientechnologies.orient.core.record.impl.ODocument', 'validateField', '\\S+(.*\\S+)*', 'admin')","[459, 529, 603, 676]"
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', '`name`')",[2050]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'homepageRendersSuccessfully(ru.ydn.wicket.wicketorientdb.demo.TestHomePage)')","[57, 79]"
+"('ODocument.java', 'com.orientechnologies.orient.core.record.impl.ODocument', 'validateField', '\\S+(.*\\S+)*', 'writer')","[1198, 1267, 1340, 1412]"
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', '`number`.type()')","[2445, 2690]"
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', '`name`.type()')","[1969, 2214]"
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', '`date`.type()')","[2921, 3166]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[151]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', '`number`')",[2526]
+"('ORecordId.java', 'com.orientechnologies.orient.core.id.ORecordId', 'isA', '#(-?[0-9]+):(-?[0-9]+)', 'NOT NULL')","[2131, 2607, 3083]"
+"('ODocument.java', 'com.orientechnologies.orient.core.record.impl.ODocument', 'validateField', '\\S+(.*\\S+)*', 'reader')","[830, 899, 972, 1044]"

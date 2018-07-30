@@ -1,0 +1,20 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qecom\\E', 'ecom')","[469, 777, 1321, 1633]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[546, 1399]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'createUser(com.ecom.repository.UserRepositoryTest)')","[1711, 1734]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[238, 1087]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*', 'impl')",[931]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPurgeRepository(com.ecom.repository.RealStateRepositoryTest)')","[1757, 1781, 1853, 1924]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRetriveAndSendNewPassword(com.ecom.service.impl.UserServiceImplTest)')","[2190, 2214, 2237]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[161, 1009]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindByZipOrCity(com.ecom.service.impl.GeoLocationServiceTest)')","[2040, 2064, 2112, 2159]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreateMessages(com.ecom.repository.MessageRepositoryTest)')","[42, 84, 1970, 1994, 2017]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFindByZipOrCity2(com.ecom.service.impl.GeoLocationServiceTest)')","[2088, 2136]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSaveRealStateAppartmentForBuying(com.ecom.repository.RealStateRepositoryTest)')","[1829, 1901]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q3045_484\\E', '3045_484')","[392, 1243]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '(.*)\\((.*)\\)', 'createUser(com.ecom.repository.UserRepositoryTest)')",[1687]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[623, 1477]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qservice\\E', 'service')",[854]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test(com.ecom.web.utils.CryptoUtilsTest)')","[2260, 2284]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[700, 1555]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[315, 1165]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSaveRealStateAppartmentForRent(com.ecom.repository.RealStateRepositoryTest)')","[1805, 1877]"

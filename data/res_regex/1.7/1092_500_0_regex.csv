@@ -1,0 +1,131 @@
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite pope = John ${common:favourite Beatle} II')","[4036, 4836, 5636]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'key=value')","[677, 1756, 2886, 6513, 7607, 8683, 9714, 10740]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'multiline2')",[7085]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'key=value')","[702, 1783, 2911, 6539, 7634, 9741, 10767]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'son of edward vii = ${favourite Beatle} V')",[5811]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', ""chorus: I'm a lumberjack, and I'm okay"")",[9258]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite beatle = George')",[5761]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'case3 = ${wrong_section:wrong_value}')",[6336]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'spaces in values=allowed as well')","[802, 1891, 3011, 6643, 7742, 9849, 10875]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'key_without_value')",[8309]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'multiline_values = are')","[1702, 2836, 3786, 7553, 8633, 10686, 11712]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'are they treated as numbers? : no')","[1052, 1102, 2161, 2215, 3261, 6903, 8012, 9058, 10119, 11145]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'can_values_be_as_well = True')","[1552, 2674, 3636, 7397, 8471, 10524, 11550]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'can use the API to get converted values directly: true')","[1202, 2323, 3361, 7111, 8120, 9158, 10227, 11253]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'purpose = formatting for readability')","[1652, 2782, 3736, 7501, 8579, 10632, 11658]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite Beatle = Paul')","[3836, 4636]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'case4 = ${i:like:colon:characters}')",[6411]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'are they treated as numbers? : no')",[9083]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'can_values_be_as_well = True')","[1527, 2647, 3611, 7371, 8444, 9458, 10497, 11523]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[You can use comments]')","[1477, 2593, 3561, 7319, 8390, 9408, 10443, 11469]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'or this: 3.14159265359')",[9033]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'purpose = formatting for readability')",[9583]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[tom]')","[3936, 4736, 5536]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStrip(ca.szc.configparser.StringUtilTest)')","[57, 349]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'son of George V = ${son of Edward VII}I')","[4261, 5061]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'key_without_value')",[9333]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'allowDuplicates(ca.szc.configparser.IniTest)')","[118, 391]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite song = ${favourite color} sabbath - ${favourite state of mind}')","[4586, 5386, 6186]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite beatle = George')",[5736]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'checkAgainstReferenceImpl(ca.szc.configparser.IniTest)')","[328, 601]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite Beatle = ${ambv:favourite Beatle}')","[4311, 5111]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'spaces in keys=allowed')","[752, 1837, 2961, 6591, 7688, 9795, 10821]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'key_without_value')","[8282, 9308]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'multiline1')",[7007]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite song = ${favourite color} sabbath - ${favourite state of mind}')","[4561, 5361, 6161]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', ""case1 = ${where's the brace"")",[6236]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite beatle = ${ambv:favourite Beatle}')",[5911]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'spaces in keys=allowed')","[727, 1810, 2936, 6565, 7661, 8733, 9768, 10794]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'does_that_mean_anything_special = False')","[1577, 2701, 3661, 7423, 8498, 9508, 10551, 11577]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'or this: 3.14159265359')","[1027, 2134, 3236, 6877, 7985, 10092, 11118]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'son of George V = ${son of Edward VII}I')","[4236, 5036]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'can_values_be_as_well = True')",[9483]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[Multiline Values]')","[1252, 2377, 3411, 7163, 8174, 9208, 10281, 11307]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'key=value')",[8708]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'empty string value here =')","[1377, 1452, 2512, 3536, 7293, 8363, 10416, 11442]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'option = value')",[9660]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'allowNoValue(ca.szc.configparser.IniTest)')","[286, 559]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'empty string value here =')",[9383]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ca.szc.configparser.IniTest')","[97, 11734]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'can use the API to get converted values directly: true')",[9183]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'case2 = ${does_not_exist}')",[6286]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite pope = ${tom:favourite pope}')","[4361, 5161, 5961]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'values like this: 1000000')",[8983]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'integers, floats and booleans are held as: strings')","[1152, 2269, 3311, 6955, 8066, 9108, 10173, 11199]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'spaces in values=allowed as well')","[777, 1864, 2986, 6617, 7715, 8783, 9822, 10848]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite pope = ${tom:favourite pope}')","[4386, 5186, 5986]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRstrip(ca.szc.configparser.StringUtilTest)')","[78, 370]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite beatle = Paul')",[5461]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'are they treated as numbers? : no')","[1077, 1127, 2188, 2242, 3286, 6929, 8039, 10146, 11172]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'case5 = $100 for Fail No 5!')",[6436]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', ""case1 = ${where's the brace"")",[6261]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite color = black')","[4411, 5211, 6011]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[common]')","[3811, 4611, 5411]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite state of mind = paranoid')","[4486, 5286, 6086]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', ""chorus: I'm a lumberjack, and I'm okay"")","[1302, 2431, 3461, 7215, 8228, 10335, 11361]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite pope = John ${common:favourite Beatle} II')","[4011, 4811, 5611]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'values like this: 1000000')","[952, 2053, 3161, 6799, 7904, 8958, 10011, 11037]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite color = green')","[3911, 4711, 5511]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'interpolationErrors(ca.szc.configparser.IniTest)')","[223, 496]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite color = green')","[3886, 4686, 5486]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'case5 = $100 for Fail No 5!')",[6461]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'disallowDuplicates(ca.szc.configparser.IniTest)')","[139, 412]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'you can also use : to delimit keys from values')",[8908]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'son of george v = ${son of Edward VII}I')",[5836]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'you can also use : to delimit keys from values')","[902, 1999, 3111, 6747, 7850, 9957, 10983]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[All Values Are Strings]')","[927, 2026, 3136, 6773, 7877, 8933, 9984, 11010]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite movie = soylent ${common:favourite color}')","[4536, 5336, 6136]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ca.szc.configparser.StringUtilTest')","[36, 627]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[ambv]')","[4111, 4911, 5711]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'spaces around the delimiter = obviously')","[852, 1945, 3061, 6695, 7796, 9903, 10929]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'you can also use : to delimit keys from values')","[877, 1972, 3086, 6721, 7823, 8883, 9930, 10956]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'spaces around the delimiter = obviously')",[8858]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'spaces around the delimiter = obviously')","[827, 1918, 3036, 6669, 7769, 8833, 9876, 10902]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'multiline_values = are')","[1677, 2809, 3761, 7527, 8606, 9608, 10659, 11685]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'son of edward vii = ${favourite Beatle} V')",[5786]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite Beatle = George')","[4136, 4936]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', ""chorus: I'm a lumberjack, and I'm okay"")","[1277, 2404, 3436, 7189, 8201, 9233, 10308, 11334]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'sequel = ${favourite pope}I')","[4061, 4861, 5661]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite movie = soylent ${common:favourite color}')","[4511, 5311, 6111]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'son of Edward VII = ${favourite Beatle} V')","[4211, 5011]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'writeInterpolation(ca.szc.configparser.IniTest)')","[202, 475]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'empty string value here =')","[1352, 1427, 2485, 2566, 3511, 7267, 8336, 9358, 10389, 11415]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'son of george v = ${son of Edward VII}I')",[5861]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'or this: 3.14159265359')","[1002, 2107, 3211, 6851, 7958, 9008, 10065, 11091]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'son of Edward VII = ${favourite Beatle} V')","[4186, 4986]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'missingSectionHeader(ca.szc.configparser.IniTest)')","[307, 580]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'does_that_mean_anything_special = False')",[9533]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite color = black')","[4436, 5236, 6036]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'multiline_values = are')",[9633]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite Beatle = George')","[4161, 4961]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'multiline1')",[7033]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[stanley]')","[4286, 5086, 5886]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'sequel = ${favourite pope}I')","[4086, 4886, 5686]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite beatle = ${ambv:favourite Beatle}')",[5936]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite band = ${common:favourite color} day')","[3986, 4786, 5586]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'emptyLinesInValues(ca.szc.configparser.IniTest)')","[160, 433]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite Beatle = Paul')","[3861, 4661]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'favourite Beatle = ${ambv:favourite Beatle}')","[4336, 5136]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'purpose = formatting for readability')","[1627, 2755, 3711, 7475, 8552, 9558, 10605, 11631]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'noEmptyLinesInValues(ca.szc.configparser.IniTest)')","[244, 517]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'case2 = ${does_not_exist}')",[6311]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite state of mind = paranoid')","[4461, 5261, 6061]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'allowInterpolation(ca.szc.configparser.IniTest)')","[181, 454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'disallowNoValue(ca.szc.configparser.IniTest)')","[265, 538]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[Sections Can Be Indented]')","[1502, 2620, 3586, 7345, 8417, 9433, 10470, 11496]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[Simple Values]')","[652, 1729, 2861, 6487, 7580, 8658, 9687, 10713]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'integers, floats and booleans are held as: strings')","[1177, 2296, 3336, 6981, 8093, 10200, 11226]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'spaces in values=allowed as well')",[8808]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'can use the API to get converted values directly: true')","[1227, 2350, 3386, 7137, 8147, 10254, 11280]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'integers, floats and booleans are held as: strings')",[9133]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?:(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*))?$', 'spaces in keys=allowed')",[8758]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'does_that_mean_anything_special = False')","[1602, 2728, 3686, 7449, 8525, 10578, 11604]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'case4 = ${i:like:colon:characters}')",[6386]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[interpolation fail]')",[6211]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'case3 = ${wrong_section:wrong_value}')",[6361]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite band = ${common:favourite color} day')","[3961, 4761, 5561]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '(?<option>.*?)\\s*(?<vi>\\Q=\\E|\\Q:\\E)\\s*(?<value>.*)$', 'values like this: 1000000')","[977, 2080, 3186, 6825, 7931, 10038, 11064]"
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'multiline2')",[7059]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', 'favourite beatle = Paul')",[5436]
+"('Ini.java', 'ca.szc.configparser.Ini', 'read', '\\[(?<header>[^]]+)\\]', '[No Values]')","[1327, 1402, 2458, 2539, 3486, 7241, 8255, 9283, 10362, 11388]"

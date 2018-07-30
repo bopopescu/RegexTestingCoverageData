@@ -1,0 +1,13 @@
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'subscriptionId')","[542, 614, 724, 796, 906, 978, 1088, 1160, 1270, 1342, 1452, 1524]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canDeleteRecordSetWithExplicitETag(com.microsoft.azure.management.dns.DnsZoneRecordSetETagTests)')","[162, 294, 1362]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[360]
+"('ServiceMethod.java', 'retrofit2.ServiceMethod$Builder', 'validatePathName', '[a-zA-Z][a-zA-Z0-9_-]*', 'resourceGroupName')","[497, 578, 679, 760, 861, 942, 1043, 1124, 1225, 1306, 1407, 1488]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.microsoft.azure.management.dns.DnsZoneRecordSetETagTests')","[36, 1547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canCreateZoneWithDefaultETag(com.microsoft.azure.management.dns.DnsZoneRecordSetETagTests)')","[99, 228, 816]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canCreateRecordSetsWithDefaultETag(com.microsoft.azure.management.dns.DnsZoneRecordSetETagTests)')","[78, 206, 634]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canUpdateRecordSetWithExplicitETag(com.microsoft.azure.management.dns.DnsZoneRecordSetETagTests)')","[120, 250, 998]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canUpdateZoneWithExplicitETag(com.microsoft.azure.management.dns.DnsZoneRecordSetETagTests)')","[57, 184, 314]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[452]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'canDeleteZoneWithExplicitETag(com.microsoft.azure.management.dns.DnsZoneRecordSetETagTests)')","[141, 272, 1180]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[406]

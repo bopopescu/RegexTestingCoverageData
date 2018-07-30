@@ -1,0 +1,28 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'alex/jenkins/plugins/FileSystemListParameterDefinition/config.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[447]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegexIncludeFilter(alex.jenkins.plugins.RegexFilterTest)')","[139, 362]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'alex.jenkins.plugins.RegexFilterTest')","[118, 1238]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key.not-so-secret')","[1136, 1216]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'alex.jenkins.plugins.ChangeSequenceTest')","[36, 561]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'TestSuite with 6 tests [example: org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyTestSuite@65d8128d]')",[238]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSorting(alex.jenkins.plugins.ChangeSequenceTest)')","[99, 341]"
+"('FileSystemListParameterDefinition.java', 'alex.jenkins.plugins.FileSystemListParameterDefinition', 'isPatternMatching', '[\\w]*3[.]txt', 'test3.txt')","[644, 671, 809, 836]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'jobs')","[1096, 1176]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCliSanity(org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest)')",[535]
+"('FileSystemListParameterDefinition.java', 'alex.jenkins.plugins.FileSystemListParameterDefinition', 'isPatternMatching', '[\\w]*3[.]txt', 'test1.txt')","[589, 616, 754, 781]"
+"('FileSystemListParameterDefinition.java', 'alex.jenkins.plugins.FileSystemListParameterDefinition', 'isPatternMatching', 'notFound', 'test3.txt')","[974, 1001]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'alex/jenkins/plugins/FileSystemListParameterValue/value.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[491]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[513]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegexFilterNotfound(alex.jenkins.plugins.RegexFilterTest)')","[202, 425]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAlphabeticOrder(alex.jenkins.plugins.ChangeSequenceTest)')","[57, 299]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'alex/jenkins/plugins/FileSystemListParameterDefinition/index.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)')",[469]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'TestSuite with 5 tests [example: alex/jenkins/plugins/FileSystemListParameterDefinition/config.jelly(org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck)]')","[258, 1260, 1282]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testReverseOrder(alex.jenkins.plugins.ChangeSequenceTest)')","[78, 320]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegexEmptyFilter(alex.jenkins.plugins.RegexFilterTest)')","[160, 383]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 219]"
+"('FileSystemListParameterDefinition.java', 'alex.jenkins.plugins.FileSystemListParameterDefinition', 'isPatternMatching', 'notFound', 'test2.txt')","[1029, 1056]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'secret.key')","[1076, 1156]"
+"('Computer.java', 'hudson.model.Computer$1', 'accept', 'slave-(.*)\\.log(\\.[0-9]+)?', 'plugins')","[1116, 1196]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRegexExcludeFilter(alex.jenkins.plugins.RegexFilterTest)')","[181, 404]"
+"('FileSystemListParameterDefinition.java', 'alex.jenkins.plugins.FileSystemListParameterDefinition', 'isPatternMatching', 'notFound', 'test1.txt')","[919, 946]"
+"('FileSystemListParameterDefinition.java', 'alex.jenkins.plugins.FileSystemListParameterDefinition', 'isPatternMatching', '[\\w]*3[.]txt', 'test2.txt')","[699, 726, 864, 891]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest')","[278, 1304]"

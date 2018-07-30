@@ -1,0 +1,35 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qdata\\E', 'data')","[1644, 2436, 3381, 4305, 5229, 6153, 7077, 8001, 8925, 9849, 10773]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qexamples\\E', 'examples')","[1699, 2493, 3447, 4371, 5295, 6219, 7143, 8067, 8991, 9915, 10839]"
+"('RegexPatternTypeFilter.java', 'org.springframework.core.type.filter.RegexPatternTypeFilter', 'match', '.*\\.ContactRepositoryImpl', 'org.springframework.data.examples.repository.ContactRepository')",[2655]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailAddress$StringToEmailAddressConverter.class')",[5427]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[159, 639, 1149, 1923, 2787, 3711, 4635, 5559, 6483, 7407, 8331, 9255, 10179]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ContactRepository.class')","[1809, 2607]"
+"('Phone.java', 'org.springframework.data.examples.domain.Phone', 'isValid', '^(\\d{3}-){0,1}[2-9]\\d{2}-\\d{3}-\\d{4}$', '610-555-1212')",[10997]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailAddress$EmailAddressToStringConverter.class')",[7275]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[399, 879, 1479, 2265, 3183, 4107, 5031, 5955, 6879, 7803, 8727, 9651, 10575]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QMETA-INF\\E', 'META-INF')","[439, 919]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Contact.class')",[6351]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q3268_452\\E', '3268_452')","[239, 719, 1259, 2037, 2919, 3843, 4767, 5691, 6615, 7539, 8463, 9387, 10311]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcontacts-jpa\\E', 'contacts-jpa')","[319, 799, 1369, 2151, 3051, 3975, 4899, 5823, 6747, 7671, 8595, 9519, 10443]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcontacts-repository\\E', 'contacts-repository')","[519, 999]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Phone$PhoneToStringConverter.class')",[8199]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'EmailAddress.class')",[9123]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Phone$StringToPhoneConverter.class')",[3579]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QapplicationContext\\E.*\\Q.xml\\E', 'applicationContext-jpa.xml')",[1039]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qorg\\E', 'org')","[1534, 2322, 3249, 4173, 5097, 6021, 6945, 7869, 8793, 9717, 10641]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[359, 839, 1424, 2208, 3117, 4041, 4965, 5889, 6813, 7737, 8661, 9585, 10509]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.springframework.data.examples.ContactIntegrationTest')","[36, 11046]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Phone.class')",[10971]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qdomain\\E', 'domain')","[3513, 4437, 5361, 6285, 7209, 8133, 9057, 9981, 10905]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Address.class')",[10047]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcontacts\\E', 'contacts')","[279, 759, 1314, 2094, 2985, 3909, 4833, 5757, 6681, 7605, 8529, 9453, 10377]"
+"('EmailAddress.java', 'org.springframework.data.examples.domain.EmailAddress', 'isValid', '^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$', 'dturanski@dturanski.com')",[11023]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qspringframework\\E', 'springframework')","[1589, 2379, 3315, 4239, 5163, 6087, 7011, 7935, 8859, 9783, 10707]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateContact(org.springframework.data.examples.ContactIntegrationTest)')","[57, 79]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[199, 679, 1204, 1980, 2853, 3777, 4701, 5625, 6549, 7473, 8397, 9321, 10245]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qspring\\E', 'spring')","[479, 959]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Phone$Type.class')",[4503]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QapplicationContext\\E.*\\Q.xml\\E', 'applicationContext.xml')",[559]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[119, 599, 1094, 1866, 2721, 3645, 4569, 5493, 6417, 7341, 8265, 9189, 10113]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qrepository\\E', 'repository')","[1754, 2550]"

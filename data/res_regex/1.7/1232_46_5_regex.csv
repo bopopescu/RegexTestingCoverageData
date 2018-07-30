@@ -1,0 +1,509 @@
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'ab')",[35972]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_content_addressing(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2601, 3747, 3790, 3833]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_set_env_var(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43533, 44653, 44673, 44693]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.viengine.PragmaMapTest')",[11297]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', '.ab')","[28496, 29179]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8156]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_parametrized_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11572]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_init_order_specific(org.gridkit.vicluster.ViManagerRuleOrderTest)')",[23938]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_inherited_environment(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43958]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_env_var_remove(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43608]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.TunnellerProtocolTest')",[43033]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_env_var_remove(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43633, 44773, 44793, 44813]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_classpath_replication(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[6286, 7908, 7951, 8010, 8034, 8058]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', 'ab.')","[28549, 29230]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', 'x/**/z/**')","[21896, 22206, 22514]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_classpath_replication(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8556]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#11 x/**/z, x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16264]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#1 **, x, true')",[15447]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#18 x/**/$/**, x/y1/y2/$/1/2, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16817]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'aa')",[35772]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.GlobHelperTest')",[15343]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_post_shutdown_hook(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')","[46996, 47555, 47598, 47641, 47665, 47689]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', 'cc')","[30158, 30674, 31296, 32501, 33786, 34832]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'node[^.]*', 'node')",[24706]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'isolate.**')",[48123]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_error_handling2(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43333, 44413, 44433, 44453]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'jvm.local.node2')",[49582]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '*a')",[28288]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_jvm_execution(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[6061]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.IsolateCloudFactoryTest')",[1135]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'A')","[41732, 41779]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.aa')",[35822]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#5 **, x\\y, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15790]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8181, 8932, 8975, 9018]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_class_exclusion(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37615, 38395, 38438, 38481]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#0 *, x, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15422, 16974, 17025, 17076, 17127, 17178, 17387]"
+"('PragmaMap.java', 'org.gridkit.nanocloud.viengine.PragmaMap', 'getFactory', 'default\\:prop\\:[^.:]', 'default:lazy:prop:x')","[13332, 13609, 14161, 14438]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached_parallel(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8256]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', '.bb.')","[28814, 29485]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2476]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_echo(org.gridkit.vicluster.telecontrol.jvm.LocalJvmProcessFactoryTest)')",[46263]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'd*')",[35722]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '(.*[.])?node1', 'isolate.node1')",[48864]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', '*a')",[28337]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_inherited_environment(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43983, 45151, 45171, 45191]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'jvm.local.node4')",[49680]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_jar_from_jar(org.gridkit.vicluster.telecontrol.BootstraperJarTest)')",[40288]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.aa.')",[35922]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', '.ab')","[31773, 32960]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', '.cc')","[34369, 35393]"
+"('ViEngine.java', 'org.gridkit.vicluster.ViEngine$Core', 'transform', '(.*)', 'C')","[42009, 42028, 42062, 42100]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_error_handling(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43283, 44353, 44373, 44393]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#10 x/*/z, x/y1/y2/z, false')",[16158]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_shutdown_hook(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')",[46921]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#4 **, x/y, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15711]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_simple_prop(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11347, 11840, 11883, 11926, 11969, 12012, 12055]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#6 x/*/z, x/y/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15869]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.util.concurrent.zerormi.RemoteBlockingLatchTest')",[14964]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_multi_bind_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8506]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', 'aa.')","[31614, 32807]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'server_socket_close(org.gridkit.nanocloud.telecontrol.SocketTest)')","[5278, 5579, 5622, 5665, 5689, 5713]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', 'jvm.local.node2')",[49238]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_exec_with_stdErr(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43808]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'jvm.local.node1')",[49533]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#2 *, x/y, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15553]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', 'bb.')","[28761, 29434]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', '**')","[17595, 18528, 18839]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.cc')",[36422]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#13 **/x/**/z, 1/x/y1/y2/z, true')",[16395]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_pattern(org.gridkit.vicluster.WildPropsTest)')",[36840]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#12 **/x/**/z, x/y1/y2/z, true')",[16316]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_classpath_replication(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[6261]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.isolate.IsolateFeatureTest')",[37465]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_isolated_static_with_void_callable(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37740]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8481, 9706, 9749, 9792]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_init_order_mixed_rules_with_pre_declared_node(org.gridkit.vicluster.ViManagerRuleOrderTest)')",[24088]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#3 *, x\\y, false')",[15605]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_usable_stack_trace(org.gridkit.vicluster.ViManagerTest)')",[27999]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#19 x/**/$$/**, x/y1/y2/$$/1/2, true')",[16869]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_init_order_mixed_rules(org.gridkit.vicluster.ViManagerRuleOrderTest)')","[24063, 24792, 24835, 25474]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'isolate([.].*)?', 'isolate.node1')",[48269]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_classpath_replication(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8581, 9964, 10007, 10050]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_isolated_static_with_runnable(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37565, 38266, 38309, 38352]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', 'ab')","[34210, 35240]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#11 x/**/z, x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16291, 20548, 20599, 20808]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#10 x/*/z, x/y1/y2/z, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16185]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_class_exclusion(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37590]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest')",[46796]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[5811]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'D')","[41768, 41812]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_tunneled_connection(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2726]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', 'n*')","[24884, 25609, 26442, 27167]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hallo_world_test(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')",[46821]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_execution_failure(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[6136, 7473, 7516, 7575]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[5911]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '[^\\\\/]*\\/x\\/[^\\\\/]*\\/z', 'x/y/z')",[19513]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_isolated_static_with_runnable(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37540]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_transparent_proxy_stack_trace(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37840]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_init_prop_override_order_with_eager_node(org.gridkit.vicluster.ViManagerRuleOrderTest)')","[24213, 27075, 27118, 27803, 27827, 27851]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_property_isolation(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37640]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_concurrent_write_handling(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43408]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#9 x/**/z, x/y/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16106]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_property_isolation(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37665, 38524, 38567, 38610]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '**')","[174, 762, 1287, 1877, 10563, 11087, 41706, 42530, 49436]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'isolate([.].*)?', 'jvm.local.node1.')",[48619]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/.*\\/\\$([\\\\/].*)?', 'x/y1/y2/$/1/2')",[22925]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/.*\\/z', 'x/y/z')",[20135]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#18 x/**/$/**, x/y1/y2/$/1/2, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16844, 22719, 22770, 22976]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', 'bb')","[34263, 35291]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#5 **, x\\y, true')",[15763]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_override_path(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[44008]
+"('ViEngine.java', 'org.gridkit.vicluster.ViEngine$Core', 'transform', '(.*)', 'D')","[41829, 41848, 41865, 41901]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer_parallel(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2426]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#13 **/x/**/z, 1/x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16449, 21170, 21221, 21430]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_concurrent_write_handling(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43433, 44533, 44553, 44573]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*d[^.]*', 'node')","[25380, 26056, 26264, 26938, 27610]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_isolate_native_proxy_stack_trace(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37815, 38911, 38954, 38997]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_classpath_extention(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37890]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#9 x/**/z, x/y/z, true')",[16079]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#9 x/**/z, x/y/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16133, 19926, 19977, 20186]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '.*', 'x/y')",[18580]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_classpath_replication(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2276]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#19 x/**/$$/**, x/y1/y2/$$/1/2, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16923, 23027, 23078, 23284, 23308, 23332]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', 'jvm.local.**')","[48171, 49090]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', '.cc.')","[30317, 30827, 31455, 32654, 33945, 34985]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_multi_bind_tunneled_connection(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2801, 4263, 4306, 4349, 4373, 4397]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_local_node_clean_shutdown(org.gridkit.vicluster.telecontrol.CleanShutdownTest)')","[41437, 41480, 41523, 41566, 41609, 41652, 42143, 42167, 42191]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_multi_bind_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[6236, 7763, 7806, 7865]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ping_local_node(org.gridkit.nanocloud.CloudFactoryTest)')",[98]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#3 *, x\\y, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15659, 18060, 18111, 18320]"
+"('ViEngine.java', 'org.gridkit.vicluster.ViEngine$Core', 'transform', '(.*)', 'B')","[41882, 41920, 42045, 42081]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'simple_socket_transfer(org.gridkit.nanocloud.telecontrol.SocketTest)')","[5228, 5321, 5364, 5407, 5450, 5493, 5536]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', 'aa')","[31508, 32705]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', '.cc')","[28920, 29587]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_default_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11672]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', 'aa')","[29840, 30368, 30978, 32195, 33468, 34526]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#19 x/**/$$/**, x/y1/y2/$$/1/2, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16896]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '(.*[\\\\/])?x\\/.*\\/z', 'x/y1/y2/z')",[21068]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', 'bb')","[31932, 33113]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_init_order_mixed_rules(org.gridkit.vicluster.ViManagerRuleOrderTest)')",[24038]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_cyclic_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11522]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_execution_failure(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2701, 4005, 4048, 4091]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#7 */x/*/z, x/y/z, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15975, 19304, 19355, 19564]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_annonimous_primitive_in_args(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37965, 39298, 39341, 39384, 39408, 39432]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_content_addressing(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[6011]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#2 *, x/y, false')",[15526]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', 'cc.')","[28973, 29638]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_group_task_exec(org.gridkit.vicluster.ViGroupTest)')",[23430]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_no_override(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43233, 44293, 44313, 44333]"
+"('GlobHelper.java', 'org.gridkit.nanocloud.viengine.GlobHelper', 'translate', '.*([.:][*][*])$', 'default:prop:?')","[13286, 13424, 13563, 13701, 13844, 14115, 14253, 14392, 14530]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_mkdirs_on_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43183, 44233, 44253, 44273]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_default_lazy_value(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11797, 14661, 14704, 14893, 14917, 14941]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '*e')","[25178, 25903, 26736, 27461]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*o[^.]*', 'node')","[25329, 26108, 26212, 26887, 27660, 27760]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_jvm_execution(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2626]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_single_VM_option(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')",[45397]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '*')",[37256]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.isolate.IsolateNodeTest')",[10775]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_transparent_proxy_stack_trace(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37865, 39040, 39083, 39126]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_exec_with_redirect(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43858]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/.*\\/z([\\\\/].*)?', 'x/y1/y2/z')",[22001]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_link_to_default(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11647, 13020, 13063, 13106]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', 'jvm.local.node3')",[49288]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#8 x/*/z/*, x/y/z, false')",[16000]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_post_shutdown_hook(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')",[46971]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'vi_engine_node_test(org.gridkit.nanocloud.telecontrol.ViEngineTest)')","[10300, 10343, 10386, 10429, 10472, 10515, 10704, 10728, 10752]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', 'a*')",[29738]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_invalid_VM_options(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')","[45522, 46081, 46124, 46167, 46191, 46215]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', 'node*')",[24606]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_error_handling2(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43308]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_jar_from_snapshot(org.gridkit.vicluster.telecontrol.BootstraperJarTest)')",[40238]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_jvm_execution(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[6086, 7328, 7371, 7430]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_isolated_static_with_callable(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37490]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_init_order_rule(org.gridkit.vicluster.ViManagerRuleOrderTest)')","[24013, 24514, 24557, 24749]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.SocketTest')",[5178]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_vanila_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43708]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'isolate([.].*)?', 'jvm.local.node1')",[48519]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_user_home_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43083, 44053, 44073, 44093, 44113, 44133, 44153]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_exec_with_stdErr(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43833, 44971, 44991, 45011]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_multiple_VM_options(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')","[45472, 45952, 45995, 46038]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '[^\\\\/]*', 'x\\y')",[18269]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', 'cc')","[28867, 29536]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/.*\\/\\$\\$([\\\\/].*)?', 'x/y1/y2/$$/1/2')",[23233]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_init_order_mixed_rules_with_pre_declared_node(org.gridkit.vicluster.ViManagerRuleOrderTest)')","[24113, 25517, 25560, 26307]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_usable_stack_trace(org.gridkit.vicluster.ViManagerTest)')","[28024, 36608, 36651, 36694, 36718, 36742]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_cyclic_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11547, 12762, 12805, 12848]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#1 **, x, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15474]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', '.aa.')","[34157, 35189]"
+"('PragmaMap.java', 'org.gridkit.nanocloud.viengine.PragmaMap', 'getFactory', 'default\\:lazy\\:prop\\:[^.:]*', 'default:lazy:prop:b')",[14850]
+"('PragmaMap.java', 'org.gridkit.nanocloud.viengine.PragmaMap', 'getFactory', 'default\\:prop\\:[^.:]*', 'default:lazy:prop:x')",[12410]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', 'x/**/z')","[20083, 20705, 21016, 21327, 21638]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.ViManagerTest')",[27874]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_isolate_native_proxy_stack_trace(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37790]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', 'x/*/z')","[19097, 20341]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_error_handling(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43258]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_execution_failure(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8406]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_ephemeral_data_caching(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8106]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#5 **, x\\y, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15817, 18682, 18733, 18942]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_no_override(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43208]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#13 **/x/**/z, 1/x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16422]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.jvm.LocalJvmProcessFactoryTest')",[46238]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_wild_card_default(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11422]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_invalid_VM_options(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')",[45497]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'C')","[41756, 41801]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'cc.')",[36472]
+"('GlobHelper.java', 'org.gridkit.nanocloud.viengine.GlobHelper', 'translate', '^([*][*][.:]).*', 'default:prop:?')","[13239, 13378, 13516, 13655, 13795, 14068, 14207, 14345, 14484]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'node*')",[24655]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', 'x/**/$/**')",[22822]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#6 x/*/z, x/y/z, true')",[15842]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', 'x/**/z/**')","[21949, 22258, 22566]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_lazy_value(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11722]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_classpath_extention(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37915, 39169, 39212, 39255]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'node2')","[42679, 42775]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', '*/x/*/z')",[19461]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'b*')",[30925]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.CleanShutdownTest')",[41387]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'vi_engine_node_test(org.gridkit.nanocloud.telecontrol.isolate.IsolateNodeTest)')",[10800]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', '.isolate.node1.')",[48469]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_parallel_local_nodes(org.gridkit.vicluster.telecontrol.jvm.ViManagerTest)')",[47787]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_annon_echo(org.gridkit.vicluster.telecontrol.jvm.LocalJvmProcessFactoryTest)')",[46313]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', 'bb')","[29946, 30470, 31084, 32297, 33574, 34628]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_parametrized_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11597, 12891, 12934, 12977]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached_parallel(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8281, 9190, 9233, 9276]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_isolate_connectivity(org.gridkit.vicluster.isolate.rmi.RmiIsolationTest)')",[39859]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#17 x/**/z/**, x/y1/y2/z/1/2, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16765, 22411, 22462, 22668]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/[^\\\\/]*\\/z\\/[^\\\\/]*', 'x/y/z')",[19824]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'capture_console_local_node(org.gridkit.nanocloud.IsolateCloudFactoryTest)')",[1160]
+"('ViEngine.java', 'org.gridkit.vicluster.ViEngine$Core', 'transform', '(.*)', 'test')","[507, 526, 543, 562, 615, 668, 966, 985, 1002, 1021, 1621, 1640, 1657, 1676, 1729, 1782, 2082, 2101, 2118, 2137]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', 'cc.')","[32091, 33266]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2501, 3489, 3532, 3575]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_classpath_replication(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2301, 2844, 2887, 2930, 2973, 3016, 3059]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', 'x/*/z')","[19150, 20394]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#10 x/*/z, x/y1/y2/z, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16212, 20237, 20288, 20497]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.BootstraperJarTest')",[40213]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest')",[2251]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', '.cc.')","[34475, 35495]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'node1')",[48815]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_output_receiver(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')",[46871]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_spring_can_find_files(org.gridkit.vicluster.telecontrol.ClasspathUtilsTest)')",[40846]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', 'aa')","[28390, 29077]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_non_pattern(org.gridkit.vicluster.WildPropsTest)')","[36815, 36908, 36951, 36994, 37037, 37080, 37123]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/.*\\/z', 'x/y1/y2/z')",[20757]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'isolate([.].*)?', '.jvm.local.node1.')",[48669]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_group_task_exec(org.gridkit.vicluster.ViGroupTest)')","[23455, 23756, 23799, 23842, 23866, 23890]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'latch_barrier_ping_pong_test(org.gridkit.util.concurrent.zerormi.RemoteBlockingLatchTest)')",[14989]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_init_prop_override_order_with_lazy_node(org.gridkit.vicluster.ViManagerRuleOrderTest)')","[24163, 26350, 26393, 27032]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.bb')",[36222]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'startSlave(org.gridkit.nanocloud.telecontrol.MockedManagedProcessLauncherTest)')","[4849, 4892, 4935, 4978, 5021, 5064, 5107, 5131, 5155]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '*b')",[33366]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', '*b')",[33415]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_bind(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43683, 44831]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'select_multiple(org.gridkit.vicluster.ViManagerTest)')","[27924, 28067, 28110, 28153, 28196, 28239, 35538]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_group_task_mass_exec(org.gridkit.vicluster.ViGroupTest)')","[23405, 23498, 23541, 23584, 23627, 23670, 23713]"
+"('GlobHelper.java', 'org.gridkit.nanocloud.viengine.GlobHelper', 'translate', '^([*][*][.:]).*', 'default:prop:*')","[12317, 12456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached_parallel(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2526]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.isolate.rmi.RmiIsolationTest')",[39834]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#8 x/*/z/*, x/y/z, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16027]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'bb')",[36172]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_simple_prop(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11322]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer_parallel(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[5861]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', 'ab')","[31720, 32909]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '.*', 'x')",[17647]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_isolate_and_local_node(org.gridkit.vicluster.telecontrol.jvm.ViManagerTest)')","[47762, 47855, 47898, 47941, 47984, 48027, 48956]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_multi_bind_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[6211]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_vanila_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43733, 44851, 44871, 44891]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', '*/x/*/z')",[19408]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.isolate.IsolatePermSpaceLeakTest')",[39455]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_tunneled_connection(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2751, 4134, 4177, 4220]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_init_prop_override_order_with_eager_node(org.gridkit.vicluster.ViManagerRuleOrderTest)')",[24188]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', 'x/**/$/**')",[22874]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[6161]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#15 x/**/z/**, x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16580]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_local_node_clean_shutdown(org.gridkit.vicluster.telecontrol.CleanShutdownTest)')","[41412, 41692]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_inherited_environment_empty_map(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43483, 44593, 44613, 44633]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_annonimous_primitive_in_args(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37940]
+"('WildProps.java', 'org.gridkit.vicluster.WildProps$Entry', 'match', '[^.]*', 'C')",[37351]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_mkdirs_on_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43158]
+"('GlobHelper.java', 'org.gridkit.nanocloud.viengine.GlobHelper', 'translate', '^([*][*][.:]).*', 'default:lazy:prop:*')",[14753]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer_parallel(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8606]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_init_order_rule(org.gridkit.vicluster.ViManagerRuleOrderTest)')",[23988]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_user_home_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43058]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', '*e')","[25227, 25952, 26785, 27510]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', 'isolate.node1.')",[48419]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ping_local_node(org.gridkit.nanocloud.IsolateCloudFactoryTest)')","[1235, 1972, 2015, 2180, 2204, 2228]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#17 x/**/z/**, x/y1/y2/z/1/2, true')",[16711]
+"('ViEngine.java', 'org.gridkit.vicluster.ViEngine$Core', 'transform', '(.*)', 'A')","[41937, 41956, 41973, 41992]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_echo(org.gridkit.vicluster.telecontrol.jvm.LocalJvmProcessFactoryTest)')","[46288, 46381, 46424, 46467, 46510, 46553, 46596]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', 'cc.')","[34422, 35444]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_exec_resource_leak(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43908]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_non_pattern(org.gridkit.vicluster.WildPropsTest)')",[36790]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_init_prop_override_order_with_lazy_node(org.gridkit.vicluster.ViManagerRuleOrderTest)')",[24138]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#16 x/**/z/**, x/y1/y2/z/1, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16659]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_parallel_local_nodes(org.gridkit.vicluster.telecontrol.jvm.ViManagerTest)')","[47812, 48999, 49042, 49772, 49796, 49820]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached_parallel(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2551, 3618, 3661, 3704]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_simple_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11472]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'simple_socket_transfer(org.gridkit.nanocloud.telecontrol.SocketTest)')",[5203]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', 'aa')","[33998, 35036]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ping_local_node(org.gridkit.nanocloud.IsolateCloudFactoryTest)')",[1210]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.ManagedProcessLauncherTest')",[4420]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', '.cc')","[32038, 33215]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '[^\\\\/]*', 'x')",[17336]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#17 x/**/z/**, x/y1/y2/z/1/2, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16738]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', '.isolate.node1')",[48369]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', 'cc')","[31985, 33164]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#14 **/x/**/z, 1/2/x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16501]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', '.cc.')","[29026, 29689]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_exec_stack_trace_locality(org.gridkit.vicluster.isolate.IsolateFeatureTest)')",[37690]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', '*')","[17231, 17853, 18164]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '.*', 'x\\y')",[18891]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', 'jvm.local.node1')","[48719, 49188]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.WildPropsTest')",[36765]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#6 x/*/z, x/y/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15896, 18993, 19044, 19253]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', 'isolate.**')",[48075]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_temp_dir_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43133, 44173, 44193, 44213]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', '.bb')","[28708, 29383]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'vi_engine_node_test(org.gridkit.nanocloud.telecontrol.isolate.IsolateNodeTest)')","[10825, 10868, 10911, 10954, 10997, 11040, 11226, 11250, 11274]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.ViGroupTest')",[23355]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', 'bb.')","[30052, 30572, 31190, 32399, 33680, 34730]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_env_var_override(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43583, 44713, 44733, 44753]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_single_VM_option(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')","[45422, 45823, 45866, 45909]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#12 **/x/**/z, x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[16343]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_execution_failure(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[6111]
+"('SimpleTunnelInitiator.java', 'org.gridkit.nanocloud.telecontrol.SimpleTunnelInitiator', 'getJavaVersion', '(openjdk|java) version ""([^""]*)""', 'java version ""1.7.0_80""')","[6517, 6662, 6807, 6952, 7097, 7242, 7387, 7532, 7677, 7822, 7967]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached_parallel(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[5986, 7038, 7081, 7140]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', 'ab')","[28443, 29128]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8206]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', '**/x/**/z')","[20963, 21274, 21585]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_exec_stack_trace_locality(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37715, 38653, 38696, 38739]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fail_on_empty_pattern(org.gridkit.vicluster.ViManagerTest)')","[27974, 35581, 35624, 36565]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/.*\\/z([\\\\/].*)?', 'x/y1/y2/z/1')",[22309]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'n*')","[24933, 25658, 26491, 27216]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/[^\\\\/]*\\/z', 'x/y/z')",[19202]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'startSlave(org.gridkit.nanocloud.telecontrol.ManagedProcessLauncherTest)')","[4470, 4513, 4556, 4599, 4642, 4685, 4728, 4752, 4776]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', '*')","[17284, 17906, 18217]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_ephemeral_data_caching(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2326]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_link_to_default(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11622]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', '.ab.')","[28602, 29281]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_content_addressing(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2576]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*a', 'bb')","[28655, 29332]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.CloudFactoryTest')",[23]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_isolate_connectivity(org.gridkit.vicluster.isolate.rmi.RmiIsolationTest)')","[39884, 39927, 39970, 40013, 40056, 40099, 40142, 40166, 40190]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_init_order_specific(org.gridkit.vicluster.ViManagerRuleOrderTest)')","[23963, 24256, 24299, 24342, 24385, 24428, 24471]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_permanent_leak(org.gridkit.vicluster.isolate.IsolatePermSpaceLeakTest)')",[39480]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'bb.')",[36272]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', '.aa')","[31561, 32756]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#11 x/**/z, x/y1/y2/z, true')",[16237]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_multi_bind_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8531, 9835, 9878, 9921]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'server_socket_close(org.gridkit.nanocloud.telecontrol.SocketTest)')",[5253]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.ProcessKillerTest')",[42214]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/.*\\/z([\\\\/].*)?', 'x/y1/y2/z/1/2')",[22617]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_error_handling3(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43358]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_shutdown_hook(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')","[46946, 47426, 47469, 47512]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_jvm_execution(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8356]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', '*d*')","[25129, 25854, 26687, 27412]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_execution_failure(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2676]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ping_local_node(org.gridkit.nanocloud.CloudFactoryTest)')","[123, 856, 899, 1064, 1088, 1112]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#3 *, x\\y, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15632]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_annon_echo(org.gridkit.vicluster.telecontrol.jvm.LocalJvmProcessFactoryTest)')","[46338, 46639, 46682, 46725, 46749, 46773]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#7 */x/*/z, x/y/z, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15948]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest')",[5736]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_content_addressing(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8331, 9319, 9362, 9405]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_lazy_value(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11747, 13978, 14021, 14618]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#0 *, x, true')",[15368]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'vi_engine_node_test(org.gridkit.nanocloud.telecontrol.ViEngineTest)')",[10275]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', 'x/*/z/*')",[19772]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', 'b*')",[30876]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_simple_default(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11397, 12098, 12141, 12184]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', 'isolate.node1')",[48319]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.MockedManagedProcessLauncherTest')",[4799]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hallo_world_test(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')",[45347]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_content_addressing(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[6036, 7183, 7226, 7285]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_isolated_static_with_callable(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37515, 38008, 38051, 38094, 38137, 38180, 38223]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'cc')",[36372]
+"('PragmaMap.java', 'org.gridkit.nanocloud.viengine.PragmaMap', 'get', 'default\\:prop\\:[^.:]*', 'default:prop:x')",[12547]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.ClasspathUtilsTest')",[40771]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', 'x/**/z')","[20030, 20652]"
+"('GlobHelper.java', 'org.gridkit.nanocloud.viengine.GlobHelper', 'translate', '.*([.:][*][*])$', 'default:lazy:prop:*')",[14802]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#8 x/*/z/*, x/y/z, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16054, 19615, 19666, 19875]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#7 */x/*/z, x/y/z, false')",[15921]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer_parallel(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8631, 10093, 10136, 10179, 10203, 10227]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', 'aa.')","[34104, 35138]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_pattern(org.gridkit.vicluster.WildPropsTest)')","[36865, 37166, 37209, 37394, 37418, 37442]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8456]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', 'd*')",[35673]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'node1')","[42630, 42727]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'capture_console_local_node(org.gridkit.nanocloud.CloudFactoryTest)')","[73, 268, 311, 354, 397, 440, 711]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#18 x/**/$/**, x/y1/y2/$/1/2, true')",[16790]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8231, 9061, 9104, 9147]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_jvm_execution(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8381, 9448, 9491, 9534]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#14 **/x/**/z, 1/2/x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16528, 21481, 21532, 21741]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_ephemeral_data_caching(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8131, 8674, 8717, 8760, 8803, 8846, 8889]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.ab')",[36022]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', 'ab.')","[31826, 33011]"
+"('ViEngine.java', 'org.gridkit.vicluster.ViEngine$Core', 'transform', '(.*)', 'node2')","[42792, 42811, 42828, 42847]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.ViManagerRuleOrderTest')",[23913]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#14 **/x/**/z, 1/2/x/y1/y2/z, true')",[16474]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '[^\\\\/]*', 'x/y')",[17958]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'capture_console_local_node(org.gridkit.nanocloud.CloudFactoryTest)')",[48]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.bb.')",[36322]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_inherited_environment_empty_map(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43458]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_default_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11697, 13149, 13192, 13935]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest')",[8081]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '*d*')","[25080, 25805, 26638, 27363]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hallo_world_test(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')","[46846, 47039, 47082, 47125, 47168, 47211, 47254]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#2 *, x/y, false]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15580, 17749, 17800, 18009]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_isolate_and_local_node(org.gridkit.vicluster.telecontrol.jvm.ViManagerTest)')",[47737]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_default_lazy_value(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11772]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'jvm.local.node3')",[49631]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#12 **/x/**/z, x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16370, 20859, 20910, 21119]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'ab.')",[36072]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', 'cc.')","[30264, 30776, 31402, 32603, 33892, 34934]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_shutdown_after_kill(org.gridkit.vicluster.telecontrol.ProcessKillerTest)')","[42264, 42307, 42350, 42393, 42436, 42479, 42962, 42986, 43010]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'n[^.]*', 'node')","[25278, 26160, 26836, 27710]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer_parallel(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[5886, 6748, 6791, 6850]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.jvm.ViManagerTest')",[47712]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_execution_failure(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')","[8431, 9577, 9620, 9663]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_jvm_execution(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2651, 3876, 3919, 3962]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '(.*[\\\\/])?x\\/.*\\/z', '1/2/x/y1/y2/z')",[21690]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_jar_has_dir_entry(org.gridkit.vicluster.telecontrol.ClasspathUtilsTest)')","[40821, 40914, 40957, 41000, 41043, 41086, 41129]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_isolated_static_with_void_callable(org.gridkit.vicluster.isolate.IsolateFeatureTest)')","[37765, 38782, 38825, 38868]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_group_task_mass_exec(org.gridkit.vicluster.ViGroupTest)')",[23380]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', 'cc')","[34316, 35342]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', '.cc.')","[32144, 33317]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', '.aa.')","[31667, 32858]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_set_env_var(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43508]
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', '(.*[\\\\/])?x\\/.*\\/z', '1/x/y1/y2/z')",[21379]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '[#0 *, x, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')",[15395]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#15 x/**/z/**, x/y1/y2/z, true')",[16553]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_content_addressing(org.gridkit.nanocloud.telecontrol.TunnelerControlConsoleTest)')",[8306]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', '.bb')","[29999, 30521, 31137, 32348, 33627, 34679]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', '**')","[17542, 18475, 18786]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_permanent_leak(org.gridkit.vicluster.isolate.IsolatePermSpaceLeakTest)')","[39505, 39548, 39591, 39634, 39677, 39720, 39763, 39787, 39811]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#16 x/**/z/**, x/y1/y2/z/1, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16686, 22103, 22154, 22360]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'startSlave(org.gridkit.nanocloud.telecontrol.ManagedProcessLauncherTest)')",[4445]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[5836, 6603, 6646, 6705]"
+"('ViEngine.java', 'org.gridkit.vicluster.ViEngine$Core', 'transform', '(.*)', 'node1')","[42864, 42883, 42900, 42919]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[5936, 6893, 6936, 6995]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'test')","[490, 949, 1604, 2065, 10661, 11183]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_override_path(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[44033, 45211, 45231, 45251, 45275, 45299]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer_parallel(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2451, 3360, 3403, 3446]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_vanila_exec(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43783, 44911, 44931, 44951]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_error_handling3(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43383, 44473, 44493, 44513]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', '.cc')","[30211, 30725, 31349, 32552, 33839, 34883]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_multi_bind_tunneled_connection(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2776]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '(.*[.])?node1', 'jvm.local.node1')",[48913]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fail_on_empty_pattern(org.gridkit.vicluster.ViManagerTest)')",[27949]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_output_receiver(org.gridkit.vicluster.telecontrol.jvm.NewJvmWrapperTest)')","[46896, 47297, 47340, 47383]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#15 x/**/z/**, x/y1/y2/z, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[16607, 21792, 21843, 22052]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'jvm.local.**')","[48219, 49138]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*b', '.aa')","[34051, 35087]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'jvm.local.node5')",[49729]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.nanocloud.telecontrol.ViEngineTest')",[10250]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_multiple_VM_options(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')",[45447]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', 'jvm.local.node5')",[49388]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_wild_card_default(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11447, 12227, 12270, 12590]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', 'x/**/$$/**')",[23130]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_exec_with_redirect(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43883, 45031, 45051, 45071]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '[^.]*e', 'node')","[25431, 26004, 26989, 27560]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#4 **, x/y, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15738, 18371, 18422, 18631]"
+"('GlobHelper.java', 'org.gridkit.nanocloud.viengine.GlobHelper', 'translate', '.*([.:][*][*])$', 'default:prop:*')","[12364, 12502]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', 'aa.')",[35872]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest')",[45322]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'latch_barrier_ping_pong_test(org.gridkit.util.concurrent.zerormi.RemoteBlockingLatchTest)')","[15014, 15057, 15100, 15143, 15186, 15229, 15272, 15296, 15320]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hallo_world_test(org.gridkit.vicluster.telecontrol.jvm.BasicJvmNodeTest)')","[45372, 45565, 45608, 45651, 45694, 45737, 45780]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.cc.')",[36522]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_tunneled_connection(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[6186, 7618, 7661, 7720]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')",[2376]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', '**')","[225, 813, 1339, 1929, 10611, 11134, 41720, 42581, 49484]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_spring_can_find_files(org.gridkit.vicluster.telecontrol.ClasspathUtilsTest)')","[40871, 41172, 41215, 41316, 41340, 41364]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#16 x/**/z/**, x/y1/y2/z/1, true')",[16632]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', '[#1 **, x, true]-verify_match(org.gridkit.vicluster.GlobHelperTest)')","[15501, 17438, 17489, 17698]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_exec_resource_leak(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')","[43933, 45091, 45111, 45131]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'test_simple_link(org.gridkit.nanocloud.viengine.PragmaMapTest)')","[11497, 12633, 12676, 12719]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_temp_dir_file_push(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43108]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_bulk_transfer_half_cached_parallel(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[5961]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'jvm\\.local([.].*)?', 'jvm.local.node4')",[49338]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', '.bb.')","[30105, 30623, 31243, 32450, 33733, 34781]"
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'd[^.]*', '.ab.')",[36122]
+"('PragmaMap.java', 'org.gridkit.nanocloud.viengine.PragmaMap', 'getFactory', 'default\\:prop\\:[^.:]', 'default:lazy:prop:b')",[13892]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'capture_console_local_node(org.gridkit.nanocloud.IsolateCloudFactoryTest)')","[1185, 1382, 1425, 1468, 1511, 1554, 1825]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'startSlave(org.gridkit.nanocloud.telecontrol.MockedManagedProcessLauncherTest)')",[4824]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', 'a*')",[29787]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([\\\\/][*][*])$', 'x/**/$$/**')",[23182]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'a[^.]*', 'ab')","[29893, 30419, 31031, 32246, 33521, 34577]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_simple_default(org.gridkit.nanocloud.viengine.PragmaMapTest)')",[11372]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '**.node1')",[48767]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'isolate([.].*)?', '.jvm.local.node1')",[48569]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Test.class')",[41273]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', '*o*')","[25031, 25756, 26589, 27314]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_ephemeral_data_caching(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')",[5761]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_env_var_override(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43558]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '.*([.][*][*])$', '*')",[37303]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_shutdown_after_kill(org.gridkit.vicluster.telecontrol.ProcessKillerTest)')",[42239]
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][.]).*', '*o*')","[24982, 25707, 26540, 27265]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'verify_jar_has_dir_entry(org.gridkit.vicluster.telecontrol.ClasspathUtilsTest)')",[40796]
+"('PragmaMap.java', 'org.gridkit.nanocloud.viengine.PragmaMap', 'get', 'default\\:prop\\:[^.:]', 'default:prop:x')","[13469, 13746, 14298, 14575]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_bind(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43658]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'test_vanila_exec(org.gridkit.vicluster.telecontrol.TunnellerProtocolTest)')",[43758]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', '.*', 'B')","[41744, 41790]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_ephemeral_data_caching(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2351, 3102, 3145, 3188]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_bulk_file_transfer(org.gridkit.nanocloud.telecontrol.LocalControlConsoleTest)')","[2401, 3231, 3274, 3317]"
+"('GlobHelper.java', 'org.gridkit.vicluster.GlobHelper', 'translate', '^([*][*][\\\\/]).*', 'x/*/z/*')",[19719]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_jar_from_jar(org.gridkit.vicluster.telecontrol.BootstraperJarTest)')","[40313, 40614, 40657, 40700, 40724, 40748]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', '#4 **, x/y, true')",[15684]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_ephemeral_data_caching(org.gridkit.nanocloud.telecontrol.TunnelInitiatorTest)')","[5786, 6329, 6372, 6415, 6458, 6501, 6560]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'select_multiple(org.gridkit.vicluster.ViManagerTest)')",[27899]
+"('ViManager.java', 'org.gridkit.vicluster.ViManager', 'match', 'b[^.]*', '.ab.')","[31879, 33062]"
+"('GlobHelperTest.java', 'org.gridkit.vicluster.GlobHelperTest', 'verify_match', 'x\\/[^\\\\/]*\\/z', 'x/y1/y2/z')",[20446]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'verify_jar_from_snapshot(org.gridkit.vicluster.telecontrol.BootstraperJarTest)')","[40263, 40356, 40399, 40442, 40485, 40528, 40571]"

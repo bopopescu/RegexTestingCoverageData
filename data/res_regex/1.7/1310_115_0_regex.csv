@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(com.piggsoft.commons.annotation.test.TestAnnotation)')","[158, 242]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.piggsoft.commons.file.test.TestFile')","[36, 314]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(com.piggsoft.commons.digest.test.TestDigest)')","[97, 200]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2(com.piggsoft.commons.digest.test.TestDigest)')","[118, 221]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test1(com.piggsoft.commons.file.test.TestFile)')","[57, 179]"
+"('FileSize.java', 'ch.qos.logback.core.util.FileSize', 'valueOf', '([0-9]+)\\s*(|kb|mb|gb)s?', '10MB')",[288]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.piggsoft.commons.digest.test.TestDigest')","[76, 340]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.piggsoft.commons.annotation.test.TestAnnotation')","[137, 362]"

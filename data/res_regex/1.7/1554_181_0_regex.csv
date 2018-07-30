@@ -1,0 +1,60 @@
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', '')","[2836, 2860, 2884]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', 'foo.bar')",[803]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetExpressionFactory(uelbox.UELTest)')","[202, 543]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '%{ foo[bar].baz }')",[3232]
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', 'foo[bar].')","[1163, 1267]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${foo[bar].baz}')","[905, 930, 3014, 3112]"
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', '#{ foo[bar].baz}')",[2690]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'uelbox.HelperELContextTest')","[36, 830]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPutNullContextObject(uelbox.ELContextWrapperTest)')","[347, 675]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '')","[3353, 3377]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmbedExpression(uelbox.UELTest)')","[223, 565]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '!{foo[bar].baz }')",[3184]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJoin(uelbox.UELTest)')","[118, 455]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '!{foo[bar].baz}')",[3160]
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', 'foo')","[1371, 1501, 1631]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${ [bar]. }')",[1943]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testEmbedExpressionWithTrigger(uelbox.UELTest)')","[97, 433]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWrappedContextObject(uelbox.ELContextWrapperTest)')","[389, 719]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHelperFunctionality(uelbox.HelperELContextTest)')","[57, 411]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', 'foo.')","[1787, 1917]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', ""foo.bar['baz']"")",[775]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetTrigger(uelbox.UELTest)')","[139, 477]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', 'foo[bar]')","[981, 1085]"
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', 'foo.')","[1761, 1891]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${\n}')",[3329]
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${foo}')","[2073, 2229]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', 'foo[bar].baz')","[855, 1034, 1138, 1242, 1346, 1476, 1606, 1736, 1866, 1996, 2152, 2308, 2464, 2565, 2910, 2936, 3256, 3280]"
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', '${foo}')","[2021, 2047, 2177, 2203]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${ foo[bar].baz}')",[3040]
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', '#{ foo[bar].baz }')",[2665]
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${ foo[bar].baz }')",[3136]
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', '${foo[bar].baz}')","[2615, 2764]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', 'baz')","[1007, 1215, 1449, 1709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIsDelimited(uelbox.UELTest)')","[181, 521]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRemoveContextObject(uelbox.ELContextWrapperTest)')","[284, 609]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '#{ baz\t}')","[2437, 2539]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${}')",[3304]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStripExpression(uelbox.UELTest)')","[244, 587]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', 'foo')","[1397, 1527, 1657]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testShadowedContextObject(uelbox.ELContextWrapperTest)')","[368, 697]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '@{ foo[bar].baz}')",[3208]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidGetTrigger(uelbox.UELTest)')","[160, 499]"
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', 'foo[bar]')","[955, 1059]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRemoveShadowedContextObject(uelbox.ELContextWrapperTest)')","[305, 631]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '[bar].')","[1683, 1813, 2099, 2255]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', 'foo[bar].')","[1189, 1293]"
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', 'foo[bar].baz')","[2716, 2812]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '#{baz}')",[2281]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'uelbox.ELContextWrapperTest')","[263, 3427]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', ""foo.bar['baz'].value"")",[747]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'uelbox.UELTest')","[76, 3404]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPutNullContextKey(uelbox.ELContextWrapperTest)')","[326, 653]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '[bar]')","[1423, 1553, 2411, 2514]"
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', '#{foo[bar].baz}')","[2590, 2640, 2740, 2788]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '#{foo[bar].baz}')","[880, 2962, 3064, 3088]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '#{ foo[bar].baz }')",[2988]
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '.baz')","[1111, 1319, 1579, 1839, 1969, 2125]"
+"('UEL.java', 'uelbox.UEL', 'strip', '^.\\{\\s*(.*?)\\s*\\}$', '${ foo }')","[2385, 2489]"
+"('UEL.java', 'uelbox.UEL', 'isDelimited', '^.\\{\\s*(.*?)\\s*\\}$', '${ foo }')","[2333, 2359]"

@@ -1,0 +1,25 @@
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[554]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLookupMailHosts(io.github.gongshw.chisu.biz.mail.MXLookupUtilsTest)')","[217, 442]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDoDispatch(io.github.gongshw.chisu.biz.mail.MailDispatcherTest)')","[257, 463]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.biz.handler.HandlerUtilsTest')","[276, 871]"
+"('HandlerUtils.java', 'io.github.gongshw.chisu.biz.handler.HandlerUtils', 'isCmd', '^\\s*-\\s*[a-zA-Z]+\\s*$', '-cmd')",[753]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.app.ChisuServerTest')","[116, 915]"
+"('HandlerUtils.java', 'io.github.gongshw.chisu.biz.handler.HandlerUtils', 'isCmd', '^\\s*-\\s*[a-zA-Z]+\\s*$', ' 2 -cmd  ')",[822]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[652]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.backup.DataBackuperTest')","[36, 937]"
+"('HandlerUtils.java', 'io.github.gongshw.chisu.biz.handler.HandlerUtils', 'isCmd', '^\\s*-\\s*[a-zA-Z]+\\s*$', '  -cmd  ')",[776]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGeneratePage(io.github.gongshw.chisu.page.MailTemplateUtilsTest)')","[337, 505]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testResolve(io.github.gongshw.chisu.biz.mail.MailParserTest)')","[177, 421]"
+"('HandlerUtils.java', 'io.github.gongshw.chisu.biz.handler.HandlerUtils', 'isCmd', '^\\s*-\\s*[a-zA-Z]+\\s*$', ' 123  ')",[845]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.biz.mail.MailParserTest')","[156, 678]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDump(io.github.gongshw.chisu.backup.DataBackuperTest)')","[57, 358]"
+"('HandlerUtils.java', 'io.github.gongshw.chisu.biz.handler.HandlerUtils', 'isCmd', '^\\s*-\\s*[a-zA-Z]+\\s*$', '  -  cmd  ')",[799]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStart(io.github.gongshw.chisu.app.ChisuServerTest)')","[137, 400]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.dal.UserConfigDaoTest')","[76, 959]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.biz.mail.MailDispatcherTest')","[236, 730]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[603]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(io.github.gongshw.chisu.dal.UserConfigDaoTest)')","[97, 379]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.biz.mail.MXLookupUtilsTest')","[196, 704]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsCmd(io.github.gongshw.chisu.biz.handler.HandlerUtilsTest)')","[297, 484]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.github.gongshw.chisu.page.MailTemplateUtilsTest')","[316, 893]"

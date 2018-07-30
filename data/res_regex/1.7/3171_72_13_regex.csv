@@ -1,0 +1,71 @@
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleReal/{key}')",[1030]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleLong/\\E(.*)', 'exempleString/foo/*')",[1498]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'channel')",[2343]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qexemple/\\E(.*)', 'exempleString/foo/*')",[1186]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qchannel/\\E(.*)', 'channel/foo')","[2728, 2806]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParse(rok.impl.uriparser.spring.UriParserSpringImplTest)')","[181, 416]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Quser/\\E(.*)\\Q/booking/\\E(.*)', 'user/toto/booking/')",[1636]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleShort/\\E(.*)', 'exempleString/foo/*')",[1394]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '{exemple}/nestedSingleEntity')",[760]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'channel/*')","[2123, 2204, 2288, 2369, 2479, 2534, 2560]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'exempleString/foo/*')",[1082]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'channel/{name}')",[625]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParseRef(rok.impl.uriparser.spring.ExempleStringTest)')","[120, 372]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'ticket/')",[2065]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleInt/\\E(.*)', 'exempleString/foo')",[1420]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRefGetUri(rok.impl.uriparser.spring.ExempleStringTest)')","[57, 306]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qchannel/\\E(.*)', 'exempleString/foo')",[1108]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParseListRef(rok.impl.uriparser.spring.RokTest)')","[263, 482]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRefParserFromString(rok.impl.uriparser.spring.ExempleStringTest)')","[141, 394]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleInt/\\E(.*)', 'exempleString/foo/*')",[1446]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'user/{login}/booking/{dateY}-{dateM}-{dateD}')","[1691, 1983]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/bar/\\E(.*)', '*/bar/azerty/lkjhg/oikd')",[1849]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/bar/\\E(.*)', 'odfglj/azerty/lkjhg/bar/oikd')",[1823]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleInt/{key}')",[895]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'channel/foo')","[2699, 2754]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetNull(rok.impl.uriparser.spring.UriParserSpringImplTest)')","[223, 460]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qexemple/\\E(.*)', 'exempleString/foo')",[1160]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qchannel/\\E(.*)', 'channel/*')","[2152, 2259, 2317, 2421, 2450, 2508, 2586, 2615]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '{a}/foo/{b}/bar/{c}')",[1929]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetFactory(rok.impl.uriparser.spring.UriParserSpringImplTest)')","[202, 438]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qchannel/\\E(.*)', 'channel/')",[2230]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '{nested}/bar/{nested2}')",[1745]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'exempleString/foo')","[1056, 1553]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParseEntityRef(rok.impl.uriparser.spring.RokTest)')","[284, 504]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'rok.impl.uriparser.spring.RokTest')","[242, 2829]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleByte/\\E(.*)', 'exempleString/foo/*')",[1342]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleString/\\E(.*)', 'exempleString/foo')",[1524]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'ticket/*')","[2039, 2094]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetUri(rok.impl.uriparser.spring.ExempleStringTest)')","[99, 350]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleLong/\\E(.*)', 'exempleString/foo')",[1472]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '{exemple}/nestedSeveralEntities/{id}')",[715]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/bar/\\E(.*)', '%2A/bar/azerty/lkjhg/oikd')",[1875]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'rok.impl.uriparser.spring.UriParserSpringImplTest')","[160, 2010]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleShort/\\E(.*)', 'exempleString/foo')",[1368]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetMClass(rok.impl.uriparser.spring.ExempleStringTest)')","[78, 328]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleString/{stringkey}')",[535]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSeveralEntities/\\E(.*)', 'exempleString/foo')",[1212]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/bar/\\E(.*)', 'odfglj/bar/azerty/lkjhg/oikd')",[1771]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'user/{login}/booking/{id}')",[1609]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/foo/\\E(.*)\\Q/bar/\\E(.*)', '/foo//bar/')",[1955]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qchannel/\\E(.*)', 'channel')",[2395]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'ticket/2c20604e-4e1f-4869-b2cc-bef09ebe219d')","[2644, 2670]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleLong/{key}')",[940]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exemple/{idProp}')",[670]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleShort/{key}')",[850]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'ticket/{id}')",[580]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'sample/{id}')",[985]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Quser/\\E(.*)\\Q/booking/\\E(.*)', 'user/toto/booking/*')",[1663]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/bar/\\E(.*)', '*/bar/')",[1901]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleByte/{key}')",[805]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSingleEntity\\E', 'exempleString/foo')",[1264]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSingleEntity\\E', 'exempleString/foo/*')",[1290]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'channel/')",[2178]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSeveralEntities/\\E(.*)', 'exempleString/foo/*')",[1238]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Quser/\\E(.*)\\Q/booking/\\E(.*)\\Q-\\E(.*)\\Q-\\E(.*)', 'user/toto/booking/2012-10-30')",[1717]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/bar/\\E(.*)', 'odfglj/azerty/bar/lkjhg/oikd')",[1797]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'rok.impl.uriparser.spring.ExempleStringTest')","[36, 1580]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\QexempleByte/\\E(.*)', 'exempleString/foo')",[1316]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qchannel/\\E(.*)', 'exempleString/foo/*')",[1134]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qticket/\\E(.*)', 'channel/foo/*')",[2780]

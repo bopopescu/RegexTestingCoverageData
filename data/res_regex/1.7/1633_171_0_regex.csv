@@ -1,0 +1,15 @@
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012-08-01')","[196, 252]"
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012-02-29T00:00:00-05:00')",[140]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012-08')",[308]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012')",[392]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}', '2012-08')",[336]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}', '2012-08-01')","[224, 280]"
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012-02-28T00:00:00.10-05:00')",[28]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012-08-01T00:00:00')",[168]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}', '2012-02-29')",[112]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}', '2012')",[420]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}', '2012')",[476]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}', '2012-08')",[364]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012-02-28T00:00:00-05:00')",[56]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}', '2012')",[448]
+"('Date.java', 'com.arc90.saxonb.extension.exslt.Date', 'add', '\\d{2,4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{0,3})?((-|\\+)\\d{2}:\\d{2})?', '2012-02-29')",[84]

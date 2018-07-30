@@ -1,0 +1,15 @@
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', 'net\\.vvakame\\.blaz\\.annotation\\..+', 'net.vvakame.blaz.annotation.BlazModel')",[551]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'net.vvakame.blaz.annotation.Attribute')",[276]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'net.vvakame.blaz.annotation.Model')","[331, 776, 1056]"
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', 'net\\.vvakame\\.blaz\\.annotation\\..+', 'java.lang.Override')","[721, 1001, 1221]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testForOtherTypes(net.vvakame.blazdb.factory.BlazDbAnnotationProcessorTest)')","[56, 118]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testForPrimitiveWrapper(net.vvakame.blazdb.factory.BlazDbAnnotationProcessorTest)')","[96, 162]"
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', 'net\\.vvakame\\.blaz\\.annotation\\..+', 'net.vvakame.blaz.annotation.Attribute')",[441]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.vvakame.blazdb.factory.BlazDbAnnotationProcessorTest')","[36, 1244]"
+"('AptUtil.java', 'net.vvakame.apt.AptUtil', 'getElementSetter', '^is[^a-z].*$', 'bool')","[611, 891]"
+"('FloatingDecimal.java', 'sun.misc.FloatingDecimal', 'parseHexString', '([-+])?0[xX](((\\p{XDigit}+)\\.?)|((\\p{XDigit}*)\\.(\\p{XDigit}+)))[pP]([-+])?(\\p{Digit}+)[fFdD]?', '0x1.0p1')",[221]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'net.vvakame.blaz.annotation.BlazModel')",[386]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'java.lang.Override')","[666, 946, 1166]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testForPrimitive(net.vvakame.blazdb.factory.BlazDbAnnotationProcessorTest)')","[76, 140]"
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', 'net\\.vvakame\\.blaz\\.annotation\\..+', 'net.vvakame.blaz.annotation.Model')","[496, 831, 1111]"

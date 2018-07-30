@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'isAnyReturnsFalseOnlyWhenThereIsNoMatch(hu.sch.util.test.net.MediaTypeTest)')","[97, 244]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'isAnyReturnsTrueWhenThereIsAtLeastOneMathing(hu.sch.util.test.net.MediaTypeTest)')","[160, 307]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'equalsReturnTrueOnlyIfTypeAndSubtypeAreEqual(hu.sch.util.test.net.MediaTypeTest)')","[118, 265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parsingInvalidMediaType(hu.sch.util.test.net.MediaTypeTest)')","[202, 349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hu.sch.util.HungarianStringComparatorTest')","[36, 375]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCompare(hu.sch.util.HungarianStringComparatorTest)')","[57, 223]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hu.sch.util.test.net.MediaTypeTest')","[76, 397]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parsingWellformattedMediaType(hu.sch.util.test.net.MediaTypeTest)')","[181, 328]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parsingNullString(hu.sch.util.test.net.MediaTypeTest)')","[139, 286]"

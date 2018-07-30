@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseWithSlash(eu.danieldk.nlp.jitar.corpus.TestBrownCorpusReader)')","[141, 328]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'eu.danieldk.nlp.jitar.wordhandler.TestKnownWordHandler')","[160, 537]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnknownWithFallback(eu.danieldk.nlp.jitar.wordhandler.TestKnownWordHandler)')","[223, 391]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseEmptyTag(eu.danieldk.nlp.jitar.corpus.TestBrownCorpusReader)')","[57, 244]"
+"('SuffixWordHandler.java', 'eu.danieldk.nlp.jitar.wordhandler.SuffixWordHandler', 'selectSuffixTreeWithCutoffs', '^([0-9]+)|([0-9]+\\.)|([0-9.,:-]+[0-9]+)|([0-9]+[a-zA-Z]{1,3})$', 'test')","[441, 465, 489]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseMissingTag(eu.danieldk.nlp.jitar.corpus.TestBrownCorpusReader)')","[78, 265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProbability(eu.danieldk.nlp.jitar.wordhandler.TestKnownWordHandler)')","[181, 349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'eu.danieldk.nlp.jitar.corpus.TestBrownCorpusReader')","[36, 417]"
+"('SuffixWordHandler.java', 'eu.danieldk.nlp.jitar.wordhandler.SuffixWordHandler', 'selectSuffixTree', '^([0-9]+)|([0-9]+\\.)|([0-9.,:-]+[0-9]+)|([0-9]+[a-zA-Z]{1,3})$', 'unknown')",[515]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnknown(eu.danieldk.nlp.jitar.wordhandler.TestKnownWordHandler)')","[202, 370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse(eu.danieldk.nlp.jitar.corpus.TestBrownCorpusReader)')","[99, 286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseEmptyWord(eu.danieldk.nlp.jitar.corpus.TestBrownCorpusReader)')","[120, 307]"

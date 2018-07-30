@@ -1,0 +1,129 @@
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_')",[7385]
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '-o')","[6147, 7031]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'targetdirectory')",[2907]
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', 'test2.txt')","[6455, 6701]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseSimpleOption(org.jclif.CommandLineParseTest)')","[725, 2125]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', '-i input.txt -o output.txt directory1 ')",[6280]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionStringString(org.jclif.CommandLineConfigurationTest)')","[1118, 2461]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseStringOptionParameterWithEqualDelimQuoted(org.jclif.CommandLineParseTest)')","[536, 1936]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiNoSpaceRegex', '[\\p{Alnum}\\p{Punct}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/\x0c')","[4830, 4853]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiNoSpaceRegex', '[\\p{Alnum}\\p{Punct}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/')","[4645, 4667]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testScanner(org.jclif.CommandLinePatternScannerTest)')","[349, 1768]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddParameterStringBooleanBooleanString2(org.jclif.CommandLineConfigurationTest)')","[971, 2314]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExecute(org.jclif.runtime.ExecutorHandlerTest)')","[1474, 2776]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddCommandStringOptionConfigurationString(org.jclif.CommandLineConfigurationTest)')","[1013, 2356]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', 'directory1')",[6195]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'x')","[5257, 6359, 7226]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'options')","[3791, 4312]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetCommandConfiguration(org.jclif.CommandLineConfigurationTest)')","[1286, 2629]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetDescription(org.jclif.CommandLineConfigurationTest)')","[1139, 2482]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLongFormatWithOptionalMultiValuedParameter(org.jclif.CommandLineFormatFormattingTest)')","[183, 1621]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '-x')",[6479]
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '/i')",[5491]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'tes+*()t20')",[7553]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddParameterStringBooleanBooleanString(org.jclif.CommandLineConfigurationTest)')","[1076, 2419]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddParameterStringBooleanBooleanString3(org.jclif.CommandLineConfigurationTest)')","[992, 2335]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'test1')","[7304, 7330, 7356, 7412, 7438, 7465, 7580, 7607, 7633]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiNoSpaceRegex', '[\\p{Alnum}\\p{Punct}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/\n')","[4736, 4759]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseStringOptionParameterWithEqualDelim(org.jclif.CommandLineParseTest)')","[662, 2062]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '--input=test2.txt')",[5689]
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '1,2,3,4')",[5919]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testQuotedTextRegex(org.jclif.CommandLinePatternScannerTest)')","[328, 1747]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionStringInvalid2(org.jclif.CommandLineConfigurationTest)')","[1181, 2524]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiNoSpaceRegex', '[\\p{Alnum}\\p{Punct}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/ ')","[4876, 4898]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jclif.runtime.ExecutorHandlerTest')","[1364, 8757]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', '-f test.txt --debug=DEBUG --file ""some file.txt"" -parameter1 parameter2')","[4946, 4972, 4998, 5024, 5050]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionString(org.jclif.CommandLineConfigurationTest)')","[1034, 2377]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetOptionConfiguration(org.jclif.CommandLineConfigurationTest)')","[1202, 2545]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '-input')",[5410]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'sourcedirectory')",[2881]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jclif.CommandLineFormatFormattingTest')","[36, 4524]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPhraseWithStringRegEx(org.jclif.CommandLinePatternScannerTest)')","[370, 1789]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '--input=""This is a test text""')","[5820, 6776]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'te st1-')",[7523]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'dir2')","[3013, 3093, 3173, 3715, 3871, 4051, 4261, 4392, 4472, 6025, 6253]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAsciiNoSpaceRegex(org.jclif.CommandLinePatternScannerTest)')","[307, 1726]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'delim')",[2829]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLongFormatWithParameter(org.jclif.CommandLineFormatFormattingTest)')","[141, 1579]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'a')","[2804, 3329]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetAppName(org.jclif.plugin.CodeGeneratorTest)')","[765, 2146]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'count')","[7168, 7198]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoadInputStream(org.jclif.runtime.ConfigurationTest)')","[931, 2293]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSetHandlerPackage(org.jclif.runtime.ConfigurationTest)')","[868, 2230]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFullFormat(org.jclif.CommandLineFormatFormattingTest)')","[57, 1495]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'test')",[7493]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'o')","[2959, 3301, 3459, 3561, 3663, 3817, 3999, 4107, 4209, 4338, 5467, 5745, 5971, 6983]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionStringInvalid1(org.jclif.CommandLineConfigurationTest)')","[1160, 2503]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', 'This is a test text')",[6875]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'list')","[3039, 3897, 6051]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '--input')","[5282, 5332, 5590, 6383, 6431, 6629, 6677, 6851]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'push')","[3199, 4498]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiNoSpaceRegex', '[\\p{Alnum}\\p{Punct}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/\r')","[4783, 4806]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddHandler(org.jclif.runtime.ConfigurationTest)')","[910, 2272]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseMultiValuedOption(org.jclif.CommandLineParseTest)')","[641, 2041]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseMultiValuedWithSingleValuedOption(org.jclif.CommandLineParseTest)')","[599, 1999]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testPhraseWithStringRegEx', '(.*)[\\s]+(.*)', ' a simple phrase')","[5126, 5149]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '-i')","[5895, 6099, 7007]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'opt1')","[7752, 7814, 7933, 7995, 8114, 8176, 8295, 8357, 8476, 8538, 8654, 8713]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseWrongLongOptionWithInvalidPrefix(org.jclif.CommandLineParseTest)')","[431, 1831]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetParameterConfiguraiton(org.jclif.CommandLineConfigurationTest)')","[1223, 2566]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCommandShortFormatCommand(org.jclif.CommandLineFormatFormattingTest)')","[162, 1600]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', 'test.txt')","[5307, 6407, 6653]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoad(org.jclif.runtime.ConfigurationTest)')","[826, 2188]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', 'output.txt')",[6171]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jclif.CommandLineParseTest')","[389, 7057]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jclif.plugin.CodeGeneratorTest')","[744, 7252]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseMultiValuedWithMissingOptionaldOption(org.jclif.CommandLineParseTest)')","[704, 2104]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'b')",[3357]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShortFormat(org.jclif.CommandLineParseTest)')","[515, 1915]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testQuotedTextRegex', '[""\']{1}([\\p{Alnum}\\p{Punct}\\p{Space}]+)[""\']{1}', '""a simple phrase""')",[4920]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseLongOption(org.jclif.CommandLineParseTest)')","[473, 1873]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jclif.runtime.ConfigurationTest')","[805, 7278]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionStringBooleanString(org.jclif.CommandLineConfigurationTest)')","[1244, 2587]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLongFormatWithException(org.jclif.CommandLineFormatFormattingTest)')","[120, 1558]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiWithSpaceRegex', '[\\p{ASCII}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/ \t\r\n\x0c')","[4598, 4622]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddParameterStringBooleanString(org.jclif.CommandLineConfigurationTest)')","[1328, 2671]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCommandShortFormat(org.jclif.CommandLineFormatFormattingTest)')","[246, 1684]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '--input=test.txt')",[5665]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'd')","[2855, 7141]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseStringOptionParameterWithEqualDelimSingleQuoted(org.jclif.CommandLineParseTest)')","[620, 2020]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionStringBooleanBooleanString2(org.jclif.CommandLineConfigurationTest)')","[1055, 2398]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', 'input.txt')",[6123]
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'pull')","[3119, 4418]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseOptionWithCustomParameter(org.jclif.CommandLineParseTest)')","[557, 1957]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')","[17, 1345]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseSimpleCommand(org.jclif.CommandLineParseTest)')","[578, 1978]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAsciiWithSpaceRegex(org.jclif.CommandLinePatternScannerTest)')","[286, 1705]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWindowsParseSimpleOption(org.jclif.CommandLineParseTest)')","[452, 1852]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCodeGenerator(org.jclif.plugin.CodeGeneratorTest)')","[786, 2167]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'input')","[3224, 3382, 3484, 3586, 3740, 3922, 4132, 5201, 5358, 5540, 5615, 5770, 5845, 6305, 6504, 6579, 6726, 6801, 6900]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLongFormat(org.jclif.CommandLineFormatFormattingTest)')","[78, 1516]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseMultiValuedOptionWithEqualDelim(org.jclif.CommandLineParseTest)')","[494, 1894]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'i')","[2933, 3250, 3408, 3510, 3612, 3766, 3948, 4079, 4158, 4287, 5228, 5385, 5439, 5566, 5641, 5717, 5796, 5871, 5945, 6331, 6530, 6605, 6752, 6827, 6926, 6955]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLongFormatWithMultiValuedParameter(org.jclif.CommandLineFormatFormattingTest)')","[225, 1663]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetPackageHandlerList(org.jclif.runtime.ConfigurationTest)')","[847, 2209]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jclif.CommandLineConfigurationTest')","[950, 8735]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'n')",[7113]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShortLongFormat(org.jclif.CommandLineFormatFormattingTest)')","[99, 1537]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', '/o')",[5515]
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', 'list')",[6075]
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiNoSpaceRegex', '[\\p{Alnum}\\p{Punct}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/\t')","[4690, 4712]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetHandlerMethod(org.jclif.runtime.ExecutorHandlerTest)')","[1452, 2755]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetHandlerClass(org.jclif.runtime.ExecutorHandlerTest)')","[1430, 2734]"
+"('CommandLinePatternScannerTest.java', 'org.jclif.CommandLinePatternScannerTest', 'testAsciiWithSpaceRegex', '[\\p{Alnum}\\p{Punct}\\p{Space}]+', 'ABCDEFGHIJKLMNOPQRSTUVQXYZ0123456789~!@#$%^&*()_+=-`:""\';<>,.?/ \t\r\n\x0c')","[4549, 4573]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseStringOptionParameterWithSpaceDelim(org.jclif.CommandLineParseTest)')","[683, 2083]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'fieldCount')","[7693, 7874, 8055, 8236, 8417, 8596]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', '-f test.txt -d=DEBUG parameter1 parameter2')","[5076, 5102]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'output')","[3275, 3433, 3535, 3637, 3973, 4183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionStringBooleanBooleanString(org.jclif.CommandLineConfigurationTest)')","[1307, 2650]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddOptionStringBooleanString2(org.jclif.CommandLineConfigurationTest)')","[1097, 2440]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParseMultiValuedWithMissingRequiredOption(org.jclif.CommandLineParseTest)')","[410, 1810]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConfigurationString(org.jclif.runtime.ConfigurationTest)')","[889, 2251]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSetName(org.jclif.CommandLineConfigurationTest)')","[1265, 2608]"
+"('StringUtil.java', 'org.jclif.util.StringUtil', 'containsSpace', '(.*)[\\s]+(.*)', ""--input='This is a test text'"")",[6554]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.jclif.CommandLinePatternScannerTest')","[265, 5175]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetMetadata(org.jclif.runtime.ExecutorHandlerTest)')","[1408, 2713]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testExecutorHandlerClassOfQ(org.jclif.runtime.ExecutorHandlerTest)')","[1386, 2692]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 'dir1')","[2986, 3066, 3146, 3689, 3844, 4025, 4235, 4365, 4445, 5998, 6224]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testShortFormatWithError(org.jclif.CommandLineFormatFormattingTest)')","[204, 1642]"
+"('Configuration.java', 'org.jclif.type.Configuration', 'validateIdentifier', '^([\\w]+)$', 's')",[7085]

@@ -1,0 +1,23 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[278, 1060, 1927, 2785, 3567, 4436, 5303]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'encache')","[2629, 6005]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[200, 981, 1849, 2707, 3488, 4357, 5225]"
+"('AnnotationSizeOfFilter.java', 'net.sf.ehcache.pool.sizeof.filter.AnnotationSizeOfFilter', 'validateCustomAnnotationPattern', '^.*cache\\..*IgnoreSizeOf$', 'net.sf.ehcache.pool.sizeof.annotations.IgnoreSizeOf')",[6273]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRetrieve(me.gaolei.tutorial.encache.CacheServiceTest)')","[78, 122]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q1558_262\\E', '1558_262')","[434, 1218, 2083, 2941, 3725, 4594, 5459]"
+"('RegexPatternTypeFilter.java', 'org.springframework.core.type.filter.RegexPatternTypeFilter', 'match', 'me\\.gaolei\\.tutorial\\.encache\\.EhcacheService', 'me.gaolei.tutorial.encache.CacheService')",[6215]
+"('RegexPatternTypeFilter.java', 'org.springframework.core.type.filter.RegexPatternTypeFilter', 'match', 'me\\.gaolei\\.tutorial\\.encache\\.EhcacheService', 'me.gaolei.tutorial.encache.CacheServiceTest')",[6075]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[3175, 3962, 4831, 5693]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CacheServiceTest.class')",[1771]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRetrieveNotFound(me.gaolei.tutorial.encache.CacheServiceTest)')","[57, 100]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[668, 1455, 2317]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtutorial\\E', 'tutorial')","[902, 1692, 2551, 3409, 4199, 5068, 5927]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qme\\E', 'me')","[746, 1534, 2395, 3253, 4041, 4910, 5771]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[356, 1139, 2005, 2863, 3646, 4515, 5381]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CacheService.class')",[5147]
+"('RegexPatternTypeFilter.java', 'org.springframework.core.type.filter.RegexPatternTypeFilter', 'match', 'me\\.gaolei\\.tutorial\\.encache\\.EhcacheService', 'me.gaolei.tutorial.encache.Employee')",[6145]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qgaolei\\E', 'gaolei')","[824, 1613, 2473, 3331, 4120, 4989, 5849]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QCache\\E', 'Cache')","[512, 1297, 2161, 3019, 3804, 4673, 5537]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'me.gaolei.tutorial.encache.CacheServiceTest')","[36, 6296]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Employee.class')",[4278]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[590, 1376, 2239, 3097, 3883, 4752, 5615]"

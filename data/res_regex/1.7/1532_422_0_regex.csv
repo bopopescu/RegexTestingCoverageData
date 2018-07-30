@@ -1,0 +1,111 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkInjections(com.github.rmannibucau.rules.test.ftp.TestFtpRule)')","[57, 704]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.api.file.FileRuleTest)')","[459, 946]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.api.dbunit.ProvisionTest)')","[621, 1056, 21046]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'annotations-1.3.2.jar')",[1883]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Smith')","[5209, 6765, 8432, 10060, 11760, 13316, 14956, 16584, 18284, 19840, 21493, 23007]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'arquillian-transaction-jta-1.0.1.Final.jar')",[2073]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'selenium-java-2.41.0.jar')",[1864]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'selenium-chrome-driver-2.41.0.jar')",[1921]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'spring-expression-3.1.1.RELEASE.jar')",[1959]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'superman')","[6109, 7765, 9332, 11060, 12660, 14316, 15856, 17584, 19184, 20840, 22368, 23982]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'jetty-websocket-8.1.12.v20130726.jar')",[2035]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'doovde')","[5389, 6965, 8612, 10260, 11940, 13516, 15136, 16784, 18464, 20040, 21668, 23202]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'lastname')","[5137, 5857, 6685, 7485, 8360, 9080, 9980, 10780, 11688, 12408, 13236, 14036, 14884, 15604, 16504, 17304, 18212, 18932, 19760, 20560, 21423, 22123, 22929, 23709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.project.BaseDirRuleTest')","[257, 1573]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'superman')","[6073, 7725, 9296, 11020, 12624, 14276, 15820, 17544, 19148, 20800, 22333, 23943]"
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/foo.txt')","[1120, 1139, 1342, 1361]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Kent')","[5929, 7565, 9152, 10860, 12480, 14116, 15676, 17384, 19004, 20640, 22193, 23787]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.test.phantomjs.PhantomJsRuleTest)')","[358, 880]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.test.hazelcast.HazelcastRuleTest)')","[318, 858]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'failure(com.github.rmannibucau.rules.api.dbunit.PostAssertTest)')","[581, 1034, 14496]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.TestCombineThemAll')","[177, 1502]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ensureCodeIsCalled(com.github.rmannibucau.rules.api.file.FileRuleTest)')","[438, 924]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'snakeyaml-1.10.jar')",[1902]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'commons-logging-1.1.1.jar')",[1997]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.api.dbunit.CleanAfterTest')","[499, 7952]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'selenium-remote-driver-2.41.0.jar')",[1655]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'success(com.github.rmannibucau.rules.api.dbunit.PostAssertTest)')","[560, 1012, 7972]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.systemproperty.TestSystemPropertiesAsRule')","[116, 1456]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'nothing')","[9440, 11180, 15964, 17704]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'sac-1.3.jar')",[2016]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'John')","[5065, 6605, 8288, 9900, 11616, 13156, 14812, 16424, 18140, 19680, 21353, 22851]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Clark')","[5785, 7405, 9008, 10700, 12336, 13956, 15532, 17224, 18860, 20480, 22053, 23631]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.hazelcast.HazelcastRuleTest')","[297, 2512]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'John')","[5101, 6645, 8324, 9940, 11652, 13196, 14848, 16464, 18176, 19720, 21388, 22890]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[2485]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'firstname')","[4993, 5713, 6525, 7325, 8216, 8936, 9820, 10620, 11544, 12264, 13076, 13876, 14740, 15460, 16344, 17144, 18068, 18788, 19600, 20400, 21283, 21983, 22773, 23553]"
+"('Permissions.java', 'org.mockftpserver.fake.filesystem.Permissions', '<init>', '(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)', '---------')","[1239, 1258]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'arquillian-phantom-binary-2.1.1-macosx.jar')",[2149]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.sftp.TestSftpRule')","[377, 4637]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[2405]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkServer(com.github.rmannibucau.rules.test.sftp.TestSftpRule)')","[398, 902]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkInjections(com.github.rmannibucau.rules.test.systemproperty.TestSystemPropertiesAsRule)')","[137, 748]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'firstname')","[4957, 5677, 6485, 7285, 8180, 8900, 9780, 10580, 11508, 12228, 13036, 13836, 14704, 15424, 16304, 17104, 18032, 18752, 19560, 20360, 21248, 21948, 22734, 23514]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'shrinkwrap-descriptors-spi-2.0.0-alpha-5.jar')",[1940]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'id')","[4885, 5605, 6405, 7205, 8108, 8828, 9700, 10500, 11436, 12156, 12956, 13756, 14632, 15352, 16224, 17024, 17960, 18680, 19480, 20280, 21178, 21878, 22656, 23436]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkInjections(com.github.rmannibucau.rules.test.ftp.TestFtpRuleOnClass)')","[97, 726]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.api.dbunit.CleanAfterTest)')","[520, 990, 4684]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'hamcrest-core-1.3.jar')",[1712]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'arquillian-core-spi-1.1.3.Final.jar')",[1845]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[2445]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'json-20080701.jar')",[2054]
+"('Permissions.java', 'org.mockftpserver.fake.filesystem.Permissions', '<init>', '(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)', 'rw-rw-rw-')","[1277, 1295]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '1')","[4921, 6445, 8144, 9740, 11472, 12996, 14668, 16264, 17996, 19520, 21213, 22695]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'checkField(com.github.rmannibucau.rules.test.systemproperty.TestSystemPropertiesAsRule)')","[158, 770]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '2')","[5641, 7245, 8864, 10540, 12192, 13796, 15388, 17064, 18716, 20320, 21913, 23475]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.test.spring.TestSpringRule)')","[238, 814, 1519]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.api.dbunit.ProvisionTest')","[600, 24184]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'firstname')","[5029, 5749, 6565, 7365, 8252, 8972, 9860, 10660, 11580, 12300, 13116, 13916, 14776, 15496, 16384, 17184, 18104, 18824, 19640, 20440, 21318, 22018, 22812, 23592]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'kryptonite')","[6253, 7925, 12804, 14476, 19328, 21000, 22508, 24138]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.api.dbunit.NoopTest)')","[682, 1100, 24203]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'aopalliance-1.0.jar')",[1750]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'kryptonite')","[6217, 7885, 12768, 14436, 19292, 20960, 22473, 24099]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'jackson-core-asl-1.9.2.jar')",[1731]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.api.file.FileRuleTest')","[417, 4664]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.spring.TestSpringRule')","[217, 1546]"
+"('Platform.java', 'org.openqa.selenium.Platform', '<init>', '^(\\d+)\\.(\\d+).*', '4.4.0-70-generic')","[2173, 2197, 2221, 2245, 2269, 2293, 2317, 2341, 2365]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Kent')","[5965, 7605, 9188, 10900, 12516, 14156, 15712, 17424, 19040, 20680, 22228, 23826]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'useraccount')","[4813, 6325, 8036, 9620, 11364, 12876, 14560, 16144, 17888, 19400, 21108, 22578]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'httpclient-4.3.1.jar')",[2111]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'xercesImpl-2.11.0.jar')",[1978]
+"('UnixFakeFileSystem.java', 'org.mockftpserver.fake.filesystem.UnixFakeFileSystem', 'isValidName', '\\/|(\\/[^\\/]+\\/?)+', '/')","[1160, 1180, 1382, 1402]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'shrinkwrap-descriptors-api-base-2.0.0-alpha-5.jar')",[1617]
+"('Permissions.java', 'org.mockftpserver.fake.filesystem.Permissions', '<init>', '(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)(-|r)(-|w)(-|x)', 'rwxrwxrwx')","[1200, 1219]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'doovde')","[5353, 6925, 8576, 10220, 11904, 13476, 15100, 16744, 18428, 20000, 21633, 23163]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'geronimo-jpa_2.0_spec-1.1.jar')",[1807]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'arquillian-persistence-api-1.0.0.Alpha7.jar')",[1693]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'spring-test-3.1.1.RELEASE.jar')",[1636]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'shrinkwrap-api-1.2.1.jar')",[1674]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.phantomjs.PhantomJsRuleTest')","[337, 24226]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'noProblemIfNoAnnotation(com.github.rmannibucau.rules.api.file.FileRuleTest)')","[480, 968]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')","[2732, 2781, 3026, 3075, 3124, 3173, 3377, 3449, 3521, 3593, 3665, 3737]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'password')","[5461, 5533, 6181, 7045, 7125, 7845, 8684, 8756, 9404, 10340, 10420, 11140, 12012, 12084, 12732, 13596, 13676, 14396, 15208, 15280, 15928, 16864, 16944, 17664, 18536, 18608, 19256, 20120, 20200, 20920, 21738, 21808, 22438, 23280, 23358, 24060]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'ensureSystemPropIsAvailable(com.github.rmannibucau.rules.test.project.BaseDirRuleTest)')","[278, 836]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'NOPADDING')","[2560, 2610, 2658, 2708, 2756, 2806, 2854, 2904, 2952, 3002, 3050, 3100, 3148, 3198, 3268, 3342, 3412, 3486, 3556, 3630, 3700, 3774, 3844, 3918, 3986, 4058, 4126, 4198, 4300, 4404, 4506, 4610]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64', 'CTR')","[3809, 3881]"
+"('ManagementCenterIdentifier.java', 'com.hazelcast.management.ManagementCenterIdentifier', 'getVersionAsInt', '^(\\d)\\.(\\d)(?:\\.(\\d))?+.*', '3.2.3')",[1598]
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'arquillian-container-test-impl-base-1.1.3.Final.jar')",[2130]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Smith')","[5245, 6805, 8468, 10100, 11796, 13356, 14992, 16624, 18320, 19880, 21528, 23046]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'noop(com.github.rmannibucau.rules.api.dbunit.ProvisionTest)')","[642, 1078, 24157]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'username')","[5281, 6001, 6845, 7645, 8504, 9224, 10140, 10940, 11832, 12552, 13396, 14196, 15028, 15748, 16664, 17464, 18356, 19076, 19920, 20720, 21563, 22263, 23085, 23865]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'nothing')","[9476, 9512, 11220, 11260, 16000, 16036, 17744, 17784]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'selenium-support-2.41.0.jar')",[1788]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Clark')","[5821, 7445, 9044, 10740, 12372, 13996, 15568, 17264, 18896, 20520, 22088, 23670]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.api.dbunit.NoopTest')","[661, 24249]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'hamcrest-library-1.3.jar')",[1769]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'id')","[4849, 5569, 6365, 7165, 8072, 8792, 9660, 10460, 11400, 12120, 12916, 13716, 14596, 15316, 16184, 16984, 17924, 18644, 19440, 20240, 21143, 21843, 22617, 23397]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'run(com.github.rmannibucau.rules.test.TestCombineThemAll)')","[198, 792, 1475]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.api.dbunit.PostAssertTest')","[539, 21027]"
+"('PercentEscaper.java', 'org.yaml.snakeyaml.external.com.google.gdata.util.common.base.PercentEscaper', '<init>', '.*[0-9A-Za-z].*', ""-_.!~*'()@:$&,;=[]/"")","[4717, 4749]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64', 'CBC')","[2830, 2879, 2928, 2977]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'username')","[5317, 6037, 6885, 7685, 8540, 9260, 10180, 10980, 11868, 12588, 13436, 14236, 15064, 15784, 16704, 17504, 18392, 19112, 19960, 20760, 21598, 22298, 23124, 23904]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'nothing')","[9548, 11300, 16072, 17824]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'slf4j-api-1.6.6.jar')",[2092]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'lastname')","[5173, 5893, 6725, 7525, 8396, 9116, 10020, 10820, 11724, 12444, 13276, 14076, 14920, 15640, 16544, 17344, 18248, 18968, 19800, 20600, 21458, 22158, 22968, 23748]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'password')","[5425, 5497, 6145, 7005, 7085, 7805, 8648, 8720, 9368, 10300, 10380, 11100, 11976, 12048, 12696, 13556, 13636, 14356, 15172, 15244, 15892, 16824, 16904, 17624, 18500, 18572, 19220, 20080, 20160, 20880, 21703, 21773, 22403, 23241, 23319, 24021]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'useraccount')","[4781, 6289, 8004, 9584, 11332, 12840, 14528, 16108, 17856, 19364, 21077, 22543]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.ftp.TestFtpRule')","[36, 1322]"
+"('JarLocation.java', 'com.github.rmannibucau.rules.internal.JarLocation', 'jarFromRegex', 'arquillian-phantom-binary.*.jar', 'cssparser-0.9.11.jar')",[1826]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.rmannibucau.rules.test.ftp.TestFtpRuleOnClass')","[76, 1429]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CTR')","[2536, 2585, 2634, 2683, 3233, 3305, 3952, 4022, 4092, 4162, 4249, 4352, 4455, 4558]"

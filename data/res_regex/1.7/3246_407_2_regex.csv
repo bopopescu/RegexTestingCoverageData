@@ -1,0 +1,8 @@
+"('Util2.java', 'com.purplefrog.httpcliches.Util2', 'parseRangeHeader', 'bytes=([0-9]*)-([0-9]*)', 'bytes=-500')",[75]
+"('ByteRangeSpec.java', 'com.purplefrog.httpcliches.ByteRangeSpec', 'parseRange', 'bytes=(\\d*)-(\\d*)', 'bytes=9500-')",[200]
+"('ByteRangeSpec.java', 'com.purplefrog.httpcliches.ByteRangeSpec', 'parseRange', 'bytes=(\\d*)-(\\d*)', 'bytes=0-499')",[150]
+"('ByteRangeSpec.java', 'com.purplefrog.httpcliches.ByteRangeSpec', 'parseRange', 'bytes=(\\d*)-(\\d*)', 'bytes=500-999')",[125]
+"('Util2.java', 'com.purplefrog.httpcliches.Util2', 'parseRangeHeader', 'bytes=([0-9]*)-([0-9]*)', 'bytes=9500-')",[100]
+"('ByteRangeSpec.java', 'com.purplefrog.httpcliches.ByteRangeSpec', 'parseRange', 'bytes=(\\d*)-(\\d*)', 'bytes=-500')",[175]
+"('Util2.java', 'com.purplefrog.httpcliches.Util2', 'parseRangeHeader', 'bytes=([0-9]*)-([0-9]*)', 'bytes=0-499')",[50]
+"('Util2.java', 'com.purplefrog.httpcliches.Util2', 'parseRangeHeader', 'bytes=([0-9]*)-([0-9]*)', 'bytes=500-999')",[25]

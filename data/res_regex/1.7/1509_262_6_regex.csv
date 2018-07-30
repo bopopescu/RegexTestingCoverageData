@@ -1,0 +1,4 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'extTest(com.ibm.common.activitystreams.ext.test.ExtTest)')","[57, 78]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('TypeValueRegistry.java', 'com.ibm.common.activitystreams.registry.TypeValueRegistry', 'isToken', ""[A-Za-z0-9\\!\\#\\$\\%\\&\\'\\*\\+\\-\\.\\^\\_\\`\\|\\~]+"", 'urn:example:verbs:foo')","[105, 131]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ibm.common.activitystreams.ext.test.ExtTest')","[36, 153]"

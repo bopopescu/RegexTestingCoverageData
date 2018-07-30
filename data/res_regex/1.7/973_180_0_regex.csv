@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConversion(apns.DeviceTokenHelperTest)')","[118, 181]"
+"('DeviceTokenHelper.java', 'apns.DeviceTokenHelper', 'isDeviceTokenValid', '[a-fA-F0-9]{64}', '777d2ac490a17aa1d4c8a6ec7c50d4b1b9a36499acd45bf5fcac103cde038e')","[468, 491]"
+"('DeviceTokenHelper.java', 'apns.DeviceTokenHelper', 'isDeviceTokenValid', '[a-fA-F0-9]{64}', '777D2AC490A17AA1D4C8A6EC7C50D4B1B9A36499ACD45BF5FCAC103CDE038EFF')","[278, 301]"
+"('DeviceTokenHelper.java', 'apns.DeviceTokenHelper', 'isDeviceTokenValid', '[a-fA-F0-9]{64}', '777d2ac490a1 7aa1d4c8a6ec7c50d4b1b9a36499acd45bf5fcac103cde038eff')","[374, 397]"
+"('DeviceTokenHelper.java', 'apns.DeviceTokenHelper', 'isDeviceTokenValid', '[a-fA-F0-9]{64}', '777d2ac490a1-7aa1d4c8a6ec7c50d4b1b9a36499acd45bf5fcac103cde038eff')","[421, 444]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'apns.DeviceTokenHelperTest')","[76, 562]"
+"('DeviceTokenHelper.java', 'apns.DeviceTokenHelper', 'isDeviceTokenValid', '[a-fA-F0-9]{64}', '777d2ac490a17aa1d4c8a6ec7c50d4b1b9a36499acd45bf5fcac103cde038eff')","[231, 254, 326, 350, 516, 540]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsDeviceTokenValid(apns.DeviceTokenHelperTest)')","[97, 160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'apns.DefaultPushNotificationServiceTest')","[36, 207]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testPayloadJsonCreation(apns.DefaultPushNotificationServiceTest)')","[57, 139]"

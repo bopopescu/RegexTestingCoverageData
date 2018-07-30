@@ -1,0 +1,19 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.brutusin.commons.io.LineReaderTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRun(org.brutusin.commons.io.LineReaderTest)')","[141, 705]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsLastLine(org.brutusin.commons.io.LineReaderTest)')","[225, 726]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.brutusin.commons.concurrent.FifoRunnerTest')","[949, 969, 990, 1010]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOnExceptionFound(org.brutusin.commons.io.LineReaderTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOnExceptionFound(org.brutusin.commons.io.LineReaderTest)')","[393, 768]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExit(org.brutusin.commons.io.LineReaderTest)')","[477, 789]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetLineNumber(org.brutusin.commons.io.LineReaderTest)')","[57, 664]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.brutusin.commons.io.LineReaderTest')","[855, 879, 904, 928]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetBytesBuffered(org.brutusin.commons.io.LineReaderTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRun(org.brutusin.commons.io.LineReaderTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIsLastLine(org.brutusin.commons.io.LineReaderTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.brutusin.commons.concurrent.FifoRunnerTest')",[559]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExecute(org.brutusin.commons.concurrent.FifoRunnerTest)')","[580, 810]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetLineNumber(org.brutusin.commons.io.LineReaderTest)')","[78, 99, 120, 684]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testExit(org.brutusin.commons.io.LineReaderTest)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testExecute(org.brutusin.commons.concurrent.FifoRunnerTest)')","[601, 622, 643, 830]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetBytesBuffered(org.brutusin.commons.io.LineReaderTest)')","[309, 747]"

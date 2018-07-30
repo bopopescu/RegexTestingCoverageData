@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStoptimeout(org.piraso.server.spring.web.PirasoServletTest)')","[141, 293]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStopNotAliveService(org.piraso.server.spring.web.PirasoServletTest)')","[162, 315]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStartStopSuccess(org.piraso.server.spring.web.PirasoServletTest)')","[99, 249]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInvalidServiceParameter(org.piraso.server.spring.web.PirasoServletTest)')","[120, 271]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNullServiceParameter(org.piraso.server.spring.web.PirasoServletTest)')","[183, 337]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.piraso.server.spring.web.PirasoServletTest')","[36, 360]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStopNullService(org.piraso.server.spring.web.PirasoServletTest)')","[78, 227]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStartMaxIdleTimeoutAndMaxForceSize(org.piraso.server.spring.web.PirasoServletTest)')","[57, 205]"

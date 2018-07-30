@@ -1,0 +1,13 @@
+"('Payment.java', 'net.kresina.bsc.javatest.beans.Payment', 'validateCode', '^[A-Z]{3}$', 'USD')","[261, 342]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInputValues(net.kresina.bsc.javatest.test.BscTest)')","[57, 142]"
+"('Payment.java', 'net.kresina.bsc.javatest.beans.Payment', 'validateCode', '^[A-Z]{3}$', 'CZ')","[395, 421]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInitKeeper(net.kresina.bsc.javatest.test.BscTest)')","[78, 164]"
+"('Payment.java', 'net.kresina.bsc.javatest.beans.Payment', 'validateCode', '^[A-Z]{3}$', 'RMB')",[315]
+"('Payment.java', 'net.kresina.bsc.javatest.beans.Payment', 'validateCode', '^[A-Z]{3}$', 'CZK')","[234, 369, 499]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.kresina.bsc.javatest.test.BscTest')","[36, 522]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetKeeper(net.kresina.bsc.javatest.test.BscTest)')","[99, 186]"
+"('Payment.java', 'net.kresina.bsc.javatest.beans.Payment', 'validateCode', '^[A-Z]{3}$', 'CvZ')",[447]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInputValuesError(net.kresina.bsc.javatest.test.BscTest)')","[120, 208]"
+"('Payment.java', 'net.kresina.bsc.javatest.beans.Payment', 'validateCode', '^[A-Z]{3}$', 'HKD')",[288]
+"('Payment.java', 'net.kresina.bsc.javatest.beans.Payment', 'validateCode', '^[A-Z]{3}$', '500')",[473]

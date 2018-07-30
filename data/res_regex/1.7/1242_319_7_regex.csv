@@ -1,0 +1,5 @@
+"('RollingFileAppender.java', 'ch.qos.logback.core.rolling.RollingFileAppender', 'fileAndPatternCollide', 'logs/checklistbank-search-ws.\\d{4}-\\d{2}-\\d{2}.log.gz', 'logs/checklistbank-search-ws.log')","[123, 167]"
+"('RollingFileAppender.java', 'ch.qos.logback.core.rolling.RollingFileAppender', 'fileAndPatternCollide', 'logs/checklistbank-search-ws_error.\\d{4}-\\d{2}-\\d{2}.log.gz', 'logs/checklistbank-search-ws_error.log')","[212, 256]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.gbif.checklistbank.ws.resources.NameUsageSearchResourceTest')","[36, 278]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSearch(org.gbif.checklistbank.ws.resources.NameUsageSearchResourceTest)')","[57, 78]"

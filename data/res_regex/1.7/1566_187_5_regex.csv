@@ -1,0 +1,21 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFailoverCreate(io.hawtjms.tests.failover.FailoverProviderTest)')","[78, 431, 801]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.hawtjms.tests.failover.JmsFailoverTest')","[118, 1033]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProducerBlocksAndRecovers(io.hawtjms.tests.failover.JmsFailoverTest)')","[139, 473, 867]"
+"('ActiveMQConnectionMetaData.java', 'org.apache.activemq.ActiveMQConnectionMetaData', '<clinit>', '(\\d+)\\.(\\d+).*', '5.10.0')",[755]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.hawtjms.tests.failover.FailoverProviderTest')","[36, 847]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStartupReconnectAttemptsMultipleHosts(io.hawtjms.tests.failover.JmsFailoverTest)')","[265, 599, 987]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStartupReconnectAttempts(io.hawtjms.tests.failover.FailoverProviderTest)')","[57, 410, 724]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBasicStateRestoration(io.hawtjms.tests.failover.JmsFailoverTest)')","[202, 536, 927]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('PlatformDependent.java', 'io.netty.util.internal.PlatformDependent', 'isRoot0', '^(?:0|[1-9][0-9]*)$', '1000')",[781]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStartupReconnectAttempts(io.hawtjms.tests.failover.JmsFailoverTest)')","[223, 557, 947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRunningBrokerIsDiscovered(io.hawtjms.tests.discovery.JmsAmqpDiscoveryTest)')","[368, 683, 1093]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStartFailureWithAsyncExceptionListener(io.hawtjms.tests.failover.JmsFailoverTest)')","[181, 515, 907]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConnectionFailsWhenBrokerGoesDown(io.hawtjms.tests.discovery.JmsAmqpDiscoveryTest)')","[389, 704, 1113]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConnectionRestoresAfterBrokerRestarted(io.hawtjms.tests.discovery.JmsAmqpDiscoveryTest)')","[347, 662, 1073]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDiscoversAndReconnectsToSecondaryBroker(io.hawtjms.tests.discovery.JmsAmqpDiscoveryTest)')","[326, 641, 1053]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDurableSubscriberRestores(io.hawtjms.tests.failover.JmsFailoverTest)')","[160, 494, 887]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFailoverConnects(io.hawtjms.tests.failover.JmsFailoverTest)')","[244, 578, 967]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFailoverURIConfiguration(io.hawtjms.tests.failover.FailoverProviderTest)')","[99, 452, 821]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'io.hawtjms.tests.discovery.JmsAmqpDiscoveryTest')","[305, 1135]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFailoverConnectsWithMultipleURIs(io.hawtjms.tests.failover.JmsFailoverTest)')","[286, 620, 1007]"

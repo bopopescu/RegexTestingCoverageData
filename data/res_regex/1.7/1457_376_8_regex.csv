@@ -1,0 +1,35 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lan.training.memory.dao.LanguageDaoTest')","[36, 16030]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoImpl.class')",[6087]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmemory-dao-impl\\E', 'memory-dao-impl')","[415, 1037, 1715, 2387, 3009, 3693, 4377, 5061, 5745, 6423, 7095, 7717, 8395]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qfactory\\E', 'factory')","[9403, 10131, 10859, 11587, 12271, 13012, 13753, 14494, 15223, 15951]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookFactoryImpl.class')",[13069]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')",[15279]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtraining\\E', 'training')","[639, 1265, 1939, 2611, 3237, 3921, 4605, 5289, 5973, 6647, 7319, 7945, 8619, 9291, 10019, 10747, 11475, 12157, 12898, 13639, 14380, 15111, 15839]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getListTest(lan.training.memory.dao.LanguageDaoTest)')","[57, 79]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthorFactory.class')",[10915]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'DataUtilBean.class')",[8059]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PublisherFactoryImpl.class')",[14551]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[471, 1094, 1771, 2443, 3066, 3750, 4434, 5118, 5802, 6479, 7151, 7774, 8451, 9123, 9851, 10579, 11307, 11986, 12727, 13468, 14209, 14943, 15671]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LanguageFactory.class')",[16007]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[135, 752, 1435, 2107, 2724, 3408, 4092, 4776, 5460, 6143, 6815, 7432, 8115, 8787, 9515, 10243, 10971, 11644, 12385, 13126, 13867, 14607, 15335]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'util')",[8731]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookFactory.class')",[9459]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[2499, 3123, 3807, 4491, 5175, 5859, 6535, 7207, 7831, 8507, 9179, 9907, 10635, 11363, 12043, 12784, 13525, 14266, 14999, 15727]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PublisherDaoImpl.class')",[5403]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'dao')","[2051, 6759]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qlan\\E', 'lan')","[583, 1208, 1883, 2555, 3180, 3864, 4548, 5232, 5916, 6591, 7263, 7888, 8563, 9235, 9963, 10691, 11419, 12100, 12841, 13582, 14323, 15055, 15783]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthorFactoryImpl.class')",[13810]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[191, 809, 1491, 2163, 2781, 3465, 4149, 4833, 5517, 6199, 6871, 7489, 8171, 8843, 9571, 10299, 11027, 11701, 12442, 13183, 13924, 14663, 15391]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcore\\E', 'core')","[9067, 9347, 9795, 10075, 10523, 10803, 11251, 11531, 11929, 12214, 12670, 12955, 13411, 13696, 14152, 14437, 14887, 15167, 15615, 15895]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AbstractMemoryDaoImpl.class')",[4035]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PublisherFactory.class')",[10187]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QbookCat\\E', 'bookCat')","[359, 980, 1659, 2331, 2952, 3636, 4320, 5004, 5688, 6367, 7039, 7660, 8339, 9011, 9739, 10467, 11195, 11872, 12613, 13354, 14095, 14831, 15559]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LanguageDaoImpl.class')",[3351]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LanguageFactoryImpl.class')",[12328]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmemory\\E', 'memory')","[695, 1322, 1995, 2667, 3294, 3978, 4662, 5346, 6030, 6703, 7375, 8002, 8675]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthorDaoImpl.class')",[4719]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[247, 866, 1547, 2219, 2838, 3522, 4206, 4890, 5574, 6255, 6927, 7546, 8227, 8899, 9627, 10355, 11083, 11758, 12499, 13240, 13981, 14719, 15447]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q1457_376\\E', '1457_376')","[303, 923, 1603, 2275, 2895, 3579, 4263, 4947, 5631, 6311, 6983, 7603, 8283, 8955, 9683, 10411, 11139, 11815, 12556, 13297, 14038, 14775, 15503]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[527, 1151, 1827]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'LanguageDaoTest.class')",[1379]

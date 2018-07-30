@@ -1,0 +1,11 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[208]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'feature')",[74]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'scenario')",[113]
+"('PathWithLines.java', 'cucumber.runtime.PathWithLines', '<init>', '^([\\w\\W]*?):([\\d:]+)$', 'src/test/resources/')",[35]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'SOExample.RunCukesTest')",[227]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'step')",[152]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Feature: DoSomething')",[248]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'eof')",[191]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Scenario: Stack Overflow demo')","[271, 408, 451]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Given I am about to do something(Scenario: Stack Overflow demo)')","[296, 322, 345, 368, 429, 472]"
+"('FormatterFactory.java', 'cucumber.runtime.formatter.FormatterFactory', 'create', '([^:]+):(.*)', 'null')",[386]

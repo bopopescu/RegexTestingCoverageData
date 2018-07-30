@@ -1,0 +1,60 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddForum(com.baobaotao.dao.TestForumDao)')","[221, 520]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'JdbcBbtForum.class')",[7844]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'domain')",[6770]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetForum(com.baobaotao.dao.TestForumOODao)')","[57, 388]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qchapter11\\E', 'chapter11')","[932, 1441, 2011, 2581, 3151, 3716, 4276, 4785, 5355, 5925, 6490, 7050, 7559, 8129, 8694, 9254, 9763, 10333, 10903, 11473, 12043, 12613, 13183, 13753, 14323, 14893, 15463, 16033, 16603, 17173, 17743, 18313, 18878, 19438, 19947, 20517, 21087, 21652]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumOODao$ForumQuery.class')",[18598]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestPostDao.class')",[3436]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PostDao$2.class')",[12328]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetTopicNum(com.baobaotao.dao.TestForumOODao)')","[99, 432]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumDao$1.class')",[15178]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.baobaotao.dao.TestTopicDao')","[118, 21978]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddForum(com.baobaotao.dao.TestForumOODao)')","[78, 410]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testgetAttach(com.baobaotao.dao.TestPostDao)')","[345, 630]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qbaobaotao\\E', 'baobaotao')","[1156, 1669, 2239, 2809, 3379, 3940, 4500, 5013, 5583, 6153, 6714, 7274, 7787, 8357, 8918, 9478, 9991, 10561, 11131, 11701, 12271, 12841, 13411, 13981, 14551, 15121, 15691, 16261, 16831, 17401, 17971, 18541, 19102, 19662, 20175, 20745, 21315, 21876]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TopicDao$2.class')",[12898]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumDao.class')",[10618]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q956_111\\E', '956_111')","[876, 1384, 1954, 2524, 3094, 3660, 4220, 4728, 5298, 5868, 6434, 6994, 7502, 8072, 8638, 9198, 9706, 10276, 10846, 11416, 11986, 12556, 13126, 13696, 14266, 14836, 15406, 15976, 16546, 17116, 17686, 18256, 18822, 19382, 19890, 20460, 21030, 21596]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumOODao$GetTopicNum.class')",[11188]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[1100, 1612, 2182, 2752, 3322, 3884, 4444, 4956, 5526, 6096, 6658, 7218, 7730, 8300, 8862, 9422, 9934, 10504, 11074, 11644, 12214, 12784, 13354, 13924, 14494, 15064, 15634, 16204, 16774, 17344, 17914, 18484, 19046, 19606, 20118, 20688, 21258, 21820]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'service')",[8974]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestForumDao.class')",[2866]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddPost(com.baobaotao.dao.TestPostDao)')","[303, 586]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1044, 1555, 2125, 2695, 3265, 3828]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getNativeConn(com.baobaotao.dao.TestPostDao)')","[324, 608]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddForumByNamedParams(com.baobaotao.dao.TestForumDao)')","[263, 564]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Topic.class')",[6210]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetTopicRowSet(com.baobaotao.dao.TestTopicDao)')","[181, 498]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'dao')","[3996, 19158]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PostDao$3.class')",[11758]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SequenceNumber$1.class')",[20232]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestTopicDao.class')",[2296]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumDao$2.class')",[16888]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TopicDao$1.class')",[16318]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.baobaotao.dao.TestForumDao')","[200, 22024]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Forum.class')",[5070]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumDao$3.class')",[18028]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumDao$4.class')",[14608]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SequenceNumber.class')",[20802]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAddForums(com.baobaotao.dao.TestForumDao)')","[242, 542]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumOODao$ForumInsert.class')",[13468]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BbtForum.class')",[8414]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TopicDao.class')",[14038]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.baobaotao.dao.TestForumOODao')","[36, 21955]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[988, 1498, 2068, 2638, 3208, 3772, 4332, 4842, 5412, 5982, 6546, 7106, 7616, 8186, 8750, 9310, 9820, 10390, 10960, 11530, 12100, 12670, 13240, 13810, 14380, 14950, 15520, 16090, 16660, 17230, 17800, 18370, 18934, 19494, 20004, 20574, 21144, 21708]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.baobaotao.dao.TestPostDao')","[282, 22001]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestForumOODao.class')",[1726]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[708, 1213, 1783, 2353, 2923, 3492, 4052, 4557, 5127, 5697, 6266, 6826, 7331, 7901, 8470, 9030, 9535, 10105, 10675, 11245, 11815, 12385, 12955, 13525, 14095, 14665, 15235, 15805, 16375, 16945, 17515, 18085, 18654, 19214, 19719, 20289, 20859, 21428]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[4388, 4899, 5469, 6039, 6602, 7162, 7673, 8243, 8806, 9366, 9877, 10447, 11017, 11587, 12157, 12727, 13297, 13867, 14437, 15007, 15577, 16147, 16717, 17287, 17857, 18427, 18990, 19550, 20061, 20631, 21201, 21764]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testgetAttachs(com.baobaotao.dao.TestPostDao)')","[366, 652]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SequenceNumber$TestClient.class')",[21372]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'ForumOODao.class')",[15748]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'basic')",[21932]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[764, 1270, 1840, 2410, 2980, 3548, 4108, 4614, 5184, 5754, 6322, 6882, 7388, 7958, 8526, 9086, 9592, 10162, 10732, 11302, 11872, 12442, 13012, 13582, 14152, 14722, 15292, 15862, 16432, 17002, 17572, 18142, 18710, 19270, 19776, 20346, 20916, 21484]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PostDao.class')",[17458]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'PostDao$1.class')",[10048]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetUserTopicNum(com.baobaotao.dao.TestTopicDao)')","[139, 454]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Post.class')",[5640]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetReplyRate(com.baobaotao.dao.TestTopicDao)')","[160, 476]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[820, 1327, 1897, 2467, 3037, 3604, 4164, 4671, 5241, 5811, 6378, 6938, 7445, 8015, 8582, 9142, 9649, 10219, 10789, 11359, 11929, 12499, 13069, 13639, 14209, 14779, 15349, 15919, 16489, 17059, 17629, 18199, 18766, 19326, 19833, 20403, 20973, 21540]"

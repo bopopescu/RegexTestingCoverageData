@@ -1,0 +1,120 @@
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', ')')",[5343]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCustomQueryTemplate(co.jirm.orm.dao.JirmDaoTest)')","[1504, 3115]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNoDefinitionFailure(co.jirm.mapper.definition.SqlObjectDefinitionTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMoreComplicated(co.jirm.orm.builder.ImmutableConditionTest)')","[2571, 2592, 2613, 3407]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWhereString(co.jirm.orm.builder.ImmutableConditionTest)')","[2655, 2676, 2697]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', ', 3000 -- {longProp}')",[5263]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean')",[3572]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNotEqIssue5(co.jirm.orm.dao.JirmDaoTest)')","[2092, 3262]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAdder(co.jirm.orm.dao.JirmDaoTest)')","[1336, 3073]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFromClass(co.jirm.mapper.definition.SqlObjectDefinitionTest)')","[78, 99, 120, 2738]"
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', ', 3000 -- {longProp}')",[4973]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGrandParentForList(co.jirm.orm.dao.JirmDaoTest)')","[916, 2968]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPropertyManual(co.jirm.orm.dao.JirmDaoTest)')","[832, 2947]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testQueryForObjectByFilterStringObjectStringObject(co.jirm.orm.dao.JirmDaoTest)')","[328, 2801]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'co.jirm.mapper.definition.SqlObjectDefinitionTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCustomSqlIssue12(co.jirm.orm.dao.JirmDaoTest)')","[1945, 1966, 1987]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructorProperties(co.jirm.mapper.definition.SqlObjectDefinitionTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCount(co.jirm.orm.dao.JirmDaoTest)')","[2365, 2386, 2407]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParentForList(co.jirm.orm.dao.JirmDaoTest)')","[685, 706, 727]"
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', ""'HELLO' -- {stringProp}"")",[4928]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'co.jirm.orm.dao.TestBeanTest')","[5885, 5909, 5934, 5958]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpdateInclude(co.jirm.orm.dao.JirmDaoTest)')","[1252, 3052]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop != ? FOR UPDATE')",[5622]
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', '(string_prop, long_prop, timets)')",[4838]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', ""WHERE stringProp like '%Adam%' -- {name}"")",[4567]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'VALUES (')",[5183]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'co.jirm.orm.dao.JirmDaoTest')","[5787, 5811, 5836, 5860]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', '?')",[3710]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT parent_bean.id, _test.string_prop AS ""test.stringProp"", _test.long_prop AS ""test.longProp"", _test.timets AS ""test.timeTS"" FROM parent_bean INNER JOIN test_bean _test ON _test.string_prop = parent_bean.test WHERE parent_bean.id = ? LIMIT ? OFFSET ?')",[3856]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', '{{longProp}} = ( {{longProp}} + ? )')",[4352]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOrderBy(co.jirm.orm.dao.JirmDaoTest)')","[1672, 3157]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testForShareIssue14(co.jirm.orm.dao.JirmDaoTest)')","[2281, 2302, 2323]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testInsert(co.jirm.orm.dao.JirmDaoTest)')","[412, 2842]"
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', 'SELECT * from test_bean')",[4397]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOrderBy(co.jirm.orm.dao.JirmDaoTest)')","[1693, 1714, 1735]"
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', ')')",[5063]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLessThanEqIssue7(co.jirm.orm.dao.JirmDaoTest)')","[1861, 1882, 1903]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCustomUpdateTemplate(co.jirm.orm.dao.JirmDaoTest)')","[1588, 3136]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testForUpdateIssue10(co.jirm.orm.dao.JirmDaoTest)')","[2197, 2218, 2239]"
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', 'LIMIT 1 -- {limit}')",[4487]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParentForList(co.jirm.orm.dao.JirmDaoTest)')","[664, 2905]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUpdate(co.jirm.orm.dao.JirmDaoTest)')","[1105, 1126, 1147]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop <= ?')",[5484]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'co.jirm.orm.builder.ImmutableConditionTest')",[2529]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.string_prop = ?')",[3668]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMoreComplicated(co.jirm.orm.builder.ImmutableConditionTest)')","[2550, 3387]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCustomSqlIssue12(co.jirm.orm.dao.JirmDaoTest)')","[1924, 3220]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'co.jirm.mapper.definition.SqlObjectDefinitionTest')","[3453, 3477, 3502, 3526]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT grand_parent_bean.id, _parent.id AS ""parent.id"" FROM grand_parent_bean INNER JOIN parent_bean _parent ON _parent.id = grand_parent_bean.parent WHERE grand_parent_bean.id = ? LIMIT ? OFFSET ?')",[4097]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', '(string_prop, long_prop, timets)')",[5143]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testQueryForObjectByFilterStringObjectStringObject(co.jirm.orm.dao.JirmDaoTest)')","[349, 370, 391, 2821]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGrandParentForList(co.jirm.orm.dao.JirmDaoTest)')","[937, 958, 979]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testNotEqIssue5(co.jirm.orm.dao.JirmDaoTest)')","[2113, 2134, 2155]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop = ? ORDER BY test_bean.long_prop ASC, test_bean.string_prop DESC')",[5390]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop != ? FOR SHARE')",[5670]
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', 'INSERT INTO test_bean ')",[4793]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCustomQueryTemplate(co.jirm.orm.dao.JirmDaoTest)')","[1525, 1546, 1567]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCrap(co.jirm.orm.dao.JirmDaoTest)')","[1420, 3094]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLessThanIssue7(co.jirm.orm.dao.JirmDaoTest)')","[1756, 3178]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testQueryForList(co.jirm.orm.dao.JirmDaoTest)')","[580, 2884]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT grand_parent_bean.id, _parent.id AS ""parent.id"", _parent_test.string_prop AS ""parent.test.stringProp"", _parent_test.long_prop AS ""parent.test.longProp"", _parent_test.timets AS ""parent.test.timeTS"" FROM grand_parent_bean INNER JOIN parent_bean _parent ON _parent.id = grand_parent_bean.parent INNER JOIN test_bean _parent_test ON _parent_test.string_prop = _parent.test')",[3951]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPropertyPath(co.jirm.orm.dao.JirmDaoTest)')","[748, 2926]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testReload(co.jirm.orm.dao.JirmDaoTest)')","[517, 538, 559]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEnumIssue4(co.jirm.orm.dao.JirmDaoTest)')","[2029, 2050, 2071]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpdateExclude(co.jirm.orm.dao.JirmDaoTest)')","[1168, 3031]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReload(co.jirm.orm.dao.JirmDaoTest)')","[496, 2863]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPropertyPath(co.jirm.orm.dao.JirmDaoTest)')","[769, 790, 811]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLazyGrandParentForList(co.jirm.orm.dao.JirmDaoTest)')","[1021, 1042, 1063]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLessThanIssue7(co.jirm.orm.dao.JirmDaoTest)')","[1777, 1798, 1819]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNoDefinitionFailure(co.jirm.mapper.definition.SqlObjectDefinitionTest)')","[141, 2759]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLazyGrandParentForList(co.jirm.orm.dao.JirmDaoTest)')","[1000, 2989]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT count(*) FROM test_bean LIMIT ?')",[5762]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', ""'HELLO' -- {stringProp}"")",[5223]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', ""UPDATE stuff set a = '1' where b = '2'"")",[5527]
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', 'VALUES (')",[4883]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'UPDATE test_bean')",[4223]
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', ', now() -- {timeTS}')",[5018]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'INSERT INTO test_bean ')",[5103]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'UPDATE lock_bean')",[4313]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop != ?')",[5574]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', '{{stringProp}} = ?')",[4137]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT count(*) FROM test_bean')",[5716]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'co.jirm.orm.dao.TestBeanTest')",[2426]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', '{{stringProp}} = ?, {{longProp}} = ?')",[4176]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'co.jirm.orm.builder.ImmutableConditionTest')","[5979, 5999, 6020, 6040]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'LIMIT 1 -- {limit}')",[4607]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUpdateExclude(co.jirm.orm.dao.JirmDaoTest)')","[1189, 1210, 1231]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLessThanEqIssue7(co.jirm.orm.dao.JirmDaoTest)')","[1840, 3199]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testBlah(co.jirm.orm.dao.TestBeanTest)')","[2468, 2489, 2510, 3366]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEnumIssue4(co.jirm.orm.dao.JirmDaoTest)')","[2008, 3241]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT parent_bean.id, _test.string_prop AS ""test.stringProp"", _test.long_prop AS ""test.longProp"", _test.timets AS ""test.timeTS"" FROM parent_bean INNER JOIN test_bean _test ON _test.string_prop = parent_bean.test WHERE _test.string_prop = ? OR _test.long_prop = ?')",[3903]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', ', now() -- {timeTS}')",[5303]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'LIMIT ? ')",[4748]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBlah(co.jirm.orm.dao.TestBeanTest)')","[2447, 3346]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'WHERE stringProp like ? ')",[4701]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCustomUpdateTemplate(co.jirm.orm.dao.JirmDaoTest)')","[1609, 1630, 1651]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testInsert(co.jirm.orm.dao.JirmDaoTest)')","[433, 454, 475]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT parent_bean.id, _test.string_prop AS ""test.stringProp"", _test.long_prop AS ""test.longProp"", _test.timets AS ""test.timeTS"" FROM parent_bean INNER JOIN test_bean _test ON _test.string_prop = parent_bean.test')",[3807]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop = ? AND test_bean.string_prop = ?')",[3619]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testForShareIssue14(co.jirm.orm.dao.JirmDaoTest)')","[2260, 3304]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop < ?')",[5437]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'co.jirm.orm.dao.JirmDaoTest')",[307]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpdate(co.jirm.orm.dao.JirmDaoTest)')","[1084, 3010]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT * from test_bean')","[4527, 4654]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUpdateInclude(co.jirm.orm.dao.JirmDaoTest)')","[1273, 1294, 1315]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testForUpdateIssue10(co.jirm.orm.dao.JirmDaoTest)')","[2176, 3283]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT grand_parent_bean.id, _parent.id AS ""parent.id"" FROM grand_parent_bean INNER JOIN parent_bean _parent ON _parent.id = grand_parent_bean.parent')",[4048]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT test_bean.string_prop, test_bean.long_prop, test_bean.timets FROM test_bean WHERE test_bean.long_prop = ? AND test_bean.string_prop = ? LIMIT ? OFFSET ?')",[3759]
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', '{{longProp}} = ?, {{version}} = ?')",[4264]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCount(co.jirm.orm.dao.JirmDaoTest)')","[2344, 3325]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFromClass(co.jirm.mapper.definition.SqlObjectDefinitionTest)')","[57, 2718]"
+"('SqlPartialParser.java', 'co.jirm.core.sql.SqlPartialParser', '_processFile', '^[ \t]*-- ?\\{(.*?)\\}[ \t]*$', ""WHERE stringProp like '%Adam%' -- {name}"")",[4442]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructorProperties(co.jirm.mapper.definition.SqlObjectDefinitionTest)')","[225, 2780]"
+"('SqlPlaceholderParser.java', 'co.jirm.core.sql.SqlPlaceholderParser', '_parseSql', '^(.*?)-- ?\\{(.*?)\\}[ \t]*$', 'SELECT grand_parent_bean.id, _parent.id AS ""parent.id"", _parent_test.string_prop AS ""parent.test.stringProp"", _parent_test.long_prop AS ""parent.test.longProp"", _parent_test.timets AS ""parent.test.timeTS"" FROM grand_parent_bean INNER JOIN parent_bean _parent ON _parent.id = grand_parent_bean.parent INNER JOIN test_bean _parent_test ON _parent_test.string_prop = _parent.test WHERE grand_parent_bean.id = ? LIMIT ? OFFSET ?')",[4000]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWhereString(co.jirm.orm.builder.ImmutableConditionTest)')","[2634, 3428]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPropertyManual(co.jirm.orm.dao.JirmDaoTest)')","[853, 874, 895]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testQueryForList(co.jirm.orm.dao.JirmDaoTest)')","[601, 622, 643]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCrap(co.jirm.orm.dao.JirmDaoTest)')","[1441, 1462, 1483]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAdder(co.jirm.orm.dao.JirmDaoTest)')","[1357, 1378, 1399]"

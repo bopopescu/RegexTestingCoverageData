@@ -1,0 +1,142 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetMean(org.openjdk.jmh.util.TestStatistics)')","[141, 1239]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetMax(org.openjdk.jmh.util.TestStatistics)')","[204, 1305]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.boom_Error, xxx, AverageTime')",[4794]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_512bytes')",[3706]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInt')","[3091, 4219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.logic.results.TestAggregateResult')","[570, 2264]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_32bytes')","[3166, 4369]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.boom_Throwable, xxx, AverageTime')",[4844]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.logic.results.TestAverageTimePerOp')","[818, 2318]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDenseClasses1(org.openjdk.jmh.util.TestClassUtils)')","[326, 1393]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testToString(org.openjdk.jmh.util.TestStatistics)')","[78, 1173]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.boom_Error')",[3898]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExtractFromResource(org.openjdk.jmh.util.TestFileUtils)')","[286, 1371]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.api.java.util.concurrent.GeneratedMaps.testConcurrentHashMap, xxx, AverageTime')",[4494]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInt')",[3610]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInteger')","[3116, 4269]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.dummySetupPayload')",[3850]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestExceptionThrowingMicro.ouch')","[2966, 5474, 6122]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.blackholed, xxx, AverageTime')",[4894]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarm, xxx, AverageTime')",[4594]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestExceptionThrowingMicro.ouch')","[3466, 4969]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.api.java.util.concurrent.GeneratedMaps.testConcurrentHashMap')",[3730]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInt')",[3538]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIterationAggregator2(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[778, 1767]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.blackholed')",[3946]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListGetWithIncludesAndExcludes(org.openjdk.jmh.runner.TestMicroBenchmarkList)')","[984, 1943]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIterationAggregator3(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[799, 1789]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testScoreUnit(org.openjdk.jmh.logic.results.TestAggregateResult)')","[591, 1591]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.boom_Exception')","[3341, 4719]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetVariance(org.openjdk.jmh.util.TestStatistics)')","[162, 1261]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWarmupWithArg(org.openjdk.jmh.runner.options.TestOptions)')","[1129, 2075]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRunAggregator1(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[694, 1679]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestBrokenMicro.dummyPayload, xxx, AverageTime')",[4944]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarmOnly')","[3291, 4619]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInteger, xxx, AverageTime')",[4294]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetIntGC')","[3041, 4119]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInt')","[3016, 4069]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_128bytes')","[3141, 4319]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAdd_double(org.openjdk.jmh.util.TestStatistics)')","[183, 1283]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.dummy')",[3778]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInt, xxx, AverageTime')",[4094]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.logic.results.TestOpsPerTimeUnit')","[631, 2291]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFaultyArgs(org.openjdk.jmh.TestMain)')","[429, 1481]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testThreadsMax(org.openjdk.jmh.runner.options.TestOptions)')","[1087, 2031]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRunAggregator2(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[715, 1701]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListGetNothing(org.openjdk.jmh.runner.TestMicroBenchmarkList)')","[1005, 1965]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetMin(org.openjdk.jmh.util.TestStatistics)')","[225, 1327]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestExceptionThrowingMicro.ouch')",[3994]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListGetAll(org.openjdk.jmh.runner.TestMicroBenchmarkList)')","[963, 1921]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testThreadsWrong(org.openjdk.jmh.runner.options.TestOptions)')","[1108, 2053]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_128bytes')",[3658]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetIntGC')",[3562]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetIntGC, xxx, AverageTime')",[4144]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.TestMain')","[387, 2183]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.blackholed')","[2918, 5426, 6074]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_512bytes')","[3191, 4419]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.boom_Exception')",[3874]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInteger, xxx, AverageTime')",[4194]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarmOnly')",[3826]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestBrokenMicro.dummyPayload')",[3970]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRunAggregator2(org.openjdk.jmh.logic.results.TestAverageTimePerOp)')","[860, 1833]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.runner.options.TestOptions')","[1066, 6172]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDenseClasses3(org.openjdk.jmh.util.TestClassUtils)')","[368, 1437]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.boom_Exception')","[2846, 5354, 6002]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHelp(org.openjdk.jmh.TestMain)')","[408, 1459]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummySetupPayload, xxx, AverageTime')",[4694]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInteger')","[2582, 5138, 5738]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummy')","[3241, 4519]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIterationAggregator1(org.openjdk.jmh.logic.results.TestAverageTimePerOp)')","[881, 1855]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetIntGC')","[2438, 5066, 5594]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.api.java.util.concurrent.NormalMaps.testConcurrentHashMap')","[2991, 4019]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.logic.results.TestSampleTimePerOp')","[448, 2210]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.logic.results.TestSingleShotTime')","[509, 2237]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarmOnly')","[2798, 5306, 5954]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.api.java.util.concurrent.GeneratedMaps.testConcurrentHashMap')","[2702, 5234, 5858]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_32bytes')",[3682]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestBrokenMicro.dummyPayload')","[3441, 4919]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetScore(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[652, 1635]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.dummySetupPayload')","[2822, 5330, 5978]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_128bytes, xxx, AverageTime')",[4344]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.api.java.util.concurrent.NormalMaps.testConcurrentHashMap, xxx, AverageTime')",[4044]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListFindSingleWithExcludes(org.openjdk.jmh.runner.TestMicroBenchmarkList)')","[942, 1899]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestBrokenMicro.dummyPayload')","[2942, 5450, 6098]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.runner.TestMicroBenchmarkList')","[921, 6149]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.boom_Error')","[2870, 5378, 6026]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.blackholed')","[3416, 4869]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_512bytes, xxx, AverageTime')",[4444]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInt, xxx, AverageTime')",[4244]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummy, xxx, AverageTime')",[4544]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInt')","[2390, 5042, 5546]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_512bytes')","[2678, 5210, 5834]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListIsSorted(org.openjdk.jmh.runner.TestMicroBenchmarkList)')","[1047, 2009]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.api.java.util.concurrent.NormalMaps.testConcurrentHashMap')","[2342, 5018, 5498]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestExceptionThrowingMicro.ouch, xxx, AverageTime')",[4994]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIterationAggregator2(org.openjdk.jmh.logic.results.TestAverageTimePerOp)')","[902, 1877]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Int.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInt, xxx, AverageTime')","[2414, 5570]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testListFindSingle(org.openjdk.jmh.runner.TestMicroBenchmarkList)')","[1026, 1987]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRunAggregator3(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[736, 1723]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarm')",[3802]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInt')","[2534, 5114, 5690]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInteger')",[3586]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetConfidenceInterval(org.openjdk.jmh.util.TestStatistics)')","[99, 1195]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_32bytes')","[2654, 5186, 5810]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Int.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInt, xxx, AverageTime')","[2558, 5714]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIterationAggregator1(org.openjdk.jmh.logic.results.TestSingleShotTime)')","[551, 1569]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIterationAggregator1(org.openjdk.jmh.logic.results.TestSampleTimePerOp)')","[490, 1525]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInteger')","[3066, 4169]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRunAggregator1(org.openjdk.jmh.logic.results.TestSampleTimePerOp)')","[469, 1503]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummySetupPayload')","[3316, 4669]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDenseClasses2(org.openjdk.jmh.util.TestClassUtils)')","[347, 1415]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInteger')",[3634]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'org.openjdk.jmh.runner.TestMicro.boom_Throwable')",[3922]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testScore(org.openjdk.jmh.logic.results.TestAggregateResult)')","[612, 1613]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.dummy')","[2750, 5258, 5906]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.boom_Exception, xxx, AverageTime')",[4744]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetStandardDeviation(org.openjdk.jmh.util.TestStatistics)')","[120, 1217]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Int.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005ResizedHashMapGetInteger, xxx, AverageTime')","[2606, 5762]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Concurrent.*', 'oracle.micro.benchmarks.api.java.util.concurrent.NormalMaps.testConcurrentHashMap')",[3490]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRunAggregator1(org.openjdk.jmh.logic.results.TestSingleShotTime)')","[530, 1547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.util.TestFileUtils')","[265, 2129]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.boom_Throwable')","[3391, 4819]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRunAggregator1(org.openjdk.jmh.logic.results.TestAverageTimePerOp)')","[839, 1811]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTimeUnits(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[673, 1657]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.boom_Error')","[3366, 4769]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.util.TestClassUtils')","[305, 2156]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIterationAggregator1(org.openjdk.jmh.logic.results.TestOpsPerTimeUnit)')","[757, 1745]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.api.java.util.concurrent.GeneratedMaps.testConcurrentHashMap')","[3216, 4469]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_32bytes, xxx, AverageTime')",[4394]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInteger')","[2486, 5090, 5642]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.boom_Throwable')","[2894, 5402, 6050]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetN(org.openjdk.jmh.util.TestStatistics)')","[57, 1151]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarm')","[3266, 4569]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Int.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetIntGC, xxx, AverageTime')","[2462, 5618]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Int.*', 'oracle.micro.benchmarks.api.java.util.concurrent.GeneratedMaps.testConcurrentHashMap, xxx, AverageTime')","[2726, 3754, 5882]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Int.*', 'oracle.micro.benchmarks.app.jbb05.GeneratedSPECjbb2005HashMap.jbb2005HashMapGetInteger, xxx, AverageTime')","[2510, 5666]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'oracle.micro.benchmarks.app.sjent.GeneratedPrintBase64.printBase64Binary_128bytes')","[2630, 5162, 5786]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetSum(org.openjdk.jmh.util.TestStatistics)')","[246, 1349]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.openjdk.jmh.util.TestStatistics')","[36, 2102]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Hash.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarm')","[2774, 5282, 5930]"
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*', 'org.openjdk.jmh.runner.TestMicro.dummyWarmOnly, xxx, AverageTime')",[4644]
+"('MicroBenchmarkList.java', 'org.openjdk.jmh.runner.MicroBenchmarkList', 'find', '.*Int.*', 'oracle.micro.benchmarks.api.java.util.concurrent.NormalMaps.testConcurrentHashMap, xxx, AverageTime')","[2366, 3514, 5522]"

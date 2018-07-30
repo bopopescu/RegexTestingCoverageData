@@ -1,0 +1,11 @@
+"('MustacheViewProcessor.java', 'com.github.praxissoftware.jersey.mustache.MustacheViewProcessor', 'resolve', '^existsssss?[.]mustache[.]txt$', 'exists.mustache.txt')",[328]
+"('MustacheViewProcessor.java', 'com.github.praxissoftware.jersey.mustache.MustacheViewProcessor', 'resolve', '.*[.]mustache.*', 'ponies.mustache.txt')",[280]
+"('MustacheViewProcessor.java', 'com.github.praxissoftware.jersey.mustache.MustacheViewProcessor', 'resolve', '^existss?[.]mustache[.]txt$', 'exists.mustache.txt')",[304]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testResolves(com.github.praxissoftware.jersey.mustache.MustacheViewProcessorTest)')","[78, 164]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRegexMatches(com.github.praxissoftware.jersey.mustache.MustacheViewProcessorTest)')","[120, 208]"
+"('MustacheViewProcessor.java', 'com.github.praxissoftware.jersey.mustache.MustacheViewProcessor', 'resolve', '.*', 'exists.mustache.txt')",[256]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDoesntResolves(com.github.praxissoftware.jersey.mustache.MustacheViewProcessorTest)')","[99, 186]"
+"('MustacheViewProcessor.java', 'com.github.praxissoftware.jersey.mustache.MustacheViewProcessor', 'resolve', '.*[.]mustache.*', 'exists.mustache.txt')",[232]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'render(com.github.praxissoftware.jersey.mustache.MustacheViewProcessorTest)')","[57, 142]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.github.praxissoftware.jersey.mustache.MustacheViewProcessorTest')","[36, 351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

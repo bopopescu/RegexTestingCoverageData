@@ -1,0 +1,13 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterAvailablePresence(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[57, 289]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jivesoftware.openfire.plugin.ContentFilterTest')","[36, 532]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterWithEmptyMessage(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[204, 443]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterMessageSubject(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[225, 465]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterMessageBody(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[183, 421]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterChatMessage(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[99, 333]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterWholeWords(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[267, 509]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSetInvalidPatterns(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[78, 311]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterMessageSubjectWithMask(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[246, 487]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSetContentMask(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[162, 399]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterPresenceXML(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[120, 355]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFilterMessageBodyWithMask(org.jivesoftware.openfire.plugin.ContentFilterTest)')","[141, 377]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

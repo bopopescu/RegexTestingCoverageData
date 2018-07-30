@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testApp(com.vmware.AppTest)')",[119]
+"('Employee.java', 'com.vmware.Employee', 'setSsn', '\\d{3}-\\d{2}-\\d{4}', '123-45-6789')",[259]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'initializationError(com.vmware.EmployeeTest)')",[157]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'initializationError(com.vmware.Employee)')","[38, 76]"
+"('Employee.java', 'com.vmware.Employee', 'setSsn', '\\d{3}-\\d{2}-\\d{4}', '193-45-6989')",[227]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'initializationError(com.vmware.App)')",[195]
+"('Employee.java', 'com.vmware.Employee', 'setSsn', '\\d{3}-\\d{2}-\\d{4}', 'asdasd')",[291]
+"('Employee.java', 'com.vmware.Employee', 'setSsn', '\\d{3}-\\d{2}-\\d{4}', 'RamLikesNoOne')",[323]
+"('Employee.java', 'com.vmware.Employee', 'setSsn', '\\d{3}-\\d{2}-\\d{4}', '341-133-4139')",[355]
+"('Employee.java', 'com.vmware.Employee', 'setSsn', '\\d{3}-\\d{2}-\\d{4}', '22')",[387]

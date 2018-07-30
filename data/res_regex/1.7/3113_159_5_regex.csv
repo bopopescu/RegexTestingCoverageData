@@ -1,0 +1,12 @@
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'org.echocat.redprecursor.annotations.ParametersPassesExpression')",[247]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.echocat.redprecursor.impl.sun.compilertree.TreeDiscoveryUnitTest')","[76, 432]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.echocat.redprecursor.impl.sun.compilertree.SunNodeFactoryIntegrationTest')","[36, 409]"
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'javax.annotation.Nonnull')",[315]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.echocat.redprecursor.impl.sun.compilertree.SunNodeFactoryIntegrationTest)')","[57, 119]"
+"('MatchesPattern.java', 'org.echocat.redprecursor.annotations.MatchesPattern$Evaluator', 'evaluate', 'a.*', 'abc')",[382]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'javax.annotation.Nonnegative')",[281]
+"('FloatingDecimal.java', 'sun.misc.FloatingDecimal', 'parseHexString', '([-+])?0[xX](((\\p{XDigit}+)\\.?)|((\\p{XDigit}*)\\.(\\p{XDigit}+)))[pP]([-+])?(\\p{Digit}+)[fFdD]?', '0x1.0p1')",[179]
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'org.echocat.redprecursor.annotations.MatchesPattern')",[349]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDiscover(org.echocat.redprecursor.impl.sun.compilertree.TreeDiscoveryUnitTest)')","[97, 141]"
+"('JavacProcessingEnvironment.java', 'com.sun.tools.javac.processing.JavacProcessingEnvironment$ProcessorState', 'annotationSupported', '.*', 'org.echocat.redprecursor.annotations.GreaterThan')",[213]

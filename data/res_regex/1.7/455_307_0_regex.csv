@@ -1,0 +1,196 @@
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '5019717010103742')",[6680]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDivision(org.seefin.nygaard.model.financial.TestMoney)')","[469, 2427]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '4111111111111111')","[6135, 6525]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{4}', 'GBCL')",[8637]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHierarchy(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[841, 2742]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.TestMSISDNSchemes')","[778, 5771]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{13}', '0500013M02606')",[8525]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{18}', '000000608010167519')",[7148]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testObfustication(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1341, 3204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotEquals(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1612, 3456]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDivisionByZero(org.seefin.nygaard.model.financial.TestMoney)')","[427, 2385]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNewIdLength(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1507, 3351]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{8}', '99999999')",[7310]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test2Integer(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1093, 2994]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotEquals(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[719, 2658]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '5105105105105100')","[5549, 6109, 6499]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCountryOnly(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1652, 3477]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMonetaryPrecision(org.seefin.nygaard.model.financial.TestMoney)')","[448, 2406]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{3}', '001')",[8060]
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z]{4}', 'VISN')",[4386]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCountryPlusNDCOnly(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1030, 2931]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidCheckSum(org.seefin.nygaard.model.instruments.TestCreditCard)')","[120, 2154]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAssemblerGBCIBAN(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[2009, 3834]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{10}', '0300065264')",[7472]
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z]{4}', 'VISA')","[4086, 4566]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEgyptianNDC(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1051, 2952]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{16}', '0000000235698741')",[7790]
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '30569309025904')","[5927, 6317]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.instruments.TestElectronicWallet')","[160, 5499]"
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z0-9]{2}', 'FF')",[7601]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1465, 3309]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{8}', '50070010')",[7653]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{9}', '212456251')",[7499]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreditCardCreation(org.seefin.nygaard.model.account.TestAccount)')","[282, 2259]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotValid(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[572, 2511]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '378282246310005')","[5823, 6213]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAddition(org.seefin.nygaard.model.financial.TestMoney)')","[364, 2322]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUS(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1757, 3582]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIfValid(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1570, 3414]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStringParse(org.seefin.nygaard.model.financial.TestMoney)')","[532, 2490]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBadNumberlength(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1257, 3120]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testElectronicWalletCreation(org.seefin.nygaard.model.instruments.TestElectronicWallet)')","[181, 2196]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSubtractionSuccess(org.seefin.nygaard.model.financial.TestMoney)')","[490, 2448]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{4}', 'IRCE')","[7817, 8553]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '6338450265689762')",[5447]
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z0-9]{2}', '21')","[4296, 4356, 4476, 4656, 4716, 4836, 4896, 5016, 5076, 5136, 5196, 5256, 5316]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.TestUniqueID')","[1402, 6824]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '01005')",[8498]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGuessSchemeIE(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1841, 3666]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '6338450265689767')","[5342, 5420]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIdFromString(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1423, 3267]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{8}', '12345678')","[6905, 7871, 8444]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetBBAN_NL(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1736, 3561]"
+"('GUID.java', 'org.seefin.nygaard.model.identifiers.GUID', 'isValid', '([\\p{XDigit}]{8})-([\\p{XDigit}]{4})-([\\p{XDigit}]{4})-([\\p{XDigit}]{4})-([\\p{XDigit}]{12})', 'F47AC10b-58cc-4372-a567-0e02b2c3d479')",[5693]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.TestISO7812')","[1215, 6706]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{11}', '00000009539')",[8693]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSortList(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[820, 2721]"
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z0-9]{2}', 'P1')",[4416]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.TestIBANSchemes')","[1631, 8803]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{8}', '98765432')",[8360]
+"('GUID.java', 'org.seefin.nygaard.model.identifiers.GUID', 'isValid', '([\\p{XDigit}]{8})-([\\p{XDigit}]{4})-([\\p{XDigit}]{4})-([\\p{XDigit}]{4})-([\\p{XDigit}]{12})', 'f47ac10b-58cc-4372-a567-0e02b2c3d47')",[5647]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{4}', 'BOFI')","[6851, 8388]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{4}', 'NABZ')","[8141, 8222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreditCardValidation(org.seefin.nygaard.model.instruments.TestCreditCard)')","[78, 2112]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.financial.TestMoney')","[322, 5601]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParts(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[883, 2784]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '4012888888881881')","[6161, 6551]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{13}', '0112233M44555')",[8033]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCompare(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[635, 2574]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnknownIssuer(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1320, 3183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParts(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1299, 3162]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInequality(org.seefin.nygaard.model.instruments.TestCreditCard)')","[99, 2133]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[A-Z]{4}', 'RABO')",[7418]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGuessSchemeUS(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[946, 2847]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEgyptianNDC2(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1009, 2910]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidMod97(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1988, 3813]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{6}', '920501')","[7844, 8581]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '20041')",[8471]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidSchema(org.seefin.nygaard.model.identifiers.BadSchemaTest)')","[2070, 3876]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '4552720412345677')","[5368, 5394]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateCode(org.seefin.nygaard.model.codes.TestResponseCodes)')","[242, 2238]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{7}', '1117947')",[7391]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{20}', '00000000137010001944')","[8195, 8276]"
+"('GUID.java', 'org.seefin.nygaard.model.identifiers.GUID', 'isValid', '[\\p{XDigit}]{32}', 'f47ac10b-58cc-4372-a567-0e02b2c3d47')",[5624]
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z0-9]{3}', 'XXX')",[7625]
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z]{4}', 'DEUT')",[7577]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '00762')",[7175]
+"('UniqueID.java', 'org.seefin.nygaard.model.identifiers.UniqueID', 'isValid', '[A-Za-z0-9]{18}', '1HGE-AW20-H1DK-Z5FW-11')",[6775]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{6}', '601613')",[7040]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{2}', '80')",[7094]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEquals(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1591, 3435]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateTime(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[656, 2595]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAssemblerIBANIE(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1925, 3750]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '4319408982824446')",[6603]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateTime(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1549, 3393]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '20052')",[7979]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.NoSchemasTest')","[738, 5745]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNewVodafoneNDCs(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1114, 3015]"
+"('UniqueID.java', 'org.seefin.nygaard.model.identifiers.UniqueID', 'isValid', '([A-Za-z0-9]{4})-([A-Za-z0-9]{4})-([A-Za-z0-9]{4})-([A-Za-z0-9]{4})-([A-Za-z0-9]{2})', '1HGE-AW20-H1DK-Z5FW')",[6752]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{4}', '8601')",[7337]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{6}', '901490')","[6878, 8416]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{3}', '260')",[7898]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnknownScheme(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1799, 3624]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.account.TestAccount')","[261, 5575]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '4222222222222')","[6187, 6577]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSortList(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1673, 3498]"
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z]{4}', 'MACS')","[3906, 3966, 4026, 4146, 4206]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '00000')",[7283]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[A-Z]{4}', 'WEST')",[8304]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGuessScheme(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1862, 3687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCountryPlusBankOnly(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1967, 3792]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.NoSchemasFileTest')","[1175, 5797]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{4}', '0125')",[6959]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[A-Z]{4}', 'MALT')",[8721]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnknownScheme(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[904, 2805]"
+"('UniqueID.java', 'org.seefin.nygaard.model.identifiers.UniqueID', 'isValid', '([A-Za-z0-9]{4})-([A-Za-z0-9]{4})-([A-Za-z0-9]{4})-([A-Za-z0-9]{4})-([A-Za-z0-9]{2})', '1HGE-AW20-H1DK-Z5FW-11')",[6798]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEGNumbers2(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[988, 2889]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '22210')",[8006]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParse(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[593, 2532]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNumberConversions(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1278, 3141]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCountryOnly(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[799, 2700]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.TestUniqueIdentity')","[551, 5719]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnregisteredScheme(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1383, 3246]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{3}', '011')",[6932]
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '5610591081018251')",[6656]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidIE(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1694, 3519]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGuessSchemeIE(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[925, 2826]"
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z0-9]{2}', 'B1')","[4536, 4776, 4956]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{15}', '005601001611379')",[7952]
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '3530111333300000')","[6031, 6421]"
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z]{4}', 'AEIB')","[4506, 4746, 4926]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSortList(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1236, 3099]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{16}', '0000000012300695')",[6986]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNoSchemasAvailable(org.seefin.nygaard.model.identifiers.NoSchemasFileTest)')","[1196, 3078]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUniqueSequence(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1486, 3330]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{18}', '0012345MTLCAST001S')",[8777]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testUnrecognizedSchema(org.seefin.nygaard.model.identifiers.NoSchemasTest)')","[759, 2679]"
+"('UniqueID.java', 'org.seefin.nygaard.model.identifiers.UniqueID', 'isValid', '[A-Za-z0-9]{18}', '1HGE-AW20-H1DK-Z5FW')",[6729]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '11009')",[7763]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{12}', '011623852957')",[7229]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNotValid(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1444, 3288]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCompare(org.seefin.nygaard.model.identifiers.TestUniqueID)')","[1528, 3372]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{6}', '010800')",[7256]
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z]{4}', 'GRJC')","[4446, 4626, 4866]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[A-Z]{4}', 'NWBK')",[7013]
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z0-9]{2}', '33')","[3936, 3996, 4056, 4176, 4236]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{13}', '9400644750000')",[8114]
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '3566002020360505')","[6057, 6447]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '5610591081018250')","[5901, 6291]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '5555555555554444')","[6083, 6473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateCodeFromInteger(org.seefin.nygaard.model.codes.TestResponseCodes)')","[221, 2217]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWalletCreation(org.seefin.nygaard.model.account.TestAccount)')","[303, 2280]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{8}', '12345679')",[8609]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{8}', '31926819')",[7067]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAntigua(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[862, 2763]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidChecksum(org.seefin.nygaard.model.identifiers.TestISO7812)')","[1362, 3225]"
+"('GUID.java', 'org.seefin.nygaard.model.identifiers.GUID', 'isValid', '[\\p{XDigit}]{32}', 'F47AC10b-58cc-4372-a567-0e02b2c3d479')",[5670]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRounding(org.seefin.nygaard.model.financial.TestMoney)')","[406, 2364]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNewIdLength(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[614, 2553]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.instruments.TestCreditCard')","[36, 5473]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSubtractionDifferentCurrenciesFail1(org.seefin.nygaard.model.financial.TestMoney)')","[385, 2343]"
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z]{4}', 'DICF')","[4266, 4326, 4686, 4806, 4986, 5046, 5106, 5166, 5226, 5286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateFromBIC(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1778, 3603]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '6011601160116611')",[6629]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIfValid(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[677, 2616]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEquals(org.seefin.nygaard.model.identifiers.TestUniqueIdentity)')","[698, 2637]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEGNumbers(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1135, 3036]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCompare(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1072, 2973]"
+"('ISO9362.java', 'org.seefin.nygaard.model.identifiers.ISO9362', '<init>', '[A-Z0-9]{2}', '61')","[4116, 4596]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testObfusticatedToString(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1946, 3771]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBadEgyptian(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[1156, 3057]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{3}', '212')",[7736]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[a-zA-Z0-9]{10}', '0532013000')",[7709]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.codes.TestResponseCodes')","[200, 5525]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '6011111111111117')","[5979, 6369]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGuessScheme(org.seefin.nygaard.model.identifiers.TestMSISDNSchemes)')","[967, 2868]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCompare(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1883, 3708]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreditCardEquality(org.seefin.nygaard.model.instruments.TestCreditCard)')","[57, 2091]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParts(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1715, 3540]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '6011000990139424')","[6005, 6395]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'org.seefin.nygaard.model.identifiers.BadSchemaTest')","[2049, 8825]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMultiply(org.seefin.nygaard.model.financial.TestMoney)')","[511, 2469]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAssemblerIBANGB(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1904, 3729]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{6}', '123456')",[8332]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInvalidCreditCardValidation(org.seefin.nygaard.model.instruments.TestCreditCard)')","[141, 2175]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAssemblerIBAN(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[2030, 3855]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{4}', '1268')",[8665]
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '378734493671000')","[5875, 6265]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testSubtractionDifferentCurrenciesFailure(org.seefin.nygaard.model.financial.TestMoney)')","[343, 2301]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGuessSchemeAL(org.seefin.nygaard.model.identifiers.TestIBANSchemes)')","[1820, 3645]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '371449635398431')","[5849, 6239]"
+"('LuhnChecksum.java', 'org.seefin.nygaard.model.identifiers.LuhnChecksum', 'isValid', '[^0-9]', '38520000023237')","[5953, 6343]"
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{5}', '01100')",[8749]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{12}', '100003456789')",[7553]
+"('IBANScheme.java', 'org.seefin.nygaard.model.identifiers.IBANScheme$IBANRule', 'validate', '[0-9]{0}', '')","[7121, 7202, 7364, 7445, 7526, 7681, 7925, 8087, 8168, 8249]"

@@ -1,0 +1,27 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.loki2302.HelloServiceTest')","[36, 3880]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sayHelloTest(com.loki2302.HelloServiceTest)')","[57, 99]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/HelloService(/.*)?', '/HelloService/SayHello')",[3718]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')",[477]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q1302_430\\E', '1302_430')","[324, 834, 1344, 1854, 2364, 2874, 3384]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addNumbersTest(com.loki2302.HelloServiceTest)')","[78, 120]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[426, 936, 1446, 1956, 2466, 2976, 3486]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AddNumbersResponseDTO.class')",[1140]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HelloServiceImpl.class')",[3690]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[222, 732, 1242, 1752, 2262, 2772, 3282]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/SayHello(/.*)?', '/AddNumbers')",[3830]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qloki2302\\E', 'loki2302')","[579, 1089, 1599, 2109, 2619, 3129, 3639]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[528, 1038, 1548, 2058, 2568, 3078, 3588]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/AddNumbers(/.*)?', '/SayHello')",[3774]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/AddNumbers(/.*)?', '/AddNumbers')",[3858]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[273, 783, 1293, 1803, 2313, 2823, 3333]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HelloDTO.class')",[2160]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtestcxf\\E', 'testcxf')","[375, 885, 1395, 1905, 2415, 2925, 3435]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[171, 681, 1191, 1701, 2211, 2721, 3231]"
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/HelloService(/.*)?', '/HelloService/AddNumbers')",[3802]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AddNumbersRequestDTO.class')",[1650]
+"('URITemplate.java', 'org.apache.cxf.jaxrs.model.URITemplate', 'match', '/SayHello(/.*)?', '/SayHello')",[3746]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'WebAppController.class')",[3180]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HelloService.class')",[2670]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HelloServiceTest.class')",[630]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[987, 1497, 2007, 2517, 3027, 3537]"

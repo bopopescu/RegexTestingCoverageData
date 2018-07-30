@@ -1,0 +1,8 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.sweble.wikitext.example.AppTest)')","[57, 79]"
+"('ParserConfigImpl.java', 'org.sweble.wikitext.engine.config.ParserConfigImpl', 'addUrlProtocol', '^\\w+(:|://)$', 'http://')",[108]
+"('ParserConfigImpl.java', 'org.sweble.wikitext.engine.config.ParserConfigImpl', 'addUrlProtocol', '^\\w+(:|://)$', 'mailto:')",[166]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.sweble.wikitext.example.AppTest')","[36, 378]"
+"('LinkTargetParser.java', 'org.sweble.wikitext.parser.parser.LinkTargetParser', 'identifyNamespaces', '^(.+?)_*:_*(.*)$', 'Simple_Page')",[193]
+"('LinkTargetParser.java', 'org.sweble.wikitext.parser.parser.LinkTargetParser', 'identifyNamespaces', '^(.+?)_*:_*(.*)$', 'Somewhere')","[260, 355]"
+"('ParserConfigImpl.java', 'org.sweble.wikitext.engine.config.ParserConfigImpl', 'addUrlProtocol', '^\\w+(:|://)$', 'https://')",[137]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]

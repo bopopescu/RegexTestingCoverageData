@@ -1,0 +1,27 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testFetch(net.dthg.taric.ChapterFetchTest)')","[139, 494]"
+"('TaricChooser.java', 'net.dthg.taric.TaricChooser', 'isDateCorrectlyFormatted', '^(\\d{4})(\\d{2})(\\d{2})$', '10080229')",[910]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTransform(net.dthg.taric.SectionTransformerTest)')","[221, 560]"
+"('TaricChooser.java', 'net.dthg.taric.TaricChooser', 'isDateCorrectlyFormatted', '^(\\d{4})(\\d{2})(\\d{2})$', '20080229')",[841]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.dthg.taric.TaricChooserTest')","[261, 983]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIsDateCorrectlyFormattedWithNoData(net.dthg.taric.TaricChooserTest)')","[282, 604]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'transformWithChapters(net.dthg.taric.SectionTransformerTest)')","[242, 582]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'isDateCorrectlyFormattedWithIncorrectData(net.dthg.taric.TaricChooserTest)')","[324, 648]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.dthg.taric.ChapterTransformerTest')","[343, 1006]"
+"('TaricChooser.java', 'net.dthg.taric.TaricChooser', 'isDateCorrectlyFormatted', '^(\\d{4})(\\d{2})(\\d{2})$', '200802292')",[887]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'isDateCorrectlyFormattedWithCorrectData(net.dthg.taric.TaricChooserTest)')","[303, 626]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTransformWithLongTitle(net.dthg.taric.SectionTransformerTest)')","[179, 516]"
+"('TaricChooser.java', 'net.dthg.taric.TaricChooser', 'isDateCorrectlyFormatted', '^(\\d{4})(\\d{2})(\\d{2})$', '20100731')",[818]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'emptyData(net.dthg.taric.JSReaderTest)')","[57, 428]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.dthg.taric.JSReaderTest')","[36, 741]"
+"('TaricChooser.java', 'net.dthg.taric.TaricChooser', 'isDateCorrectlyFormatted', '^(\\d{4})(\\d{2})(\\d{2})$', '20080249')",[956]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'doubleLevel(net.dthg.taric.ChapterTransformerTest)')","[385, 692]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldReturnNullIfNullProvided(net.dthg.taric.SectionTransformerTest)')","[200, 538]"
+"('TaricChooser.java', 'net.dthg.taric.TaricChooser', 'isDateCorrectlyFormatted', '^(\\d{4})(\\d{2})(\\d{2})$', 'Yo?')",[864]
+"('TaricChooser.java', 'net.dthg.taric.TaricChooser', 'isDateCorrectlyFormatted', '^(\\d{4})(\\d{2})(\\d{2})$', '20084229')",[933]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'arrayVariable(net.dthg.taric.JSReaderTest)')","[99, 472]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'none(net.dthg.taric.ChapterTransformerTest)')","[406, 714]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'correctVariable(net.dthg.taric.JSReaderTest)')","[78, 450]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.dthg.taric.ChapterFetchTest')","[118, 768]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'net.dthg.taric.SectionTransformerTest')","[158, 795]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'singleLevel(net.dthg.taric.ChapterTransformerTest)')","[364, 670]"

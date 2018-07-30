@@ -1,0 +1,82 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.rs.extractor.BodyTokenExtractorTest')","[931, 3436]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessTokenNull(org.apache.amber.oauth2.rs.extractor.QueryTokenExtractorTest)')","[1074, 2063]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer sadfasfd')",[2274]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer ')",[2220]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyNoToken(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[498, 1579]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultipleStylesValidRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[456, 1535]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer sdfsadfsadf')",[3182]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'oauth_signature_method=""HMAC-SHA1""')","[2517, 3001, 3382]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer sdfsadfsadf')",[3157]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer sadfasfd,oauth_signature_method=""HMAC-SHA1""')","[2436, 2920]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyValidRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[288, 1359]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer sdfsadfsadf,oauth_signature_method=""HMAC-SHA1""')",[3282]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateWrongHeaderRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[183, 1249]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer sometoken')","[2544, 2677, 2785]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateMultipleTokens(org.apache.amber.oauth2.rs.validator.QueryOAuthValidatorTest)')","[767, 1821]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateQueryMultipleTokens(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[351, 1425]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.rs.validator.HeaderOAuthValidatorTest')","[807, 3409]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyHeaderMixedTokensAndWrongVersion(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[519, 1601]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer sdfsadfsadf,oauth_signature_method=""HMAC-SHA1""')",[3332]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateValidHeaderMissingField(org.apache.amber.oauth2.rs.validator.HeaderOAuthValidatorTest)')","[891, 1931]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessTokenWrongBodyRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[330, 1403]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateInvalidMethod(org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest)')","[601, 1667]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessToken(org.apache.amber.oauth2.rs.extractor.HeaderTokenExtractorTest)')","[1034, 2041]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'sdfsadfsadf')","[3207, 3357]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyWrongOAuthVersion(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[309, 1381]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyMultipleTokens(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[120, 1183]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tesValidateValidMessage(org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest)')","[643, 1711]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'sometoken')","[2625, 2758, 2866]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateQueryNoToken(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[204, 1271]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateInvalidHeader(org.apache.amber.oauth2.rs.validator.HeaderOAuthValidatorTest)')","[849, 1887]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateValidHeader(org.apache.amber.oauth2.rs.validator.HeaderOAuthValidatorTest)')","[870, 1909]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer  ')",[3232]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer sadfasfd')",[2328]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyInvalidEncoding(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[162, 1227]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.rs.validator.QueryOAuthValidatorTest')","[704, 3082]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest')","[538, 3055]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateValidHeaderWrongVersion(org.apache.amber.oauth2.rs.validator.HeaderOAuthValidatorTest)')","[912, 1953]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateNoHeader(org.apache.amber.oauth2.rs.validator.HeaderOAuthValidatorTest)')","[828, 1865]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateWrongVersion(org.apache.amber.oauth2.rs.validator.QueryOAuthValidatorTest)')","[746, 1799]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateToken(org.apache.amber.oauth2.rs.validator.QueryOAuthValidatorTest)')","[788, 1843]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateValidHeaderRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[78, 1139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessToken(org.apache.amber.oauth2.rs.extractor.BodyTokenExtractorTest)')","[973, 1997]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'token')",[2193]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer ')",[2247]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMultipleStylesInvalidRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[477, 1557]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tesValidateMultipartMessage(org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest)')","[664, 1733]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer sdfsadfsadf')",[3132]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateHeaderWrongVersionRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[246, 1315]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '(\\S*)\\s*\\=\\s*""([^""]*)""', 'sadfasfd')","[2355, 2490, 2974]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer token')",[2166]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tesValidateTokenMissing(org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest)')","[580, 1645]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Basic arawersadf')",[3107]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyHeaderMixedTokens(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[141, 1205]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer token')",[2112]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest')","[36, 3028]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateQueryValidRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[57, 1117]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer sadfasfd,oauth_signature_method=""HMAC-SHA1""')","[2463, 2947]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tesValidateMultipleTokens(org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest)')","[622, 1689]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateQueryWrongVersion(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[435, 1513]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer sdfsadfsadf,oauth_signature_method=""HMAC-SHA1""')",[3307]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer  ')",[3257]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer token')",[2139]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidateNoQuery(org.apache.amber.oauth2.rs.validator.QueryOAuthValidatorTest)')","[725, 1777]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Basic assdafasfd')",[2382]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateHeaderMissingFieldRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[99, 1161]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessTokenWrongQueryRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[267, 1337]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessToken(org.apache.amber.oauth2.rs.extractor.QueryTokenExtractorTest)')","[1095, 2085]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessCorrectRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[372, 1447]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthzMethod', '\\s*(\\w*)\\s+(.*)', 'Bearer sadfasfd,oauth_signature_method=""HMAC-SHA1""')","[2409, 2893]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.rs.extractor.HeaderTokenExtractorTest')","[992, 3487]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer sadfasfd')",[2301]
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'decodeOAuthHeader', '\\s*(\\w*)\\s+(.*)', 'Bearer sometoken')","[2598, 2731, 2839]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessTokenNull(org.apache.amber.oauth2.rs.extractor.BodyTokenExtractorTest)')","[952, 1975]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateBodyWrongMethod(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[414, 1491]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tesValidateInvalidOAuthVersion(org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest)')","[685, 1755]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessTokenNull(org.apache.amber.oauth2.rs.extractor.HeaderTokenExtractorTest)')","[1013, 2019]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAccessTokenWrongHeaderRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[393, 1469]"
+"('OAuthUtils.java', 'org.apache.amber.oauth2.common.utils.OAuthUtils', 'getAuthHeaderField', '\\s*(\\w*)\\s+(.*)', 'Bearer sometoken')","[2571, 2650, 2704, 2812, 3460]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.apache.amber.oauth2.rs.extractor.QueryTokenExtractorTest')","[1053, 3510]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'tesValidateInvalidEncoding(org.apache.amber.oauth2.rs.validator.BodyOAuthValidatorTest)')","[559, 1623]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreateNoHeaderRequest(org.apache.amber.oauth2.rs.OAuthAccessResourceRequestTest)')","[225, 1293]"

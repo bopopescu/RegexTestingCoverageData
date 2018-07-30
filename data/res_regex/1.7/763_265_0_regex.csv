@@ -1,0 +1,4 @@
+"('CarTest.java', 'uk.org.fyodor.example.CarTest', 'createCar', '^[A-Z]{5}-[A-Z0-9]{7}-[0-9]{3}-[DXZ]$', 'UKTPU-IWMI8XL-467-X')",[100]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'createCar(uk.org.fyodor.example.CarTest)')","[57, 78]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'uk.org.fyodor.example.CarTest')","[36, 122]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]

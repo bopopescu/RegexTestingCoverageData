@@ -1,0 +1,9 @@
+"('PlaylistParser.java', 'net.chilicat.m3u8.PlaylistParser', 'parseEncryption', '\\s*#EXT-X-KEY\\s*:\\s*METHOD=([0-9A-Za-z\\-]*)(,URI=""([^\\\\""]*.*)"")?', '#EXT-X-KEY:METHOD=AES-128,URI=""https://priv.example.com/key.php?r=52""')",[244]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9]*)\\s*(?:,(.*))?', '#EXTINF:A200,Title')",[53]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9]*)\\s*(?:,(.*))?', '#EXTINF:200A,Title')",[79]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9]*)\\s*(?:,(.*))?', '#EXTI NF:200,Title')",[131]
+"('M3uConstants.java', 'net.chilicat.m3u8.M3uConstants$Patterns', 'toDate', '\\s*#EXT-X-PROGRAM-DATE-TIME\\s*:\\s*([^.]*)(\\.[0-9]+)?(.*)', '#EXT-X-PROGRAM-DATE-TIME:2009-12-30T12:10:01+0100')","[27, 214]"
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9]*)\\s*(?:,(.*))?', '#EXTINF:200,Title')",[157]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9]*)\\s*(?:,(.*))?', '\t  #EXTINF \t : \t 200 \t , \t Title\t')",[183]
+"('PatternTest.java', 'net.chilicat.m3u8.PatternTest', 'testEXTINF_NO_MATCH', '\\s*#EXTINF\\s*:\\s*\\s*(-1|[0-9]*)\\s*(?:,(.*))?', '#  EXTINF:200,Title')",[105]
+"('PlaylistParser.java', 'net.chilicat.m3u8.PlaylistParser', 'parseEncryption', '\\s*#EXT-X-KEY\\s*:\\s*METHOD=([0-9A-Za-z\\-]*)(,URI=""([^\\\\""]*.*)"")?', '#EXT-X-KEY:METHOD=NONE')",[274]

@@ -1,0 +1,67 @@
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Gold ?')",[705]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how much is pish tegj glob glob ?')",[245]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression2', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'glob prok Gold is 57800 Credits')",[2171]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression4', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'how many Credits is glob prok Iron ?')",[2370]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob dabra is IVC')","[1838, 1872]"
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob is I')",[2570]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Gold ?')",[740]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression1', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob dabra is IVC')",[1804]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Iron ?')","[457, 493, 2503, 2537]"
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression2', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'glob prok Gold is 57800 Credits')",[2138]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'how many Credits is glob prok Iron ?')",[316]
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'prok is V')",[2671]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression4', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Iron ?')",[2436]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'how many Credits is glob prok Gold ?')",[635]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Iron ?')",[386]
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'pish pish Iron is 3910 Credits')",[3275]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[105]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob glob Silver is 34 Credits')",[1450]
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob glob Silver is 34 Credits')",[3007]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[35]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression2', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob prok Gold is 57800 Credits')",[2004]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Gold ?')","[776, 812]"
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Silver ?')","[1202, 1238]"
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Silver ?')",[1166]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[140]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'how many Credits is glob prok Gold ?')",[670]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Iron ?')",[421]
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'pish is X')",[2772]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob glob Silver is 34 Credits')",[1415]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'pish pish Iron is 3910 Credits')",[1557]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression3', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'how much is pish tegj glob glob ?')",[2204]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'how many Credits is glob prok Iron ?')",[351]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob glob Silver is 34 Credits')","[1486, 1522, 3041, 3075]"
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression4', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'how many Credits is glob prok Iron ?')",[2403]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'how much wood could a woodchuck chuck if a woodchuck could chuck wood ?')",[70]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob prok Gold is 57800 Credits')","[1344, 1380, 2071, 2105, 3175, 3209]"
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'pish pish Iron is 3910 Credits')",[3242]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Silver ?')",[1131]
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'tegj is L')",[2873]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'tegj is L')","[990, 1026, 2907, 2941]"
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'how many Credits is glob prok Silver ?')",[1061]
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob glob Silver is 34 Credits')",[2974]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression3', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how much is pish tegj glob glob ?')",[2270]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'pish is X')","[883, 919, 2806, 2840]"
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression3', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'how much is pish tegj glob glob ?')",[2237]
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob prok Gold is 57800 Credits')",[3141]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob is I')","[1735, 1771, 2604, 2638]"
+"('TestValidatorsAndTransformers.java', 'com.thoughtworks.prob1.test.TestValidatorsAndTransformers', 'prepareData', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob prok Gold is 57800 Credits')",[3108]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression1', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'glob dabra is IVC')",[1938]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'prok is V')","[564, 600, 2705, 2739]"
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression4', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how many Credits is glob prok Iron ?')",[2469]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob prok Gold is 57800 Credits')",[1308]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'how much is pish tegj glob glob ?')",[210]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression3', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'how much is pish tegj glob glob ?')",[2337]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', ""(how)(\\s+)(much)(\\s+)(is)(\\s+\\w+)+\\s+['?']"", 'how much is pish tegj glob glob ?')","[281, 2304]"
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'how many Credits is glob prok Silver ?')",[1096]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression1', ""(how)(\\s+)(many)(\\s+\\w+\\s+)+(is)(\\s+\\w+)+\\s+['?']"", 'glob dabra is IVC')",[1971]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'how much is pish tegj glob glob ?')",[175]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'tegj is L')",[954]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression1', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob dabra is IVC')",[1905]
+"('TestExpr.java', 'com.thoughtworks.prob1.test.TestExpr', 'testBaseExpression2', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'glob prok Gold is 57800 Credits')",[2037]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob is I')",[1699]
+"('Expression.java', 'com.thoughtworks.prob1.base.Expression', 'process', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'pish pish Iron is 3910 Credits')","[1628, 1664, 3309, 3343]"
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'pish is X')",[847]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'prok is V')",[528]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+[IVXLCDM]+', 'glob prok Gold is 57800 Credits')",[1273]
+"('QueryProcessor.java', 'com.thoughtworks.prob1.evaluator.QueryProcessor', 'init', '(\\w+\\s+)+(is)\\s+\\d+(\\s+\\w+)+', 'pish pish Iron is 3910 Credits')",[1592]

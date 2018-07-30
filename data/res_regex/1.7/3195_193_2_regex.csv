@@ -1,0 +1,43 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetAuthentication(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[162, 183, 204]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[5138]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetSigningCredential(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAddUser(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[78, 99, 120, 665]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetAttribute(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[561, 791]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAddUser(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[57, 645]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'ECB|CBC|PCBC|CTR|CTS|CFB|OFB|CFB8|CFB16|CFB24|CFB32|CFB40|CFB48|CFB56|CFB64|OFB8|OFB16|OFB24|OFB32|OFB40|OFB48|OFB56|OFB64|CFB72|CFB80|CFB88|CFB96|CFB104|CFB112|CFB120|CFB128|OFB72|OFB80|OFB88|OFB96|OFB104|OFB112|OFB120|OFB128', 'CBC')",[5267]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qnl\\E', 'nl')","[1831, 2400, 3024, 3640, 4252, 4864]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security\\.xsd.*', '')","[910, 949, 1226, 1265]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1474, 2036, 2660, 3283, 3895, 4507]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRemoveAttribute(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[498, 519, 540]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qmujina-idp\\E', 'mujina-idp')","[1678, 2244, 2868, 3487, 4099]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[5208]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'IdpRestAPITest.class')",[2608]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1780, 2348, 2972, 3589]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.0.*xsd.*', '')","[831, 870, 1147, 1186]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWrongUser(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'nl.surfnet.mujina.controllers.tests.IdpRestAPITest')","[5347, 5367, 5388, 5408]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q3195_193\\E', '3195_193')","[1627, 2192, 2816, 3436, 4048, 4660]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qmujina-common\\E', 'mujina-common')",[4711]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRemoveAttribute(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[477, 770]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qcontrollers\\E', 'controllers')","[1984, 2556, 3180, 3793, 4405, 5017]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security-3\\.0.*xsd.*', 'http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.0.xsd')","[1068, 1107, 1384, 1423]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[1525, 2088, 2712, 3334, 3946, 4558]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[4201, 4813]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetAttribute(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[582, 603, 624]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetEntityID(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[393, 749]"
+"('SecurityNamespaceHandler.java', 'org.springframework.security.config.SecurityNamespaceHandler', 'matchesVersionInternal', '(?m).*spring-security.*', '')","[989, 1028, 1305, 1344]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetSigningCredential(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[225, 707]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetEntityID(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[414, 435, 456]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'tests')",[3844]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetAuthentication(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[141, 686]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'IdentityProviderAPI.class')",[4456]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'TestHelper.class')",[3232]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1729, 2296, 2920, 3538, 4150, 4762]"
+"('Cipher.java', 'javax.crypto.Cipher$Transform', 'supports', 'NOPADDING|PKCS5PADDING|ISO10126PADDING', 'ISO10126PADDING')",[5326]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1576, 2140, 2764, 3385, 3997, 4609]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qsurfnet\\E', 'surfnet')","[1882, 2452, 3076, 3691, 4303, 4915]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWrongUser(nl.surfnet.mujina.controllers.tests.IdpRestAPITest)')","[309, 728]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'CommonAPI.class')",[5068]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'nl.surfnet.mujina.controllers.tests.IdpRestAPITest')",[36]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qmujina\\E', 'mujina')","[1933, 2504, 3128, 3742, 4354, 4966]"

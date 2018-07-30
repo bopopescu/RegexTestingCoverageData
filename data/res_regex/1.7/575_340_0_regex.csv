@@ -1,0 +1,49 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsNotSatisfiedByWrongDestination(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')","[263, 906]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'NLRTM')",[1515]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.interfaces.booking.facade.internal.assembler.CargoRouteDtoAssemblerTest')","[635, 1781]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsNotSatisfiedByMissedDeadline(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')","[305, 948]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCargoOnTrack(net.java.cargotracker.domain.model.cargo.ItineraryTest)')","[408, 1032]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.handling.HandlingEventTest')","[97, 1659]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNHKG')",[1331]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationReceived(net.java.cargotracker.domain.model.cargo.CargoTest)')","[616, 1221]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToDtoNoItinerary(net.java.cargotracker.interfaces.booking.facade.internal.assembler.CargoRouteDtoAssemblerTest)')","[677, 1263]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'JNTKO')",[1446]
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'DEHAM')",[1469]
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'FIHEL')",[1400]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNewWithLocation(net.java.cargotracker.domain.model.handling.HandlingEventTest)')","[118, 780]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.handling.HandlingHistoryTest')","[36, 1633]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToDto(net.java.cargotracker.interfaces.booking.facade.internal.assembler.CargoRouteDtoAssemblerTest)')","[656, 1242]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'USNYC')",[1584]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testMostRecentlyCompletedEvent(net.java.cargotracker.domain.model.handling.HandlingHistoryTest)')","[78, 759]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDistinctEventsByCompletionTime(net.java.cargotracker.domain.model.handling.HandlingHistoryTest)')","[57, 738]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationUnknownWhenNoEvents(net.java.cargotracker.domain.model.cargo.CargoTest)')","[448, 1053]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'XXXXX')",[1308]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testToDTOList(net.java.cargotracker.interfaces.booking.facade.internal.assembler.LocationDtoAssemblerTest)')","[717, 1284]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'SESTO')",[1377]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsUnloadedAtFinalDestination(net.java.cargotracker.domain.model.cargo.CargoTest)')","[490, 1095]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'USCHI')",[1423]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.cargo.RouteSpecificationTest')","[242, 1685]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNSHA')",[1492]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationClaimed(net.java.cargotracker.domain.model.cargo.CargoTest)')","[574, 1179]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRoutingStatus(net.java.cargotracker.domain.model.cargo.CargoTest)')","[553, 1158]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationUnloadEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')","[160, 822]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsMisdirected(net.java.cargotracker.domain.model.cargo.CargoTest)')","[595, 1200]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationloaded(net.java.cargotracker.domain.model.cargo.CargoTest)')","[532, 1137]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNextExpectedEvent(net.java.cargotracker.domain.model.cargo.ItineraryTest)')","[387, 1011]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationLoadEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')","[202, 864]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'AUMEL')",[1354]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationClaimedEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')","[181, 843]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsNotSatisfiedByWrongOrigin(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')","[284, 927]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLastKnownLocationUnloaded(net.java.cargotracker.domain.model.cargo.CargoTest)')","[469, 1074]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testIsSatisfiedBySuccess(net.java.cargotracker.domain.model.cargo.RouteSpecificationTest)')","[326, 969]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.interfaces.booking.facade.internal.assembler.LocationDtoAssemblerTest')","[696, 1759]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.cargo.ItineraryTest')","[345, 1711]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCurrentLocationReceivedEvent(net.java.cargotracker.domain.model.handling.HandlingEventTest)')","[139, 801]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.java.cargotracker.domain.model.cargo.CargoTest')","[427, 1737]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConstruction(net.java.cargotracker.domain.model.cargo.CargoTest)')","[511, 1116]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'SEGOT')",[1538]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCreateItinerary(net.java.cargotracker.domain.model.cargo.ItineraryTest)')","[366, 990]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'CNHGH')",[1561]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNewWithCarrierMovement(net.java.cargotracker.domain.model.handling.HandlingEventTest)')","[223, 885]"
+"('UnLocode.java', 'net.java.cargotracker.domain.model.location.UnLocode', '<init>', '[a-zA-Z]{2}[a-zA-Z2-9]{3}', 'USDAL')",[1607]

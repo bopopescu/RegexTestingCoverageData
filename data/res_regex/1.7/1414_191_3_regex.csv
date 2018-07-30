@@ -1,0 +1,88 @@
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '(?:31|01)', '30')",[2938]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'regexExcludes(FileSystemGlobTest)')","[601, 622, 643]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'CoherencyModelTest')","[5333, 5353, 5374, 5394]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'deleteDirectory(FileSystemDeleteTest)')","[851, 1623]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'deleteFile(FileSystemDeleteTest)')","[683, 1561]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'regexExcludes(FileSystemGlobTest)')","[580, 1540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'deleteNonEmptyDirectoryNonRecursivelyFails(FileSystemDeleteTest)')","[788, 809, 830]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fileStatusForFile(ShowFileStatusTest)')","[162, 183, 204]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200[7-8]', '2007')",[2668]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '31', '31')","[3404, 3434]"
+"('RegexExcludePathFilter.java', 'RegexExcludePathFilter', 'accept', '^.*/2007/12/31$', 'file:/tmp/FileSystemGlobTest/2007/12/30')","[3855, 3887]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'deleteFile(FileSystemDeleteTest)')","[704, 725, 746, 1581]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200[7-8]', '2008')",[2700]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'throwsFileNotFoundForNonExistentFile(ShowFileStatusTest)')","[57, 1374]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'localedata.jar')",[2216]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'localFileContentIsVisibleAfterFlushAndSync(CoherencyModelTest)')","[1206, 1727]"
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007/12/31$', 'file:/tmp/FileSystemGlobTest/2007/12/31')","[5084, 5116]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fileContentIsNotVisibleAfterFlush(CoherencyModelTest)')","[1038, 1685]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fileContentIsVisibleAfterFlushAndSync(CoherencyModelTest)')","[1122, 1706]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'regexIncludes(FileSystemGlobTest)')","[517, 538, 559]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '3(?:0|1)', '30')",[3208]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', '2008')","[2374, 2444, 2834, 3104, 3374, 3504, 3691, 4110, 4243, 4824]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', '01')","[2508, 2906, 3176, 4313, 4632]"
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007(/12(/31)?)?$', 'file:/tmp/FileSystemGlobTest/2007/12/30')","[4377, 4409]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200[^01234569]', '2008')",[2764]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200.', '2008')",[2572]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', '12')","[2476, 2870, 3140, 3791, 4278, 4924]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'surefirebooter6058173356374595058.jar')",[1940]
+"('RegexExcludePathFilter.java', 'RegexExcludePathFilter', 'accept', '^.*/2007/12/31$', 'file:/tmp/FileSystemGlobTest/2007/12/31')","[3951, 3983]"
+"('RegexExcludePathFilter.java', 'RegexExcludePathFilter', 'accept', '^.*/2007$', 'file:/tmp/FileSystemGlobTest/2007')","[3628, 3660]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fileStatusForFile(ShowFileStatusTest)')","[141, 1415]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'FileSystemGlobTest')",[307]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', '31')","[3918, 4440, 5051]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'throwsFileNotFoundForNonExistentFile(ShowFileStatusTest)')","[78, 99, 120, 1394]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200.', '2007')",[2540]
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007$', 'file:/tmp/FileSystemGlobTest/2007')","[4047, 4079, 4761, 4793]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', '30')","[3822, 4344, 4955]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200[78]', '2007')",[2604]
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007(/12(/31)?)?$', 'file:/tmp/FileSystemGlobTest/2008/01/02')","[4569, 4601]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', '02')",[4536]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'regexExcludesWithRegexExcludePathFilter(FileSystemGlobTest)')","[433, 454, 475]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '(?:31|01)', '01')",[3034]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '.*', '2007')","[2342, 2409, 2799, 3069, 3339, 3469, 3595, 4014, 4209, 4728]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'localFileContentIsVisibleAfterFlushAndSync(CoherencyModelTest)')","[1227, 1248, 1269]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fileContentIsVisibleAfterClose(CoherencyModelTest)')","[1290, 1748]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'sunec.jar')",[2124]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'regexIncludes(FileSystemGlobTest)')","[496, 1519]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fileContentIsNotVisibleAfterFlush(CoherencyModelTest)')","[1059, 1080, 1101]"
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007/12/31$', 'file:/tmp/FileSystemGlobTest/2007/12/30')","[4988, 5020]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'FileSystemDeleteTest')","[5239, 5263, 5288, 5312]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '3(?:0|1)', '02')",[3272]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fileStatusForDirectory(ShowFileStatusTest)')","[225, 1436]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'ShowFileStatusTest')","[5415, 5435, 5456, 5476]"
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'javassist-instrument.jar')",[1986]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'FileSystemDeleteTest')",[662]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'deleteNonEmptyDirectoryNonRecursivelyFails(FileSystemDeleteTest)')","[767, 1602]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'fileExistsImmediatelyAfterCreation(CoherencyModelTest)')","[954, 1644]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fileStatusForDirectory(ShowFileStatusTest)')","[246, 267, 288]"
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007(/12(/31)?)?$', 'file:/tmp/FileSystemGlobTest/2007/12/31')","[4473, 4505]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'regexExcludesWithRegexExcludePathFilter(FileSystemGlobTest)')","[412, 1498]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200[78]', '2008')",[2636]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '01', '01')","[3534, 3564]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fileContentIsVisibleAfterClose(CoherencyModelTest)')","[1311, 1332, 1353]"
+"('RegexExcludePathFilter.java', 'RegexExcludePathFilter', 'accept', '^.*/2007$', 'file:/tmp/FileSystemGlobTest/2008')","[3724, 3756]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '3(?:0|1)', '01')",[3304]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[1844]
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'dnsns.jar')",[2170]
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'zipfs.jar')",[2078]
+"('KerberosName.java', 'org.apache.hadoop.security.KerberosName', '<init>', '([^/@]*)(/([^/@]*))?@([^/@]*)', 'peipei')","[1794, 2278]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '(?:31|01)', '02')",[3002]
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007$', 'file:/tmp/FileSystemGlobTest/2008')","[4143, 4175, 4857, 4889]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'ShowFileStatusTest')",[36]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '(?:31|01)', '31')",[2970]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'deleteDirectory(FileSystemDeleteTest)')","[872, 893, 914]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fileExistsImmediatelyAfterCreation(CoherencyModelTest)')","[975, 996, 1017, 1664]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'FileSystemGlobTest')","[5141, 5165, 5190, 5214]"
+"('PermissionParser.java', 'org.apache.hadoop.fs.permission.PermissionParser', '<init>', '^\\s*[+]?([0-7]{3})\\s*$', '755')",[2310]
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'sunpkcs11.jar')",[2032]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'glob(FileSystemGlobTest)')","[328, 1457]"
+"('RegexPathFilter.java', 'RegexPathFilter', 'accept', '^.*/2007(/12(/31)?)?$', 'file:/tmp/FileSystemGlobTest/2008/01/01')","[4665, 4697]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[1894]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'CoherencyModelTest')",[933]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'glob(FileSystemGlobTest)')","[349, 370, 391, 1477]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'fileContentIsVisibleAfterFlushAndSync(CoherencyModelTest)')","[1143, 1164, 1185]"
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '200[^01234569]', '2007')",[2732]
+"('GlobFilter.java', 'org.apache.hadoop.fs.GlobFilter', 'accept', '3(?:0|1)', '31')",[3240]
+"('TagLibConfiguration.java', 'org.mortbay.jetty.webapp.TagLibConfiguration', 'configureWebApp', 'start.jar|ant-.*\\.jar|dojo-.*\\.jar|jetty-.*\\.jar|jsp-api-.*\\.jar|junit-.*\\.jar|servlet-api-.*\\.jar|dnsns\\.jar|rt\\.jar|jsse\\.jar|tools\\.jar|sunpkcs11\\.jar|sunjce_provider\\.jar|xerces.*\\.jar', 'sunjce_provider.jar')",[2262]

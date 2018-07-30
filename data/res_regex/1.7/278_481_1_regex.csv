@@ -1,0 +1,25 @@
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'application.session.send_only_if_changed=true')","[374, 1512]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'header.home=BAM!')","[698, 1836]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'MD2')",[1176]
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6HexCompressedAddress', '^(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)::(([0-9A-Fa-f]{1,4}(:[0-9A-Fa-f]{1,4}){0,5})?)$', 'localhost')","[184, 1322]"
+"('RouterImpl.java', 'ninja.RouterImpl', 'getRouteFor', '/page1', '/hello_world.json')",[2270]
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'SSLv3')",[1123]
+"('RouterImpl.java', 'ninja.RouterImpl', 'getRouteFor', '/', '/')",[1260]
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'application.cookie.prefix=NINJA')","[260, 1398]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetHelloWorldJson(controllers.ApiControllerDocTesterTest)')","[78, 122]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetIndex(controllers.ApiControllerDocTesterTest)')","[57, 100]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'application.name=ninja demo application')","[222, 1360]"
+"('RouterImpl.java', 'ninja.RouterImpl', 'getRouteFor', '/', '/hello_world.json')",[2239]
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'application.languages=en')","[298, 1436]"
+"('RouterImpl.java', 'ninja.RouterImpl', 'getRouteFor', '/hello_world.json', '/hello_world.json')",[2301]
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'header.title=Hello World!')","[574, 1712]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'hello.world=Hello World!')","[946, 2084]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'application.session.transferred_over_https_only=false')","[412, 1550]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'application.session.expire_time_in_seconds=3600')","[336, 1474]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'controllers.ApiControllerDocTesterTest')","[36, 2324]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'hello.world.json=There is also Json rendering you can check out!')","[1070, 2208]"
+"('DisabledAlgorithmConstraints.java', 'sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints', '<init>', '(\\S+)\\s+keySize\\s*(<=|<|==|!=|>|>=)\\s*(\\d+)', 'RSA keySize < 1024')",[1229]
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'header.page1=PAGE1!')","[822, 1960]"
+"('InetAddressUtils.java', 'org.apache.http.conn.util.InetAddressUtils', 'isIPv6StdAddress', '^[0-9a-fA-F]{1,4}(:[0-9a-fA-F]{1,4}){7}$', 'localhost')","[153, 1291]"
+"('PropertiesConfiguration.java', 'org.apache.commons.configuration.PropertiesConfiguration$PropertiesReader', 'doParseProperty', '(([\\S&&[^\\\\=:]]|\\\\.)*)(\\s*(\\s+|[=:])\\s*)(.*)', 'application.secret = z1zK1evkseykupHOO3iUh5ukuoaZ0hkdvOn9YNQKxWuRnjJK3aFCO0HaHChJpyTP')","[450, 1588]"

@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.tracee.binding.httpclient.TraceeHttpClientDecoratorTest')","[36, 274]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContextWrittenToRequest(io.tracee.binding.httpclient.TraceeHttpClientDecoratorTest)')","[78, 185]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testContextParsedFromResponse(io.tracee.binding.httpclient.TraceeHttpClientDecoratorTest)')","[120, 229]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'wrapOnlyWithTraceeHttpClientDecoratorIfInstanceIsNotOfThisType(io.tracee.binding.httpclient.TraceeHttpClientDecoratorTest)')","[99, 207]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'shouldDelegateAllPublicMethods(io.tracee.binding.httpclient.TraceeHttpClientDecoratorTest)')","[141, 251]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'doNotRenderTpicHeaderIfBackendIsEmpty(io.tracee.binding.httpclient.TraceeHttpClientDecoratorTest)')","[57, 163]"

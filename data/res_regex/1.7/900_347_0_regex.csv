@@ -1,0 +1,104 @@
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'Test1War-1.0.0-SNAPSHOT.war')",[1532]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'test2jar-1.0.0.jar')",[2613]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'META-INF/application.xml')",[934]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'test2jar-1.0.0.jar')",[2659]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'WEB-INF/lib/test2jar-1.0.0.jar')","[2452, 3717]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'WEB-INF/lib/test2jar-1.0.0.jar')","[2360, 3625]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'Test1War-1.0.0-SNAPSHOT.war')",[1440]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'test1jar-1.0.0.jar')",[1371]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'Test1War-1.0.0-SNAPSHOT.war')",[1463]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getSecond(nl.michelgreve.maven.plugins.PairTest)')","[179, 387]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'normal1jar-1.0.0.jar')",[1118]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'test2jar-1.0.0.jar')",[2590]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'WEB-INF/lib/')","[1969, 3234]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'blacklist.txt')",[520]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'normal2jar-1.0.0.jar')",[1302]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'META-INF/')","[796, 1601, 2866]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'TestEar-1.0.0-SNAPSHOT.ear')",[658]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'Test2War-1.0.0-SNAPSHOT.war')",[2774]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'normal2jar-1.0.0.jar')",[1279]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'TestEar-1.0.0-SNAPSHOT.ear')",[681]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'WEB-INF/lib/normal2jar-1.0.0.jar')","[2153, 3418]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'normal1jar-1.0.0.jar')",[1187]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'Test1War-1.0.0-SNAPSHOT.war')",[1509]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'blacklist.txt')",[612]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'WEB-INF/lib/test1jar-1.0.0.jar')","[2337, 3602]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'META-INF/application.xml')",[911]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.michelgreve.maven.plugins.PairTest')","[116, 3884]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.michelgreve.maven.plugins.BlacklistMojoTest')","[76, 3858]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'WEB-INF/lib/')","[1900, 3165]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'Test2War-1.0.0-SNAPSHOT.war')",[2705]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'WEB-INF/web.xml')","[2567, 3832]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'WEB-INF/lib/normal1jar-1.0.0.jar')","[2015, 3280]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'normal2jar-1.0.0.jar')",[1210]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'test1jar-1.0.0.jar')",[1325]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'WEB-INF/lib/normal1jar-1.0.0.jar')","[2038, 3303]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'WEB-INF/')","[1831, 3096]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.michelgreve.maven.plugins.FilePatternReaderTest')","[36, 497]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getLines(nl.michelgreve.maven.plugins.FilePatternReaderTest)')","[57, 303]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'WEB-INF/lib/test1jar-1.0.0.jar')","[2245, 3510]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'WEB-INF/lib/')","[1946, 3211]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'META-INF/')","[773, 1578, 2843]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'META-INF/')","[819, 1624, 2889]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'blacklist.txt')",[589]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'Test2War-1.0.0-SNAPSHOT.war')",[2751]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'Test2War-1.0.0-SNAPSHOT.war')",[2728]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'test1jar-1.0.0.jar')",[1417]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'normal1jar-1.0.0.jar')",[1141]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'WEB-INF/lib/')","[1923, 3188]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'nl.michelgreve.maven.plugins.UnZipperTest')","[240, 3906]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'WEB-INF/lib/normal1jar-1.0.0.jar')","[2084, 3349]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'WEB-INF/web.xml')","[2521, 3786]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'blacklist.txt')",[543]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'WEB-INF/')","[1808, 3073]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'blacklist.txt')",[566]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'META-INF/MANIFEST.MF')","[980, 1670, 2935]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'META-INF/MANIFEST.MF')","[1026, 1716, 2981]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'test2jar-1.0.0.jar')",[2636]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'WEB-INF/lib/test2jar-1.0.0.jar')","[2383, 3648]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'normal1jar-1.0.0.jar')",[1095]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'TestEar-1.0.0-SNAPSHOT.ear')",[635]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'META-INF/application.xml')",[888]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'WEB-INF/lib/test2jar-1.0.0.jar')","[2429, 3694]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'test1jar-1.0.0.jar')",[1394]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'unzip(nl.michelgreve.maven.plugins.UnZipperTest)')","[282, 471]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'WEB-INF/')","[1877, 3142]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'META-INF/application.xml')",[865]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'WEB-INF/')","[1854, 3119]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'test2jar-1.0.0.jar')",[2682]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'META-INF/application.xml')",[957]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'theToString(nl.michelgreve.maven.plugins.PairTest)')","[158, 366]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'WEB-INF/lib/normal1jar-1.0.0.jar')","[2061, 3326]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'WEB-INF/lib/normal2jar-1.0.0.jar')","[2176, 3441]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'META-INF/MANIFEST.MF')","[1049, 1739, 3004]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'theEquals(nl.michelgreve.maven.plugins.PairTest)')","[137, 345]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'META-INF/MANIFEST.MF')","[1003, 1693, 2958]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'WEB-INF/lib/test2jar-1.0.0.jar')","[2406, 3671]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'TestEar-1.0.0-SNAPSHOT.ear')",[704]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'normal1jar-1.0.0.jar')",[1164]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'WEB-INF/web.xml')","[2544, 3809]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'WEB-INF/lib/test1jar-1.0.0.jar')","[2291, 3556]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'WEB-INF/lib/normal1jar-1.0.0.jar')","[2107, 3372]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'WEB-INF/')","[1785, 3050]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'theHashCode(nl.michelgreve.maven.plugins.PairTest)')","[200, 408]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'isZipExtension(nl.michelgreve.maven.plugins.UnZipperTest)')","[261, 450]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getFirst(nl.michelgreve.maven.plugins.PairTest)')","[221, 429]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'META-INF/MANIFEST.MF')","[1072, 1762, 3027]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'WEB-INF/web.xml')","[2475, 3740]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'WEB-INF/web.xml')","[2498, 3763]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'META-INF/')","[750, 1555, 2820]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'execute(nl.michelgreve.maven.plugins.BlacklistMojoTest)')","[97, 324]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'WEB-INF/lib/test1jar-1.0.0.jar')","[2268, 3533]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'WEB-INF/lib/')","[1992, 3257]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'WEB-INF/lib/normal2jar-1.0.0.jar')","[2222, 3487]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'Test1War-1.0.0-SNAPSHOT.war')",[1486]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'WEB-INF/lib/normal2jar-1.0.0.jar')","[2199, 3464]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'test1jar-1.0.0.jar')",[1348]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'Test2War-1.0.0-SNAPSHOT.war')",[2797]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'TestEar-1.0.0-SNAPSHOT.ear')",[727]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'flop-.*\\.jar', 'normal2jar-1.0.0.jar')",[1233]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^ant\\-\\d.*\\.jar$', 'normal2jar-1.0.0.jar')",[1256]
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '^test1jar\\-\\d.*\\.jar$', 'META-INF/')","[842, 1647, 2912]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', 'axis-.*\\.jar', 'WEB-INF/lib/normal2jar-1.0.0.jar')","[2130, 3395]"
+"('BlacklistMojo.java', 'nl.michelgreve.maven.plugins.BlacklistMojo', 'execute', '(^axis\\-\\d.*\\.jar$)|(^stax\\-api\\-\\d.*\\.jar$)', 'WEB-INF/lib/test1jar-1.0.0.jar')","[2314, 3579]"

@@ -1,0 +1,27 @@
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'toXML', '\\$\\{(\\w+)\\}', 'basedir')",[2250]
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${relativeBeamWidth}')","[44, 589, 1213, 1403, 1593]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'resourceToURL', 'resource:(.*)', 'file:/home/peipei/RepoReaper/1167_110/sphinx4-core/target/test-classes/edu/cmu/sphinx/result/hellongram.trigram.lm')","[332, 1734]"
+"('BinaryLoader.java', 'edu.cmu.sphinx.linguist.language.ngram.large.BinaryLoader', 'readHeader', 'Darpa \\d-gram LM', 'Darpa Trigram LM')","[1930, 1966]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${absoluteBeamWidth}')","[640, 1251, 1441]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${wordInsertionProbability}')","[182, 1517]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'toXML', '\\$\\{(\\w+)\\}', 'anotherDataProc')",[2216]
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'resourceToURL', 'resource:(.*)', '')","[491, 1893]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${anotherDataProc}')",[2080]
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'resourceToURL', 'resource:(.*)', 'resource:/edu/cmu/sphinx/models/acoustic/wsj/dict/cmudict.0.6d')","[385, 1787]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'toXML', '\\$\\{(\\w+)\\}', 'globFooBaz')",[2182]
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${keepAllTokens}')","[88, 1631]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${languageWeight}')","[135, 1365, 1479]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'toXML', '\\$\\{(\\w+)\\}', 'hiddenproductad')",[2148]
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'toXML', '\\$\\{(\\w+)\\}', 'localRepository')",[2284]
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${relativeWordBeamWidth}')","[691, 1099]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'resourceToURL', 'resource:(.*)', 'resource:/edu/cmu/sphinx/models/acoustic/wsj')","[282, 1684]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${frontend}')","[538, 865, 1175, 1327]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${globFooBaz}')","[2002, 2322, 2401]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${silenceInsertionProbability}')","[229, 1555]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'toXML', '\\$\\{(\\w+)\\}', 'myalpha')",[2114]
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${absoluteWordBeamWidth}')","[742, 1137]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'resourceToURL', 'resource:(.*)', 'resource:/edu/cmu/sphinx/models/acoustic/wsj/noisedict')","[438, 1840]"
+"('Invoker.java', 'org.testng.internal.Invoker', 'messageRegExpMatches', 'bar 42 baz', 'bar 42 baz')","[2471, 2499, 2526, 2552]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${recognizer}')","[783, 824, 906, 947, 985, 1023, 1061, 1289]"
+"('ConfigurationManagerUtils.java', 'edu.cmu.sphinx.util.props.ConfigurationManagerUtils', 'stripGlobalSymbol', '\\$\\{(\\w+)\\}', '${myalpha}')","[2038, 2360, 2442]"
+"('Invoker.java', 'org.testng.internal.Invoker', 'messageRegExpMatches', 'foo bar 42', 'foo bar 42')","[2581, 2609, 2636, 2662]"

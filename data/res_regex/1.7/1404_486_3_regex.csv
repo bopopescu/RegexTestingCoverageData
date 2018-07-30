@@ -1,0 +1,30 @@
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'tag:geonames:united_states')",[5029]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'for:user')",[4780]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'geonames:293')","[314, 965, 1629, 2293, 2957, 3621]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'this')","[636, 668, 1297, 1330, 1961, 1994, 2625, 2658, 3289, 3322, 3953, 3986]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'folder1,folder2, aaa folder5')","[30, 60, 90]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'united_states')","[187, 219, 834, 867, 1498, 1531, 2162, 2195, 2826, 2859, 3490, 3523]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'gn:geonames=united_states geonames:293 ks:geonames=232 subscribe:this aaaa gn')","[123, 252, 412, 541, 701, 734, 768, 901, 1066, 1199, 1364, 1398, 1432, 1565, 1730, 1863, 2028, 2062, 2096, 2229, 2394, 2527, 2692, 2726, 2760, 2893, 3058, 3191, 3356, 3390, 3424, 3557, 3722, 3855, 4020, 4054]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'gn:geonames=united_states')","[154, 800, 1464, 2128, 2792, 3456]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'ks:geonames=232')","[443, 1098, 1762, 2426, 3090, 3754]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'tag:geonames:united_states')",[5059]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'aa ""aa"" ""java programming"" 雅虎香港  f f geo:loc=""usa, china""')","[4086, 4118, 4150, 4182, 4214, 4246, 4278, 4310, 4435]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'subscribe:this')","[572, 1231, 1895, 2559, 3223, 3887]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '""usa,')","[4372, 4403]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'value')","[5275, 5302, 5330, 5357]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'user')","[4812, 4843]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '293')","[347, 379, 999, 1032, 1663, 1696, 2327, 2360, 2991, 3024, 3655, 3688]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'geonames:21045,md')","[5216, 5247]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', 'geonames:united_states')","[5091, 5122]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'gn:tag=geonames:21045,md')",[5184]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'for:user')",[4750]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'a  123 38.28 a geo:loc=""usa"" for:user')","[4467, 4499, 4531, 4563, 4595, 4720]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '""usa""')","[4657, 4688]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '232')","[476, 508, 1132, 1165, 1796, 1829, 2460, 2493, 3124, 3157, 3788, 3821]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'geo:loc=""usa""')",[4625]
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '(\\w+):(\\S+)', 'subscribe:this')","[603, 1263, 1927, 2591, 3255, 3919]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'tag:geonames:united_states gn:tag=geonames:21045,md')","[4999, 5154]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'geonames:293')","[283, 933, 1597, 2261, 2925, 3589]"
+"('TagsParser.java', 'com.gnizr.db.dao.tag.TagsParser', 'getMachineTag', '([a-z0-9]+):(\\w+)=(.*)', 'geo:loc=""usa,')",[4340]
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'abc,203 ,pop,,,, 11111.000')","[4874, 4905, 4936, 4967]"
+"('MachineTag.java', 'com.gnizr.db.dao.MachineTag', 'toString', '\\s', '""value value""')","[5385, 5412, 5440, 5467]"

@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sourceTransformer_FileWithScriptTag_WithInclude(de.uit.eai.portal.mvn.plugin.SourceTransformerTest)')","[57, 204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sourceTransformer_IncludePathResolution(de.uit.eai.portal.mvn.plugin.SourceTransformerTest)')","[120, 267]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sourceTransformer_FileWithoutScriptTag(de.uit.eai.portal.mvn.plugin.SourceTransformerTest)')","[99, 246]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sourceTransformer_FileWithScriptTag_WithoutInclude(de.uit.eai.portal.mvn.plugin.SourceTransformerTest)')","[78, 225]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'de.uit.eai.portal.mvn.plugin.SourceTransformerTest')","[36, 352]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetRelativePath(de.uit.eai.portal.mvn.plugin.SourceTransformerTest)')","[183, 330]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testConstructAbsolutePath(de.uit.eai.portal.mvn.plugin.SourceTransformerTest)')","[162, 309]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'shouldProcessFileWithBOM(de.uit.eai.portal.mvn.plugin.SourceTransformerTest)')","[141, 288]"

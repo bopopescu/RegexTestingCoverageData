@@ -1,0 +1,7 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.customer.twitter.java.SimpleParserRegexpPredicateTest')","[36, 272]"
+"('BinaryExpression.java', 'org.apache.camel.language.simple.ast.BinaryExpression$2', 'evaluate', '(?ims).*football.*$', 'FOOtball\nbla bla bla\nnkaoskf\n')",[220]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSimpleRegexp(com.customer.twitter.java.SimpleParserRegexpPredicateTest)')","[78, 122, 188]"
+"('SimpleParserRegexpPredicateTest.java', 'com.customer.twitter.java.SimpleParserRegexpPredicateTest', 'patternTest', '(?ims).*football.*$', 'fOOtball')",[168]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'patternTest(com.customer.twitter.java.SimpleParserRegexpPredicateTest)')","[57, 100, 142]"
+"('BinaryExpression.java', 'org.apache.camel.language.simple.ast.BinaryExpression$2', 'evaluate', '(?ims).*football.*$', '12.2a.22ab')",[249]

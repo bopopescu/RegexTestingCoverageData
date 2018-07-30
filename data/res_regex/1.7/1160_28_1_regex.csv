@@ -1,0 +1,218 @@
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', 'st')","[2662, 7147, 12106]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/resultmodel/(.*?)', '/default/detail/2')",[37020]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.CommonTest')","[566, 39906]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', '2')",[54796]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', 'st')","[2540, 7399, 12232]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'notifyAll')","[6079, 10969, 15865, 18035, 20246, 28836, 31206, 33625, 36044, 39009, 53568, 62440]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', '1')","[2113, 6769, 11791, 21255, 54229]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/resultmodel/(.*?)', '/resultmodel/3')","[1686, 11350]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', 'parameter')",[41966]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', 'i')",[40868]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'finalize')","[4354, 9198, 14094, 16310, 18521, 27065, 29435, 31854, 34273, 37284, 51843, 60669]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', '2')",[54859]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'clone')","[5629, 10507, 15403, 17585, 19796, 28374, 30744, 33163, 35582, 38559, 53118, 61978]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getModel')","[28988, 53642, 62592]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/default/detail/(.*?)', '/default/detail/2')",[37094]
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/resultmodel/(.*?)', '/never_scanned')",[40167]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setModel')","[28912, 62516]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.MethodParameterTest')","[688, 53891]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^application\\..*', 'description')","[24066, 24638, 47223, 47779, 57270, 57832]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', 'st')","[2418, 7210, 12358]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^application\\..*', 'parameter')","[50526, 51061, 51610]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^session\\..*', 'st')","[2737, 3264, 3805, 7539, 8080, 8635, 12666, 13213, 13774]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'dojo\\..*', 'md')","[44183, 44735, 45295, 45873, 46481, 48173, 48725]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', 'md.description')",[41051]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'detail1')",[39305]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', 'model.description')","[21633, 55300]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^servlet(Request|Response)\\..*', 'i')","[42782, 43319, 43870]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUrlParameter(org.meruvian.inca.struts2.test.ParameterTest)')","[301, 947]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', 'md.name')",[41478]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testMethodLevelResult(org.meruvian.inca.struts2.test.ResultTest)')","[341, 969]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', 'st')","[2479, 7336, 12043]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', 'md.description')",[41173]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParameter(org.meruvian.inca.struts2.test.WildcardTest)')","[749, 1277]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'parameters\\...*', 'description')","[24146, 24720, 46989, 47539, 57670, 58242]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'finalize')","[4429, 9275, 14171, 16385, 18596, 27142, 29512, 31931, 34350, 37359, 51918, 60746]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'equals')","[5029, 9891, 14787, 16985, 19196, 27758, 30128, 32547, 34966, 37959, 52518, 61362]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^application\\..*', 'md')","[44339, 44895, 45455, 46045, 46657, 48329, 48885]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^session\\..*', 'parameter')","[50676, 51215, 51768]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.JsonOutputTest')","[36, 1534]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testIndexPage(org.meruvian.inca.struts2.test.IndexPageTest)')","[648, 1211]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', 'md.name')",[41844]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'dojo\\..*', 'i')","[42557, 43088, 43633]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^struts\\..*', 'md')","[44027, 44575, 45135, 45701, 46305, 48017, 48565]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'indexGet')","[31282, 33701, 36120]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'notifyAll')","[6004, 10892, 15788, 17960, 20171, 28759, 31129, 33548, 35967, 38934, 53493, 62363]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'detail')","[29140, 39379]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', 'parameter')",[42149]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', 'model.description')","[21948, 55489]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', '1')","[2052, 6895, 11728, 21318, 54418]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/default/detail/(.*?)', '/never_scanned')",[40241]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'notify')","[5929, 10815, 15711, 17885, 20096, 28682, 31052, 33471, 35890, 38859, 53418, 62286]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testClassLevelResult(org.meruvian.inca.struts2.test.ResultTest)')","[383, 1013]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^session\\..*', 'name')","[26014, 26578, 49591, 50151, 59698, 60264]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'equals')","[4954, 9814, 14710, 16910, 19121, 27681, 30051, 32470, 34889, 37884, 52443, 61285]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/resultmodel/(.*?)', '/default')",[36679]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', 'md.description')",[41295]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^application\\..*', 'st')","[2812, 3341, 3884, 8001, 8554, 9121, 12435, 12976, 13531]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'detail')","[29216, 39453]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/parameter/test/(.*?)', '/default')",[36716]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^struts\\..*', 'model')","[22772, 23340, 25040, 25608, 56216, 56780, 58484, 59048]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^servlet(Request|Response)\\..*', 'model')","[22852, 23422, 25120, 25690, 56456, 57026, 58724, 59294]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^request\\..*', 'name')","[26094, 26660, 49357, 49911, 59778, 60346]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJsonParameter(org.meruvian.inca.struts2.test.JsonOutputTest)')","[78, 793]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", 'model.description')","[21507, 55111]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', 'i')",[40563]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'registerNatives')","[5779, 10661, 15557, 17735, 19946, 28528, 30898, 33317, 35736, 38709, 53268, 62132]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'parameters\\...*', 'model')","[23012, 23586, 25280, 25854, 56536, 57108, 58804, 59376]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', '2')",[54985]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', '2')",[54733]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', 'md.name')",[41661]
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1160_28/s2rest-plugin/target/test-classes/struts-wildcard-test.xml')",[54040]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'parameters\\...*', 'i')","[42482, 43011, 43554]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', 'st')","[2601, 7273, 12295]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", 'i')",[40441]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^session\\..*', 'i')","[42857, 43396, 43949]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', 'parameter')",[42271]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', 'model.name')","[22200, 55867]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', '1')","[1991, 6832, 11539, 21192, 54355]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'indexHead')","[31510, 33929, 36348]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', 'parameter')",[42210]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^request\\..*', 'model')","[22692, 23258, 24960, 25526, 56376, 56944, 58644, 59212]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', 'model.name')","[22326, 55930]"
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'normalizeToFileProtocol', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', 'jar:file:/home/peipei/.m2/repository/org/apache/struts/struts2-core/2.3.8/struts2-core-2.3.8.jar!/struts-default.xml')","[1354, 1469, 1611, 6378, 11274, 16197, 18408, 20646, 20826, 29320, 31739, 34158, 36604, 36830, 36945, 37171, 39703, 39815, 39981, 40093, 40343, 53966]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/parameter/test/(.*?)', '/default/detail/2')",[37057]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testActionResultModel(org.meruvian.inca.struts2.test.ActionResultModelTest)')","[118, 815]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.ActionResultModelTest')","[97, 16120]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.ParameterTest')","[280, 29243]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'defaultActionMethod')",[39083]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', 'model.name')","[22074, 56056]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', 'model.name')","[22389, 55678]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', '2')",[54922]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', 'st')","[2296, 7084, 12169]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'wait')","[4504, 4654, 4804, 9352, 9506, 9660, 14248, 14402, 14556, 16460, 16610, 16760, 18671, 18821, 18971, 27219, 27373, 27527, 29589, 29743, 29897, 32008, 32162, 32316, 34427, 34581, 34735, 37434, 37584, 37734, 51993, 52143, 52293, 60823, 60977, 61131]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^application\\..*', 'model')","[22932, 23504, 25200, 25772, 56136, 56698, 58404, 58966]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', 'model.description')","[21759, 55237]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'dojo\\..*', 'name')","[25934, 26496, 49279, 49831, 60018, 60592]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^servlet(Request|Response)\\..*', 'description')","[23986, 24556, 47301, 47859, 57590, 58160]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^struts\\..*', 'parameter')","[50226, 50753, 51294]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'withoutExceptionMapping')","[18183, 20394]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', 'i')",[40807]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', 'i')",[40624]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'parameters\\...*', 'st')","[2887, 3418, 3963, 7693, 8238, 8797, 12897, 13450, 14017]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testActionResultTemplate(org.meruvian.inca.struts2.test.ActionResultModelTest)')","[160, 859]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/parameter/test/(.*?)', '/never_scanned')",[40204]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.WildcardTest')","[728, 62843]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testStringResult(org.meruvian.inca.struts2.test.ActionTest)')","[486, 1101]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testParentPackage(org.meruvian.inca.struts2.test.ParentPackageTest)')","[261, 925]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', 'parameter')",[42332]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'defaultActionMethod')",[39157]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'hashCode')","[5329, 10199, 15095, 17285, 19496, 28066, 30436, 32855, 35274, 38259, 52818, 61670]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.ActionTest')","[402, 39628]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^servlet(Request|Response)\\..*', 'md')","[44417, 44975, 45535, 46131, 46745, 48407, 48965]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', 'parameter')",[42027]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', 'model.description')","[21696, 55363]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", '2')",[54607]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'toString')","[5104, 9968, 14864, 17060, 19271, 27835, 30205, 32624, 35043, 38034, 52593, 61439]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJsonOutput(org.meruvian.inca.struts2.test.ActionResultModelTest)')","[139, 837]"
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1160_28/s2rest-plugin/target/test-classes/struts-parentpackage-test.xml')",[20722]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', 'i')",[40502]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', '1')","[1930, 6706, 11854, 21444, 54481]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^struts\\..*', 'name')","[26174, 26742, 49123, 49671, 59618, 60182]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'detail1')",[39231]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'notify')","[5854, 10738, 15634, 17810, 20021, 28605, 30975, 33394, 35813, 38784, 53343, 62209]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultInterceptor(org.meruvian.inca.struts2.test.InterceptorTest)')","[547, 1145]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testConvertFromString(org.meruvian.inca.struts2.test.CommonTest)')","[608, 1189]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/resultmodel/(.*?)', '/parameter/test/123')",[20902]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^application\\..*', 'i')","[42707, 43242, 43791]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", 'md.name')",[41417]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', 'md.description')",[41234]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^request\\..*', 'i')",[40685]
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/default/detail/(.*?)', '/default')",[36753]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", '1')","[1747, 6517, 11413, 21003, 54103]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'wait')","[4579, 4729, 4879, 9429, 9583, 9737, 14325, 14479, 14633, 16535, 16685, 16835, 18746, 18896, 19046, 27296, 27450, 27604, 29666, 29820, 29974, 32085, 32239, 32393, 34504, 34658, 34812, 37509, 37659, 37809, 52068, 52218, 52368, 60900, 61054, 61208]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', '1')","[1869, 6958, 11476, 21381, 54166]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'dojo\\..*', 'st')","[3187, 3726, 4279, 7616, 8159, 8716, 12589, 13134, 13693]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', 'model.name')","[22263, 55741]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'setSt')","[6153, 11045, 15941]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', 'md.name')",[41539]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', 'model.description')","[21570, 55552]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUrlHandling(org.meruvian.inca.struts2.test.ActionTest)')","[465, 1079]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^servlet(Request|Response)\\..*', 'st')","[3037, 3572, 4121, 7924, 8475, 9040, 12743, 13292, 13855]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^session\\..*', 'md')","[44495, 45055, 45615, 46217, 46833, 48485, 49045]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'indexPost')","[31586, 34005, 36424]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', 'md.name')",[41600]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'index')","[6227, 11121, 16017, 18257, 20468, 53790, 62744]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', 'model.description')","[21822, 55426]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.IndexPageTest')","[627, 40268]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^servlet(Request|Response)\\..*', 'name')","[26254, 26824, 49513, 50071, 59858, 60428]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/parameter/test/(.*?)', '/parameter/test/123')",[20940]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'parameters\\...*', 'md')","[44105, 44655, 45215, 45787, 46393, 48095, 48645]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^request\\..*', 'md')","[44261, 44815, 45375, 45959, 46569, 48251, 48805]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^request\\..*', 'description')","[23826, 24392, 47145, 47699, 57510, 58078]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'toString')","[5179, 10045, 14941, 17135, 19346, 27912, 30282, 32701, 35120, 38109, 52668, 61516]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^session\\..*', 'model')","[22612, 23176, 24880, 25444, 56296, 56862, 58564, 59130]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAction(org.meruvian.inca.struts2.test.MethodParameterTest)')","[709, 1255]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getClass')","[5479, 10353, 15249, 17435, 19646, 28220, 30590, 33009, 35428, 38409, 52968, 61824]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'list')",[39527]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'dojo\\..*', 'description')","[23666, 24228, 47067, 47619, 57750, 58324]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testInterceptor(org.meruvian.inca.struts2.test.InterceptorTest)')","[526, 1123]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExceptionMapping(org.meruvian.inca.struts2.test.ExceptionMappingTest)')","[200, 881]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^servlet(Request|Response)\\..*', 'parameter')","[50601, 51138, 51689]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'hashCode')","[5254, 10122, 15018, 17210, 19421, 27989, 30359, 32778, 35197, 38184, 52743, 61593]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'clone')","[5554, 10430, 15326, 17510, 19721, 28297, 30667, 33086, 35505, 38484, 53043, 61901]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", 'parameter')",[41905]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'dojo\\..*', 'model')","[22532, 23094, 24800, 25362, 56616, 57190, 58884, 59458]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^servlet(Request|Response)\\..*', 'md.name')",[41783]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', '1')","[2174, 6643, 11602, 21066, 54544]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^struts\\..*', 'md.description')",[40990]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'dojo\\..*', 'parameter')","[50376, 50907, 51452]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'withoutExceptionMapping')","[18109, 20320]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testActionResult(org.meruvian.inca.struts2.test.ResultTest)')","[362, 991]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'getModel')","[29064, 53716, 62668]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testHttpMethod(org.meruvian.inca.struts2.test.ActionTest)')","[444, 1057]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^struts\\..*', 'description')","[23906, 24474, 46911, 47459, 57350, 57914]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', '1')","[1808, 6580, 11665, 21129, 54292]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^application\\..*', 'name')","[26334, 26906, 49435, 49991, 59538, 60100]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testNeverScannedAction(org.meruvian.inca.struts2.test.IndexPageTest)')","[669, 1233]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^struts\\..*', 'st')","[3112, 3649, 4200, 7770, 8317, 8878, 12820, 13371, 13936]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'registerNatives')","[5704, 10584, 15480, 17660, 19871, 28451, 30821, 33240, 35659, 38634, 53193, 62055]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCamelCase(org.meruvian.inca.struts2.test.CommonTest)')","[587, 1167]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^struts\\..*', 'i')","[42407, 42934, 43475]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'list')",[39601]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', '2')",[54670]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.ExceptionMappingTest')","[179, 20569]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', 'md.description')",[41356]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', 'st')","[2357, 7462, 11980]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'indexHead')","[31434, 33853, 36272]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testJsonResponse(org.meruvian.inca.struts2.test.JsonOutputTest)')","[57, 771]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', 'parameter')",[42088]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', 'i')",[40746]
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'indexPost')","[31662, 34081, 36500]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'parameters\\...*', 'model.name')","[22452, 55993]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', 'md.description')",[41112]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'parameters\\...*', 'name')","[26414, 26988, 49201, 49751, 59938, 60510]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.InterceptorTest')","[505, 39879]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWithoutExceptionMapping(org.meruvian.inca.struts2.test.ExceptionMappingTest)')","[221, 903]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.ResultTest')","[320, 36527]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', 'md.name')",[41722]
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^request\\..*', 'st')","[2962, 3495, 4042, 7847, 8396, 8959, 12512, 13055, 13612]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', 'parameters\\...*', 'parameter')","[50301, 50830, 51373]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', 'set([A-Z][A-Za-z0-9]*)$', 'getClass')","[5404, 10276, 15172, 17360, 19571, 28143, 30513, 32932, 35351, 38334, 52893, 61747]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDefaultActionMethod(org.meruvian.inca.struts2.test.ActionTest)')","[423, 1035]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^application\\..*', 'model.description')","[21885, 55174]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", 'md.description')",[40929]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.meruvian.inca.struts2.test.ParentPackageTest')","[240, 20749]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", 'model.name')","[22011, 55615]"
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', '/home/peipei/RepoReaper/1160_28/s2rest-plugin/target/classes/struts-plugin.xml')","[1392, 1507, 1649, 6416, 11312, 16235, 18446, 20684, 20864, 29358, 31777, 34196, 36642, 36868, 36983, 37209, 39740, 39852, 40018, 40130, 40380, 54003]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', '^session\\..*', 'model.name')","[22137, 55804]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^request\\..*', 'i')","[42632, 43165, 43712]"
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isAccepted', ""\\w+((\\.\\w+)|(\\[\\d+\\])|(\\(\\d+\\))|(\\['\\w+'\\])|(\\('\\w+'\\)))*"", 'st')","[2235, 7021, 11917]"
+"('DefaultFileManager.java', 'com.opensymphony.xwork2.util.fs.DefaultFileManager', 'isJarURL', '^(jar:|wsjar:|zip:|vfsfile:|code-source:)?(file:)?(.*?)(\\!/|\\.jar/)(.*)', 'file:/home/peipei/.m2/repository/org/apache/struts/struts2-core/2.3.8/struts2-core-2.3.8.jar!/struts-default.xml')","[1315, 1430, 1572, 6339, 11235, 16158, 18369, 20607, 20787, 29281, 31700, 34119, 36565, 36791, 36906, 37132, 39665, 39777, 39943, 40055, 40305, 53928]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'indexGet')","[31358, 33777, 36196]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^request\\..*', 'parameter')","[50451, 50984, 51531]"
+"('SecurityMemberAccess.java', 'com.opensymphony.xwork2.ognl.SecurityMemberAccess', 'isExcluded', '^session\\..*', 'description')","[23746, 24310, 47379, 47939, 57430, 57996]"
+"('AnnotationValidationConfigurationBuilder.java', 'com.opensymphony.xwork2.validator.AnnotationValidationConfigurationBuilder', 'resolvePropertyName', '(get|is|has)([A-Z][A-Za-z0-9]*)$', 'index')","[6301, 11197, 16093, 18331, 20542, 53864, 62820]"
+"('RegexPatternMatcher.java', 'org.apache.struts2.util.RegexPatternMatcher', 'match', '/resultmodel/(.*?)', '/resultmodel/4')",[6454]
+"('ParametersInterceptor.java', 'com.opensymphony.xwork2.interceptor.ParametersInterceptor', 'isExcluded', 'dojo\\..*', '2')",[55048]

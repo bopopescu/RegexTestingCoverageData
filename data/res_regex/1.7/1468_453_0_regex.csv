@@ -1,0 +1,13 @@
+"('FibonacciResource.java', 'com.math.fibonacci.FibonacciResource', 'getFebonacci', '.*[^0-9].*', '10')",[365]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.math.fibonacci.FibonacciResourceTest')",[36]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/)?', '/fibonacci/10')",[262]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.math.fibonacci.FibonacciResourceTest')","[386, 406, 427, 447]"
+"('Grizzly.java', 'org.glassfish.grizzly.Grizzly', '<clinit>', '((\\d+)\\.(\\d+)(\\.\\d+)*){1}(?:-(.+))?', '2.3.8')",[188]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/fibonacci(/.*)?', '/fibonacci/10')",[310]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/application\\.wadl(/.*)?', '/fibonacci/10')",[286]
+"('PatternWithGroups.java', 'org.glassfish.jersey.uri.PatternWithGroups', 'match', '/([^/]+?)(/)?', '/10')",[335]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetFebonacci(com.math.fibonacci.FibonacciResourceTest)')","[78, 99, 120, 161]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFebonacci(com.math.fibonacci.FibonacciResourceTest)')","[57, 141]"
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', '10')",[238]
+"('ContainerRequest.java', 'org.glassfish.jersey.server.ContainerRequest', 'getRequestUriRawPath', '[a-zA-Z][a-zA-Z\\+\\-\\.]*(:[^/]*)?://.+', 'fibonacci/10')",[213]

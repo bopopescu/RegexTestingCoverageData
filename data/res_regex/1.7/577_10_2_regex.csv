@@ -1,0 +1,34 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCalcularMenorCaminho4(br.com.walmart.grafos.CalculadorMenorCaminhoTest)')","[99, 538]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar13(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[265, 685]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar3(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[349, 769]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCalcularMenorCaminho(br.com.walmart.grafos.CalculadorMenorCaminhoTest)')","[162, 601]"
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B 10')",[1217]
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B 10\nB D 15\nA C 20\nC D 30\nB E 50\nD E 30')","[925, 955, 985, 1015, 1078, 1141, 1325]"
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B 10\nA B 20\nA B 5\nB D 15\nA C 20\nC D 30\nB E 50\nD E 30')",[1111]
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B 10 ')",[1242]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar7(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[433, 853]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar6(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[412, 832]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'br.com.walmart.processador.ProcessadorMalhaLogisticaTest')","[181, 1422]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[307, 727]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar8(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[454, 874]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCalcularMenorCaminho3(br.com.walmart.grafos.CalculadorMenorCaminhoTest)')","[78, 517]"
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', ' A B10')",[1192]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCalcularMenorCaminho5(br.com.walmart.grafos.CalculadorMenorCaminhoTest)')","[120, 559]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCalcularMenorCaminho6(br.com.walmart.grafos.CalculadorMenorCaminhoTest)')","[141, 580]"
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'Malha inválida')",[1350]
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B10')",[1400]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar10(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[202, 622]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar11(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[223, 643]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar9(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[475, 895]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCalcularMenorCaminho2(br.com.walmart.grafos.CalculadorMenorCaminhoTest)')","[57, 496]"
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B 10 \n')",[1268]
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B 30\nA B 20\nA B 10\nB D 15\nA C 20\nC D 30\nB E 50\nD E 30')",[1048]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar4(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[370, 790]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar5(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[391, 811]"
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'A B 10 \nA B 5 \n')",[1295]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar2(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[328, 748]"
+"('ProcessadorMalhaLogistica.java', 'br.com.walmart.processador.ProcessadorMalhaLogistica', 'parametrosValidos', '(.\\s+.\\s+\\d+\\s*\n?)+', 'AB10')",[1375]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar12(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[244, 664]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testProcessar14(br.com.walmart.processador.ProcessadorMalhaLogisticaTest)')","[286, 706]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'br.com.walmart.grafos.CalculadorMenorCaminhoTest')","[36, 1167]"

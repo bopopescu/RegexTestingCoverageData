@@ -1,0 +1,15 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'findSourceTest(de.fhb.twitalyse.TwitterUtilsTest)')","[198, 303]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'twitterTest(de.fhb.twitalyse.PropertyTest)')","[57, 219]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(de.fhb.twitalyse.CalcCoordinatesTest)')","[158, 282]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'stopWordsTest(de.fhb.twitalyse.PropertyTest)')","[78, 240]"
+"('Duration.java', 'ch.qos.logback.core.util.Duration', 'valueOf', '([0-9]*(.[0-9]+)?)\\s*(|milli(second)?|second(e)?|minute|hour|day)s?', '30 seconds')",[346]
+"('TwitterUtils.java', 'de.fhb.twitalyse.utils.TwitterUtils', 'findSource', '<.*>(.*)<.*>', '<a href=""http://search.cpan.org/~rosch/URI-Find-0.16/lib/URI/Find.pm"">cpan.org</a>')",[395]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'de.fhb.twitalyse.CalcCoordinatesTest')","[137, 372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'de.fhb.twitalyse.PropertyLoaderTest')","[97, 508]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'de.fhb.twitalyse.TwitterUtilsTest')","[177, 486]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testLoadSystemProperty(de.fhb.twitalyse.PropertyLoaderTest)')","[118, 261]"
+"('TwitterUtils.java', 'de.fhb.twitalyse.utils.TwitterUtils', 'findSource', '<.*>(.*)<.*>', '<a href=""http://twitter.com/download/iPhone"">Twitter for iPhone</a>')",[418]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('TwitterUtils.java', 'de.fhb.twitalyse.utils.TwitterUtils', 'findSource', '<.*>(.*)<.*>', '<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>')",[441]
+"('TwitterUtils.java', 'de.fhb.twitalyse.utils.TwitterUtils', 'findSource', '<.*>(.*)<.*>', '<a href=""http://tweetli.st/"" rel=""nofollow"">TweetList!</a>')",[464]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'de.fhb.twitalyse.PropertyTest')","[36, 530]"

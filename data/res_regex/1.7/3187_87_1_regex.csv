@@ -1,0 +1,23 @@
+"('AndroidConverter.java', 'org.jabylon.android.AndroidConverter', 'writePlurals', '(\\w+)\\)\\s*(.*)', 'many) value2')",[1053]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWriteSimpleString(org.jabylon.android.AndroidConverterTest)')","[393, 917]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPlurals(org.jabylon.android.AndroidConverterTest)')","[729, 1001]"
+"('AndroidConverter.java', 'org.jabylon.android.AndroidConverter', 'writePlurals', '(\\w+)\\)\\s*(.*)', 'one) value')",[1027]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWriteStringArray(org.jabylon.android.AndroidConverterTest)')","[561, 959]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWrite(org.jabylon.android.AndroidConverterTest)')","[477, 938]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWritePlurals(org.jabylon.android.AndroidConverterTest)')","[645, 980]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.jabylon.android.AndroidConverterTest')","[1074, 1094, 1115, 1135]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLoad(org.jabylon.android.AndroidConverterTest)')","[141, 854]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStringArray(org.jabylon.android.AndroidConverterTest)')","[309, 896]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSimpleStringWithComment(org.jabylon.android.AndroidConverterTest)')","[78, 99, 120, 833]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSimpleString(org.jabylon.android.AndroidConverterTest)')","[246, 267, 288]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStringArray(org.jabylon.android.AndroidConverterTest)')","[330, 351, 372]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.jabylon.android.AndroidConverterTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleString(org.jabylon.android.AndroidConverterTest)')","[225, 875]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleStringWithComment(org.jabylon.android.AndroidConverterTest)')","[57, 813]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPlurals(org.jabylon.android.AndroidConverterTest)')","[750, 771, 792]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLoad(org.jabylon.android.AndroidConverterTest)')","[162, 183, 204]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWriteSimpleString(org.jabylon.android.AndroidConverterTest)')","[414, 435, 456]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWritePlurals(org.jabylon.android.AndroidConverterTest)')","[666, 687, 708]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWrite(org.jabylon.android.AndroidConverterTest)')","[498, 519, 540]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testWriteStringArray(org.jabylon.android.AndroidConverterTest)')","[582, 603, 624]"

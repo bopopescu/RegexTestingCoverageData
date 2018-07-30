@@ -1,0 +1,45 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jabsaw.impl.ClassParserTest')","[76, 1021]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleB\\E', 'org.jabsaw.impl.TestModuleB')",[1456]
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.bar.Test\\E', 'foo.bar.Test')",[737]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDependencyCycle(org.jabsaw.impl.model.ProjectModelTest)')","[385, 692]"
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.\\E.*[^\\.]*\\QTest\\E', 'foo.HelloTest')",[898]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetToplevelClass(org.jabsaw.impl.model.ClassModelTest)')","[240, 560]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassB\\E', 'org.jabsaw.impl.TestModuleA')",[1369]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jabsaw.impl.model.ProjectModelTest')","[259, 1562]"
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.bar.\\E[^\\.]*', 'foo.bar.Test')","[783, 829]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.jabsaw.impl.pattern.ClassPatternTest)')","[57, 428]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleB\\E', 'org.jabsaw.impl.TestClassB')",[1108]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassB\\E', 'org.jabsaw.impl.TestClassB')",[1137]
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.bar.\\E[^\\.]*', 'foo.bar.Tes')","[806, 852]"
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.bar.Test\\E', 'foo.bar.Tes')",[760]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassA\\E', 'org.jabsaw.impl.TestModuleB')",[1398]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleA\\E', 'org.jabsaw.impl.TestModuleA')",[1311]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassA\\E', 'org.jabsaw.impl.TestModuleA')",[1282]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSelfExportAndAccessibility(org.jabsaw.impl.model.ProjectModelTest)')","[406, 714]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testTransitiveExport(org.jabsaw.impl.model.ProjectModelTest)')","[343, 648]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassB\\E', 'org.jabsaw.impl.TestModuleB')",[1485]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'innerClassesMergingDependencyFromToplevel(org.jabsaw.impl.model.ProjectModelTest)')","[301, 604]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'test(org.jabsaw.impl.GraphizPrinterTest)')","[200, 538]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseModule(org.jabsaw.impl.ClassParserTest)')","[139, 494]"
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.\\E.*[^\\.]*\\QTest\\E', 'foo.bar.HelloTes')",[944]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleB\\E', 'org.jabsaw.impl.TestClassA')",[1224]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseClass(org.jabsaw.impl.ClassParserTest)')","[118, 472]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassA\\E', 'org.jabsaw.impl.TestClassB')",[1050]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleA\\E', 'org.jabsaw.impl.TestClassA')",[1195]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jabsaw.impl.GraphizPrinterTest')","[179, 1512]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'anonymousInnerClassTest(org.jabsaw.impl.ClassParserTest)')","[160, 516]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassB\\E', 'org.jabsaw.impl.TestClassA')",[1253]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleB\\E', 'org.jabsaw.impl.TestModuleA')",[1340]
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.\\E.*[^\\.]*\\QTest\\E', 'foa.bar.HelloTest')",[967]
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.\\E.*[^\\.]*\\QTest\\E', 'foo.bar.HelloTest')",[921]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jabsaw.impl.pattern.ClassPatternTest')","[36, 994]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testImport(org.jabsaw.impl.model.ProjectModelTest)')","[364, 670]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'innerClassesMergingDependencyFromInner(org.jabsaw.impl.model.ProjectModelTest)')","[280, 582]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleA\\E', 'org.jabsaw.impl.TestClassB')",[1079]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'parseClassWithInnerClass(org.jabsaw.impl.ClassParserTest)')","[97, 450]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testExport(org.jabsaw.impl.model.ProjectModelTest)')","[322, 626]"
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestClassA\\E', 'org.jabsaw.impl.TestClassA')",[1166]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.jabsaw.impl.model.ClassModelTest')","[219, 1539]"
+"('ClassPatternTest.java', 'org.jabsaw.impl.pattern.ClassPatternTest', 'test', '\\Qfoo.\\E.*[^\\.]*\\QTest\\E', 'foo.bar.Test')",[875]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('ClassPattern.java', 'org.jabsaw.impl.pattern.ClassPattern', 'getBestMatch', '\\Qorg.jabsaw.impl.TestModuleA\\E', 'org.jabsaw.impl.TestModuleB')",[1427]

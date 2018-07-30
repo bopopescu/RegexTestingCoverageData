@@ -1,0 +1,1000 @@
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\n4 0 obj <</Fil')",[58796]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '1 0 obj\n<<\n/Type')","[10938, 11419, 15143, 15835, 16325, 16815, 305726, 307164]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDup(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3404]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'm')","[93887, 96087, 97187, 102137, 123037, 208447, 210647, 211747, 216697, 237597]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '‘')","[108242, 115392, 222802, 229952]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLog(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2898]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '4.4')","[25492, 27145, 31420]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'H')","[95647, 210207]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'M')","[120232, 234792]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'c')","[100652, 112752, 113852, 117702, 124302, 125402, 127052, 128702, 129802, 138602, 139702, 141352, 142452, 215212, 227312, 228412, 232262, 238862, 239962, 241612, 243262, 244362, 253162, 254262, 255912, 257012]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '2.1')","[17455, 28057]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'C')","[100872, 104172, 110222, 119022, 215432, 218732, 224782, 233582]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPopulateBuffer(org.apache.pdfbox.io.TestIOUtils)')",[3700]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'A')","[60908, 92732, 122432, 207292, 236992]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '$')","[309459, 310486]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'v')","[94602, 130352, 209162, 244912]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEq(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3128]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'if')","[44701, 45157, 45556]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'R')","[177872, 292432]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetHex(org.apache.pdfbox.cos.TestCOSString)')",[1242]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'r')","[132937, 247497]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'e')","[95097, 98947, 109397, 141847, 183647, 209657, 213507, 223957, 256407, 298207]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n1 0 obj\r\n<<')","[12957, 70418, 71011, 72680, 73273]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '}')","[131177, 154277, 157577, 158677, 159777, 160877, 245737, 268837, 272137, 273237, 274337, 275437]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n1 0 obj\r\n<</Cro')",[13169]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetBytes(org.apache.pdfbox.cos.TestCOSString)')",[1330]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'o')","[87672, 107472, 185022, 202232, 222032, 299582]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'M')","[120342, 234902]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'W')","[84482, 88882, 199042, 203442]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\n5 0 obj\n<</')",[58143]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'dup')","[47665, 47893, 52264, 52378]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '\\')","[135192, 135742, 136292, 136842, 137392, 143442, 143992, 144542, 145092, 145642, 146192, 146742, 147292, 147842, 148392, 148942, 149492, 150042, 150592, 151692, 152242, 152792, 153342, 153892, 154992, 155542, 156092, 156642, 157192, 158292, 159392, 160492, 161592, 162142, 162692, 163242, 163792, 164892, 165442, 166542, 167092, 167642, 168192, 168742, 169292, 169842, 170392, 172042, 172592, 173142, 173692, 174792, 175342, 175892, 176442, 181942, 249752, 250302, 250852, 251402, 251952, 258002, 258552, 259102, 259652, 260202, 260752, 261302, 261852, 262402, 262952, 263502, 264052, 264602, 265152, 266252, 266802, 267352, 267902, 268452, 269552, 270102, 270652, 271202, 271752, 272852, 273952, 275052, 276152, 276702, 277252, 277802, 278352, 279452, 280002, 281102, 281652, 282202, 282752, 283302, 283852, 284402, 284952, 286602, 287152, 287702, 288252, 289352, 289902, 290452, 291002, 296502]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '‘')","[108352, 115502, 222912, 230062]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.interactive.form.TestFields')","[9709, 9759, 9810, 9860]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-47.8')","[21160, 21616]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 's')","[90202, 114402, 185902, 204762, 228962, 300462]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'add')","[24238, 24523, 24751, 44587, 45043, 45442, 45898, 46582, 51979, 53518, 54300]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'f')","[187277, 301837]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'c')","[100322, 112422, 113522, 117372, 123972, 125072, 126722, 128372, 129472, 138272, 139372, 141022, 142122, 214882, 226982, 228082, 231932, 238532, 239632, 241282, 242932, 244032, 252832, 253932, 255582, 256682]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'idiv')","[24922, 25150, 25378, 25663]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '}')","[130957, 154057, 157357, 158457, 159557, 160657, 245517, 268617, 271917, 273017, 274117, 275217]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExch(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3427]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'p')","[77607, 78707, 192167, 193267]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFDFfdeb(org.apache.pdfbox.pdmodel.TestFDF)')",[1046]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'abs')","[17341, 17569, 17797, 18025]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '$')","[309569, 310596]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\n5 0 obj\n<</Le')",[58253]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '1 0 obj << /Crea')",[57376]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n19 0 obj\r<</Lin')",[57870]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-7')","[33985, 39343]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestMatrix')","[123, 4449, 5292, 6050, 6972, 7934]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '-7.5')","[17968, 32161]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n%����\r\n1 0 obj\r')","[12798, 70256, 70849, 72518, 73111]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream')","[59857, 59907, 59958, 60008]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n1 0 obj\r<')","[55186, 55734, 56282, 56830]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'N')","[99607, 180457, 214167, 295017]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'ne')","[39001, 39229, 39457, 39799, 40141, 40483]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'C')","[101037, 104337, 110387, 119187, 215597, 218897, 224947, 233747]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSetDirect(org.apache.pdfbox.cos.TestCOSFloat)')",[2142]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '\\')","[135137, 135687, 136237, 136787, 137337, 143387, 143937, 144487, 145037, 145587, 146137, 146687, 147237, 147787, 148337, 148887, 149437, 149987, 150537, 151637, 152187, 152737, 153287, 153837, 154937, 155487, 156037, 156587, 157137, 158237, 159337, 160437, 161537, 162087, 162637, 163187, 163737, 164837, 165387, 166487, 167037, 167587, 168137, 168687, 169237, 169787, 170337, 171987, 172537, 173087, 173637, 174737, 175287, 175837, 176387, 181887, 249697, 250247, 250797, 251347, 251897, 257947, 258497, 259047, 259597, 260147, 260697, 261247, 261797, 262347, 262897, 263447, 263997, 264547, 265097, 266197, 266747, 267297, 267847, 268397, 269497, 270047, 270597, 271147, 271697, 272797, 273897, 274997, 276097, 276647, 277197, 277747, 278297, 279397, 279947, 281047, 281597, 282147, 282697, 283247, 283797, 284347, 284897, 286547, 287097, 287647, 288197, 289297, 289847, 290397, 290947, 296447]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMultiplication(org.apache.pdfbox.util.TestMatrix)')",[960]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.TestRandomAccessBuffer')","[54871, 54921, 54972, 55022]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n1 0 obj\r\n<< ')","[70472, 71065, 72734, 73327]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFDFPDFWithLotsOfFields(org.apache.pdfbox.pdmodel.TestFDF)')",[1068]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'Y')","[116987, 184087, 231547, 298647]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'H')","[95262, 209822]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSaveLoadStream(org.apache.pdfbox.pdmodel.TestPDDocument)')",[2185]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'TestSuite with 136 tests [example: org.apache.pdfbox.util.TestDateUtil]')","[56, 77, 4395, 5219, 5242, 5992, 6878, 6908, 7866]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAbs(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2577]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '0.23')",[24409]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testMetadataExtraction(org.apache.pdfbox.pdmodel.TestPDDocumentInformation)')",[2403]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'F')","[82612, 99112, 197172, 213672]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetValue(org.apache.pdfbox.pdmodel.common.TestPDNumberTreeNode)')",[4264]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '0.23')",[24352]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\n5 0 obj\n<</Len')",[58308]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'o')","[87947, 107747, 185297, 202507, 222307, 299857]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'd')","[132442, 151142, 247002, 265702]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAdd(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2829]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '7.7')","[34897, 35011, 40255, 40369]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'b')","[105272, 106372, 178972, 186122, 219832, 220932, 293532, 300682]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHashCode(org.apache.pdfbox.cos.TestCOSString)')",[1440]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testToString(org.apache.pdfbox.util.TestDateUtil)')",[829]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n19 0 obj\r<')",[57595]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.cos.TestCOSFloat')","[261, 4611, 5442, 6224, 7164, 8138]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'c')","[100212, 112312, 113412, 117262, 123862, 124962, 126612, 128262, 129362, 138162, 139262, 140912, 142012, 214772, 226872, 227972, 231822, 238422, 239522, 241172, 242822, 243922, 252722, 253822, 255472, 256572]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '.38')",[53062]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-7.5')","[17911, 32104]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', ' ')","[64120, 65758]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'p')","[77827, 78927, 192387, 193487]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'i')","[83107, 86957, 112807, 119407, 121057, 181007, 197667, 201517, 227367, 233967, 235617, 295567]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'A')","[61136, 92952, 122652, 207512, 237212]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'n')","[88332, 108682, 179632, 202892, 223242, 294192]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'Y')","[116712, 183812, 231272, 298372]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'C')","[101147, 104447, 110497, 119297, 215707, 219007, 225057, 233857]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '3 0 obj <<\n/Leng')","[73702, 188262]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 't')","[75957, 78157, 79807, 82007, 85307, 96307, 111157, 120507, 186507, 190517, 192717, 194367, 196567, 199867, 210867, 225717, 235067, 301067]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'eq')","[33586, 33814, 34042, 34384, 34726, 35068]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'v')","[94107, 129857, 208667, 244417]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIDiv(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2852]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestFDF')","[9507, 9557, 9608, 9658]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.TestIOUtils')","[445, 4827, 5642, 6456, 7420, 8410]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'bitshift')","[33187, 33415]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'R')","[177762, 292322]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'R')","[178147, 292707]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'w')","[91962, 98012, 106812, 111762, 130462, 177212, 182162, 206522, 212572, 221372, 226322, 245022, 291772, 296722]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDecoderNaked(org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream)')",[3960]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'g')","[76782, 191342]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'e')","[94712, 98562, 109012, 141462, 183262, 209272, 213122, 223572, 256022, 297822]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseFloat(org.apache.pdfbox.pdmodel.common.function.type4.TestParser)')",[3564]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'parseHeader', '%PDF-\\d.\\d', '%PDF-1.6')","[11674, 11726, 12203, 12256, 13275, 13328]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '.72')",[52549]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'i')","[83327, 87177, 113027, 119627, 121277, 181227, 197887, 201737, 227587, 234187, 235837, 295787]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSetDirect(org.apache.pdfbox.cos.TestCOSString)')",[1528]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'h')","[104557, 115557, 219117, 230117]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'd')","[132552, 151252, 247112, 265812]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSqrt(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3036]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'm')","[93777, 95977, 97077, 102027, 122927, 208337, 210537, 211637, 216587, 237487]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetForceHexLiteralForm(org.apache.pdfbox.cos.TestCOSString)')",[1198]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '-47.8')","[21217, 21673]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '[')","[118527, 233087]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIntValue(org.apache.pdfbox.cos.TestCOSInteger)')",[1725]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'o')","[87782, 107582, 185132, 202342, 222142, 299692]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'I')","[89487, 91687, 184637, 204047, 206247, 299197]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'Y')","[117042, 184142, 231602, 298702]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'c')","[100267, 112367, 113467, 117317, 123917, 125017, 126667, 128317, 129417, 138217, 139317, 140967, 142067, 214827, 226927, 228027, 231877, 238477, 239577, 241227, 242877, 243977, 252777, 253877, 255527, 256627]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'T')","[64230, 65868, 73812, 74362, 75462, 77112, 79312, 80962, 85912, 86462, 90312, 97462, 102412, 105712, 123312, 142562, 176662, 179962, 187662, 188372, 188922, 190022, 191672, 193872, 195522, 200472, 201022, 204872, 212022, 216972, 220272, 237872, 257122, 291222, 294522, 302222]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'b')","[105492, 106592, 179192, 186342, 220052, 221152, 293752, 300902]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'd')","[132332, 151032, 246892, 265592]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '/')","[131947, 133597, 134697, 246507, 248157, 249257]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n1 0 obj\r<<')","[55241, 55789, 56337, 56885]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'h')","[104777, 115777, 219337, 230337]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'J')","[174022, 288582]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n59 0 obj\r<<')",[60287]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.TestTextToPdf')","[399, 4773, 5592, 6398, 7356, 8342]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestPDDocumentInformation')","[14502, 14552, 14603, 14653]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\n4 0 obj\n<<\n/')",[59179]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'A')","[60794, 92622, 122322, 207182, 236882]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '%')","[164067, 165717, 278627, 280277]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-90.0')",[30679]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'and')","[18367, 18709, 18937, 19165]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n59 0 obj\r')",[60175]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '}')","[131232, 154332, 157632, 158732, 159832, 160932, 245792, 268892, 272192, 273292, 274392, 275492]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '/')","[131782, 133432, 134532, 246342, 247992, 249092]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 't')","[76287, 78487, 80137, 82337, 85637, 96637, 111487, 120837, 186837, 190847, 193047, 194697, 196897, 200197, 211197, 226047, 235397, 301397]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 's')","[89872, 114072, 185572, 204432, 228632, 300132]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-37')",[41167]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n4 0 obj\n<<\n/Pro')",[59347]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.cos.TestCOSString')","[215, 4557, 5392, 6166, 7100, 8070]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '9 0 obj\r<</Linea')","[63570, 65208]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '@')","[101312, 102962, 103512, 117812, 124412, 125512, 126062, 127712, 128812, 215872, 217522, 218072, 232372, 238972, 240072, 240622, 242272, 243372]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFloatValue(org.apache.pdfbox.cos.TestCOSInteger)')",[1703]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDecoderRowsRestriction(org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream)')",[4069]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFunctionSimple(org.apache.pdfbox.pdmodel.common.function.TestPDFunctionType4)')",[3633]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'Y')","[116822, 183922, 231382, 298482]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '2.1')","[17512, 28114]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'M')","[120287, 234847]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n59 0 obj\r<</Lin')",[60511]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'or')","[41623, 41965, 42307, 42535, 42763, 44245]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\n2 0 obj <</Fi')","[308971, 309998]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'c')","[100157, 112257, 113357, 117207, 123807, 124907, 126557, 128207, 129307, 138107, 139207, 140857, 141957, 214717, 226817, 227917, 231767, 238367, 239467, 241117, 242767, 243867, 252667, 253767, 255417, 256517]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '(')","[91302, 205862]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'ب')",[304233]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'I')","[89377, 91577, 184527, 203937, 206137, 299087]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'w')","[92072, 98122, 106922, 111872, 130572, 177322, 182272, 206632, 212682, 221482, 226432, 245132, 291882, 296832]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'J')","[174242, 288802]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '77')","[22072, 22243, 22300]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFloatValue(org.apache.pdfbox.cos.TestCOSFloat)')",[2010]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'lt')","[38089, 38317, 38545, 38773]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n16 0 obj\r<')",[11832]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '{')","[133872, 170722, 171272, 248432, 285282, 285832]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'Y')","[117152, 184252, 231712, 298812]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'h')","[104667, 115667, 219227, 230227]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '19 0 obj\r<</Line')",[57924]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'Ä')",[67604]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n1 0 obj\r<</M')","[55351, 55899, 56447, 56995]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'A')","[61022, 92842, 122542, 207402, 237102]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '2.5')",[48349]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testExtract(org.apache.pdfbox.util.TestTextStripper)')","[696, 719, 742, 4370, 5122, 5149, 5176, 5915, 5940, 5965, 6773, 6802, 6831, 7770, 7802, 7834, 8782, 8816, 8850]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPopulateBuffer(org.apache.pdfbox.io.TestIOUtils)')",[3721]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testLayerImport(org.apache.pdfbox.util.TestLayerUtility)')",[2511]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', ' ')","[63955, 65593]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestImageIOUtils')","[59453, 59503, 59554, 59604]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '1')","[110607, 137557, 138657, 140307, 225167, 252117, 253217, 254867]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n19 0 obj\r<<')",[57650]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n1 0 obj\r\n<')","[12904, 70364, 70957, 72626, 73219]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOr(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3289]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'r')","[132827, 247387]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '{')","[134147, 170997, 171547, 248707, 285557, 286107]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'ifelse')","[46183, 46867, 53803]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'A')","[60623, 92457, 122157, 207017, 236717]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '1')","[110827, 137777, 138877, 140527, 225387, 252337, 253437, 255087]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 't')","[76342, 78542, 80192, 82392, 85692, 96692, 111542, 120892, 186892, 190902, 193102, 194752, 196952, 200252, 211252, 226102, 235452, 301452]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '1.5')","[27715, 28000]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCreateEmptyPdf(org.apache.pdfbox.TestTextToPdf)')",[2554]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '/')","[131617, 133267, 134367, 246177, 247827, 248927]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'J')","[174132, 288692]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '/')","[132002, 133652, 134752, 246562, 248212, 249312]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'true')","[18196, 18310, 18538, 34213, 34327, 34669, 39571, 39685, 40027, 40597, 41395, 41509, 41737, 42877, 42991, 43219, 44359, 45670, 47038, 47494, 47836, 48064, 53290, 53974]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'w')","[92402, 98452, 107252, 112202, 130902, 177652, 182602, 206962, 213012, 221812, 226762, 245462, 292212, 297162]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '\\')","[135082, 135632, 136182, 136732, 137282, 143332, 143882, 144432, 144982, 145532, 146082, 146632, 147182, 147732, 148282, 148832, 149382, 149932, 150482, 151582, 152132, 152682, 153232, 153782, 154882, 155432, 155982, 156532, 157082, 158182, 159282, 160382, 161482, 162032, 162582, 163132, 163682, 164782, 165332, 166432, 166982, 167532, 168082, 168632, 169182, 169732, 170282, 171932, 172482, 173032, 173582, 174682, 175232, 175782, 176332, 181832, 249642, 250192, 250742, 251292, 251842, 257892, 258442, 258992, 259542, 260092, 260642, 261192, 261742, 262292, 262842, 263392, 263942, 264492, 265042, 266142, 266692, 267242, 267792, 268342, 269442, 269992, 270542, 271092, 271642, 272742, 273842, 274942, 276042, 276592, 277142, 277692, 278242, 279342, 279892, 280992, 281542, 282092, 282642, 283192, 283742, 284292, 284842, 286492, 287042, 287592, 288142, 289242, 289792, 290342, 290892, 296392]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'M')","[120397, 234957]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'i')","[83602, 87452, 113302, 119902, 121552, 181502, 198162, 202012, 227862, 234462, 236112, 296062]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n31 0 obj<</')","[68200, 69280]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '_���J�\x18��#s6\x1f�dR')","[304551, 305989]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPop(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3473]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'L')","[68684, 69764]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestPDDocumentCatalog')","[307, 4665, 5492, 6282, 7228, 8206]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'H')","[95427, 209987]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '‘')","[108022, 115172, 222582, 229732]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestMatrix')","[9103, 9153, 9204, 9254]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'v')","[94382, 130132, 208942, 244692]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '4')","[19963, 20020, 22699, 25036, 31249, 48748, 49147, 50344, 50857, 51865]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'N')","[99827, 180677, 214387, 295237]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSetDirect(org.apache.pdfbox.cos.TestCOSInteger)')",[1835]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'i')","[83437, 87287, 113137, 119737, 121387, 181337, 197997, 201847, 227697, 234297, 235947, 295897]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'n')","[88057, 108407, 179357, 202617, 222967, 293917]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'W')","[84537, 88937, 199097, 203497]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'e')","[95042, 98892, 109342, 141792, 183592, 209602, 213452, 223902, 256352, 298152]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'C')","[100982, 104282, 110332, 119132, 215542, 218842, 224892, 233692]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'P')","[75187, 189747]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', ' ')","[63625, 65263]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '@')","[101752, 103402, 103952, 118252, 124852, 125952, 126502, 128152, 129252, 216312, 217962, 218512, 232812, 239412, 240512, 241062, 242712, 243812]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'false')","[18595, 34498, 39856, 40768, 41794, 42022, 42136, 43276, 43504, 43618, 44758, 46297]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'r')","[132662, 247222]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '(')","[90862, 205422]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'L')","[68959, 70039]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'n')","[88167, 108517, 179467, 202727, 223077, 294027]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'H')","[95207, 209767]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\n2 0 obj <<')","[308812, 309839]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFunctionSimple(org.apache.pdfbox.pdmodel.common.function.TestPDFunctionType4)')",[3655]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'N')","[99992, 180842, 214552, 295402]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFormatTZoffset(org.apache.pdfbox.util.TestDateUtil)')",[873]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLowerLimit(org.apache.pdfbox.pdmodel.common.TestPDNumberTreeNode)')",[4329]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '[')","[118307, 232867]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '1')","[111102, 138052, 139152, 140802, 225662, 252612, 253712, 255362]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'e')","[94877, 98727, 109177, 141627, 183427, 209437, 213287, 223737, 256187, 297987]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDiv(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2760]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleReadWrite(org.apache.pdfbox.io.TestRandomAccessBuffer)')",[3743]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'L')","[69014, 70094]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'Ä')",[67549]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'I')","[89267, 91467, 184417, 203827, 206027, 298977]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'J')","[173967, 288527]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'R')","[178202, 292762]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'C')","[100762, 104062, 110112, 118912, 215322, 218622, 224672, 233472]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '[')","[118582, 233142]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'ب')",[304013]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '/')","[131672, 133322, 134422, 246232, 247882, 248982]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestLayerUtility')","[16866, 16916, 16967, 17017]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�dR L�s\x1f\n1 0 obj')","[305235, 306673]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'o')","[87617, 107417, 184967, 202177, 221977, 299527]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '\\')","[134917, 135467, 136017, 136567, 137117, 143167, 143717, 144267, 144817, 145367, 145917, 146467, 147017, 147567, 148117, 148667, 149217, 149767, 150317, 151417, 151967, 152517, 153067, 153617, 154717, 155267, 155817, 156367, 156917, 158017, 159117, 160217, 161317, 161867, 162417, 162967, 163517, 164617, 165167, 166267, 166817, 167367, 167917, 168467, 169017, 169567, 170117, 171767, 172317, 172867, 173417, 174517, 175067, 175617, 176167, 181667, 249477, 250027, 250577, 251127, 251677, 257727, 258277, 258827, 259377, 259927, 260477, 261027, 261577, 262127, 262677, 263227, 263777, 264327, 264877, 265977, 266527, 267077, 267627, 268177, 269277, 269827, 270377, 270927, 271477, 272577, 273677, 274777, 275877, 276427, 276977, 277527, 278077, 279177, 279727, 280827, 281377, 281927, 282477, 283027, 283577, 284127, 284677, 286327, 286877, 287427, 287977, 289077, 289627, 290177, 290727, 296227]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 's')","[90092, 114292, 185792, 204652, 228852, 300352]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'W')","[84262, 88662, 198822, 203222]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'f')","[187497, 302057]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'm')","[93557, 95757, 96857, 101807, 122707, 208117, 210317, 211417, 216367, 237267]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'N')","[99772, 180622, 214332, 295182]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'l')","[80687, 116437, 121937, 127437, 140087, 195247, 230997, 236497, 241997, 254647]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'P')","[74967, 189527]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'xor')","[43048, 43390, 43732, 43960]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'b')","[105327, 106427, 179027, 186177, 219887, 220987, 293587, 300737]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOCGGeneration(org.apache.pdfbox.pdmodel.graphics.optionalcontent.TestOptionalContentGroups)')",[2425]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'R')","[177927, 292487]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpperLimit(org.apache.pdfbox.pdmodel.common.TestPDNumberTreeNode)')",[4307]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLowerLimit(org.apache.pdfbox.pdmodel.common.TestPDNameTreeNode)')",[4242]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'r')","[133102, 247662]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestTextStripper')","[310727, 310747, 310768, 310788]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '‘')","[108187, 115337, 222747, 229897]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'N')","[99937, 180787, 214497, 295347]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'index')","[48862, 49261]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'F')","[82832, 99332, 197392, 213892]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'a')","[81732, 83932, 85032, 93282, 109782, 114732, 178532, 182932, 196292, 198492, 199592, 207842, 224342, 229292, 293092, 297492]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '6\x1f�dR L�s\x1f\n1 0 o')","[305129, 306567]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '{')","[133927, 170777, 171327, 248487, 285337, 285887]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'p')","[78047, 79147, 192607, 193707]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'h')","[104612, 115612, 219172, 230172]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCeiling(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2668]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'r')","[133047, 247607]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', ' ')","[63790, 65428]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '{')","[133817, 170667, 171217, 248377, 285227, 285777]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'log')","[26176, 26347]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\n4 0 obj <</F')",[58688]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '(')","[90972, 205532]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n1 0 obj\r<</')","[55296, 55844, 56392, 56940]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFilterManager(org.apache.pdfbox.cos.TestCOSFloat)')",[2076]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'T')","[64175, 65813, 73757, 74307, 75407, 77057, 79257, 80907, 85857, 86407, 90257, 97407, 102357, 105657, 123257, 142507, 176607, 179907, 187607, 188317, 188867, 189967, 191617, 193817, 195467, 200417, 200967, 204817, 211967, 216917, 220217, 237817, 257067, 291167, 294467, 302167]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'l')","[80412, 116162, 121662, 127162, 139812, 194972, 230722, 236222, 241722, 254372]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n59 0 obj\r<</')",[60343]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n15 0 obj\r<')","[14128, 61355, 61903, 71495, 72033]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'p')","[77772, 78872, 192332, 193432]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'parseHeader', '%PDF-\\d.\\d', '%PDF-1.3')","[57269, 57323, 57979, 58033, 73596, 73649, 188156, 188209]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'cvi')","[21274, 21502]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n4 0 obj <</Filt')",[58850]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'N')","[100047, 180897, 214607, 295457]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.edit.TestPDPageContentStream')","[62485, 62535, 62586, 62636]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'R')","[177982, 292542]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '4 0 obj <</Filte')",[58903]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-5')","[25264, 26917]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'P')","[75297, 189857]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\n4 0 obj <</Fi')",[58742]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'parseHeader', '%PDF-\\d.\\d', '%PDF-1.7')","[60064, 60119]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'L')","[68904, 69984]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'h')","[104887, 115887, 219447, 230447]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'e')","[94767, 98617, 109067, 141517, 183317, 209327, 213177, 223627, 256077, 297877]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'M')","[120067, 234627]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'A')","[60965, 92787, 122487, 207347, 237047]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '-2.1')",[17740]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIntValue(org.apache.pdfbox.cos.TestCOSFloat)')",[2032]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'g')","[77002, 191562]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n31 0 obj<</H[')","[68306, 69386]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n59 0 obj\r<</Li')",[60455]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.function.type4.TestOperators')","[51594, 51646, 51699, 51751]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'neg')","[28684, 28855, 29026, 29197]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'o')","[88002, 107802, 185352, 202562, 222362, 299912]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'r')","[132992, 247552]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '2')","[22528, 22756, 24865, 25093, 25321, 25606, 26746, 27259, 27487, 27772, 28342, 31933, 35923, 36835, 37747, 38659, 44416, 44872, 45271, 45727, 45955, 46411, 46639, 47152, 47608, 48634, 49033, 49603, 49831, 50230, 50743, 51028, 51256, 52036, 53347, 53575]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n9 0 obj\r<</L')","[63355, 64993]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFDFFreedomExpressions(org.apache.pdfbox.pdmodel.TestFDF)')",[1090]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '31 0 obj<</H[556')","[68464, 69544]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'i')","[83547, 87397, 113247, 119847, 121497, 181447, 198107, 201957, 227807, 234407, 236057, 296007]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 's')","[89817, 114017, 185517, 204377, 228577, 300077]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAppend(org.apache.pdfbox.cos.TestCOSString)')",[1286]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEmbeddedPDFs(org.apache.pdfbox.TestExtractText)')",[4134]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'exch')","[48235, 48520, 52777, 52948]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n1 0 obj\n<<\n/Typ')","[10886, 11366, 15089, 15781, 16271, 16761, 305672, 307110]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'F')","[82887, 99387, 197447, 213947]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'N')","[100102, 180952, 214662, 295512]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testAbs(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2599]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '1 0 obj\r<</Metad')","[55570, 56118, 56666, 57214]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'A')","[60680, 92512, 122212, 207072, 236772]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'h')","[104997, 115997, 219557, 230557]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'p')","[77662, 78762, 192222, 193322]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.filter.TestFilters')","[9305, 9355, 9406, 9456]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'n')","[88277, 108627, 179577, 202837, 223187, 294137]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '4.4')","[25549, 27202, 31477]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testReset(org.apache.pdfbox.cos.TestCOSString)')",[1308]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'roll')","[50629, 51142, 51541]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 's')","[89762, 113962, 185462, 204322, 228522, 300022]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '17')",[42364]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n9 0 obj\r<</Line')","[63517, 65155]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '-4.8')","[20476, 23725, 29767, 32674]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseTZ(org.apache.pdfbox.util.TestDateUtil)')",[851]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '/')","[131727, 133377, 134477, 246287, 247937, 249037]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '7.7')","[34840, 34954, 40198, 40312]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'f')","[187332, 301892]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'g')","[76617, 191177]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'v')","[94437, 130187, 208997, 244747]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', ' ')","[63735, 65373]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', ' ')","[63845, 65483]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'i')","[83382, 87232, 113082, 119682, 121332, 181282, 197942, 201792, 227642, 234242, 235892, 295842]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFDFfdeb(org.apache.pdfbox.pdmodel.TestFDF)')",[1025]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'v')","[94547, 130297, 209107, 244857]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n1 0 obj\r\n<< /Le')","[70634, 71227, 72896, 73489]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '1 0 obj\n<<\n/Acro')","[12639, 13711]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'copy')",[47380]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'cvr')","[21787, 22015, 22186, 22414]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSetNeedToBeUpdate(org.apache.pdfbox.cos.TestCOSInteger)')",[1813]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'ب')",[303848]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-2147483647')",[28912]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\n1 0 obj\n<<\n/T')","[10780, 11258, 14979, 15671, 16161, 16651]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\n1 0 obj\n<<\n')","[10674, 11150, 12365, 13437, 14869, 15561, 16051, 16541]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPageLabels(org.apache.pdfbox.pdmodel.TestPDDocumentCatalog)')",[2294]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'ب')",[304068]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'p')","[77937, 79037, 192497, 193597]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'cvr')","[21730, 21958, 22129, 22357]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'I')","[89597, 91797, 184747, 204157, 206357, 299307]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'F')","[82997, 99497, 197557, 214057]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'a')","[81897, 84097, 85197, 93447, 109947, 114897, 178697, 183097, 196457, 198657, 199757, 208007, 224507, 229457, 293257, 297657]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.TestExtractText')","[560, 4962, 5767, 6601, 7580, 8580]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '@')","[101642, 103292, 103842, 118142, 124742, 125842, 126392, 128042, 129142, 216202, 217852, 218402, 232702, 239302, 240402, 240952, 242602, 243702]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��J�\x18��#s6\x1f�dR L')","[304655, 306093]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'Y')","[116657, 183757, 231217, 298317]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '$')","[309404, 310431]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExtract(org.apache.pdfbox.util.TestTextStripper)')","[673, 4350, 5095, 5890, 6744, 7738, 8748]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAtan(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2645]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'T')","[64615, 66253, 74197, 74747, 75847, 77497, 79697, 81347, 86297, 86847, 90697, 97847, 102797, 106097, 123697, 142947, 177047, 180347, 188047, 188757, 189307, 190407, 192057, 194257, 195907, 200857, 201407, 205257, 212407, 217357, 220657, 238257, 257507, 291607, 294907, 302607]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.function.type4.TestParser')","[54027, 54079, 54132, 54184]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'F')","[82667, 99167, 197227, 213727]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '$')","[309184, 310211]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testOCGGeneration(org.apache.pdfbox.pdmodel.graphics.optionalcontent.TestOptionalContentGroups)')",[2446]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'c')","[100597, 112697, 113797, 117647, 124247, 125347, 126997, 128647, 129747, 138547, 139647, 141297, 142397, 215157, 227257, 228357, 232207, 238807, 239907, 241557, 243207, 244307, 253107, 254207, 255857, 256957]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'ب')",[303793]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '59 0 obj\r<</Line')",[60566]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '}')","[131067, 154167, 157467, 158567, 159667, 160767, 245627, 268727, 272027, 273127, 274227, 275327]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'mul')","[27601, 27886, 28228, 28456, 52663, 53176]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'd')","[132497, 151197, 247057, 265757]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestFDF')","[169, 4503, 5342, 6108, 7036, 8002]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n1 0 obj\r<</Met')","[55461, 56009, 56557, 57105]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n31 0 obj<</H[5')","[68359, 69439]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'gt')","[36208, 36436, 36664, 36892]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'n')","[88387, 108737, 179687, 202947, 223297, 294247]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'H')","[95482, 210042]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCOSObject(org.apache.pdfbox.cos.TestCOSFloat)')",[2098]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '0.5')",[23041]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '0')","[19279, 19564, 19792, 20818, 30337, 30907, 45214, 48805, 51427, 52834]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCOSObject(org.apache.pdfbox.cos.TestCOSString)')",[1484]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '9')",[22927]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 't')","[76397, 78597, 80247, 82447, 85747, 96747, 111597, 120947, 186947, 190957, 193157, 194807, 197007, 200307, 211307, 226157, 235507, 301507]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSimpleReadWrite(org.apache.pdfbox.io.TestRandomAccessBuffer)')",[3764]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'm')","[93667, 95867, 96967, 101917, 122817, 208227, 210427, 211527, 216477, 237377]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '1.5')","[27658, 27943]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '-90.0')",[30736]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'M')","[120177, 234737]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLt(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3220]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFilterManager(org.apache.pdfbox.cos.TestCOSInteger)')",[1769]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '-4.1')",[31705]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'sqrt')","[30964, 31135, 31306, 31534, 31762]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '1')","[18880, 19336, 19507, 27430, 31078, 32218, 42592, 42649, 44473, 44929, 45328, 45784, 46012, 46468, 46696, 47095, 47551, 48121, 48292, 48577, 48976, 49375, 49774, 50173, 50686, 51199, 52207, 53404, 53632]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'a')","[81787, 83987, 85087, 93337, 109837, 114787, 178587, 182987, 196347, 198547, 199647, 207897, 224397, 229347, 293147, 297547]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '90')","[20989, 30508]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCos(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2691]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '1 0 obj\r\n<</Crop')",[13221]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '{')","[133707, 170557, 171107, 248267, 285117, 285667]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'C')","[101202, 104502, 110552, 119352, 215762, 219062, 225112, 233912]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '(')","[91082, 205642]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-2.1')",[17683]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'ln')","[25834, 26005]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '\\')","[135247, 135797, 136347, 136897, 137447, 143497, 144047, 144597, 145147, 145697, 146247, 146797, 147347, 147897, 148447, 148997, 149547, 150097, 150647, 151747, 152297, 152847, 153397, 153947, 155047, 155597, 156147, 156697, 157247, 158347, 159447, 160547, 161647, 162197, 162747, 163297, 163847, 164947, 165497, 166597, 167147, 167697, 168247, 168797, 169347, 169897, 170447, 172097, 172647, 173197, 173747, 174847, 175397, 175947, 176497, 181997, 249807, 250357, 250907, 251457, 252007, 258057, 258607, 259157, 259707, 260257, 260807, 261357, 261907, 262457, 263007, 263557, 264107, 264657, 265207, 266307, 266857, 267407, 267957, 268507, 269607, 270157, 270707, 271257, 271807, 272907, 274007, 275107, 276207, 276757, 277307, 277857, 278407, 279507, 280057, 281157, 281707, 282257, 282807, 283357, 283907, 284457, 285007, 286657, 287207, 287757, 288307, 289407, 289957, 290507, 291057, 296557]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFilters(org.apache.pdfbox.filter.TestFilters)')",[982]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'C')","[101092, 104392, 110442, 119242, 215652, 218952, 225002, 233802]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'P')","[75352, 189912]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'J')","[174352, 288912]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '‘')","[107967, 115117, 222527, 229677]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '‘')","[108077, 115227, 222637, 229787]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'M')","[119957, 234517]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n31 0 obj<</H')","[68253, 69333]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'L')","[68739, 69819]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n59 0 obj\r<</L')",[60399]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'Ä')",[67659]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'L')","[68574, 69654]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'C')","[100927, 104227, 110277, 119077, 215487, 218787, 224837, 233637]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'w')","[92182, 98232, 107032, 111982, 130682, 177432, 182382, 206742, 212792, 221592, 226542, 245242, 291992, 296942]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '6 0 obj\r<</Linea')","[66846, 67384, 303200, 303738]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'parseHeader', '%PDF-\\d.\\d', '%PDF-1.2')","[304342, 304395, 305780, 305833]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '}')","[131287, 154387, 157687, 158787, 159887, 160987, 245847, 268947, 272247, 273347, 274447, 275547]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', ' ')","[64065, 65703]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDecoderNaked(org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream)')",[3981]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 't')","[76232, 78432, 80082, 82282, 85582, 96582, 111432, 120782, 186782, 190792, 192992, 194642, 196842, 200142, 211142, 225992, 235342, 301342]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-2')",[50515]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'L')","[68519, 69599]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n15 0 obj\r<</Lin')","[14398, 61630, 62178, 71765, 72303]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testConstructionAndCopy(org.apache.pdfbox.util.TestMatrix)')",[917]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSetNeedToBeUpdate(org.apache.pdfbox.cos.TestCOSString)')",[1506]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'l')","[80852, 116602, 122102, 127602, 140252, 195412, 231162, 236662, 242162, 254812]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.graphics.optionalcontent.TestOptionalContentGroups')","[15194, 15244, 15295, 15345]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '3.2')","[20248, 23497, 29311, 32446]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n31 0 obj<</H[55')","[68412, 69492]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '52')","[19051, 40996]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '{')","[134037, 170887, 171437, 248597, 285447, 285997]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '/')","[131507, 133157, 134257, 246067, 247717, 248817]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'd')","[132222, 150922, 246782, 265482]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\x18��#s6\x1f�dR L�s\x1f')","[304811, 306249]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'h')","[104832, 115832, 219392, 230392]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'F')","[82777, 99277, 197337, 213837]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'a')","[81677, 83877, 84977, 93227, 109727, 114677, 178477, 182877, 196237, 198437, 199537, 207787, 224287, 229237, 293037, 297437]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'pop')","[49432, 49660, 49945, 50059, 54358]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n5 0 obj <</L')","[307483, 308013]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '‘')","[107857, 115007, 222417, 229567]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'atan')","[19450, 19678, 19906, 20134]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(org.apache.pdfbox.cos.TestCOSFloat)')",[1944]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 's6\x1f�dR L�s\x1f\n1 0 ')","[305076, 306514]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'ln')","[25891, 26062]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'b')","[105162, 106262, 178862, 186012, 219722, 220822, 293422, 300572]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '.38')",[53005]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'b')","[105547, 106647, 179247, 186397, 220107, 221207, 293807, 300957]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'floor')","[23554, 23782, 23953]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGt(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3174]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'I')","[89322, 91522, 184472, 203882, 206082, 299032]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'f')","[187057, 301617]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'a')","[81622, 83822, 84922, 93172, 109672, 114622, 178422, 182822, 196182, 198382, 199482, 207732, 224232, 229182, 292982, 297382]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'F')","[82722, 99222, 197282, 213782]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '0.5')",[22984]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n5 0 obj <</Line')","[307642, 308172]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'v')","[94217, 129967, 208777, 244527]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '/')","[131562, 133212, 134312, 246122, 247772, 248872]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'd')","[132277, 150977, 246837, 265537]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLabelsOnMalformedPdf(org.apache.pdfbox.pdmodel.TestPDDocumentCatalog)')",[2338]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.TestPDNumberTreeNode')","[62887, 62935, 62984, 63032]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n1 0 obj\r\n<</')",[13010]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '520.9')","[21445, 21901]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '[')","[118802, 233362]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOverwrite(org.apache.pdfbox.io.TestRandomAccessBuffer)')",[3830]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', ' ')","[63900, 65538]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n6 0 obj\r<</Li')","[66685, 67223, 303039, 303577]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n5 0 obj <</Lin')","[307589, 308119]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.function.TestFunctions')","[422, 4800, 5617, 6427, 7388, 8376]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 's')","[89927, 114127, 185627, 204487, 228687, 300187]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'round')","[29368, 29596, 29824, 30052, 30223]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testRenderImage(org.apache.pdfbox.util.TestImageIOUtils)')",[3895]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'F')","[83052, 99552, 197612, 214112]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-2147483648')",[29083]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '$')","[309239, 310266]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDecoderAlignedWithRTC(org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream)')",[4025]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'ceiling')","[20362, 20590, 20761]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '1 0 obj\r\n<< /Len')","[70687, 71280, 72949, 73542]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'r')","[132607, 247167]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'xor')","[43105, 43447, 43789, 44017]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\n4 0 obj\n<<\n')",[59123]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWritePDF(org.apache.pdfbox.cos.TestCOSFloat)')",[1900]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '142')",[33244]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'pop')","[49489, 49717, 50002, 50116, 54416]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n16 0 obj\r<</Lin')",[12097]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'h')","[104722, 115722, 219282, 230282]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'R')","[177817, 292377]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testStaticMembers(org.apache.pdfbox.cos.TestCOSString)')",[1176]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'and')","[18424, 18766, 18994, 19222]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'f')","[187387, 301947]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'Y')","[116767, 183867, 231327, 298427]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'g')","[76507, 191067]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFlags(org.apache.pdfbox.pdmodel.interactive.form.TestFields)')",[1133]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '[')","[118472, 233032]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'P')","[75132, 189692]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'e')","[95152, 99002, 109452, 141902, 183702, 209712, 213562, 224012, 256462, 298262]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'o')","[87892, 107692, 185242, 202452, 222252, 299802]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n1 0 obj\r\n<< /L')","[70580, 71173, 72842, 73435]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'M')","[120122, 234682]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\n4 0 obj\n<<')",[59067]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '1 0 obj\r\n<</Coun')","[308438, 308652]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHashCode(org.apache.pdfbox.cos.TestCOSFloat)')",[1966]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'ب')",[304178]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDecoderInitialEOL(org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream)')",[4047]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCopy(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3381]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestTextStripper')","[650, 5068, 5865, 6715, 7706, 8714]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '5')","[24067, 24295, 26461, 26689, 31876, 35182, 35467, 36094, 36379, 37006, 37291, 37918, 38203, 42421, 50401, 50458, 50914, 50971]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'g')","[76892, 191452]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExp(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2783]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'a')","[81567, 83767, 84867, 93117, 109617, 114567, 178367, 182767, 196127, 198327, 199427, 207677, 224177, 229127, 292927, 297327]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n19 0 obj\r')",[57540]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'exp')","[23155, 23383]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n5 0 obj <')","[307324, 307854]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'b')","[105602, 106702, 179302, 186452, 220162, 221262, 293862, 301012]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testXor(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3312]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '6.5')",[29539]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '%')","[164452, 166102, 279012, 280662]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'mod')","[26575, 26803, 27031, 27316]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAccept(org.apache.pdfbox.cos.TestCOSString)')",[1396]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'f')","[187112, 301672]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestLayerUtility')","[376, 4746, 5567, 6369, 7324, 8308]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'e')","[94932, 98782, 109232, 141682, 183482, 209492, 213342, 223792, 256242, 298042]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'ge')","[35353, 35581, 35809, 36037]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'T')","[64670, 66308, 74252, 74802, 75902, 77552, 79752, 81402, 86352, 86902, 90752, 97902, 102852, 106152, 123752, 143002, 177102, 180402, 188102, 188812, 189362, 190462, 192112, 194312, 195962, 200912, 201462, 205312, 212462, 217412, 220712, 238312, 257562, 291662, 294962, 302662]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '\\')","[134862, 135412, 135962, 136512, 137062, 143112, 143662, 144212, 144762, 145312, 145862, 146412, 146962, 147512, 148062, 148612, 149162, 149712, 150262, 151362, 151912, 152462, 153012, 153562, 154662, 155212, 155762, 156312, 156862, 157962, 159062, 160162, 161262, 161812, 162362, 162912, 163462, 164562, 165112, 166212, 166762, 167312, 167862, 168412, 168962, 169512, 170062, 171712, 172262, 172812, 173362, 174462, 175012, 175562, 176112, 181612, 249422, 249972, 250522, 251072, 251622, 257672, 258222, 258772, 259322, 259872, 260422, 260972, 261522, 262072, 262622, 263172, 263722, 264272, 264822, 265922, 266472, 267022, 267572, 268122, 269222, 269772, 270322, 270872, 271422, 272522, 273622, 274722, 275822, 276372, 276922, 277472, 278022, 279122, 279672, 280772, 281322, 281872, 282422, 282972, 283522, 284072, 284622, 286272, 286822, 287372, 287922, 289022, 289572, 290122, 290672, 296172]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n16 0 obj\r<</Li')",[12044]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPageMap(org.apache.pdfbox.pdmodel.TestPDDocumentCatalog)')",[2316]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '[')","[118747, 233307]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'H')","[95537, 210097]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\n4 0 obj <</')",[58634]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUnicode(org.apache.pdfbox.cos.TestCOSString)')",[1374]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'c')","[100377, 112477, 113577, 117427, 124027, 125127, 126777, 128427, 129527, 138327, 139427, 141077, 142177, 214937, 227037, 228137, 231987, 238587, 239687, 241337, 242987, 244087, 252887, 253987, 255637, 256737]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'W')","[84702, 89102, 199262, 203662]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCvr(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2737]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\n4 0 obj\n<<\n/P')",[59235]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestPDDocument')","[11470, 11520, 11571, 11621]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n1 0 obj\r\n<</C')",[13063]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'd')","[132112, 150812, 246672, 265372]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'f')","[187442, 302002]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '2147483644')",[28285]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 's')","[90147, 114347, 185847, 204707, 228907, 300407]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDateConverter(org.apache.pdfbox.util.TestDateUtil)')",[807]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '10')","[25777, 26119]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n16 0 obj\r<<')",[11885]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\n4 0 obj\n<<\n/Pr')",[59291]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '[')","[118362, 232922]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '[')","[118692, 233252]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n6 0 obj\r<</Line')","[66793, 67331, 303147, 303685]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.edit.TestPDPageContentStream')","[583, 4989, 5792, 6630, 7612, 8614]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '\\')","[135302, 135852, 136402, 136952, 137502, 143552, 144102, 144652, 145202, 145752, 146302, 146852, 147402, 147952, 148502, 149052, 149602, 150152, 150702, 151802, 152352, 152902, 153452, 154002, 155102, 155652, 156202, 156752, 157302, 158402, 159502, 160602, 161702, 162252, 162802, 163352, 163902, 165002, 165552, 166652, 167202, 167752, 168302, 168852, 169402, 169952, 170502, 172152, 172702, 173252, 173802, 174902, 175452, 176002, 176552, 182052, 249862, 250412, 250962, 251512, 252062, 258112, 258662, 259212, 259762, 260312, 260862, 261412, 261962, 262512, 263062, 263612, 264162, 264712, 265262, 266362, 266912, 267462, 268012, 268562, 269662, 270212, 270762, 271312, 271862, 272962, 274062, 275162, 276262, 276812, 277362, 277912, 278462, 279562, 280112, 281212, 281762, 282312, 282862, 283412, 283962, 284512, 285062, 286712, 287262, 287812, 288362, 289462, 290012, 290562, 291112, 296612]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testExtract(org.apache.pdfbox.util.TestDateUtil)')",[764]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testUpperLimit(org.apache.pdfbox.pdmodel.common.TestPDNameTreeNode)')",[4220]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAnd(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2622]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n16 0 obj\r<</')",[11938]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'lt')","[38032, 38260, 38488, 38716]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-1')","[23269, 35866, 36778, 37690, 38602]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetCOSObject(org.apache.pdfbox.cos.TestCOSInteger)')",[1791]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n15 0 obj\r')","[14074, 61300, 61848, 71441, 71979]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'c')","[100542, 112642, 113742, 117592, 124192, 125292, 126942, 128592, 129692, 138492, 139592, 141242, 142342, 215102, 227202, 228302, 232152, 238752, 239852, 241502, 243152, 244252, 253052, 254152, 255802, 256902]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'l')","[80467, 116217, 121717, 127217, 139867, 195027, 230777, 236277, 241777, 254427]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '[')","[118637, 233197]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'Ä')",[67824]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '%')","[164012, 165662, 278572, 280222]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\n1 0 obj\n<<\n/A')","[12475, 13547]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'R')","[178037, 292597]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'ب')",[303958]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'w')","[92237, 98287, 107087, 112037, 130737, 177487, 182437, 206797, 212847, 221647, 226597, 245297, 292047, 296997]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 't')","[76122, 78322, 79972, 82172, 85472, 96472, 111322, 120672, 186672, 190682, 192882, 194532, 196732, 200032, 211032, 225882, 235232, 301232]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'sub')","[31990, 32275, 46069, 46753, 52093, 53689]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLayerImport(org.apache.pdfbox.util.TestLayerUtility)')",[2490]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'n')","[88552, 108902, 179852, 203112, 223462, 294412]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n1 0 obj\r<</Me')","[55406, 55954, 56502, 57050]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWritePDF(org.apache.pdfbox.cos.TestCOSString)')",[1352]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'f')","[187222, 301782]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'I')","[89157, 91357, 184307, 203717, 205917, 298867]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestImageIOUtils')","[491, 4881, 5692, 6514, 7484, 8478]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'F')","[82557, 99057, 197117, 213617]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'a')","[81457, 83657, 84757, 93007, 109507, 114457, 178257, 182657, 196017, 198217, 199317, 207567, 224067, 229017, 292817, 297217]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFloor(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2806]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'index')","[48919, 49318]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'H')","[95702, 210262]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.ccitt.TestPackedBitArray')","[59655, 59705, 59756, 59806]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSaveLoadNonSeqStream(org.apache.pdfbox.pdmodel.TestPDDocument)')",[2229]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'T')","[64395, 66033, 73977, 74527, 75627, 77277, 79477, 81127, 86077, 86627, 90477, 97627, 102577, 105877, 123477, 142727, 176827, 180127, 187827, 188537, 189087, 190187, 191837, 194037, 195687, 200637, 201187, 205037, 212187, 217137, 220437, 238037, 257287, 291387, 294687, 302387]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSub(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3059]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNe(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3243]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n6 0 obj\r<<')","[66523, 67061, 302877, 303415]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '}')","[131122, 154222, 157522, 158622, 159722, 160822, 245682, 268782, 272082, 273182, 274282, 275382]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '\\')","[135027, 135577, 136127, 136677, 137227, 143277, 143827, 144377, 144927, 145477, 146027, 146577, 147127, 147677, 148227, 148777, 149327, 149877, 150427, 151527, 152077, 152627, 153177, 153727, 154827, 155377, 155927, 156477, 157027, 158127, 159227, 160327, 161427, 161977, 162527, 163077, 163627, 164727, 165277, 166377, 166927, 167477, 168027, 168577, 169127, 169677, 170227, 171877, 172427, 172977, 173527, 174627, 175177, 175727, 176277, 181777, 249587, 250137, 250687, 251237, 251787, 257837, 258387, 258937, 259487, 260037, 260587, 261137, 261687, 262237, 262787, 263337, 263887, 264437, 264987, 266087, 266637, 267187, 267737, 268287, 269387, 269937, 270487, 271037, 271587, 272687, 273787, 274887, 275987, 276537, 277087, 277637, 278187, 279287, 279837, 280937, 281487, 282037, 282587, 283137, 283687, 284237, 284787, 286437, 286987, 287537, 288087, 289187, 289737, 290287, 290837, 296337]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.TestPDNameTreeNode')","[606, 5016, 5817, 6659, 7644, 8648]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'not')","[40654, 40882, 41053, 41224]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.ccitt.TestPackedBitArray')","[514, 4908, 5717, 6543, 7516, 8512]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'T')","[64505, 66143, 74087, 74637, 75737, 77387, 79587, 81237, 86187, 86737, 90587, 97737, 102687, 105987, 123587, 142837, 176937, 180237, 187937, 188647, 189197, 190297, 191947, 194147, 195797, 200747, 201297, 205147, 212297, 217247, 220547, 238147, 257397, 291497, 294797, 302497]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'd')","[132057, 150757, 246617, 265317]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '%')","[164287, 165937, 278847, 280497]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'ifelse')","[46240, 46924, 53860]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPDFBOX1490(org.apache.pdfbox.io.TestRandomAccessBuffer)')",[3852]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'L')","[68794, 69874]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '-6.5')",[29995]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'cos')","[20932, 21103]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'i')","[83217, 87067, 112917, 119517, 121167, 181117, 197777, 201627, 227477, 234077, 235727, 295677]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '\\')","[134807, 135357, 135907, 136457, 137007, 143057, 143607, 144157, 144707, 145257, 145807, 146357, 146907, 147457, 148007, 148557, 149107, 149657, 150207, 151307, 151857, 152407, 152957, 153507, 154607, 155157, 155707, 156257, 156807, 157907, 159007, 160107, 161207, 161757, 162307, 162857, 163407, 164507, 165057, 166157, 166707, 167257, 167807, 168357, 168907, 169457, 170007, 171657, 172207, 172757, 173307, 174407, 174957, 175507, 176057, 181557, 249367, 249917, 250467, 251017, 251567, 257617, 258167, 258717, 259267, 259817, 260367, 260917, 261467, 262017, 262567, 263117, 263667, 264217, 264767, 265867, 266417, 266967, 267517, 268067, 269167, 269717, 270267, 270817, 271367, 272467, 273567, 274667, 275767, 276317, 276867, 277417, 277967, 279067, 279617, 280717, 281267, 281817, 282367, 282917, 283467, 284017, 284567, 286217, 286767, 287317, 287867, 288967, 289517, 290067, 290617, 296117]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'Ä')",[67714]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '100')","[25948, 26290]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'R')","[178092, 292652]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '1')","[110717, 137667, 138767, 140417, 225277, 252227, 253327, 254977]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDoubleValue(org.apache.pdfbox.cos.TestCOSFloat)')",[1878]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'r')","[132717, 247277]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSaveLoadStream(org.apache.pdfbox.pdmodel.TestPDDocument)')",[2164]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '.72')",[52492]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '‘')","[108297, 115447, 222857, 230007]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'v')","[94272, 130022, 208832, 244582]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMetadataExtraction(org.apache.pdfbox.pdmodel.TestPDDocumentInformation)')",[2382]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'idiv')","[24979, 25207, 25435, 25720]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPackedBitArray(org.apache.pdfbox.io.ccitt.TestPackedBitArray)')",[3917]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'c')","[100487, 112587, 113687, 117537, 124137, 125237, 126887, 128537, 129637, 138437, 139537, 141187, 142287, 215047, 227147, 228247, 232097, 238697, 239797, 241447, 243097, 244197, 252997, 254097, 255747, 256847]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '}')","[131452, 154552, 157852, 158952, 160052, 161152, 246012, 269112, 272412, 273512, 274612, 275712]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n9 0 obj\r<</')","[63301, 64939]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'div')","[22585, 22813]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'eq')","[33643, 33871, 34099, 34441, 34783, 35125]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 't')","[76452, 78652, 80302, 82502, 85802, 96802, 111652, 121002, 187002, 191012, 193212, 194862, 197062, 200362, 211362, 226212, 235562, 301562]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\n1 0 obj\n<<\n/Ac')","[12530, 13602]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'H')","[95317, 209877]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFunctionArgumentOrder(org.apache.pdfbox.pdmodel.common.function.TestPDFunctionType4)')",[3678]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'l')","[80797, 116547, 122047, 127547, 140197, 195357, 231107, 236607, 242107, 254757]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'or')","[41566, 41908, 42250, 42478, 42706, 44188]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '(')","[91027, 205587]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '@')","[101697, 103347, 103897, 118197, 124797, 125897, 126447, 128097, 129197, 216257, 217907, 218457, 232757, 239357, 240457, 241007, 242657, 243757]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream')","[537, 4935, 5742, 6572, 7548, 8546]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\n1 0 obj\n<<\n/Ty')","[10833, 11312, 15034, 15726, 16216, 16706]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '6.5')",[29482]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateEmptyPdf(org.apache.pdfbox.TestTextToPdf)')",[2533]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'sin')","[30394, 30565, 30793]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIf(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3335]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testUpperLimit(org.apache.pdfbox.pdmodel.common.TestPDNameTreeNode)')",[4199]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLongValue(org.apache.pdfbox.cos.TestCOSFloat)')",[1988]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '4.5')",[28513]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n5 0 obj\n<</Leng')",[58363]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n15 0 obj\r<</L')","[14290, 61520, 62068, 71657, 72195]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'T')","[64340, 65978, 73922, 74472, 75572, 77222, 79422, 81072, 86022, 86572, 90422, 97572, 102522, 105822, 123422, 142672, 176772, 180072, 187772, 188482, 189032, 190132, 191782, 193982, 195632, 200582, 201132, 204982, 212132, 217082, 220382, 237982, 257232, 291332, 294632, 302332]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLongValue(org.apache.pdfbox.cos.TestCOSInteger)')",[1681]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', ' ')","[63680, 65318]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'Ä')",[67879]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '520.9')","[21388, 21844]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.TestIOUtils')","[54669, 54719, 54770, 54820]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'p')","[77882, 78982, 192442, 193542]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSimpleArrayReadWrite(org.apache.pdfbox.io.TestRandomAccessBuffer)')",[3786]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'mod')","[26632, 26860, 27088, 27373]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '$')","[309624, 310651]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '99')","[18823, 20647, 23896, 30166, 32845]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '‘')","[108132, 115282, 222692, 229842]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '%')","[164122, 165772, 278682, 280332]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'ب')",[303903]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.function.TestPDFunctionType4')","[54467, 54517, 54568, 54618]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 's')","[89982, 114182, 185682, 204542, 228742, 300242]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNested(org.apache.pdfbox.pdmodel.common.function.type4.TestParser)')",[3610]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'i')","[83492, 87342, 113192, 119792, 121442, 181392, 198052, 201902, 227752, 234352, 236002, 295952]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'm')","[93722, 95922, 97022, 101972, 122872, 208282, 210482, 211582, 216532, 237432]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.cos.TestCOSFloat')","[10315, 10365, 10416, 10466]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'Y')","[117097, 184197, 231657, 298757]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'W')","[84647, 89047, 199207, 203607]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'c')","[100432, 112532, 113632, 117482, 124082, 125182, 126832, 128482, 129582, 138382, 139482, 141132, 142232, 214992, 227092, 228192, 232042, 238642, 239742, 241392, 243042, 244142, 252942, 254042, 255692, 256792]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n16 0 obj\r<</L')",[11991]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '/')","[131837, 133487, 134587, 246397, 248047, 249147]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.cos.TestCOSInteger')","[238, 4584, 5417, 6195, 7132, 8104]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'b')","[105107, 106207, 178807, 185957, 219667, 220767, 293367, 300517]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'mul')","[27544, 27829, 28171, 28399, 52606, 53119]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'h')","[105052, 116052, 219612, 230612]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 't')","[76067, 78267, 79917, 82117, 85417, 96417, 111267, 120617, 186617, 190627, 192827, 194477, 196677, 199977, 210977, 225827, 235177, 301177]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n9 0 obj\r<</Lin')","[63463, 65101]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'M')","[120452, 235012]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'W')","[84317, 88717, 198877, 203277]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'e')","[94822, 98672, 109122, 141572, 183372, 209382, 213232, 223682, 256132, 297932]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testGetValue(org.apache.pdfbox.pdmodel.common.TestPDNumberTreeNode)')",[4285]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '@')","[101587, 103237, 103787, 118087, 124687, 125787, 126337, 127987, 129087, 216147, 217797, 218347, 232647, 239247, 240347, 240897, 242547, 243647]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'P')","[74912, 189472]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestDateUtil')","[8901, 8951, 9002, 9052]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '(')","[91137, 205697]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'p')","[77992, 79092, 192552, 193652]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '2.5')",[48406]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')","[17, 35, 5196, 6853]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGe(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3151]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'f')","[187167, 301727]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-6.5')",[29938]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestPDDocumentInformation')","[330, 4692, 5517, 6311, 7260, 8240]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n9 0 obj\r<</Li')","[63409, 65047]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'v')","[94492, 130242, 209052, 244802]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.TestTextToPdf')","[17070, 17122, 17175, 17227]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testExtract(org.apache.pdfbox.util.TestDateUtil)')",[785]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'ge')","[35296, 35524, 35752, 35980]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'ب')",[304123]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.graphics.optionalcontent.TestOptionalContentGroups')","[353, 4719, 5542, 6340, 7292, 8274]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�s\x1f\n1 0 obj\n<<\n/')","[305507, 306945]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'H')","[95372, 209932]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCreateFromHexString(org.apache.pdfbox.cos.TestCOSString)')",[1220]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'l')","[80577, 116327, 121827, 127327, 139977, 195137, 230887, 236387, 241887, 254537]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '@')","[101257, 102907, 103457, 117757, 124357, 125457, 126007, 127657, 128757, 215817, 217467, 218017, 232317, 238917, 240017, 240567, 242217, 243317]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '(')","[91247, 205807]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n5 0 obj <</')","[307430, 307960]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '%')","[163957, 165607, 278517, 280167]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '1')","[110772, 137722, 138822, 140472, 225332, 252282, 253382, 255032]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'm')","[93997, 96197, 97297, 102247, 123147, 208557, 210757, 211857, 216807, 237707]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'bitshift')","[33130, 33358]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '6')","[24124, 33757, 39115]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'r')","[132772, 247332]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 't')","[76012, 78212, 79862, 82062, 85362, 96362, 111212, 120562, 186562, 190572, 192772, 194422, 196622, 199922, 210922, 225772, 235122, 301122]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLe(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3197]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'T')","[64450, 66088, 74032, 74582, 75682, 77332, 79532, 81182, 86132, 86682, 90532, 97682, 102632, 105932, 123532, 142782, 176882, 180182, 187882, 188592, 189142, 190242, 191892, 194092, 195742, 200692, 201242, 205092, 212242, 217192, 220492, 238092, 257342, 291442, 294742, 302442]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestPDDocument')","[284, 4638, 5467, 6253, 7196, 8172]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRenderImage(org.apache.pdfbox.util.TestImageIOUtils)')",[3874]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'false')","[18652, 34555, 39913, 40825, 41851, 42079, 42193, 43333, 43561, 43675, 44815, 46354]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'd')","[132167, 150867, 246727, 265427]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAccept(org.apache.pdfbox.cos.TestCOSInteger)')",[1615]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n1 0 obj\r\n<< /')","[70526, 71119, 72788, 73381]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�#s6\x1f�dR L�s\x1f\n1 ')","[304970, 306408]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '%')","[164342, 165992, 278902, 280552]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.TestPDNameTreeNode')","[62687, 62737, 62788, 62838]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 'dR L�s\x1f\n1 0 obj\n')","[305289, 306727]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'b')","[105382, 106482, 179082, 186232, 219942, 221042, 293642, 300792]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.cos.TestCOSInteger')","[10113, 10163, 10214, 10264]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(org.apache.pdfbox.cos.TestCOSInteger)')",[1637]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '#s6\x1f�dR L�s\x1f\n1 0')","[305023, 306461]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'le')","[37177, 37405, 37633, 37861]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 'zG_���J�\x18��#s6\x1f�')","[304447, 305885]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n15 0 obj\r<</Li')","[14344, 61575, 62123, 71711, 72249]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSin(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3013]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'true')","[18139, 18253, 18481, 34156, 34270, 34612, 39514, 39628, 39970, 40540, 41338, 41452, 41680, 42820, 42934, 43162, 44302, 45613, 46981, 47437, 47779, 48007, 53233, 53917]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'div')","[22642, 22870]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'ceiling')","[20305, 20533, 20704]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'T')","[64560, 66198, 74142, 74692, 75792, 77442, 79642, 81292, 86242, 86792, 90642, 97792, 102742, 106042, 123642, 142892, 176992, 180292, 187992, 188702, 189252, 190352, 192002, 194202, 195852, 200802, 201352, 205202, 212352, 217302, 220602, 238202, 257452, 291552, 294852, 302552]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'w')","[92127, 98177, 106977, 111927, 130627, 177377, 182327, 206687, 212737, 221537, 226487, 245187, 291937, 296887]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'P')","[75077, 189637]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n1 0 obj\r\n<</Cou')","[308385, 308599]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\x1f�dR L�s\x1f\n1 0 ob')","[305182, 306620]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-100')",[19735]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNot(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3266]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��#s6\x1f�dR L�s\x1f\n1')","[304917, 306355]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'W')","[84427, 88827, 198987, 203387]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'round')","[29425, 29653, 29881, 30109, 30280]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'N')","[99717, 180567, 214277, 295127]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '$')","[309514, 310541]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '{')","[134092, 170942, 171492, 248652, 285502, 286052]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n15 0 obj\r<</')","[14236, 61465, 62013, 71603, 72141]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n15 0 obj\r<<')","[14182, 61410, 61958, 71549, 72087]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'w')","[92292, 98342, 107142, 112092, 130792, 177542, 182492, 206852, 212902, 221702, 226652, 245352, 292102, 297052]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testNeg(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2967]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '/')","[131892, 133542, 134642, 246452, 248102, 249202]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '}')","[131342, 154442, 157742, 158842, 159942, 161042, 245902, 269002, 272302, 273402, 274502, 275602]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'Ä')",[67769]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\n2 0 obj <</F')","[308918, 309945]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testPageLabels(org.apache.pdfbox.pdmodel.TestPDDocumentCatalog)')",[2273]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '3.2')","[20191, 23440, 29254, 32389]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'not')","[40711, 40939, 41110, 41281]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '@')","[101422, 103072, 103622, 117922, 124522, 125622, 126172, 127822, 128922, 215982, 217632, 218182, 232482, 239082, 240182, 240732, 242382, 243482]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDecoderWithEOL(org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream)')",[4003]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'A')","[60737, 92567, 122267, 207127, 236827]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'A')","[60851, 92677, 122377, 207237, 236937]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���J�\x18��#s6\x1f�dR ')","[304603, 306041]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '1')","[110662, 137612, 138712, 140362, 225222, 252172, 253272, 254922]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'cos')","[20875, 21046]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 's')","[89707, 113907, 185407, 204267, 228467, 299967]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'roll')","[50572, 51085, 51484]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'dup')","[47722, 47950, 52321, 52435]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'a')","[81952, 84152, 85252, 93502, 110002, 114952, 178752, 183152, 196512, 198712, 199812, 208062, 224562, 229512, 293312, 297712]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testHashCode(org.apache.pdfbox.cos.TestCOSInteger)')",[1659]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '(')","[90917, 205477]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'I')","[89652, 91852, 184802, 204212, 206412, 299362]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'if')","[44644, 45100, 45499]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'Y')","[116932, 184032, 231492, 298592]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'cvi')","[21331, 21559]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'm')","[93832, 96032, 97132, 102082, 122982, 208392, 210592, 211692, 216642, 237542]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParserBasics(org.apache.pdfbox.pdmodel.common.function.type4.TestParser)')",[3541]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�J�\x18��#s6\x1f�dR L�')","[304707, 306145]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDoubleValue(org.apache.pdfbox.cos.TestCOSFloat)')",[1857]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '%')","[164177, 165827, 278737, 280387]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'N')","[99662, 180512, 214222, 295072]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '16 0 obj\r<</Line')",[12149]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n2 0 obj <</Filt')","[309077, 310104]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetNumberOfPages(org.apache.pdfbox.pdmodel.TestPDDocumentCatalog)')",[2360]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'g')","[76562, 191122]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.io.TestRandomAccessBuffer')","[468, 4854, 5667, 6485, 7452, 8444]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n1 0 obj\r<</Meta')","[55516, 56064, 56612, 57160]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'e')","[94987, 98837, 109287, 141737, 183537, 209547, 213397, 223847, 256297, 298097]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.filter.TestFilters')","[146, 4476, 5317, 6079, 7004, 7968]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'Ä')",[67494]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'i')","[83272, 87122, 112972, 119572, 121222, 181172, 197832, 201682, 227532, 234132, 235782, 295732]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', '4.5')",[28570]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'H')","[95592, 210152]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'J')","[174187, 288747]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\n2 0 obj <</Fil')","[309024, 310051]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'o')","[87562, 107362, 184912, 202122, 221922, 299472]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n9 0 obj\r<')","[63193, 64831]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', '1')","[110937, 137887, 138987, 140637, 225497, 252447, 253547, 255197]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'ne')","[38944, 39172, 39400, 39742, 40084, 40426]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '(')","[91192, 205752]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'n')","[88442, 108792, 179742, 203002, 223352, 294302]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'e')","[94657, 98507, 108957, 141407, 183207, 209217, 213067, 223517, 255967, 297767]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 'J�\x18��#s6\x1f�dR L�s')","[304759, 306197]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDateConversion(org.apache.pdfbox.util.TestDateUtil)')",[895]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'm')","[93612, 95812, 96912, 101862, 122762, 208172, 210372, 211472, 216422, 237322]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\n1 0 obj\n<<\n/Acr')","[12585, 13657]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 's')","[90037, 114237, 185737, 204597, 228797, 300297]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'exp')","[23098, 23326]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '{')","[134202, 171052, 171602, 248762, 285612, 286162]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'w')","[92017, 98067, 106867, 111817, 130517, 177267, 182217, 206577, 212627, 221427, 226377, 245077, 291827, 296777]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '4 0 obj\n<<\n/Prod')",[59402]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.interactive.form.TestFields')","[192, 4530, 5367, 6137, 7068, 8036]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-4.8')","[20419, 23668, 29710, 32617]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'g')","[76837, 191397]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.TestExtractText')","[62283, 62333, 62384, 62434]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'sqrt')","[31021, 31192, 31363, 31591, 31819]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '}')","[131397, 154497, 157797, 158897, 159997, 161097, 245957, 269057, 272357, 273457, 274557, 275657]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', '$')","[309679, 310706]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\x18��#s6\x1f�dR L�s\x1f\n')","[304864, 306302]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'C')","[100817, 104117, 110167, 118967, 215377, 218677, 224727, 233527]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'add')","[24181, 24466, 24694, 44530, 44986, 45385, 45841, 46525, 51922, 53461, 54242]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'T')","[64285, 65923, 73867, 74417, 75517, 77167, 79367, 81017, 85967, 86517, 90367, 97517, 102467, 105767, 123367, 142617, 176717, 180017, 187717, 188427, 188977, 190077, 191727, 193927, 195577, 200527, 201077, 204927, 212077, 217027, 220327, 237927, 257177, 291277, 294577, 302277]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'parseHeader', '%PDF-\\d.\\d', '%PDF-1.4')","[10518, 10569, 10991, 11043, 12692, 12744, 13967, 14020, 15399, 15452, 15889, 15942, 16379, 16432, 57431, 57485, 58472, 58526, 58958, 59012, 61191, 61245, 61739, 61793, 63086, 63139, 64724, 64777, 66362, 66415, 66900, 66953, 67988, 68041, 69068, 69121, 70148, 70201, 70741, 70794, 71334, 71387, 71872, 71925, 72410, 72463, 73003, 73056, 302716, 302769, 303254, 303307, 308278, 308331, 308492, 308545, 308706, 308759, 309733, 309786]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'N')","[99882, 180732, 214442, 295292]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'o')","[87837, 107637, 185187, 202397, 222197, 299747]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\x1f\n1 0 obj\n<<\n/Ty')","[305617, 307055]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testPackedBitArray(org.apache.pdfbox.io.ccitt.TestPackedBitArray)')",[3938]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'n')","[88222, 108572, 179522, 202782, 223132, 294082]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n16 0 obj\r')",[11779]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'P')","[75242, 189802]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'floor')","[23611, 23839, 24010]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-3')","[17284, 28741, 33301]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'Y')","[116877, 183977, 231437, 298537]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '5 0 obj\n<</Lengt')",[58417]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'W')","[84592, 88992, 199152, 203552]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'm')","[93942, 96142, 97242, 102192, 123092, 208502, 210702, 211802, 216752, 237652]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'J')","[173857, 288417]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-4.1')",[31648]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '7')","[19108, 33016, 33472, 33529, 33700, 33928, 35239, 35410, 35638, 35695, 36151, 36322, 36550, 36607, 37063, 37234, 37462, 37519, 37975, 38146, 38374, 38431, 38830, 38887, 39058, 39286, 43846, 49546]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testFilters(org.apache.pdfbox.filter.TestFilters)')",[1003]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n1 0 obj\r\n<</Cr')",[13116]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n6 0 obj\r<</Lin')","[66739, 67277, 303093, 303631]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n31 0 obj<')","[68094, 69174]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'atan')","[19393, 19621, 19849, 20077]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'neg')","[28627, 28798, 28969, 29140]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'J')","[174297, 288857]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '15 0 obj\r<</Line')","[14451, 61684, 62232, 71818, 72356]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'l')","[80357, 116107, 121607, 127107, 139757, 194917, 230667, 236167, 241667, 254317]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '@')","[101367, 103017, 103567, 117867, 124467, 125567, 126117, 127767, 128867, 215927, 217577, 218127, 232427, 239027, 240127, 240677, 242327, 243427]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', '@')","[101477, 103127, 103677, 117977, 124577, 125677, 126227, 127877, 128977, 216037, 217687, 218237, 232537, 239137, 240237, 240787, 242437, 243537]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'le')","[37120, 37348, 37576, 37804]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSetCmykColors(org.apache.pdfbox.pdmodel.edit.TestPDPageContentStream)')",[4177]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testArrayReadWrite(org.apache.pdfbox.io.TestRandomAccessBuffer)')",[3808]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 'L�s\x1f\n1 0 obj\n<<\n')","[305452, 306890]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '‘')","[107912, 115062, 222472, 229622]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'o')","[87507, 107307, 184857, 202067, 221867, 299417]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.common.TestPDNumberTreeNode')","[629, 5043, 5842, 6688, 7676, 8682]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'abs')","[17398, 17626, 17854, 18082]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n31 0 obj<<')","[68147, 69227]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\n1 0 obj\n<<\n/')","[10727, 11204, 12420, 13492, 14924, 15616, 16106, 16596]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'd')","[132387, 151087, 246947, 265647]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEmbeddedPDFs(org.apache.pdfbox.TestExtractText)')",[4113]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', ' ')","[64010, 65648]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRound(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2990]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'Ä')",[67439]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '{')","[133762, 170612, 171162, 248322, 285172, 285722]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'W')","[84372, 88772, 198932, 203332]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '2 0 obj <</Filte')","[309129, 310156]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n1 0 obj\r\n')","[12851, 70310, 70903, 72572, 73165]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'g')","[76947, 191507]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n5 0 obj <<')","[307377, 307907]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'r')","[132882, 247442]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetString(org.apache.pdfbox.cos.TestCOSString)')",[1264]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'P')","[75022, 189582]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testRoll(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3496]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '-9')",[23212]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'o')","[87727, 107527, 185077, 202287, 222087, 299637]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'sub')","[32047, 32332, 46126, 46810, 52150, 53746]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\r\n6 0 obj\r<')","[66469, 67007, 302823, 303361]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 'R L�s\x1f\n1 0 obj\n<')","[305343, 306781]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'C')","[100707, 104007, 110057, 118857, 215267, 218567, 224617, 233417]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'J')","[173912, 288472]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMul(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2944]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'w')","[91907, 97957, 106757, 111707, 130407, 177157, 182107, 206467, 212517, 221317, 226267, 244967, 291717, 296667]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'v')","[94162, 129912, 208722, 244472]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 'G_���J�\x18��#s6\x1f�d')","[304499, 305937]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGetFilterManager(org.apache.pdfbox.cos.TestCOSString)')",[1462]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'log')","[26233, 26404]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'p')","[78102, 79202, 192662, 193762]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n9 0 obj\r<<')","[63247, 64885]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'W')","[84207, 88607, 198767, 203167]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'truncate')","[32560, 32788, 32959]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'I')","[89432, 91632, 184582, 203992, 206192, 299142]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'b')","[105217, 106317, 178917, 186067, 219777, 220877, 293477, 300627]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '\\')","[134972, 135522, 136072, 136622, 137172, 143222, 143772, 144322, 144872, 145422, 145972, 146522, 147072, 147622, 148172, 148722, 149272, 149822, 150372, 151472, 152022, 152572, 153122, 153672, 154772, 155322, 155872, 156422, 156972, 158072, 159172, 160272, 161372, 161922, 162472, 163022, 163572, 164672, 165222, 166322, 166872, 167422, 167972, 168522, 169072, 169622, 170172, 171822, 172372, 172922, 173472, 174572, 175122, 175672, 176222, 181722, 249532, 250082, 250632, 251182, 251732, 257782, 258332, 258882, 259432, 259982, 260532, 261082, 261632, 262182, 262732, 263282, 263832, 264382, 264932, 266032, 266582, 267132, 267682, 268232, 269332, 269882, 270432, 270982, 271532, 272632, 273732, 274832, 275932, 276482, 277032, 277582, 278132, 279232, 279782, 280882, 281432, 281982, 282532, 283082, 283632, 284182, 284732, 286382, 286932, 287482, 288032, 289132, 289682, 290232, 290782, 296282]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testConstructionAndCopy(org.apache.pdfbox.util.TestMatrix)')",[938]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '%')","[164232, 165882, 278792, 280442]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'R')","[177707, 292267]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'h')","[104942, 115942, 219502, 230502]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'L')","[68849, 69929]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDoubleValue(org.apache.pdfbox.cos.TestCOSInteger)')",[1550]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\n5 0 obj\n<<')",[58088]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testFlags(org.apache.pdfbox.pdmodel.interactive.form.TestFields)')",[1112]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEquals(org.apache.pdfbox.cos.TestCOSString)')",[1418]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '$')","[309294, 310321]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGet(org.apache.pdfbox.cos.TestCOSInteger)')",[1747]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIndex(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3450]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'l')","[80522, 116272, 121772, 127272, 139922, 195082, 230832, 236332, 241832, 254482]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testStaticMembers(org.apache.pdfbox.cos.TestCOSString)')",[1155]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', '[')","[118417, 232977]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testAccept(org.apache.pdfbox.cos.TestCOSFloat)')",[1922]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\n4 0 obj <<')",[58580]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'gt')","[36265, 36493, 36721, 36949]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'truncate')","[32503, 32731, 32902]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testOCGConsumption(org.apache.pdfbox.pdmodel.graphics.optionalcontent.TestOptionalContentGroups)')",[2468]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testBitshift(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3105]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'n')","[88112, 108462, 179412, 202672, 223022, 293972]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsSetNeedToBeUpdate(org.apache.pdfbox.cos.TestCOSFloat)')",[2120]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'g')","[76727, 191287]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'copy')",[47323]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\)', 'b')","[105437, 106537, 179137, 186287, 219997, 221097, 293697, 300847]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', '$')","[309349, 310376]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.pdmodel.TestPDDocumentCatalog')","[13762, 13812, 13863, 13913]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testDoubleValue(org.apache.pdfbox.cos.TestCOSInteger)')",[1571]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'ب')",[304288]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'I')","[89542, 91742, 184692, 204102, 206302, 299252]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSaveLoadNonSeqFile(org.apache.pdfbox.pdmodel.TestPDDocument)')",[2251]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'a')","[81842, 84042, 85142, 93392, 109892, 114842, 178642, 183042, 196402, 198602, 199702, 207952, 224452, 229402, 293202, 297602]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'F')","[82942, 99442, 197502, 214002]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testMod(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2921]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '\r\n19 0 obj\r<</Li')",[57815]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '12')",[44074]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', '(')","[90807, 205367]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '%')","[164397, 166047, 278957, 280607]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\r\n59 0 obj\r<')",[60231]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testWritePDF(org.apache.pdfbox.cos.TestCOSInteger)')",[1593]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\r\n6 0 obj\r<</')","[66577, 67115, 302931, 303469]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'a')","[81512, 83712, 84812, 93062, 109562, 114512, 178312, 182712, 196072, 198272, 199372, 207622, 224122, 229072, 292872, 297272]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testCvi(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2714]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'J')","[174077, 288637]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'parseHeader', '%PDF-\\d.\\d', '%PDF-1.5')","[14707, 14760, 55077, 55131, 55625, 55679, 56173, 56227, 56721, 56775, 307218, 307271, 307748, 307801]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'p')","[77717, 78817, 192277, 193377]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', ' L�s\x1f\n1 0 obj\n<<')","[305397, 306835]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'org.apache.pdfbox.util.TestDateUtil')","[100, 4422, 5267, 6021, 6940, 7900]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '{')","[133982, 170832, 171382, 248542, 285392, 285942]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 't')","[76177, 78377, 80027, 82227, 85527, 96527, 111377, 120727, 186727, 190737, 192937, 194587, 196787, 200087, 211087, 225937, 235287, 301287]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIfElse(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3358]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', 'l')","[80742, 116492, 121992, 127492, 140142, 195302, 231052, 236552, 242052, 254702]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '1')","[110882, 137832, 138932, 140582, 225442, 252392, 253492, 255142]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n19 0 obj\r<</')",[57705]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testJira804(org.apache.pdfbox.pdmodel.common.function.type4.TestParser)')",[3587]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParserBasics(org.apache.pdfbox.pdmodel.common.function.type4.TestParser)')",[3519]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', 'l')","[80632, 116382, 121882, 127382, 140032, 195192, 230942, 236442, 241942, 254592]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n5 0 obj <</Li')","[307536, 308066]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTruncate(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[3082]
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\-]?\\d*\\.\\d*([Ee]\\-?\\d+)?', 'sin')","[30451, 30622, 30850]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '5 0 obj <</Linea')","[307694, 308224]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testLn(org.apache.pdfbox.pdmodel.common.function.type4.TestOperators)')",[2875]
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', 's\x1f\n1 0 obj\n<<\n/T')","[305562, 307000]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', '}')","[131012, 154112, 157412, 158512, 159612, 160712, 245572, 268672, 271972, 273072, 274172, 275272]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[A-Z]\\.', 'v')","[94327, 130077, 208887, 244637]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'I')","[89212, 91412, 184362, 203772, 205972, 298922]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '���\n5 0 obj\n<</L')",[58198]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testGet(org.apache.pdfbox.cos.TestCOSFloat)')",[2054]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'i')","[83162, 87012, 112862, 119462, 121112, 181062, 197722, 201572, 227422, 234022, 235672, 295622]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'w')","[92347, 98397, 107197, 112147, 130847, 177597, 182547, 206907, 212957, 221757, 226707, 245407, 292157, 297107]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '����\n2 0 obj <</')","[308865, 309892]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\.', '@')","[101532, 103182, 103732, 118032, 124632, 125732, 126282, 127932, 129032, 216092, 217742, 218292, 232592, 239192, 240292, 240842, 242492, 243592]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '3')","[22471, 24808, 26518, 26974, 33073, 43903, 44131, 47209, 47266, 48691, 49090, 49204, 49888, 50287, 50800, 51313, 51370, 51808]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', 'exch')","[48178, 48463, 52720, 52891]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'A')","[61079, 92897, 122597, 207457, 237157]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'f')","[187552, 302112]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSetCmykColors(org.apache.pdfbox.pdmodel.edit.TestPDPageContentStream)')",[4156]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSaveLoadFile(org.apache.pdfbox.pdmodel.TestPDDocument)')",[2207]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[a-z]\\)', '1')","[110992, 137942, 139042, 140692, 225552, 252502, 253602, 255252]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '��\r\n6 0 obj\r<</L')","[66631, 67169, 302985, 303523]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'org.apache.pdfbox.cos.TestCOSString')","[9911, 9961, 10012, 10062]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\.', 'P')","[74857, 189417]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'm')","[94052, 96252, 97352, 102302, 123202, 208612, 210812, 211912, 216862, 237762]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '�\r\n19 0 obj\r<</L')",[57760]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\.', 'M')","[120012, 234572]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testDecoderWhiteLines(org.apache.pdfbox.io.ccitt.TestCCITTFaxG31DDecodeInputStream)')",[4091]
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\d+\\)', 'g')","[76672, 191232]"
+"('InstructionSequenceBuilder.java', 'org.apache.pdfbox.pdmodel.common.function.type4.InstructionSequenceBuilder', 'token', '[\\+\\-]?\\d+', '2147483645')","[24580, 24637]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', '1')","[111047, 137997, 139097, 140747, 225607, 252557, 253657, 255307]"
+"('PDFParser.java', 'org.apache.pdfbox.pdfparser.PDFParser', 'skipToNextObj', '\\d+\\s+\\d+\\s+obj.*', '%����\n1 0 obj\n<<')","[10621, 11096, 12310, 13382, 14814, 15506, 15996, 16486]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[IVXL]+\\.', 'n')","[88497, 108847, 179797, 203057, 223407, 294357]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '\\[\\d+\\]', 'L')","[68629, 69709]"
+"('PDFTextStripper.java', 'org.apache.pdfbox.util.PDFTextStripper', 'matchPattern', '[ivxl]+\\.', 'Ä')",[67934]

@@ -1,0 +1,92 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetMap(io.jeo.nano.WMSHandlerTest)')","[536, 1411, 3386]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAssertNoTemplatePlaceholders(io.jeo.nano.AppsHandlerTest)')","[721, 1565, 3746]"
+"('JeoJSONWriter.java', 'io.jeo.json.JeoJSONWriter', 'proj', '([\\+-])?(\\w+)(?:=(\\w+))?', '+proj=longlat')",[4035]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAssertNoTemplatePlaceholders(io.jeo.nano.FeatureHandlerTest)')","[433, 1323, 3137]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAssertNoTemplatePlaceholders(io.jeo.nano.WMSHandlerTest)')","[557, 1433, 3491]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPattern(io.jeo.nano.WMSHandlerTest)')","[473, 1345, 3184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetWorkspaceDatasetFeatureJSON(io.jeo.nano.FeatureHandlerTest)')","[265, 1147, 2480]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetWorkspaceDatasetHTML(io.jeo.nano.FeatureHandlerTest)')","[391, 1279, 3041]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.nano.WMTSHandlerTest')","[576, 3605]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/tiles(?:/([\\w-]+)(?:/([\\w-]+)))(?:/(\\d+)/+(\\d+)/+(\\d+))?(?:\\.(\\w+))?', '/tiles/foo/bar.html')",[1991]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPattern(io.jeo.nano.TileHandlerTest)')","[78, 971, 1809]"
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'EPSG:3857')","[3260, 3336, 3442]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/bar.html')",[3069]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCanHandle(io.jeo.nano.AppsHandlerTest)')","[700, 1543, 3672]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/foo/')",[4223]
+"('JeoJSONWriter.java', 'io.jeo.json.JeoJSONWriter', 'proj', '([\\+-])?(\\w+)(?:=(\\w+))?', '+no_defs')",[4099]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/bar/42')",[2556]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/apps/foobar')",[3726]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testServe(io.jeo.nano.AppsHandlerTest)')","[679, 1521, 3625]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPattern(io.jeo.nano.FeatureHandlerTest)')","[202, 1081, 2182]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testComputeScaleDenominator(io.jeo.nano.WMTSHandlerTest)')","[597, 1455, 3538]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/widgets')",[2993]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPostCreateLayer(io.jeo.nano.FeatureHandlerTest)')","[244, 1125, 2404]"
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'xyz:1234')",[2834]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/bar/66')",[2584]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetWorkspaceDatasetJSONSelectFieldsWithQuery(io.jeo.nano.FeatureHandlerTest)')","[349, 1235, 2917]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/bar')","[2384, 2632, 2737, 2800, 2863, 2945, 3021, 3117]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/bar/shaz')",[2114]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAll(io.jeo.nano.StyleHandlerTest)')","[927, 1741]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/baz')",[4147]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPutCreateLayer(io.jeo.nano.FeatureHandlerTest)')","[370, 1257, 2965]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.nano.WMSHandlerTest')","[452, 3518]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.nano.FeatureHandlerTest')","[139, 3164]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeleteFeature(io.jeo.nano.FeatureHandlerTest)')","[286, 1169, 2528]"
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', '<html><body><h1>Directory /</h1><br/><b><a href=""nested333/"">nested333/</a><br/></b><a href=""file123"">file123</a> &nbsp;<font size=2>(0 bytes)</font><br/></body></html>')",[3652]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCanHandle(io.jeo.nano.StyleHandlerTest)')","[906, 1719]"
+"('FeatureHandlerTest.java', 'io.jeo.nano.FeatureHandlerTest', 'testPattern', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features')",[2207]
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'epsg:9999')",[2897]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGet(io.jeo.nano.StyleHandlerTest)')","[885, 1697]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetWorkspaceDatasetPNG(io.jeo.nano.FeatureHandlerTest)')","[181, 1059, 2134]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/styles(?:/([\\w-]+)/?)?', '/styles')","[4320, 4370]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWorkspace(io.jeo.nano.DataHandlerTest)')","[824, 1653, 4195]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPattern(io.jeo.nano.DataHandlerTest)')","[761, 1587, 3793]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.nano.AppsHandlerTest')","[658, 3773]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.nano.TileHandlerTest')","[36, 2038]"
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'EPSG:900913')",[1963]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetWorkspaceDatasetJSONAllFieldsWithQuery(io.jeo.nano.FeatureHandlerTest)')","[307, 1191, 2604]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/apps')",[3699]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetWorkspaceDatasetJSON(io.jeo.nano.FeatureHandlerTest)')","[412, 1301, 3089]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/work_space/data_set')",[3901]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/foo/baz')",[4175]
+"('FeatureHandlerTest.java', 'io.jeo.nano.FeatureHandlerTest', 'testPattern', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/')",[2232]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/bar.png')",[2162]
+"('JeoJSONWriter.java', 'io.jeo.json.JeoJSONWriter', 'proj', '([\\+-])?(\\w+)(?:=(\\w+))?', '+datum=WGS84')",[4067]
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/workspace/dataset')",[3874]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/bar/baz')","[2086, 2508]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetHTML(io.jeo.nano.TileHandlerTest)')","[99, 993, 1907]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testWorkspaceDataset(io.jeo.nano.DataHandlerTest)')","[782, 1609, 3975]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAssertNoTemplatePlaceholders(io.jeo.nano.TileHandlerTest)')","[120, 1015, 2011]"
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'epsg:4326')","[3366, 3471]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/singledata')",[3847]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/tiles(?:/([\\w-]+)(?:/([\\w-]+)))(?:/(\\d+)/+(\\d+)/+(\\d+))?(?:\\.(\\w+))?', '/tiles/foo/bar/1/2/3.png')",[1789]
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/work-space/data-set')",[3928]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPostAddFeatures(io.jeo.nano.FeatureHandlerTest)')","[223, 1103, 2356]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data')",[3820]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadRequests(io.jeo.nano.FeatureHandlerTest)')","[328, 1213, 2652]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.nano.DataHandlerTest')","[740, 4270]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.nano.StyleHandlerTest')","[864, 4393]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/work_space/data-set.html')",[2336]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAssertNoTemplatePlaceholders(io.jeo.nano.WMTSHandlerTest)')","[639, 1499, 3578]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPattern(io.jeo.nano.WMTSHandlerTest)')","[618, 1477, 3558]"
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', '1234')",[2771]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testPutEditFeature(io.jeo.nano.FeatureHandlerTest)')","[160, 1037, 2058]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/work-space/dataset/')",[2284]
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/tiles(?:/([\\w-]+)(?:/([\\w-]+)))(?:/(\\d+)/+(\\d+)/+(\\d+))?(?:\\.(\\w+))?', '/tiles/workspace/data-set.html')",[1861]
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/work-space/dataset/fid')",[2310]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo/baz')",[2708]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testBadRequests(io.jeo.nano.DataHandlerTest)')","[803, 1631, 4119]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/work-space/dataset')",[2258]
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'EPSG:4326')","[1935, 3232, 3308, 3414]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testAssertNoTemplatePlaceholders(io.jeo.nano.DataHandlerTest)')","[845, 1675, 4243]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/baz')",[2680]
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/Work-space/Data-set')",[3955]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testErrors(io.jeo.nano.WMSHandlerTest)')","[515, 1389, 3280]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/features(?:/([\\w-]+)(?:/([\\w-]+))?)(?:/([\\w-]+))?(?:\\.([\\w]+))?/?', '/features/foo')","[2432, 2460]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/tiles(?:/([\\w-]+)(?:/([\\w-]+)))(?:/(\\d+)/+(\\d+)/+(\\d+))?(?:\\.(\\w+))?', '/tiles/work-space/dataset')",[1835]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCapabilities(io.jeo.nano.WMSHandlerTest)')","[494, 1367, 3204]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/styles(?:/([\\w-]+)/?)?', '/styles/foo')","[4295, 4345]"
+"('HandlerTestSupport.java', 'io.jeo.nano.HandlerTestSupport', 'assertPattern', '/tiles(?:/([\\w-]+)(?:/([\\w-]+)))(?:/(\\d+)/+(\\d+)/+(\\d+))?(?:\\.(\\w+))?', '/tiles/work_space/data_set/1/2/3.jpg')",[1887]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGet(io.jeo.nano.TileHandlerTest)')","[57, 949, 1761]"
+"('Handler.java', 'io.jeo.nano.Handler', 'match', '/data(?:/([\\w-]+)(?:/([\\w-]+))?)?/?', '/data/foo/bar')",[4003]

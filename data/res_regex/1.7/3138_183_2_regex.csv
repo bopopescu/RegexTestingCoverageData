@@ -1,0 +1,7 @@
+"('Scanner.java', 'java.util.Scanner', 'getCompleteTokenInBuffer', '(?s).*', 'query1\nquery2\nquery3\nquery4\n')","[182, 212, 242, 272, 332, 362, 392]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testQueryParser(org.lahab.clucene.queryStresser.QueryParserTest)')","[57, 100]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.lahab.clucene.queryStresser.QueryParserTest')","[36, 415]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""mean"": 1, ""stddev"": 0.2}')",[302]
+"('JSONObject.java', 'net.sf.json.JSONObject', '_fromJSONTokener', 'null.*', '{""mean"": 2, ""stddev"": 0.2}')",[152]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetQuery(org.lahab.clucene.queryStresser.QueryParserTest)')","[78, 122]"

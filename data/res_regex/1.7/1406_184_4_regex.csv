@@ -1,0 +1,34 @@
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', ' first sentence  !')",[538]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'whitespaces1(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[120, 334]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', ' \t\n ')",[1098]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'spanish(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[78, 290]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', '\n  \n\n\n  \t\n ')",[1024]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'text text ? \t\n ')",[1049]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence! ¿Second sentence?')",[586]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'malformed(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[57, 268]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'Bracket example (this is not a sentence!), after.')","[658, 682]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', ' Second sentence')",[970]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'newline3(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[246, 466]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'whitespaces2(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[141, 356]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'text text ?')",[1073]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'brackets1(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[99, 312]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', '  ¿¿ second sentence ?!')",[826]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence !!  ¿¿ second sentence ?!')",[778]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', '!!! first sentence  ! second sentence')",[490]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'org.daisy.pipeline.nlp.lexing.light.LightLexingTest')","[36, 1121]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence !!... second sentence')",[850]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', '\n')",[995]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'twoSentences(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[183, 400]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', ' second sentence')","[562, 754, 898]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence !!  !! second sentence')",[706]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', '!!!')",[514]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', ' ¿Second sentence?')",[634]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence !!')",[802]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence! Second sentence')",[922]
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence !!...')",[874]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'newline2(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[225, 444]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence !!  !!')",[730]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'mixed(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[162, 378]"
+"('LightLexer.java', 'org.daisy.pipeline.nlp.lexing.light.LightLexer$LightLexerToken', 'split', '[\\s\\p{Z}]+', 'first sentence!')","[610, 946]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'newline1(org.daisy.pipeline.nlp.lexing.light.LightLexingTest)')","[204, 422]"

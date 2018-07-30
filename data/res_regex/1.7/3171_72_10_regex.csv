@@ -1,0 +1,36 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSaveList(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[57, 331]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleReal/{key}')",[1133]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qexemple/\\E(.*)', 'exemple/f3a3d71c-edf1-4837-a739-ee05f28df39e')",[1201]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qsample/\\E(.*)', 'sample/testGetRef_file')",[1435]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qexemple/\\E(.*)', 'exemple/7456d2a1-07cf-4e97-a824-a2e8f402b4c4')",[1405]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetUrl(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[309, 595]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetList(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[162, 441]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetFileObject(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[99, 375]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '{exemple}/nestedSeveralEntities/{id}')",[811]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleString/{stringkey}')",[1087]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testSave(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[78, 353]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'getObjectList(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[204, 485]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest')","[36, 1458]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'channel/{name}')",[719]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleInt/{key}')",[995]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSingleEntity\\E', 'exemple/a36e7260-c651-4aa5-8cc5-be0b3e5ab4f7/nestedSingleEntity')",[1300]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleLong/{key}')",[1041]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', '{exemple}/nestedSingleEntity')",[857]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleShort/{key}')",[949]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetRef(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[288, 573]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'sample/{id}')",[627]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'ticket/{id}')",[673]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qexemple/\\E(.*)', 'exemple/1c280d92-d375-4b30-a2e2-c115e2f89ec4')",[1269]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDelete(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[246, 529]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetObject(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[267, 551]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSingleEntity\\E', 'exemple/f3a3d71c-edf1-4837-a739-ee05f28df39e/nestedSingleEntity')",[1164]
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exemple/{idProp}')",[765]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '\\Qexemple/\\E(.*)', 'exemple/a36e7260-c651-4aa5-8cc5-be0b3e5ab4f7')",[1337]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetMetadata(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[225, 507]"
+"('UriComponentsBuilder.java', 'org.springframework.web.util.UriComponentsBuilder', 'fromUriString', '^(([^:/?#]+):)?(//(([^@/]*)@)?([^/?#:]*)(:(\\d*))?)?([^?#]*)(\\?([^#]*))?(#(.*))?', 'exempleByte/{key}')",[903]
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSingleEntity\\E', 'exemple/7456d2a1-07cf-4e97-a824-a2e8f402b4c4/nestedSingleEntity')",[1368]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetUriPath(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[183, 463]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testValidate(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[141, 419]"
+"('UriParserSpringImpl.java', 'rok.impl.uriparser.spring.UriParserSpringImpl', 'parse', '(.*)\\Q/nestedSingleEntity\\E', 'exemple/1c280d92-d375-4b30-a2e2-c115e2f89ec4/nestedSingleEntity')",[1232]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetFactory(rok.impl.entitymanager.filesystem.FilesystemEntityManagerTest)')","[120, 397]"

@@ -1,0 +1,12 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEmptyRequestLine(ro.pastia.server.protocol.http.HttpRequestTest)')","[99, 202]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGoodRequestLine(ro.pastia.server.protocol.http.HttpRequestTest)')","[78, 181]"
+"('FileHelper.java', 'ro.pastia.util.FileHelper', 'getExtension', '.*\\.([a-z0-9\\-]+)$', '/files/test')",[295]
+"('FileHelper.java', 'ro.pastia.util.FileHelper', 'getExtension', '.*\\.([a-z0-9\\-]+)$', '/files/test.zip.exe')",[341]
+"('FileHelper.java', 'ro.pastia.util.FileHelper', 'getExtension', '.*\\.([a-z0-9\\-]+)$', '/files/test/')",[318]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testBadMethodRequestLine(ro.pastia.server.protocol.http.HttpRequestTest)')","[57, 160]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ro.pastia.server.protocol.http.HttpRequestTest')","[36, 249]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ro.pastia.util.FileHelperTest')","[118, 386]"
+"('FileHelper.java', 'ro.pastia.util.FileHelper', 'getExtension', '.*\\.([a-z0-9\\-]+)$', '/files/test.zip')",[272]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFileHelper(ro.pastia.util.FileHelperTest)')","[139, 223]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('FileHelper.java', 'ro.pastia.util.FileHelper', 'getExtension', '.*\\.([a-z0-9\\-]+)$', 'http://www.test.com/files/test.zip')",[364]

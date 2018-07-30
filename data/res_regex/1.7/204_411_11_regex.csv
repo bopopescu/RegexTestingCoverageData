@@ -1,0 +1,10 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'points(io.jeo.svg.SVGRendererTest)')","[78, 185, 351]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'epsg:4326')","[379, 407, 455, 503, 531, 579]"
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'EPSG:4326')",[301]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'pointsAsRect(io.jeo.svg.SVGRendererTest)')","[120, 229, 475]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'polygons(io.jeo.svg.SVGRendererTest)')","[141, 251, 551]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'io.jeo.svg.SVGRendererTest')","[36, 602]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'lines(io.jeo.svg.SVGRendererTest)')","[99, 207, 427]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'background(io.jeo.svg.SVGRendererTest)')","[57, 163, 271]"
+"('Proj.java', 'io.jeo.proj.Proj', 'crs', '\\w+:\\d+', 'EPSG:900913')",[331]

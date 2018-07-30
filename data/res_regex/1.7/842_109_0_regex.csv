@@ -1,0 +1,22 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testApplyRule_DeathDueToOverCrowding(com.ptc.gameoflife.rules.TestIRules)')","[303, 534]"
+"('GridUtil.java', 'com.ptc.gameoflife.util.GridUtil', 'isValidInput', '((\\d*,\\d*)(?:|\\|))*', '0,0|0,1')","[661, 687]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testApplyRule_DeathDueToIsolation(com.ptc.gameoflife.rules.TestIRules)')","[282, 513]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStartGameString(com.ptc.gameoflife.game.TestGame)')","[221, 471]"
+"('GridUtil.java', 'com.ptc.gameoflife.util.GridUtil', 'isValidInput', '((\\d*,\\d*)(?:|\\|))*', 'abcd')",[634]
+"('GridUtil.java', 'com.ptc.gameoflife.util.GridUtil', 'isValidInput', '((\\d*,\\d*)(?:|\\|))*', '0,0|0,2|1,1|2,0|2,2')",[793]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetGridAsMatrixString(com.ptc.gameoflife.ui.TestIRenderer)')","[57, 345]"
+"('GridUtil.java', 'com.ptc.gameoflife.util.GridUtil', 'isValidInput', '((\\d*,\\d*)(?:|\\|))*', '0,0')",[582]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ptc.gameoflife.rules.TestIRules')","[261, 842]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testApplyInitialInput(com.ptc.gameoflife.util.TestGridUtil)')","[181, 450]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ptc.gameoflife.util.TestGridUtil')","[97, 713]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ptc.gameoflife.game.TestGame')","[200, 739]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetAliveNeighbourCount(com.ptc.gameoflife.util.TestGridUtil)')","[139, 408]"
+"('GridUtil.java', 'com.ptc.gameoflife.util.GridUtil', 'isValidInput', '((\\d*,\\d*)(?:|\\|))*', '0,0|1,1')",[766]
+"('GridUtil.java', 'com.ptc.gameoflife.util.GridUtil', 'isValidInput', '((\\d*,\\d*)(?:|\\|))*', '0,0|0,2|2,0')",[820]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testApplyInitialInput_WithInvalidInput(com.ptc.gameoflife.util.TestGridUtil)')","[118, 387]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testStartGame(com.ptc.gameoflife.game.TestGame)')","[242, 492]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testApplyRule_BirthDueToExact3Neighbors(com.ptc.gameoflife.rules.TestIRules)')","[324, 555]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testClearGrid(com.ptc.gameoflife.util.TestGridUtil)')","[160, 429]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'com.ptc.gameoflife.ui.TestIRenderer')","[36, 608]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testGetNeighborCountGrid(com.ptc.gameoflife.ui.TestIRenderer)')","[78, 366]"

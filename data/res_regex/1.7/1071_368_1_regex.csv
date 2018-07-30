@@ -1,0 +1,70 @@
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoImpl.class')",[15894]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qentity\\E', 'entity')","[17913, 19044, 20175, 21306, 22437, 23568]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'deleteNotFound(com.pvt.app.daoImpl.AuthorDaoImplTest)')","[116, 741]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLoginFilterNotFound(com.pvt.app.daoImpl.AccessDaoImplTest)')","[295, 917]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRegisterNotUniqueName(com.pvt.app.daoImpl.AccessDaoImplTest)')","[235, 851]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetByUser(com.pvt.app.daoImpl.AuthorDaoImplTest)')","[136, 763]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qapp\\E', 'app')","[2094, 3069, 4044, 5019, 5994, 6969, 7944, 8919, 9894, 10869, 11844, 12819, 13794, 14769, 15744, 16719, 17826, 18957, 20088, 21219, 22350, 23481]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Q1071_368\\E', '1071_368')","[1569, 2544, 3519, 4494, 5469, 6444, 7419, 8394, 9369, 10344, 11319, 12294, 13269, 14244, 15219, 16194, 17217, 18348, 19479, 20610, 21741, 22872]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoImplTest.class')",[4194]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'null')",[17]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[1494, 2469, 3444, 4419, 5394, 6369, 7344, 8319, 9294, 10269, 11244, 12219, 13194, 14169, 15144, 16119, 17130, 18261, 19392, 20523, 21654, 22785]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRegisterNotUniqueEmail(com.pvt.app.daoImpl.AccessDaoImplTest)')","[255, 873]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.pvt.app.daoImpl.AccessDaoImplTest')","[175, 23757]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCRUD(com.pvt.app.daoImpl.BookDaoImplTest)')","[454, 1071]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qcom\\E', 'com')","[1944, 2919, 3894, 4869, 5844, 6819, 7794, 8769, 9744, 10719, 11694, 12669, 13644, 14619, 15594, 16569, 17652, 18783, 19914, 21045, 22176, 23307]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpdate(com.pvt.app.daoImpl.AccessDaoImplTest)')","[335, 961]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetCount(com.pvt.app.daoImpl.AccessDaoImplTest)')","[195, 807]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testLoginFilterFound(com.pvt.app.daoImpl.AccessDaoImplTest)')","[275, 895]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AbstractDaoImpl.class')",[14919]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qmodel\\E', 'model')","[17391, 18522, 19653, 20784, 21915, 23046]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.pvt.app.daoImpl.BookDaoImplTest')","[374, 23808]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpeipei\\E', 'peipei')","[1419, 2394, 3369, 4344, 5319, 6294, 7269, 8244, 9219, 10194, 11169, 12144, 13119, 14094, 15069, 16044, 17043, 18174, 19305, 20436, 21567, 22698]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAll(com.pvt.app.daoImpl.BookDaoImplTest)')","[514, 1137]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetCount(com.pvt.app.daoImpl.UserDaoImplTest)')","[573, 1181]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetByAuthor(com.pvt.app.daoImpl.BookDaoImplTest)')","[394, 1005]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Author.class')",[22524]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDelete(com.pvt.app.daoImpl.AccessDaoImplTest)')","[315, 939]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoImpl$1.class')",[11019]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRead(com.pvt.app.daoImpl.AccessDaoImplTest)')","[215, 829]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'updateNotFound(com.pvt.app.daoImpl.AuthorDaoImplTest)')","[56, 675]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAllByName(com.pvt.app.daoImpl.UserDaoImplTest)')","[593, 1203]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoImplTest.class')",[5169]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetCount(com.pvt.app.daoImpl.BookDaoImplTest)')","[434, 1049]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCreate(com.pvt.app.daoImpl.UserDaoImplTest)')","[613, 1225]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthorDaoImpl.class')",[10044]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDelete(com.pvt.app.daoImpl.UserDaoImplTest)')","[633, 1247]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qpvt\\E', 'pvt')","[2019, 2994, 3969, 4944, 5919, 6894, 7869, 8844, 9819, 10794, 11769, 12744, 13719, 14694, 15669, 16644, 17739, 18870, 20001, 21132, 22263, 23394]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthorDaoImpl$1.class')",[11994]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAllNoFilters(com.pvt.app.daoImpl.UserDaoImplTest)')","[553, 1159]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qdao\\E', 'dao')","[1719, 2694, 3669, 4644, 5619, 6594, 7569, 8544, 9519, 10494, 11469, 12444, 13419, 14394, 15369, 16344]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetByUser(com.pvt.app.daoImpl.BookDaoImplTest)')","[474, 1093]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[1344, 2319, 3294, 4269, 5244, 6219, 7194, 8169, 9144, 10119, 11094, 12069, 13044, 14019, 14994, 15969, 16956, 18087, 19218, 20349, 21480, 22611]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.pvt.app.daoImpl.UserDaoImplTest')","[533, 23831]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[1869, 2844, 3819, 4794]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoImpl$1.class')",[6144]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'User.class')",[19131]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QdaoImpl\\E', 'daoImpl')","[2169, 3144, 4119, 5094, 6069, 7044, 8019, 8994, 9969, 10944, 11919, 12894, 13869, 14844, 15819, 16794]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'com.pvt.app.daoImpl.AuthorDaoImplTest')","[36, 23706]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AccessData.class')",[21393]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetAll(com.pvt.app.daoImpl.AuthorDaoImplTest)')","[156, 785]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AccessDaoImplTest.class')",[3219]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AccessDaoImpl.class')",[7119]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpdateNotFound(com.pvt.app.daoImpl.BookDaoImplTest)')","[494, 1115]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoImpl$3.class')",[12969]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testUpdate(com.pvt.app.daoImpl.UserDaoImplTest)')","[653, 1269]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthorDaoImpl$2.class')",[8094]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Text.class')",[18000]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[1794, 2769, 3744, 4719, 5694, 6669, 7644, 8619, 9594, 10569, 11544, 12519, 13494, 14469, 15444, 16419, 17478, 18609, 19740, 20871, 22002, 23133]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testDeleteNotFound(com.pvt.app.daoImpl.BookDaoImplTest)')","[414, 1027]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testGetCount(com.pvt.app.daoImpl.AuthorDaoImplTest)')","[76, 697]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[5769, 6744, 7719, 8694, 9669, 10644, 11619, 12594, 13569, 14544, 15519, 16494, 17565, 18696, 19827, 20958, 22089, 23220]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testCRUD(com.pvt.app.daoImpl.AuthorDaoImplTest)')","[96, 719]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoImpl.class')",[16869]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuthorDaoImplTest.class')",[2244]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BookDaoImpl$2.class')",[9069]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '([\\s\\S]*)\\((.*)\\)', 'testRegisterSuccess(com.pvt.app.daoImpl.AccessDaoImplTest)')","[355, 983]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '\\QLibrarySpring\\E', 'LibrarySpring')","[1644, 2619, 3594, 4569, 5544, 6519, 7494, 8469, 9444, 10419, 11394, 12369, 13344, 14319, 15294, 16269, 17304, 18435, 19566, 20697, 21828, 22959]"
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AccessDaoImpl$1.class')",[13944]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'Book.class')",[23655]
+"('AntPathMatcher.java', 'org.springframework.util.AntPathMatcher$AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'MyEntity.class')",[20262]

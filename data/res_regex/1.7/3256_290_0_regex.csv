@@ -1,0 +1,64 @@
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'notifyAll(com.sfeir.githubTrello.service.GithubServiceTest)')",[493]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'tearDownAfterClass(com.sfeir.githubTrello.service.GithubServiceTest)')",[153]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_deserialize_serialized_object_correctly(com.sfeir.githubTrello.wrapper.JsonTest)')","[1157, 1441]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'tearDownAfterClass(com.sfeir.githubTrello.service.GithubServiceTest)')",[170]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getClass(com.sfeir.githubTrello.service.TrelloServiceTest)')",[901]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_deserialize_into_empty_collection(com.sfeir.githubTrello.wrapper.JsonTest)')",[1205]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'equals(com.sfeir.githubTrello.service.GithubServiceTest)')",[340]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'toString(com.sfeir.githubTrello.service.GithubServiceTest)')",[374]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_have_correct_card_info(com.sfeir.githubTrello.service.TrelloServiceTest)')",[612]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'wait(com.sfeir.githubTrello.service.TrelloServiceTest)')","[680, 714, 748]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'setUpBeforeClass(com.sfeir.githubTrello.service.TrelloServiceTest)')",[646]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'tearDown(com.sfeir.githubTrello.service.TrelloServiceTest)')",[595]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'notifyAll(com.sfeir.githubTrello.service.GithubServiceTest)')",[510]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'notifyAll(com.sfeir.githubTrello.service.TrelloServiceTest)')",[952]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.wrapper.EscapeTest')","[1917, 1941, 1966, 1990]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getClass(com.sfeir.githubTrello.service.GithubServiceTest)')",[425]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'equals(com.sfeir.githubTrello.service.TrelloServiceTest)')",[782]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_create_only_one_pull_request_and_update_its_description_correctly(com.sfeir.githubTrello.service.GithubServiceTest)')",[136]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.service.GithubServiceTest')",[68]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_deserialize_into_empty_card(com.sfeir.githubTrello.wrapper.JsonTest)')",[1253]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'getClass(com.sfeir.githubTrello.service.GithubServiceTest)')",[442]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_detect_that_two_cards_were_moved_between_watched_lists(com.sfeir.githubTrello.domain.trello.BoardWatcherTest)')","[1063, 1394]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'toString(com.sfeir.githubTrello.service.GithubServiceTest)')",[357]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'notify(com.sfeir.githubTrello.service.GithubServiceTest)')",[476]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'getClass(com.sfeir.githubTrello.service.TrelloServiceTest)')",[884]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.service.TrelloServiceTest')",[527]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.wrapper.EscapeTest')","[51, 1275]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hashCode(com.sfeir.githubTrello.service.GithubServiceTest)')",[408]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'toString(com.sfeir.githubTrello.service.TrelloServiceTest)')",[816]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hashCode(com.sfeir.githubTrello.service.GithubServiceTest)')",[391]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.wrapper.JsonTest')","[34, 1109]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_detect_that_no_card_was_moved_between_watched_lists(com.sfeir.githubTrello.domain.trello.BoardWatcherTest)')","[1039, 1370]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'setUpBeforeClass(com.sfeir.githubTrello.service.GithubServiceTest)')",[204]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_suppress_weird_characters(com.sfeir.githubTrello.wrapper.EscapeTest)')","[1299, 1513]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'notify(com.sfeir.githubTrello.service.GithubServiceTest)')",[459]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_deserialize_into_empty_card(com.sfeir.githubTrello.wrapper.JsonTest)')","[1229, 1489]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'setUpBeforeClass(com.sfeir.githubTrello.service.TrelloServiceTest)')",[663]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_have_one_card_in_second_list(com.sfeir.githubTrello.service.TrelloServiceTest)')",[561]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'equals(com.sfeir.githubTrello.service.GithubServiceTest)')",[323]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'equals(com.sfeir.githubTrello.service.TrelloServiceTest)')",[799]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.wrapper.JsonTest')","[1759, 1803, 1848, 1892]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_create_a_feature_branch(com.sfeir.githubTrello.service.GithubServiceTest)')",[102]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'notify(com.sfeir.githubTrello.service.TrelloServiceTest)')",[935]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.domain.trello.BoardWatcherTest')","[17, 991]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'tearDown(com.sfeir.githubTrello.service.TrelloServiceTest)')",[578]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_create_a_feature_branch(com.sfeir.githubTrello.service.GithubServiceTest)')",[85]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_deserialize_into_empty_collection(com.sfeir.githubTrello.wrapper.JsonTest)')","[1181, 1465]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.sfeir.githubTrello.domain.trello.BoardWatcherTest')","[1581, 1625, 1670, 1714]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'wait(com.sfeir.githubTrello.service.GithubServiceTest)')","[221, 255, 289]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'hashCode(com.sfeir.githubTrello.service.TrelloServiceTest)')",[867]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'toString(com.sfeir.githubTrello.service.TrelloServiceTest)')",[833]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'wait(com.sfeir.githubTrello.service.TrelloServiceTest)')","[697, 731, 765]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'setUpBeforeClass(com.sfeir.githubTrello.service.GithubServiceTest)')",[187]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'wait(com.sfeir.githubTrello.service.GithubServiceTest)')","[238, 272, 306]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_have_one_card_in_second_list(com.sfeir.githubTrello.service.TrelloServiceTest)')",[544]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_deserialize_serialized_object_correctly(com.sfeir.githubTrello.wrapper.JsonTest)')","[1133, 1418]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'notifyAll(com.sfeir.githubTrello.service.TrelloServiceTest)')",[969]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_detect_that_two_cards_were_moved_between_watched_lists(com.sfeir.githubTrello.domain.trello.BoardWatcherTest)')",[1087]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'notify(com.sfeir.githubTrello.service.TrelloServiceTest)')",[918]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_suppress_weird_characters(com.sfeir.githubTrello.wrapper.EscapeTest)')","[1323, 1536]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_create_only_one_pull_request_and_update_its_description_correctly(com.sfeir.githubTrello.service.GithubServiceTest)')",[119]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'should_detect_that_no_card_was_moved_between_watched_lists(com.sfeir.githubTrello.domain.trello.BoardWatcherTest)')","[1015, 1347]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'should_have_correct_card_info(com.sfeir.githubTrello.service.TrelloServiceTest)')",[629]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'hashCode(com.sfeir.githubTrello.service.TrelloServiceTest)')",[850]

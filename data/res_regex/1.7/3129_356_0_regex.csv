@@ -1,0 +1,279 @@
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', '手札にS1,H4,D6,D8,C3が配られた')",[18681]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.CalculatorTest')","[3541, 18547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'multiplyで5と7の乗算結果が取得できる(junit.tutorial.CalculatorTest)')",[9289]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'onlyWindows(junit.tutorial.OSDependentTest)')",[9697]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'もしチェンジしない                  ')","[4178, 4941, 5696, 6440, 7512, 7625, 10702, 10730]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '7')",[16438]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'author')","[12720, 13832]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '日付が一致しない(junit.tutorial.matcher.IsDateTest)')",[9145]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ClassRuleExampleTest')","[2596, 15092]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'invokeメソッドによりRunnableオブジェクトのrunメソッドが別スレッドで実行される(junit.tutorial.chapter18.BackgroudTaskTest)')",[10114]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addは5と1で6を返す(junit.tutorial.chapter16.CalculatorTest)')",[9217]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test02(junit.tutorial.ClassRuleExampleTest)')",[9121]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'スタブメソッドの検証(junit.tutorial.MokitoTest)')",[9505]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'add(junit.tutorial.CalculatorDataPointsYamlTest)')",[9769]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'pop()')",[193]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', '1のワンペアであるべき')",[22691]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.FizzBuzzTest$_16を指定してcreateFizzBuzzListメソッドを実行するとき')","[1230, 1260, 11493]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.RangeTest$Rangeが0から10_5で$かつ範囲内の場合')","[1577, 1668, 1731, 11771]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'firstName')","[12882, 13994]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.EmployeeMatcherTest')","[1403, 11647]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', '手札にH1,H4,D1,D8,D9が配られた')",[21782]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.RandomMockTest')","[1089, 11300]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| S1,S2,S3,S4,C9 | ノーペア |        ')","[3850, 4603, 5348, 6082, 6916, 20883, 21036]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ShopInfoTest$インスタンス化テスト')","[2252, 2282, 12478]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', '1のワンペアであるべき')",[22758]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '0')",[16733]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.RandomsTest')","[744, 11000]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'x')","[15848, 16615, 17382]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.CalculatorDataPointTest')","[2820, 15500]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'divideで5と0のときIllegalArgumentExceptionを送出する(junit.tutorial.CalculatorTest)')",[9265]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.DelegateObjectExampleTest')","[2422, 14942]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', 'チェンジしない')","[19160, 20270, 21380, 22490, 23600]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', 'ノーペアであるべき')","[19428, 20538, 21648]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getListで0件取得できる事(junit.tutorial.dao.UserDaoTest$usersに0件のレコードがある場合)')",[9023]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.RuleChainExampleTest')","[1847, 12124]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.UserTest')",[828]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'incrementメソッドを実行すると2が取得できる(junit.tutorial.chapter18.CounterTest$incrementメソッドを1回実行した場合)')",[10041]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '4500')","[13416, 14528]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.MemberCombinedTest')","[2310, 12524]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| S1,H4,D6,D8,C3 | ノーペア |    ')","[3719, 4468, 5209, 5939, 6655, 19773, 19926]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'canEntryは25歳以下の女性でない場合にfalseを返す(junit.tutorial.MemberCombinedTest)')",[8781]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'choiceでAを返す(junit.tutorial.RandomsTest)')",[7948]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ArrayListEnclosedTest')",[943]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.NumberUtilsTest')",[3016]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.MultiLineStringTest$HelloとWorldの2つの文字列をjoinメソッドに与える')","[1460, 1490, 11709]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.FizzBuzzTest')",[1201]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sizeが1を返す(junit.tutorial.ItemStockTest$商品Aを1件含む場合)')",[8560]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'もしチェンジしない          ')","[3916, 4671, 5418, 6154, 6990, 7103, 10366, 10394]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.RangeTest$Rangeが0から10_5で$かつ範囲外の場合')","[1607, 1699, 1763, 11817]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', '9のワンペアであるべき')",[23868]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'Mockitoのspyを使ったテスト(junit.tutorial.SpyExampleTest)')",[8020]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Martin')","[12990, 14102]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', '手札にS1,H4,D6,D8,C3が配られた')",[18614]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'size_Aが0を返す(junit.tutorial.ItemStockTest$空の場合)')",[8610]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ならばノーペアであるべき           ')","[3949, 4705, 5453, 6190, 7027, 7141, 10422, 10450]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'title')","[13520, 14632]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.TimeoutExampleTest')","[2932, 15684]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'scenario_outline')",[276]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '引数を持つテストメソッド(junit.tutorial.ParameterizedTest)')",[9625]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addで同じオブジェクトを追加するとgetNumで2が取得できる(junit.tutorial.chapter18.ItemStockTest$Itemが1つ追加されている場合)')",[9844]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '-3')",[17500]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '_1_2_Fizz_4_Buzz_Fizz_7_8_Fizz_Buzz_11_Fizz_13_14_FizzBuzz_16が取得できる(junit.tutorial.chapter19.FizzBuzzTest$_16を指定してcreateFizzBuzzListメソッドを実行するとき)')",[8240]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'フィーチャ: ポーカーゲーム ')","[3626, 4372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '前提手札にS1,H4,D6,D8,C3が配られた     ')","[3752, 4502, 5244, 5975, 6692, 6804, 10142, 10170, 19849, 20002]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'もしチェンジしない                      ')","[4309, 5076, 5835, 6583, 7773, 7886, 10870, 10898]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ItemStockTest$商品Aを1件含む場合')","[1904, 1963, 12178]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.CalculatorDataPointsYamlTest')","[2988, 18085]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', '手札にS1,S2,S3,S4,C9が配られた')",[19696]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '例:    ')","[3687, 4435, 5175, 5904]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'containtsはfalseを返す(junit.tutorial.chapter19.RangeTest$Rangeが0から10_5で$かつ範囲内の場合)')",[8388]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'もしチェンジしない      ')","[3785, 4536, 5279, 6011, 6729, 6842, 10198, 10226]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.CounterTest$incrementメソッドを1回実行した場合')","[3394, 3483, 18455]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'applyで消費税が加算された価格が取得できる(junit.tutorial.chapter19.ConsumptionTaxTest)')",[8215]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '3')",[15966]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'テストメソッド(junit.tutorial.ParameterizedMultiSameTypeParamsTest)')",[8829]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.NumberUtilsTest$入力値に7を与えるとき')","[3045, 3104, 18139]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ItemStockTest$空の場合')","[1933, 1993, 12232]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '部分的なモックオブジェクト(junit.tutorial.MokitoTest)')",[9457]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testname(junit.tutorial.PreConditionTest)')",[8069]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.RulesExampleTest')","[1819, 12070]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.UserTest$インスタンス化テスト')","[857, 887, 11100]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '-2')",[18031]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '引数がString型のテストメソッド(junit.tutorial.EnclosedParameterizedTypeTest$Stringのパラメータ化テスト)')",[8635]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'outline_step')","[316, 356, 396]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.TestWatcherExampleTest')","[1791, 11983]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'add(junit.tutorial.CalculatorDataPointsTest)')",[9553]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.EnclosedParameterizedTypeTest$intのパラメータ化テスト')","[2079, 2139, 12332]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'insertで1件追加できる(junit.tutorial.dao.UserDaoTest$usersに0件のレコードがある場合)')",[8998]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Refactoring')","[13676, 14788]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.EmployeeTest$テキストファイルを指定してメソッドを実行するとき')","[1345, 1375, 11593]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', '手札にH1,H4,D2,D8,D9が配られた')",[20672]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', '手札にH1,H4,D1,D8,D9が配られた')",[21715]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.BookStoreYamlTest')","[2394, 14886]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', 'チェンジしない')","[19026, 20136, 21246, 22356, 23466]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', '9のワンペアであるべき')",[23734]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', '手札にS1,H4,D6,D8,C3が配られた')",[18815]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(junit.tutorial.RulesExampleTest)')","[8486, 12024]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.CalculatorDataPointsTest')","[2764, 15368]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'テストメソッド(junit.tutorial.ParameterizedMultiParamsTest)')",[8732]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'isSupportはfalseを返す(junit.tutorial.chapter19.FrameworksTest)')",[8264]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.MokitoTest')","[2736, 15322]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '1')",[17795]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'モックオブジェクトの作成(junit.tutorial.MokitoTest)')",[9529]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'get_0(junit.tutorial.BookStoreTest)')",[8708]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'practiceJunitを入力するとpractice_junitが取得できる(junit.tutorial.chapter18.StringUtilsTest)')",[9943]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'containts_Aはfalseを返す(junit.tutorial.ItemStockTest$空の場合)')",[8585]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'add(junit.tutorial.CalcTheoriesTest)')",[9193]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', '9のワンペアであるべき')",[23801]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', '1のワンペアであるべき')",[22624]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.FrameworksTest')","[1288, 11547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '前提手札にS1,S2,S3,S4,C9が配られた         ')","[3883, 4637, 5383, 6118, 6953, 7065, 10310, 10338, 20959, 21112]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ArrayListEnclosedTest$listに1件追加してある場合')","[1001, 1061, 11254]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ExpectedExceptionExampleTest')","[2876, 15592]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test01(junit.tutorial.ClassRuleExampleTest)')",[9097]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.ItemStockTest$初期状態のとき')","[3220, 3280, 18293]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sizeは2を返す(junit.tutorial.ArrayListEnclosedTest$listに2件追加してある場合)')",[8094]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.EnclosedParameterizedTypeTest$Stringのパラメータ化テスト')","[2050, 2109, 12286]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '1')",[17736]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '4')",[16202]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'void型を返すスタブメソッド(junit.tutorial.MokitoTest)')",[9361]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(junit.tutorial.DelegateObjectExampleTest)')",[8973]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '5')","[17028, 17264]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| H1,H4,D2,D8,D9 | ノーペア |            ')","[3981, 4738, 5487, 6225, 7177, 21993, 22146]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.CalculatorTest')","[2708, 15276]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '4500')","[13468, 14580]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'x')","[15789, 16556, 17323]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| H3,H9,D1,D8,D9 | 9のワンペア |                    ')","[4243, 5008, 5765, 6511, 7699, 23894, 23945]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '| H1,H4,D1,D8,D9 | 1のワンペア |                ')","[4112, 4873, 5626, 6368, 7438, 23103, 23256]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'containts_Aはtrueを返す(junit.tutorial.ItemStockTest$商品Aを1件含む場合)')",[8535]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'グーとパーなら敗北(junit.tutorial.JankenTest)')",[8853]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'isSupportはtrueを返す(junit.tutorial.chapter19.FrameworksTest)')",[8288]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.CounterTest$incrementメソッドを50回実行した場合')","[3365, 3453, 18401]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '日付が一致する(junit.tutorial.matcher.IsDateTest)')",[9169]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Martin')","[12936, 14048]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.BackgroudTaskTest')","[3569, 18892]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', '手札にH1,H4,D2,D8,D9が配られた')",[20605]
+"('FormatterFactory.java', 'cucumber.formatter.FormatterFactory', 'create', '([^:]+):(.*)', 'pretty')",[35]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.CalcTheoriesTest')","[2652, 15184]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.TestNameExampleTest')","[2792, 15454]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getNumで1が取得できる(junit.tutorial.chapter18.ItemStockTest$Itemが1つ追加されている場合)')",[9869]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', '手札にS1,S2,S3,S4,C9が配られた')",[19562]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.RangeTest')",[1518]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '失敗するテスト(junit.tutorial.TestWatcherExampleTest)')",[8438]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'author')","[12668, 13780]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '7')",[16497]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.PreConditionTest')","[915, 11154]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'テスト(junit.tutorial.RuleChainExampleTest)')",[8510]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sizeは1を返す(junit.tutorial.ArrayListEnclosedTest$listに1件追加してある場合)')",[8119]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.CounterTest')",[3336]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'containtsはfalseを返す(junit.tutorial.chapter19.RangeTest$Rangeが0から10_5で$かつ範囲外の場合)')",[8414]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', '1のワンペアであるべき')",[22557]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getNumで0が取得できる(junit.tutorial.chapter18.ItemStockTest$初期状態のとき)')",[9894]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', '手札にH1,H4,D2,D8,D9が配られた')",[20806]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.EnclosedParameterizedTypeTest')",[2021]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.matcher.IsDateTest')","[2624, 15138]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'シナリオテンプレート: ノーチェンジの場合  ')","[3656, 4403, 5142]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'expected')","[16320, 17087, 17854]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.NumberUtilsTest$入力値に10を与えるとき')","[3074, 3134, 18193]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'aaaを入力するとaaaが取得できる(junit.tutorial.chapter18.StringUtilsTest)')",[9967]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '-2')",[17972]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'y')","[16143, 16910, 17677]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'firstName')","[12828, 13940]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', 'チェンジしない')","[19093, 20203, 21313, 22423, 23533]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ParameterizedMultiParamsTest')","[2195, 12432]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'onlyMac(junit.tutorial.OSDependentTest)')",[9673]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testname1(junit.tutorial.BookStoreYamlTest)')",[8901]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ArrayListEnclosedTest$listに2件追加してある場合')","[972, 1031, 11208]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.StringUtilsTest')","[3308, 18347]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.MultiLineStringTest')",[1431]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', 'ノーペアであるべき')","[19294, 20404, 21514]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?0b[0-1_]+|[-+]?0[0-7_]+|[-+]?(?:0|[1-9][0-9_]*)|[-+]?0x[0-9a-fA-F_]+|[-+]?[1-9][0-9_]*(?::[0-5]?[0-9])+)$', '4')",[16261]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'choiceでAを返す(junit.tutorial.RandomMockTest)')",[8143]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'スタブメソッドの定義(junit.tutorial.MokitoTest)')",[9481]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ParameterizedTest')","[2848, 15546]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', 'チェンジしない')","[18959, 20069, 21179, 22289, 23399]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'multiplyで3と4の乗算結果が取得できる(junit.tutorial.CalculatorTest)')",[9337]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '前提手札にH3,H9,D1,D8,D9が配られた                     ')","[4276, 5042, 5800, 6547, 7736, 7848, 10814, 10842, 23919, 23970]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', '手札にH3,H9,D1,D8,D9が配られた')",[22959]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'デフォルトコンストラクタ(junit.tutorial.UserTest$インスタンス化テスト)')",[8045]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'lastName')","[13098, 14210]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '前提手札にH1,H4,D2,D8,D9が配られた             ')","[4014, 4772, 5522, 6261, 7214, 7326, 10478, 10506, 22069, 22222]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.MethodExtractExampleTest')","[1145, 11392]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'y')","[16025, 16792, 17559]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.VerifierExampleTest')","[2960, 15730]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', '9のワンペアであるべき')",[23667]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'Fowler')","[13152, 14264]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.dao.UserDaoTest$usersに2件のレコードがある場合')","[2508, 2568, 15046]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '3')",[15907]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Fowler')","[13260, 14372]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '初期状態でincrementメソッドを実行すると1が取得できる(junit.tutorial.chapter18.CounterTest$初期状態)')",[10066]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'insertで1件追加できる(junit.tutorial.dao.UserDaoTest$usersに2件のレコードがある場合)')",[9048]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addでItemを追加するとgetNumで1が取得できる(junit.tutorial.chapter18.ItemStockTest$初期状態のとき)')",[9919]
+"('PathWithLines.java', 'cucumber.runtime.PathWithLines', '<init>', '^([\\w\\W]*?):([\\d:]+)$', 'classpath:cucumber/poker')",[70]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ならばノーペアであるべき       ')","[3818, 4570, 5314, 6047, 6766, 6880, 10254, 10282]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '任意の整数に対するスタブメソッド(junit.tutorial.MokitoTest)')",[9385]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.EmployeeTest')",[1316]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'examples_table')","[476, 516, 556, 596, 636, 676]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', '手札にH1,H4,D1,D8,D9が配られた')",[21849]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:yes|Yes|YES|no|No|NO|true|True|TRUE|false|False|FALSE|on|On|ON|off|Off|OFF)$', 'firstName')","[12774, 13886]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', 'ノーペアであるべき')","[19227, 20337, 21447]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.JankenTest')","[2366, 12616]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '前提手札にH1,H4,D1,D8,D9が配られた                 ')","[4145, 4907, 5661, 6404, 7475, 7587, 10646, 10674, 23179, 23332]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'push(meta)')",[110]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'mkDefalutFilesで2つのファイルが作成される(junit.tutorial.TemporaryFolderExampleTest)')",[8167]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ならば9のワンペアであるべき                       ')","[4342, 5110, 5870, 6619, 7810, 7924, 10926, 10954]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'title')","[13572, 14684]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getListで2件取得できる事(junit.tutorial.dao.UserDaoTest$usersに2件のレコードがある場合)')",[9073]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', '手札にH3,H9,D1,D8,D9が配られた')",[23026]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'Refactoring')","[13728, 14840]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.dao.UserDaoTest')",[2450]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', '手札にS1,H4,D6,D8,C3が配られた')",[18748]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.SlowAndFastTest')",[800]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.TemporaryFolderExampleTest')","[1117, 11346]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'addは3と4で7を返す(junit.tutorial.chapter16.CalculatorTest)')",[9241]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'divideで3と2の除算結果を取得できる(junit.tutorial.CalculatorTest)')",[9313]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', '手札にS1,S2,S3,S4,C9が配られた')",[19495]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'canEntryは25歳以下の女性の場合にtrueを返す(junit.tutorial.MemberCombinedTest)')",[8805]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getTotalPrice(junit.tutorial.BookStoreTest)')",[8684]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getValueで計算結果を取得する(junit.tutorial.VerifierExampleTest)')",[9745]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.CounterTest$初期状態')","[3423, 3513, 18501]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '引数がint型のテストメソッド(junit.tutorial.EnclosedParameterizedTypeTest$intのパラメータ化テスト)')",[8660]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '例外の発生とメッセージを検証するテスト(junit.tutorial.ExpectedExceptionExampleTest)')",[9649]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'trueを返す(junit.tutorial.chapter18.NumberUtilsTest$入力値に10を与えるとき)')",[9819]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ならばノーペアであるべき               ')","[4080, 4840, 5592, 6333, 7288, 7402, 10590, 10618]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^手札に([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+),([SHDC])(\\d+)が配られた$', '手札にH1,H4,D1,D8,D9が配られた')",[21916]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'もしチェンジしない              ')","[4047, 4806, 5557, 6297, 7251, 7364, 10534, 10562]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'incrementメソッドを実行すると51が取得できる(junit.tutorial.chapter18.CounterTest$incrementメソッドを50回実行した場合)')",[10016]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'eof')",[716]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.OSDependentTest')","[2904, 15638]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'デフォルトコンストラクタ(junit.tutorial.ShopInfoTest$インスタンス化テスト)')",[8757]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.BookStoreTest')","[2167, 12378]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'falseを返す(junit.tutorial.chapter18.NumberUtilsTest$入力値に7を与えるとき)')",[9794]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'price')","[13364, 14476]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'examples')",[436]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'lastName')","[13044, 14156]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'loadでEmployeeの一覧を取得できる(junit.tutorial.chapter19.EmployeeMatcherTest)')",[8337]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.ItemStockTest')",[3162]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '長い時間がかかるかもしれないテスト(junit.tutorial.TimeoutExampleTest)')",[9721]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'HelloWorldと入力するとhello_worldが取得できる(junit.tutorial.chapter18.StringUtilsTest)')",[9991]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'expected')","[16379, 17146, 17913]"
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'comment')",[153]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', '手札にS1,S2,S3,S4,C9が配られた')",[19629]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '第2引数に0を指定してdivideを呼び出すとIllegalArgumentExceptionが発生する(junit.tutorial.chapter18.CalculatorTest)')",[10090]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^$', 'title')","[13624, 14736]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'テスト名(junit.tutorial.TestNameExampleTest)')","[9577, 15408]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'getTotalPrice(junit.tutorial.BookStoreYamlTest)')",[8925]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '例外を送出するスタブメソッド(junit.tutorial.MokitoTest)')",[9433]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'グーとチョキなら勝利(junit.tutorial.JankenTest)')",[8877]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter16.CalculatorTest')","[2680, 15230]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.ConsumptionTaxTest')","[1173, 11446]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'price')","[13312, 14424]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'cucumber.poker.PokerGameAcceptanceTest')",[3597]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.dao.UserDaoTest$usersに0件のレコードがある場合')","[2479, 2538, 14998]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'add(junit.tutorial.CalculatorDataPointTest)')",[9601]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ItemStockTest')",[1875]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'スパイオブジェクトの生成(junit.tutorial.MokitoTest)')",[9409]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'SpyLoggerを利用したテスト(junit.tutorial.SpyExampleTest)')",[7996]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'get_0(junit.tutorial.BookStoreYamlTest)')",[8949]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'doSomethingを実行するとdateに現在時刻が設定される(junit.tutorial.MethodExtractExampleTest)')",[8191]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '-3')",[17441]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'Fowler')","[13206, 14318]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'choiceでBを返す(junit.tutorial.RandomsTest)')",[7972]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', 'ノーペアであるべき')","[19361, 20471, 21581]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '改行で連結された文字列を取得できる(junit.tutorial.chapter19.MultiLineStringTest$HelloとWorldの2つの文字列をjoinメソッドに与える)')",[8362]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ParameterizedMultiSameTypeParamsTest')","[2338, 12570]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'ならば1のワンペアであるべき                   ')","[4211, 4975, 5731, 6476, 7549, 7663, 10758, 10786]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '成功するテスト(junit.tutorial.TestWatcherExampleTest)')","[8462, 11857, 11897, 11937]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '5')","[16969, 17205]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter18.ItemStockTest$Itemが1つ追加されている場合')","[3191, 3250, 18247]"
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^チェンジしない$', '手札にH3,H9,D1,D8,D9が配られた')",[22892]
+"('Parser.java', 'gherkin.parser.Parser$Machine', 'event', 'push\\((.+)\\)', 'feature')",[236]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.SpyExampleTest')","[772, 11054]"
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:[-+]?(?:[0-9][0-9_]*)\\.[0-9_]*(?:[eE][-+][0-9]+)?|[-+]?(?:[0-9][0-9_]*)?\\.[0-9_]+(?:[eE][-+][0-9]+)?|[-+]?[0-9][0-9_]*(?::[0-5]?[0-9])+\\.[0-9_]*|[-+]?\\.(?:inf|Inf|INF)|\\.(?:nan|NaN|NAN))$', '0')",[16674]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^ノーペアであるべき$', '手札にH1,H4,D2,D8,D9が配られた')",[20739]
+"('JdkPatternArgumentMatcher.java', 'cucumber.runtime.JdkPatternArgumentMatcher', 'argumentsFrom', '^(\\d+)のワンペアであるべき$', '手札にH3,H9,D1,D8,D9が配られた')",[22825]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.ShopInfoTest')",[2223]
+"('Resolver.java', 'org.yaml.snakeyaml.resolver.Resolver', 'resolve', '^(?:~|null|Null|NULL| )$', 'y')","[16084, 16851, 17618]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'junit.tutorial.chapter19.RangeTest$Rangeが0から10_5で')","[1547, 1637]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', '名前_名字_メールアドレスが反映されたEmployeeオブジェクトのリストを取得できる(junit.tutorial.chapter19.EmployeeTest$テキストファイルを指定してメソッドを実行するとき)')",[8313]

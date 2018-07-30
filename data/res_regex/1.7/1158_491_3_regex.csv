@@ -1,0 +1,9 @@
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ccoe.build.profile.LifecycleProfilerTest')","[330, 354, 379, 403]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.ccoe.build.profiler.util.GitUtilsTest')","[424, 444, 465, 485]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testIsValidGitDir(com.ccoe.build.profiler.util.GitUtilsTest)')","[181, 202, 223, 305]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSessionProfile(com.ccoe.build.profile.LifecycleProfilerTest)')","[78, 99, 120, 264]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testIsValidGitDir(com.ccoe.build.profiler.util.GitUtilsTest)')","[160, 285]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ccoe.build.profiler.util.GitUtilsTest')",[139]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'com.ccoe.build.profile.LifecycleProfilerTest')",[36]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testSessionProfile(com.ccoe.build.profile.LifecycleProfilerTest)')","[57, 244]"

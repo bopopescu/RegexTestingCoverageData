@@ -1,0 +1,21 @@
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'badHandshakeRejected(net.apnic.rpki.server.RsyncCodecTest)')","[57, 343]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.apnic.rpki.server.RsyncCodecTest')","[36, 673]"
+"('HandshakeMessage.java', 'net.apnic.rpki.server.messages.HandshakeMessage', 'parseHandshake', '@RSYNCD: (\\d+)(?:\\.(\\d+))?', '@RSYNCD: 30.0')","[647, 722]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.apnic.rpki.server.IndexReaderTest')","[97, 699]"
+"('SystemPropertyUtil.java', 'io.netty.util.internal.SystemPropertyUtil', 'getInt', '-?[0-9]+', '64')",[583]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'awaitFileList(net.apnic.rpki.server.RsyncHandlerTest)')","[219, 448]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'negotiateProtocolVersions(net.apnic.rpki.server.RsyncHandlerTest)')","[282, 511]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'parseHandshakes(net.apnic.rpki.server.messages.HandshakeMessageTest)')","[179, 427]"
+"('HandshakeMessage.java', 'net.apnic.rpki.server.messages.HandshakeMessage', 'parseHandshake', '@RSYNCD: (\\d+)(?:\\.(\\d+))?', '@RSYNCD is a silly protocol')",[615]
+"('PlatformDependent.java', 'io.netty.util.internal.PlatformDependent', 'isRoot0', '^(?:0|[1-9][0-9]*)$', '1000')",[557]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.apnic.rpki.server.RsyncHandlerTest')","[198, 797]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'negativeIndices(net.apnic.rpki.server.IndexReaderTest)')","[139, 406]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'goodHandshakeAccepted(net.apnic.rpki.server.RsyncCodecTest)')","[78, 364]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'sendsInitialVersion(net.apnic.rpki.server.RsyncHandlerTest)')","[240, 469]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'positiveIndices(net.apnic.rpki.server.IndexReaderTest)')","[118, 385]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.apnic.rpki.server.MultiplexDecoderTest')","[301, 819]"
+"('HandshakeMessage.java', 'net.apnic.rpki.server.messages.HandshakeMessage', 'parseHandshake', '@RSYNCD: (\\d+)(?:\\.(\\d+))?', '@RSYNCD: 29')",[745]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'decodeMessageData(net.apnic.rpki.server.MultiplexDecoderTest)')","[322, 532]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'net.apnic.rpki.server.messages.HandshakeMessageTest')","[158, 771]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'listModules(net.apnic.rpki.server.RsyncHandlerTest)')","[261, 490]"

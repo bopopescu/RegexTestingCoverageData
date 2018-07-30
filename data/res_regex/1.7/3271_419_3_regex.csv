@@ -1,0 +1,36 @@
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Q3271_419\\E', '3271_419')","[256, 1088, 1920, 2752, 3584, 4416, 5188, 6029, 6861, 7693, 8525, 9297, 10142, 10987, 11832, 12673, 13513, 18471, 19375]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\QRepoReaper\\E', 'RepoReaper')","[192, 1024, 1856, 2688, 3520, 4352, 5123, 5965, 6797, 7629, 8461, 9232, 10077, 10922, 11767, 12609, 13447, 18407, 19309]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HadesSimpleUserDaoSample.class')",[1664]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'AuditableUserSample.class')",[2496]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtest-classes\\E', 'test-classes')","[448, 1280, 2112, 2944, 3776]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhades-sample\\E', 'hades-sample')","[320, 1152, 1984, 2816, 3648, 4480, 5253, 6093, 6925, 7757, 8589, 9362, 10207, 11052, 11897, 12737, 13579, 18535, 19441]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'SimpleUserDao.class')","[5773, 14173, 19111, 20035]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoCustom.class')",[8269]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDao.class')",[7437]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoImpl.class')",[10727]
+"('QueryCreator.java', 'org.synyx.hades.dao.query.QueryCreator$PartSource', 'strip', '^read(?=[A-Z]).*', 'Lastname')","[14728, 14783, 15394, 15449, 16169, 16224, 16835, 16890, 17493, 17535, 18003, 18045, 20590, 20645, 21256, 21311]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'simple')",[6605]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qsimple\\E', 'simple')","[14107, 19047, 19969]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhades\\E', 'hades')","[640, 1472, 2304, 3136, 3968, 4800, 5578, 6413, 7245, 8077, 8909, 9687, 10532, 11377, 12222, 13057, 13909, 18855, 19771]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BasicSample.class')",[832]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoJdbcImpl.class')",[9882]
+"('QueryCreator.java', 'org.synyx.hades.dao.query.QueryCreator$PartSource', 'strip', '^findBy(?=[A-Z]).*', 'Lastname')","[14395, 14450, 15061, 15116, 15836, 15891, 16502, 16557, 17238, 17280, 17748, 17790, 20257, 20312, 20923, 20978]"
+"('RegexPatternTypeFilter.java', 'org.springframework.core.type.filter.RegexPatternTypeFilter', 'match', '.*SimpleUserDaoImpl', 'org.synyx.hades.sample.dao.simple.SimpleUserDao')","[14230, 20092]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qsample\\E', 'sample')","[704, 1536, 2368, 3200, 4032, 4864, 5643, 6477, 7309, 8141, 8973, 9752, 10597, 11442, 12287, 13121, 13975, 18919, 19837]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qsynyx\\E', 'synyx')","[576, 1408, 2240, 3072, 3904, 4736, 5513, 6349, 7181, 8013, 8845, 9622, 10467, 11312, 12157, 12993, 13843, 18791, 19705]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'impl')",[13249]
+"('QueryCreator.java', 'org.synyx.hades.dao.query.QueryCreator$PartSource', 'strip', '^get(?=[A-Z]).*', 'Lastname')","[14950, 15005, 15616, 15671, 16391, 16446, 17057, 17112, 17663, 17705, 18173, 18215, 20812, 20867, 21478, 21533]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoJdbcImpl$UserRowMapper.class')",[12417]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'HadesUserDaoSample.class')",[3328]
+"('QueryCreator.java', 'org.synyx.hades.dao.query.QueryCreator$PartSource', 'strip', '^find(?=[A-Z]).*', 'Lastname')","[14506, 14561, 15172, 15227, 15947, 16002, 16613, 16668, 17323, 17365, 17833, 17875, 20368, 20423, 21034, 21089]"
+"('QueryCreator.java', 'org.synyx.hades.dao.query.QueryCreator$PartSource', 'strip', '^readBy(?=[A-Z]).*', 'Lastname')","[14617, 14672, 15283, 15338, 16058, 16113, 16724, 16779, 17408, 17450, 17918, 17960, 20479, 20534, 21145, 21200]"
+"('QueryCreator.java', 'org.synyx.hades.dao.query.QueryCreator$PartSource', 'strip', '^findBy(?=[A-Z]).*', 'findByLastname')","[14285, 14339, 15726, 15780, 17154, 17195, 20147, 20201]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'UserDaoJdbcImpl$1.class')",[11572]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qpwang7\\E', 'pwang7')","[128, 960, 1792, 2624, 3456, 4288, 5058, 5901, 6733, 7565, 8397, 9167, 10012, 10857, 11702, 12545, 13381, 18343, 19243]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qhome\\E', 'home')","[64, 896, 1728, 2560, 3392, 4224, 4993, 5837, 6669, 7501, 8333, 9102, 9947, 10792, 11637, 12481, 13315, 18279, 19177]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '.*\\Q.class\\E', 'BasicFactorySetup.class')",[4160]
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qtarget\\E', 'target')","[384, 1216, 2048, 2880, 3712, 4544, 5318, 6157, 6989, 7821, 8653, 9427, 10272, 11117, 11962, 12801, 13645, 18599, 19507]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qdao\\E', 'dao')","[768, 1600, 2432, 3264, 4096, 4928, 5708, 6541, 7373, 8205, 9037, 9817, 10662, 11507, 12352, 13185, 14041, 18983, 19903]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qclasses\\E', 'classes')","[4608, 5383, 6221, 7053, 7885, 8717, 9492, 10337, 11182, 12027, 12865, 13711, 18663, 19573]"
+"('AntPathStringMatcher.java', 'org.springframework.util.AntPathStringMatcher', 'matchStrings', '\\Qorg\\E', 'org')","[512, 1344, 2176, 3008, 3840, 4672, 5448, 6285, 7117, 7949, 8781, 9557, 10402, 11247, 12092, 12929, 13777, 18727, 19639]"
+"('QueryCreator.java', 'org.synyx.hades.dao.query.QueryCreator$PartSource', 'strip', '^getBy(?=[A-Z]).*', 'Lastname')","[14839, 14894, 15505, 15560, 16280, 16335, 16946, 17001, 17578, 17620, 18088, 18130, 20701, 20756, 21367, 21422]"

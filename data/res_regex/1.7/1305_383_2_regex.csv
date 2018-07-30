@@ -1,0 +1,62 @@
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].case.case.sessionId')",[3392]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.JSONPathEvaluatorTest')",[139]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.p1')",[2626]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.e')",[1977]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParse(uk.co.revsys.jsont.RegexJSONParserTest)')","[872, 893, 914]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.JSONTemplaterTest')",[36]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.accountName')","[2661, 2728]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.JSONTransformerTest')","[3622, 3642, 3663, 3683]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEvaluateList2(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[181, 202, 223, 1183]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[1]')",[2071]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEvaluateList(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[328, 1225]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.b')","[1625, 1689, 1753, 1817, 1881, 1945]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.d')","[2009, 2041]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEvaluate(uk.co.revsys.jsont.JSONTemplaterTest)')","[57, 1122]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEvaluate(uk.co.revsys.jsont.JSONTemplaterTest)')","[78, 99, 120, 1142]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTransformOverrideCopiedField(uk.co.revsys.jsont.JSONTransformerTest)')","[1038, 1433]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].case.location')",[3428]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].case.case.sessionId.distribution.[0].value')",[3464]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEvaluateList(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[349, 370, 391]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEvaluateList2(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[160, 1163]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.a')","[1593, 1657, 2524, 3046]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTransformOverrideCopiedField(uk.co.revsys.jsont.JSONTransformerTest)')","[1059, 1080, 1101]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.JSONTemplaterTest')","[1458, 1482, 1507, 1531]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.accountId')","[2591, 2977]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseLogLineEmbeddedJSON(uk.co.revsys.jsont.RegexJSONParserTest)')","[788, 809, 830]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.id')",[2101]
+"('RegexJSONParser.java', 'uk.co.revsys.jsont.RegexJSONParser', 'parseString', '^(?<level>\\w*)\\s+(?<timestamp>\\d\\d\\s\\w{3}\\s\\d\\d:\\d\\d:\\d\\d)\\s(?<class>.*)#(?<method>\\<?\\w*\\>?)\\:(?<line>\\d+)\\sthread\\:(?<thread>[^\\s]*)\\s\\[(?<message>.*)\\]', 'DEBUG 04 Aug 17:58:55 uk.co.revsys.oddball.service.rest.OddballRestService#<init>:35 thread:localhost-startStop-1 [Initialising]')",[2249]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.RegexJSONParserTest')",[494]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testTransform(uk.co.revsys.jsont.JSONTransformerTest)')","[954, 1392]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'null')",[17]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[1].value')",[3150]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParse(uk.co.revsys.jsont.RegexJSONParserTest)')","[851, 1371]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].timestamp')",[3320]
+"('RegexJSONParser.java', 'uk.co.revsys.jsont.RegexJSONParser', 'parseString', '^(?<level>\\w*)\\s+(?<timestamp>\\d\\d\\s\\w{3}\\s\\d\\d:\\d\\d:\\d\\d)\\s(?<class>.*)#(?<method>\\<?\\w*\\>?)\\:(?<line>\\d+)\\sthread\\:(?<thread>[^\\s]*)\\s\\[(?<message>.*)\\]', 'DEBUG 04 Aug 13:56:09 uk.co.revsys.oddball.consumer.kinesis.KinesisRecordProcessor#processRecordsWithRetries:93 thread:pool-1-thread-1 [Processing record]')","[2224, 2274]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].case.userId')",[3500]
+"('RegexJSONParser.java', 'uk.co.revsys.jsont.RegexJSONParser', 'parseString', '(?<title>\\b\\w*\\b)\\s*(?<firstName>\\b\\w*\\b)\\s*(?<surname>\\b\\w*\\b)\\s*,.*', 'Mr Samuel Watson, samw@test.com')",[2324]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseLogLine(uk.co.revsys.jsont.RegexJSONParserTest)')","[536, 557, 578, 1287]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.b.c')",[2489]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$')","[1561, 2454, 2556, 2693, 2940, 3009, 3078, 3182, 3216, 3248, 3568, 3601]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLineNewlineEnd(uk.co.revsys.jsont.RegexJSONParserTest)')","[683, 1329]"
+"('RegexJSONParser.java', 'uk.co.revsys.jsont.RegexJSONParser', 'parseString', '^(?<level>\\w*)\\s+(?<timestamp>\\d\\d\\s\\w{3}\\s\\d\\d:\\d\\d:\\d\\d)\\s(?<class>.*)#(?<method>\\<?\\w*\\>?)\\:(?<line>\\d+)\\sthread\\:(?<thread>[^\\s]*)\\s\\[(?<message>.*)\\]', 'INFO  06 Aug 16:27:09 uk.co.revsys.oddball.consumer.kinesis.KinesisRecordProcessor#processRecordsWithRetries:98 thread:pool-1-thread-1 [49540437523742567016182684081176742386203525543305936897, base, {""accountId"":""echo-central-master-account"",""userId"":""237fccd5-4a3b-4400-bb0d-ca872f15ab6d"",""sessionId"":""82e585db-4199-4a79-a763-1c6158e19db9"",""domain"":""dev.echo-central.com"",""device"":{""platform"":""Win32"",""screen"":{""availWidth"":1600,""availHeight"":860,""availTop"":0,""availLeft"":0,""pixelDepth"":24,""colorDepth"":24,""width"":1600,""height"":900},""pixelRatio"":1},""browser"":{""vendor"":""Google Inc."",""vendorSub"":"""",""product"":""Gecko"",""productSub"":""20030107"",""userAgent"":""Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"",""mimeTypes"":65,""plugins"":21,""language"":""en-US""},""page"":{""location"":{""ancestorOrigins"":{""length"":0},""origin"":""http://dev.echo-central.com"",""hash"":"""",""search"":"""",""pathname"":""/"",""port"":"""",""hostname"":""dev.echo-central.com"",""host"":""dev.echo-central.com"",""protocol"":""http:"",""href"":""http://dev.echo-central.com/""},""performance"":{""loadEventEnd"":1407338818388,""loadEventStart"":1407338818211,""domComplete"":1407338818211,""domContentLoadedEventEnd"":1407338815705,""domContentLoadedEventStart"":1407338815703,""domInteractive"":1407338815703,""domLoading"":1407338815022,""responseEnd"":1407338815084,""responseStart"":1407338814994,""requestStart"":1407338813385,""secureConnectionStart"":0,""connectEnd"":1407338813267,""connectStart"":1407338813267,""domainLookupEnd"":1407338813267,""domainLookupStart"":1407338813267,""fetchStart"":1407338813267,""redirectEnd"":0,""redirectStart"":0,""unloadEventEnd"":1407338814995,""unloadEventStart"":1407338814995,""navigationStart"":1407338813267},""title"":""echoCHECK""},""connection"":{""bandwidth"":""not supported"",""metered"":""not supported""},""locale"":{""country"":""us"",""lang"":""en""}}]')",[2299]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.user.surname')",[2842]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].value')",[3114]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.c')","[1721, 1785, 1849, 1913]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseLogLine2(uk.co.revsys.jsont.RegexJSONParserTest)')","[620, 641, 662]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEvaluateExpression(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[244, 1204]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.user.firstName')",[2803]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.JSONPathEvaluatorTest')","[2126, 2150, 2175, 2199]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].case.time')",[3284]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEvaluateNull(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[433, 454, 475]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testEvaluateNull(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[412, 1246]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLineEmbeddedJSON(uk.co.revsys.jsont.RegexJSONParserTest)')","[767, 1350]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testEvaluateExpression(uk.co.revsys.jsont.JSONPathEvaluatorTest)')","[265, 286, 307]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLine2(uk.co.revsys.jsont.RegexJSONParserTest)')","[599, 1308]"
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'testParseLogLine(uk.co.revsys.jsont.RegexJSONParserTest)')","[515, 1267]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.RegexJSONParserTest')","[2349, 2373, 2398, 2422]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].case.accountId')",[3356]
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$[0].case.ipAddress')",[3536]
+"('Description.java', 'org.junit.runner.Description', 'parseMethod', '(.*)\\((.*)\\)', 'uk.co.revsys.jsont.JSONTransformerTest')",[933]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testParseLogLineNewlineEnd(uk.co.revsys.jsont.RegexJSONParserTest)')","[704, 725, 746]"
+"('PathTokenizer.java', 'com.jayway.jsonpath.internal.PathTokenizer', '<init>', '[^\\?\\+=\\-\\*/!]\\(', '$.user')","[2764, 2874, 2908]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testTransform(uk.co.revsys.jsont.JSONTransformerTest)')","[975, 996, 1017, 1412]"

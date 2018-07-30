@@ -1,0 +1,162 @@
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  </build>')",[3042]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <artifactId>asm</artifactId>')","[6503, 6527]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <version>1.3</version>')","[5817, 5841, 6062, 6086]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', ' */')","[3563, 3587, 4347, 4371]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  </parent>')",[1777]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  <packaging>source-plugin</packaging>')",[1869]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '          <threadCount>1</threadCount>')",[2950]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '        </configuration>')",[2973]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '    </dependency>')","[5621, 5645, 5866, 5890, 6111, 6135, 6356, 6380, 6650, 6674, 6944, 6968]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '    <artifactId>base</artifactId>')",[1708]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <artifactId>hamcrest-library</artifactId>')","[6013, 6037]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.checkstyle.parser.CheckStyleParserTest')","[713, 7977]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <groupId>org.hamcrest</groupId>')","[2053, 2168]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testCompareTo(hudson.plugins.analysis.util.model.AbstractAnnotationTest)')","[261, 1068]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '        <artifactId>maven-surefire-plugin</artifactId>')","[7238, 7262]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '    <plugins>')","[7091, 7115]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '<?xml version=""1.0"" ?>')","[4837, 4861]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  <name>ADT Business Logic</name>')","[5278, 5302]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <version>3.18.1-GA</version>')",[2582]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'analyseCheckStyleFile(hudson.plugins.checkstyle.parser.CheckStyleParserTest)')","[734, 1446]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <version>4.1</version>')",[2444]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '          <testFailureIgnore>true</testFailureIgnore>')","[7483, 7507]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'checkClassificationJavaFormatting(hudson.plugins.analysis.util.CsharpNamespaceDetectorTest)')","[570, 1320]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <version>1.9.5</version>')","[6307, 6331]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  <parent>')",[1685]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '          <argLine>-javaagent:/home/pwang7/code/javassist-instrument.jar=/home/pwang7/log/807_233_1</argLine>')",[2858]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '\tpackage\t\thudson.plugins.findbugs.util    ; // NOPMD')",[3088]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testTwoElementSet(hudson.plugins.analysis.util.SingletonTest)')","[467, 1236]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <artifactId>javassist</artifactId>')",[2559]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '    <dependency>')","[1915, 2030, 2145, 2260, 2375, 2513]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <artifactId>asm</artifactId>')",[2421]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'issue5344(hudson.plugins.checkstyle.parser.WarningsDifferencerTest)')","[816, 1509]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNullSet(hudson.plugins.analysis.util.SingletonTest)')","[488, 1257]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '          <argLine>-javaagent:/home/pwang7/code/javassist-instrument.jar=/home/pwang7/log/807_233_1</argLine>')","[7434, 7458]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'using Avaloq.Utilities;')","[3857, 3881, 4641, 4665]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '')","[3612, 3636, 3955, 3979, 4396, 4420, 4739, 4763]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '        <configuration>')","[7336, 7360]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <artifactId>junit</artifactId>')",[1961]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.analysis.util.model.LineRangeListTest')","[301, 3218]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'issue17287(hudson.plugins.analysis.util.model.AbstractAnnotationTest)')","[282, 1089]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <version>4.1</version>')","[6552, 6576]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'test(hudson.plugins.analysis.util.TreeStringBuilderTest)')","[160, 1005]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '        <artifactId>maven-surefire-plugin</artifactId>')",[2766]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'contains(hudson.plugins.analysis.util.model.LineRangeListTest)')","[385, 1173]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <groupId>org.javassist</groupId>')",[2536]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <groupId>junit</groupId>')","[5474, 5498]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'using log4net;')","[3906, 3930, 4690, 4714]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <version>3.18.1-GA</version>')","[6846, 6870]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testRandom(hudson.plugins.analysis.util.TreeStringBuilderTest)')","[181, 1026]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      </plugin>')","[7728, 7752]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testAnnotationFilename(hudson.plugins.checkstyle.parser.WarningsDifferencerTest)')","[900, 1593]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', ' * Author: Hafner Ullrich')","[3514, 3538, 4298, 4322]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'boundary(hudson.plugins.analysis.util.model.LineRangeListTest)')","[322, 1110]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  <artifactId>com.avaloq.adt.core</artifactId>')","[5229, 5253]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.analysis.util.SingletonTest')","[425, 3244]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  </parent>')","[5131, 5155]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'issue6139(hudson.plugins.analysis.util.model.WorkspaceFileTest)')","[221, 1047]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <groupId>org.ow2.asm</groupId>')","[6454, 6478]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', ' * Copyright (c) Avaloq Evolution AG')","[3318, 3342, 4102, 4126]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'bigValues(hudson.plugins.analysis.util.model.LineRangeListTest)')","[406, 1194]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <version>4.12</version>')",[1984]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '    <groupId>com.avaloq.adt</groupId>')","[5033, 5057]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <groupId>org.javassist</groupId>')","[6748, 6772]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <scope>test</scope>')","[2467, 2605]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '        <configuration>')",[2812]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <scope>test</scope>')","[6601, 6625, 6895, 6919]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '          <parallel>all</parallel>')",[2927]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', 'package hudson.plugins.tasks.util;')",[1616]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  <build>')","[7042, 7066]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'checkEmptyPackageName(hudson.plugins.analysis.util.CsharpNamespaceDetectorTest)')","[612, 1362]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '        <version>2.18</version>')",[2789]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInsertLineAboveWarning(hudson.plugins.checkstyle.parser.NewWarningDetectorTest)')","[673, 1404]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '<project xmlns=""http://maven.apache.org/POM/4.0.0"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"">')",[1662]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <artifactId>junit</artifactId>')","[5523, 5547]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'checkPackage(hudson.plugins.analysis.util.JavaPackageDetectorTest)')","[57, 921]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '    <dependency>')","[5425, 5449, 5670, 5694, 5915, 5939, 6160, 6184, 6405, 6429, 6699, 6723]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testDifferencer(hudson.plugins.checkstyle.parser.WarningsDifferencerTest)')","[879, 1572]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.checkstyle.parser.WarningsDifferencerTest')","[795, 7999]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.analysis.util.TreeStringBuilderTest')","[139, 3140]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '          <testFailureIgnore>true</testFailureIgnore>')",[2881]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  <modelVersion>4.0.0</modelVersion>')","[5180, 5204]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'checkClassificationOriginalFormatting(hudson.plugins.analysis.util.CsharpNamespaceDetectorTest)')","[591, 1341]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '</project>')",[3065]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '<?xml version=""1.0"" ?>')",[1639]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <artifactId>mockito-all</artifactId>')","[6258, 6282]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFileSuffix(hudson.plugins.analysis.util.JavaPackageDetectorTest)')","[120, 984]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <groupId>org.mockito</groupId>')",[2283]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '          <parallel>all</parallel>')","[7581, 7605]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '    <version>1.2.0-SNAPSHOT</version>')","[5082, 5106]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  <parent>')","[4935, 4959]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '          <skipTests>false</skipTests>')","[7385, 7409]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', ' * All Rights Reserved.')","[3416, 3440, 4200, 4224]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '    <groupId>com.avaloq.adt</groupId>')",[1731]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '          <perCoreThreadCount>false</perCoreThreadCount>')",[2904]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <artifactId>hamcrest-core</artifactId>')","[5768, 5792]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <version>1.3</version>')","[2099, 2214]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '        </configuration>')","[7679, 7703]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'using System.ComponentModel;')","[3710, 3734, 4494, 4518]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '        <version>2.18</version>')","[7287, 7311]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', ' * Allmendstr. 140, 8027 Z�rich, Switzerland, http://www.avaloq.com')","[3367, 3391, 4151, 4175]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <artifactId>hamcrest-library</artifactId>')",[2191]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  </build>')","[7826, 7850]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'using System;')","[3661, 3685, 4445, 4469]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      </plugin>')",[2996]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '<project xmlns=""http://maven.apache.org/POM/4.0.0"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"">')","[4886, 4910]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testWarningEquals(hudson.plugins.checkstyle.parser.WarningsDifferencerTest)')","[837, 1530]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <groupId>org.hamcrest</groupId>')","[5719, 5743, 5964, 5988]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '          <threadCount>1</threadCount>')","[7630, 7654]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testParsingOfScalaStyleFormat(hudson.plugins.checkstyle.parser.CheckStyleParserTest)')","[776, 1488]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testValidValues(hudson.plugins.analysis.util.SingletonTest)')","[530, 1299]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.checkstyle.parser.NewWarningDetectorTest')","[652, 7951]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'using System.Windows.Forms;')","[3808, 3832, 4592, 4616]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.analysis.util.CsharpNamespaceDetectorTest')","[549, 7925]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  <modelVersion>4.0.0</modelVersion>')",[1800]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '    </plugins>')","[7777, 7801]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  </dependencies>')","[6993, 7017]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <plugin>')",[2720]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '    </plugins>')",[3019]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '        <groupId>org.apache.maven.plugins</groupId>')",[2743]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testEmptySet(hudson.plugins.analysis.util.SingletonTest)')","[509, 1278]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <artifactId>javassist</artifactId>')","[6797, 6821]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <version>1.9.5</version>')",[2329]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  <dependencies>')",[1892]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'namespace Avaloq.SmartClient.Utilities {')","[4004, 4028]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '          <perCoreThreadCount>false</perCoreThreadCount>')","[7532, 7556]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  <build>')",[2674]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'resize(hudson.plugins.analysis.util.model.LineRangeListTest)')","[364, 1152]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testFileSuffix(hudson.plugins.analysis.util.CsharpNamespaceDetectorTest)')","[633, 1383]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '    <version>1.2.0-SNAPSHOT</version>')",[1754]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '    <artifactId>base</artifactId>')","[4984, 5008]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '/*')","[3269, 3293, 4053, 4077]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '</project>')","[7875, 7899]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testHashCodes(hudson.plugins.checkstyle.parser.WarningsDifferencerTest)')","[858, 1551]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '    <plugins>')",[2697]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <groupId>org.mockito</groupId>')","[6209, 6233]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  <name>ADT Business Logic</name>')",[1846]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testNullElementInSet(hudson.plugins.analysis.util.SingletonTest)')","[446, 1215]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'using System.Diagnostics.CodeAnalysis;')","[3759, 3783, 4543, 4567]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  <dependencies>')","[5376, 5400]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <groupId>org.ow2.asm</groupId>')",[2398]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '        <groupId>org.apache.maven.plugins</groupId>')","[7189, 7213]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '  <packaging>source-plugin</packaging>')","[5327, 5351]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', ' *')","[3465, 3489, 4249, 4273]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testColumnPositions(hudson.plugins.checkstyle.parser.CheckStyleParserTest)')","[755, 1467]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <plugin>')","[7140, 7164]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  </dependencies>')",[2651]
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '    </dependency>')","[2007, 2122, 2237, 2352, 2490, 2628]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'checkComplicatedPackageName(hudson.plugins.analysis.util.JavaPackageDetectorTest)')","[99, 963]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <groupId>junit</groupId>')",[1938]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.analysis.util.model.AbstractAnnotationTest')","[240, 3192]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'basicCRUD(hudson.plugins.analysis.util.model.LineRangeListTest)')","[343, 1131]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '          <skipTests>false</skipTests>')",[2835]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'checkEmptyPackageName(hudson.plugins.analysis.util.JavaPackageDetectorTest)')","[78, 942]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <artifactId>mockito-all</artifactId>')",[2306]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.analysis.util.JavaPackageDetectorTest')","[36, 3114]"
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', 'namespace Avaloq.SmartClient.Utilities')","[4788, 4812]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'null')",[17]
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'hudson.plugins.analysis.util.model.WorkspaceFileTest')","[200, 3166]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '      <artifactId>hamcrest-core</artifactId>')",[2076]
+"('CsharpNamespaceDetector.java', 'hudson.plugins.analysis.util.CsharpNamespaceDetector', 'detectPackageName', '^namespace .*$', '      <version>4.12</version>')","[5572, 5596]"
+"('Description.java', 'org.junit.runner.Description', 'methodAndClassNamePatternGroupOrDefault', '(.*)\\((.*)\\)', 'testInsertLineBeforePackage(hudson.plugins.checkstyle.parser.NewWarningDetectorTest)')","[694, 1425]"
+"('JavaPackageDetector.java', 'hudson.plugins.analysis.util.JavaPackageDetector', 'detectPackageName', '^\\s*package\\s*([a-z]+(\\.[a-zA-Z_][a-zA-Z0-9_]*)*)\\s*;.*', '  <artifactId>com.avaloq.adt.core</artifactId>')",[1823]

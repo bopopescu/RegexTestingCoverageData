@@ -1,0 +1,3 @@
+"('Invoker.java', 'org.testng.internal.Invoker', 'messageRegExpMatches', 'Only one.*is allowed.*', 'Only one @Parameter with no names attribute is allowed, found:[PD:Parameter:Delegate1.mainParams1: and [PD:Parameter:Delegate2.mainParams2:')","[144, 173, 201, 228]"
+"('Invoker.java', 'org.testng.internal.Invoker', 'messageRegExpMatches', '.*delegate.*null.*', 'Delegate annotation on field delegate with delegate annotation @com.beust.jcommander.ParametersDelegate() is not allowed to be null.')","[258, 287, 315, 342]"
+"('Invoker.java', 'org.testng.internal.Invoker', 'messageRegExpMatches', '.*-a.*', 'Found the option -a multiple times')","[30, 59, 87, 114]"

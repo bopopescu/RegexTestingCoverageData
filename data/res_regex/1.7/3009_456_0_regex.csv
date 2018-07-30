@@ -1,0 +1,14 @@
+"('Utils.java', 'com.github.dojotags.utils.Utils', 'assertValidCssUnitOfMeasure', '\\d+\\s*px|\\d+\\s*em|\\d+\\s*%', '34')",[986]
+"('Utils.java', 'com.github.dojotags.utils.Utils', 'assertValidCssUnitOfMeasure', '\\d+\\s*px|\\d+\\s*em|\\d+\\s*%', 'ten px')",[1030]
+"('Utils.java', 'com.github.dojotags.utils.Utils', 'assertValidCssUnitOfMeasure', '\\d+\\s*px|\\d+\\s*em|\\d+\\s*%', '34 px')",[854]
+"('Utils.java', 'com.github.dojotags.utils.Utils', 'assertValidCssUnitOfMeasure', '\\d+\\s*px|\\d+\\s*em|\\d+\\s*%', '34em')",[898]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'assertValidCssUnitOfMeasure(com.github.dojotags.junit.UtilsTest)')","[75, 496, 1207, 1253]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testCompress(com.github.dojotags.junit.YuiCompressorTest)')","[25, 142, 319, 365]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'viewModel(com.github.dojotags.junit.ReflectionTest)')","[50, 184, 631, 677]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'testSubstitute(com.github.dojotags.junit.StringTemplateTest)')","[100, 1072, 1417, 1443]"
+"('Utils.java', 'com.github.dojotags.utils.Utils', 'assertValidCssUnitOfMeasure', '\\d+\\s*px|\\d+\\s*em|\\d+\\s*%', '34%')",[942]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.dojotags.junit.ReflectionTest')","[541, 585, 722, 766]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.dojotags.junit.StringTemplateTest')","[1367, 1391, 1468, 1492]"
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.dojotags.junit.YuiCompressorTest')","[229, 273, 410, 454]"
+"('Utils.java', 'com.github.dojotags.utils.Utils', 'assertValidCssUnitOfMeasure', '\\d+\\s*px|\\d+\\s*em|\\d+\\s*%', '34px')",[810]
+"('Description.java', 'org.junit.runner.Description', 'getClassName', '(.*)\\((.*)\\)', 'com.github.dojotags.junit.UtilsTest')","[1117, 1161, 1298, 1342]"
