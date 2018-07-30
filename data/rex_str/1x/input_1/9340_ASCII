@@ -1,0 +1,6 @@
+"4Y<cmd &comp=\"Button\"~id=\"FRED\"/,result=\"ok\""
+"=<cmd Ucomp=\"Button\"Pid=\"FRED\"result=\"ok\"ZF"
+"<cmd comp=\"Button\"cid=\"FRED\">result=\"ok\";]"
+"<cmd comp=\"Button\"id=\"FRED\"?result=\"ok\""
+"<cmd comp=\"Button\"id=\"FRED\":ubresult=\"ok\"!x"
+"<cmd Gcomp=\"Button\"id=\"FRED\"result=\"ok\"q"

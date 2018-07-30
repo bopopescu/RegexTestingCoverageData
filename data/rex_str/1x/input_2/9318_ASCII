@@ -1,0 +1,7 @@
+"<cmd Input firstName EnterText &lt;first&gt;result=\"ok\"-\b"
+"@C<cmd Input firstName EnterText &lt;first&gt;result=\"ok\""
+"<cmd ^Input firstName EnterText &lt;first&gt;result=\"ok\""
+"9<cmd dInput firstName EnterText &lt;first&gt;result=\"ok\"i"
+"<cmd Input firstName EnterText &lt;first&gt;vresult=\"ok\""
+"<cmd Input firstName EnterText &lt;first&gt;t&result=\"ok\""
+"f<cmd Input firstName EnterText &lt;first&gt;\eresult=\"ok\""

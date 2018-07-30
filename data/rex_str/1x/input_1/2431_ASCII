@@ -1,0 +1,3 @@
+"the\n \t\fscenario with\ttwo    and    parameters\r   also\t works"
+"the\fscenario   \fwith\r two\t   and b \v   parameters\r\t  \n \t also works"
+"the\t\fscenario\nwith two \r  \t   and  \r ^D0 parameters\v also\v \t \tworks"

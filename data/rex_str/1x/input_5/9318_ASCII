@@ -1,0 +1,7 @@
+"<cmd Input firstName EnterText &lt;first&gt;result=\"ok\"e"
+"<cmd .Input firstName EnterText &lt;first&gt;result=\"ok\""
+"\v<cmd Input firstName EnterText &lt;first&gt;result=\"ok\"c"
+"<cmd Input firstName EnterText &lt;first&gt;}^result=\"ok\"A"
+"<cmd e-Input firstName EnterText &lt;first&gt;$1result=\"ok\""
+"_<cmd |Input firstName EnterText &lt;first&gt;cresult=\"ok\"N^"
+"<cmd Input firstName EnterText &lt;first&gt;eresult=\"ok\","

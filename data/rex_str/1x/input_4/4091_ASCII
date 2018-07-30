@@ -1,0 +1,1 @@
+"WicketEvent\tadd(window, \"domready\", function(event) {$(\"#field1\")datepicker(null, [{dt:new Date('2010-12-25'), css:'holiday', tooltip:'Christmas'},{dt:new Date('2010-01-01'), css:'holiday', tooltip:'New Year'}]);;});:"

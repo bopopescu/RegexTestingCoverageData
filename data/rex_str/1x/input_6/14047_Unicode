@@ -1,0 +1,5 @@
+"@AND(:${.9@LOOPINDEX2}) "
+"@AND(:{8Y})  "
+"@AND(:${y@LOOPINDEX3} = I)  "
+" @AND(:${.@LOOPINDEX} =2)"
+"@AND(:B@LOOPINDEX2 = 8)"

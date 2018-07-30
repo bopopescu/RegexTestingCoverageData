@@ -1,0 +1,1 @@
+"\bWicketEventYadd(window, \"domready\", function(event) {i$(\"#field1\")\adatepicker(null, [{dt:new Date('2010-12-25'), css:'holiday', tooltip:'Christmas'},{dt:new Date('2010-01-01'), css:'holiday', tooltip:'New Year'}]);;});"

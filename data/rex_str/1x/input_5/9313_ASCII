@@ -1,0 +1,4 @@
+"<cmd Button FOO Click %thinktime=500 %timeout=2000Cresult=\"ok\"`O"
+"Y<cmd G1BySv'Button FOO Click %thinktime=500 %timeout=2000result=\"ok\"/E0"
+"H<cmd Button FOO Click %thinktime=500 %timeout=2000M@result=\"ok\""
+"b'<cmd Button FOO Click %thinktime=500 %timeout=2000;Y\egresult=\"ok\""

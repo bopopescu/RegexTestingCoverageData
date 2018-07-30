@@ -1,0 +1,8 @@
+"`<cmd Input lastName EnterText &quot;bar baz&quot;Tresult=\"ok\"AP["
+"<cmd Input lastName EnterText &quot;bar baz&quot;\eD^@result=\"ok\""
+"!<cmd kInput lastName EnterText &quot;bar baz&quot;result=\"ok\""
+"<cmd Input lastName EnterText &quot;bar baz&quot;result=\"ok\")tB"
+"<cmd NInput lastName EnterText &quot;bar baz&quot;dresult=\"ok\""
+"c<cmd ^Input lastName EnterText &quot;bar baz&quot;result=\"ok\""
+"<cmd '\v@S,Input lastName EnterText &quot;bar baz&quot;result=\"ok\""
+"<cmd  Input lastName EnterText &quot;bar baz&quot;6result=\"ok\""

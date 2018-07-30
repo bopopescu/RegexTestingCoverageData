@@ -1,0 +1,7 @@
+"3<cmd Input firstName EnterText fooW$result=\"ok\""
+"w<cmd Input firstName EnterText fooresult=\"ok\""
+"4G|<cmd 'fiInput firstName EnterText foo'result=\"ok\""
+"<cmd Input firstName EnterText fooresult=\"ok\""
+"<cmd Input firstName EnterText foo~~QyDresult=\"ok\" "
+"<cmd Input firstName EnterText fooresult=\"ok\"+8"
+"<cmd CInput firstName EnterText fooresult=\"ok\"."

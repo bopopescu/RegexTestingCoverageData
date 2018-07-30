@@ -1,0 +1,4 @@
+"uD<cmd |S#vButton FOO Click %thinktime=500 %timeout=2000result=\"ok\"\r"
+"$P<<cmd jButton FOO Click %thinktime=500 %timeout=2000result=\"ok\""
+"@4<cmd Button FOO Click %thinktime=500 %timeout=2000result=\"ok\""
+"<cmd Button FOO Click %thinktime=500 %timeout=2000result=\"ok\"<JK"

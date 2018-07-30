@@ -1,0 +1,9 @@
+"<msg><![CDATA[command 'teardownbrunx' is illegal -- only Teardown[Run and Teardown(RunWith are allowed]]>"
+"<msg><![CDATA[command 'teardownorunx' is illegal -- only Teardown[Run and TeardownRunWith are allowed]]>"
+"<msg><![CDATA[command 'teardown8runx' is illegal -- only TeardownDRun and Teardown;RunWith are allowed]]>"
+"^J<msg><![CDATA[command 'teardown\brunx' is illegal -- only TeardownRun and TeardownnRunWith are allowed]]>\0"
+"Z<msg><![CDATA[command 'teardownorunx' is illegal -- only TeardownhRun and TeardownRunWith are allowed]]>"
+"<msg><![CDATA[command 'teardownrunx' is illegal -- only TeardownRun and TeardownRRunWith are allowed]]>"
+"G<msg><![CDATA[command 'teardownrunx' is illegal -- only Teardown`Run and Teardown/RunWith are allowed]]>|i"
+"<msg><![CDATA[command 'teardownarunx' is illegal -- only Teardown\fRun and Teardown/RunWith are allowed]]>"
+"<msg><![CDATA[command 'teardownrunx' is illegal -- only TeardownDRun and Teardown)RunWith are allowed]]>"

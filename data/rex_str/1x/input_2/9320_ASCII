@@ -1,0 +1,7 @@
+"<cmd Input firstName EnterText &quot;Joe Bob&quot;~[\b !result=\"ok\"l,g"
+"<cmd Input firstName EnterText &quot;Joe Bob&quot;result=\"ok\"2"
+"<cmd aDuInput firstName EnterText &quot;Joe Bob&quot;@result=\"ok\""
+"nN<cmd Input firstName EnterText &quot;Joe Bob&quot;result=\"ok\""
+"<cmd Input firstName EnterText &quot;Joe Bob&quot;\tresult=\"ok\"h"
+"<cmd \abInput firstName EnterText &quot;Joe Bob&quot;result=\"ok\"["
+"<cmd Input firstName EnterText &quot;Joe Bob&quot;oresult=\"ok\"\f"

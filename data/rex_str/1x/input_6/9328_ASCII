@@ -1,0 +1,9 @@
+"<cmd gVars * Define first=foo last=&quot;bar baz&quot;"
+"0(<cmd Vars * Define first=foo last=&quot;bar baz&quot;"
+"<cmd yw^AVars * Define first=foo last=&quot;bar baz&quot;B|Q"
+"`6<cmd Vars * Define first=foo last=&quot;bar baz&quot;"
+"W<cmd qVars * Define first=foo last=&quot;bar baz&quot;w"
+"<cmd LVars * Define first=foo last=&quot;bar baz&quot;8b"
+"<cmd yuVars * Define first=foo last=&quot;bar baz&quot;"
+"!f.<cmd Vars * Define first=foo last=&quot;bar baz&quot;N"
+"7NR{<cmd Vars * Define first=foo last=&quot;bar baz&quot;"

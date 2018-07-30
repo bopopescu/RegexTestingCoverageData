@@ -1,0 +1,6 @@
+"<msg><![CDATA[command 'button;click' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"b2<msg><![CDATA[command 'button=click' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>o"
+"<msg><![CDATA[command 'button[click' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"<msg><![CDATA[command 'buttonclick' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"<msg><![CDATA[command 'button>click' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"+<msg><![CDATA[command 'buttonclick' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>`"

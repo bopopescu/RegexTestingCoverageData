@@ -1,0 +1,5 @@
+"<cmdcomp=\"Vars\"#id=\"\"action=\"Define\"args=\"foo=123\"result=\"ok\""
+"<cmd?aucomp=\"Vars\"id=\"\"\"\"\"action=\"Define\"args=\"foo=123\"result=\"ok\"^"
+"J<cmdcomp=\"Vars\"id=\"\"action=\"Define\"args=\"foo=123\"result=\"ok\""
+"9^<cmd\v[comp=\"Vars\"c-id=\"\"maction=\"Define\"nargs=\"foo=123\".result=\"ok\""
+"`<cmdcomp=\"Vars\"id=\"\"action=\"Define\")args=\"foo=123\"jDresult=\"ok\"."

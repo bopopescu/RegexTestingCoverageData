@@ -1,0 +1,7 @@
+"Y<cmd Input firstName EnterText &quot;Joe Bob&quot;result=\"ok\""
+"B\b1<cmd Input firstName EnterText &quot;Joe Bob&quot;result=\"ok\""
+"<cmd \vInput firstName EnterText &quot;Joe Bob&quot;{\vresult=\"ok\""
+"+<cmd Input firstName EnterText &quot;Joe Bob&quot;8$result=\"ok\""
+"<cmd _Input firstName EnterText &quot;Joe Bob&quot;result=\"ok\""
+"Hn2\r<cmd Input firstName EnterText &quot;Joe Bob&quot;Tresult=\"ok\""
+"P<cmd Input firstName EnterText &quot;Joe Bob&quot;'(result=\"ok\"|!M"

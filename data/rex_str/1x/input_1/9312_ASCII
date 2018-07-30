@@ -1,0 +1,4 @@
+"<cmd Button FOO Click %thinktime=1234 %timeout=6543U_result=\"ok\""
+";<cmd AButton FOO Click %thinktime=1234 %timeout=6543u?result=\"ok\""
+"<cmd \trButton FOO Click %thinktime=1234 %timeout=6543\a&lresult=\"ok\""
+"<cmd 3G\"Button FOO Click %thinktime=1234 %timeout=6543result=\"ok\"63ce"

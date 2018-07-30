@@ -1,0 +1,4 @@
+"<cmd Button FOO Click %thinktime=1234 %timeout=6543\result=\"ok\""
+"vU<cmd .Button FOO Click %thinktime=1234 %timeout=65437result=\"ok\""
+"A<cmd DButton FOO Click %thinktime=1234 %timeout=6543result=\"ok\"{"
+"cg<cmd fButton FOO Click %thinktime=1234 %timeout=6543#result=\"ok\""

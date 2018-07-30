@@ -1,0 +1,6 @@
+"H<cmd Jcomp=\"Vars\" d5,action=\"Define\" "
+"J<cmd comp=\"Vars\" V\a^action=\"Define\" "
+"<cmd comp=\"Vars\" :\0~action=\"Define\" "
+"<cmd ;comp=\"Vars\" eaction=\"Define\" |\v"
+"pO<cmd comp=\"Vars\" action=\"Define\" I\vc"
+"<cmd tcomp=\"Vars\" action=\"Define\" ~"

@@ -1,0 +1,9 @@
+"<cmd Vars * Define first=foo last=&quot;bar baz&quot;eNI"
+"<<cmd ]CC*5iVars * Define first=foo last=&quot;bar baz&quot;#"
+"H\v\vd<cmd Vars * Define first=foo last=&quot;bar baz&quot;\0"
+"3#<cmd Vars * Define first=foo last=&quot;bar baz&quot;"
+"F<cmd Vars * Define first=foo last=&quot;bar baz&quot;"
+"P<cmd Vars * Define first=foo last=&quot;bar baz&quot;"
+"`<cmd ]hVars * Define first=foo last=&quot;bar baz&quot;\"
+"<cmd 0Vars * Define first=foo last=&quot;bar baz&quot;^("
+"A<cmd Vars * Define first=foo last=&quot;bar baz&quot;\r"

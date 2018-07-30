@@ -1,0 +1,7 @@
+"-j<cmd *action=\"EnterText\" raw=\"Input firstName EnterText Joe result=\"ok\""
+"Zy5Su<cmd \t&action=\"EnterText\" raw=\"Input firstName EnterText Joe 8result=\"ok\""
+"<cmd action=\"EnterText\" Wraw=\"Input firstName EnterText Joe result=\"ok\""
+"<cmd action=\"EnterText\" ;raw=\"Input firstName EnterText Joe result=\"ok\"C"
+"<cmd action=\"EnterText\" \vraw=\"Input firstName EnterText Joe Aresult=\"ok\""
+"<cmd oaction=\"EnterText\" raw=\"Input firstName EnterText Joe result=\"ok\""
+"*<cmd action=\"EnterText\" \vraw=\"Input firstName EnterText Joe result=\"ok\""

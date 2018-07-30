@@ -1,0 +1,9 @@
+"\e<cmd Input lastName EnterText Smith^Gresult=\"ok\"t"
+"<cmd Input lastName EnterText Smithresult=\"ok\"KW"
+"<cmd \bInput lastName EnterText Smithresult=\"ok\""
+"<cmd _nInput lastName EnterText Smithv\tAresult=\"ok\""
+"<cmd Input lastName EnterText Smith'result=\"ok\""
+"<cmd Input lastName EnterText Smith;result=\"ok\""
+"<cmd Input lastName EnterText Smithresult=\"ok\"9"
+"=M<cmd .Input lastName EnterText Smithresult=\"ok\""
+"<cmd Input lastName EnterText Smithresult=\"ok\""

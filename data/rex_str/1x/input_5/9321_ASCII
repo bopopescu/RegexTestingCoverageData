@@ -1,0 +1,8 @@
+"Y<cmd Input firstName EnterText Joe2result=\"ok\"x"
+"<cmd Input firstName EnterText Joeresult=\"ok\"*z4"
+"<cmd Input firstName EnterText Joeresult=\"ok\"]X"
+"<cmd Input firstName EnterText Joe!result=\"ok\""
+"<cmd Input firstName EnterText JoeIb1+result=\"ok\""
+"jq<cmd -\vInput firstName EnterText Joeresult=\"ok\""
+"\r<cmd Input firstName EnterText Joe\vresult=\"ok\"A"
+"<cmd .Input firstName EnterText Joeresult=\"ok\""

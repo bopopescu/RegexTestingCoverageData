@@ -1,0 +1,4 @@
+"\r<cmd JButton FOO Click %thinktime=1234 %timeout=6543^result=\"ok\"Xm,*"
+":%?@<cmd Button FOO Click %thinktime=1234 %timeout=6543result=\"ok\""
+"<cmd xButton FOO Click %thinktime=1234 %timeout=6543result=\"ok\""
+";<cmd Button FOO Click %thinktime=1234 %timeout=6543TMzresult=\"ok\"3"

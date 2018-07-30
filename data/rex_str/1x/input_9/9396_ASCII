@@ -1,0 +1,6 @@
+"<msg><![CDATA[command 'script5run' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"<msg><![CDATA[command 'scriptQrun' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"<msg><![CDATA[command 'script~run' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"<msg><![CDATA[command 'script[run' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>T"
+"!<msg><![CDATA[command 'script]run' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"
+"<msg><![CDATA[command 'scriptrun' is illegal -- only Test, Setup, Teardown, and Suite are allowed]]>"

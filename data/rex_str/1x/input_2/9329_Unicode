@@ -1,0 +1,4 @@
+"<cmd Vars * Define foo=123 bar=654 baz=778result=\"ok\""
+"\u1652<cmd \uBC71Vars * Define foo=123 bar=654 baz=778result=\"ok\""
+"\uD231<cmd Vars * Define foo=123 bar=654 baz=778result=\"ok\"\u0375"
+"\u3948\u9B8F<cmd Vars * Define foo=123 bar=654 baz=778\u166Fresult=\"ok\"\uD4D6\u6E61"

@@ -1,0 +1,4 @@
+"~<cmd Button FOO Click %thinktime=1234 %timeout=6543)result=\"ok\"%o"
+"<cmd Button FOO Click %thinktime=1234 %timeout=6543result=\"ok\"^e"
+"cl<cmd WButton FOO Click %thinktime=1234 %timeout=6543result=\"ok\"@"
+"<cmd \eButton FOO Click %thinktime=1234 %timeout=6543\f\ti!\0)result=\"ok\"w"
