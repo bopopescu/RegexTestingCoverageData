@@ -1,4 +1,4 @@
-# ISSTA2018
+# Regex Testing Coverage Data
 
 dir: data/select_reporeaper
 
