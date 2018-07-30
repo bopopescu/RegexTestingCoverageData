@@ -1,0 +1,10 @@
+"user\r will see\rcustom ^ text"
+"user\fwill\nsee custom\v\\rtext"
+"user\n\rwill see\tcustom\r text"
+"user \f\v\f\rwill\tsee custom \ttext"
+"user will see custom\t\ftext"
+"user will \t\f\f see custom\f \rtext"
+"user will\f see\r\rcustom  \f text"
+"user  will\v\rsee\n custom  text"
+"user \t will\nsee custom\v   text"
+"user\twill\nsee \rcustom\f\r\F \f text"

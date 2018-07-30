@@ -1,0 +1,10 @@
+"URL needs to be HTTP or HTTPS [ftp://ftpytestnet]"
+"URL needs to be HTTP or HTTPS [ftp://ftpbtest3net]"
+"URL needs to be HTTP or HTTPS [ftp://ftptest\0net]"
+"URL needs to be HTTP or HTTPS [ftp://ftpHtestnet]"
+"URL needs to be HTTP or HTTPS [ftp://ftpwtest\rnet]"
+"URL needs to be HTTP or HTTPS [ftp://ftpitest}net]"
+"URL needs to be HTTP or HTTPS [ftp://ftptest<net]"
+"URL needs to be HTTP or HTTPS [ftp://ftp?testbnet]"
+"URL needs to be HTTP or HTTPS [ftp://ftp#testnet]"
+"URL needs to be HTTP or HTTPS [ftp://ftp\ftestXnet]"
