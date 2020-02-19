@@ -1,4 +1,19 @@
 # Regex Testing Coverage Data
+file: data/stack_cov.csv
+> "stack_regex" represents 15,096 regular expressions from 1,225 projects;
+> "regex_index" refers to 13,632 syntactically unique regexes;
+> "page" and "row"  combined locates a repo listed in RepoReaper;
+> "type" shows what type of inputs used for calculating covered nodes,
+> edges, and edge pairs. If "type" is equal to 1, it means the coverage
+> data of this line is only for matching inputs; If equals to 2, it
+> means the coverage for failing inputs. And "type" is 0 means combining
+> all testing inputs.
+> "count" represents the number of testing inputs used for testing coverage.
+> "t_node" , "t_edge",  "t_epair"  represents the total nodes, edges,
+> and epairs of the regex's DFA
+> "c_node" , "c_edge" ,  "c_epair"  represents the covered nodes, edges,
+> and epairs in the regex's DFA
+
 
 dir: data/select_reporeaper
 
